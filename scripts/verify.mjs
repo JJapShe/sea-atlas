@@ -10,6 +10,8 @@ export const root = fileURLToPath(new URL("../", import.meta.url));
 const rootPath = await realpath(root);
 const text = (value) => typeof value === "string" && value.trim().length > 0;
 const https = (value) => { try { return new URL(value).protocol === "https:"; } catch { return false; } };
+const calendarDate = (value) => typeof value === "string" && /^\d{4}-\d{2}-\d{2}$/.test(value) && Number.isFinite(Date.parse(value)) && new Date(value).toISOString().slice(0, 10) === value;
+assert(calendarDate("2026-10-04") && !calendarDate("2026-02-31") && !calendarDate("unknown"), "Visual review date validation failed");
 
 export async function localFile(path) {
   assert(text(path) && !path.includes("\\") && !path.split("/").some((part) => !part || part === "." || part === ".."), `Invalid local path: ${path}`);
@@ -73,7 +75,7 @@ for (const animal of animals) {
         assert(Array.isArray(image.behaviorSources) && image.behaviorSources.length && image.behaviorSources.every((source) => text(source.title) && https(source.url)), `Invalid behavior sources: ${image.src}`);
       }
       assert(/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(image.generatedAt) && Number.isFinite(Date.parse(image.generatedAt)), `Invalid generation date: ${image.src}`);
-      assert.equal(image.checkedAt, "2026-10-03", `Invalid visual check date: ${image.src}`);
+      assert(calendarDate(image.checkedAt), `Invalid visual check date: ${image.src}`);
       assert(Array.isArray(image.generationPrompts) && image.generationPrompts.length && image.generationPrompts.every(text), `Missing original/edit prompts: ${image.src}`);
       assert(image.src.endsWith(".png"), `Illustration must be PNG: ${image.src}`);
     } else {
