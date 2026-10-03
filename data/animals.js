@@ -7,7 +7,9 @@ export const groups = [
   "자포동물",
   "극피동물",
   "파충류",
-  "빗해파리류"
+  "빗해파리류",
+  "조류",
+  "환형동물"
 ];
 
 export const habitats = [
@@ -178,6 +180,36 @@ export const animals = [
         "width": 1536,
         "height": 1024,
         "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+      },
+      {
+        "id": "horseshoe-crab",
+        "src": "assets/images/horseshoe-crab-chatgpt-shore-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "투구게 · 밤의 산란 해변에 오르기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "말굽형 앞등갑, 뒤쪽의 작은 가시 있는 체절, 근측 측면눈과 한 개의 긴 telson을 끝까지 확인. 배면 다리와 책아가미는 등갑에 가려져 있다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Atlantic horseshoe crab Limulus polyphemus on wet sandy spawning beach at NIGHT beside gentle high-tide waterline under a small full moon. Whole top-side oblique view: large broad horseshoe-shaped olive brown prosoma with natural small lateral eyes, smaller spined opisthosoma behind it, ONE long straight tapered telson fully visible with margin. Walking legs remain mostly naturally covered by shell. Crab faces toward the dry sand and tail trails toward water. NO male attached, NO second crab, NO visible eggs, no translucent sand cutaway, no claimed egg-laying or sex. Moonlight with gentle illustrative fill light, no day sky."
+        ],
+        "generatedAt": "2026-10-03T12:29:23.341Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "59b8d769a23470b026d822b7d5975082163504644ef01244798cc12347174112",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "보름 고조위 산란 해변 맥락의 단독개체 재구성. 알·짝/성별이 보이지 않아 산란완료/암컷으로 단정하지 않음. 밤 달빛과 보조조명은 삽화 연출.",
+        "behaviorSources": [
+          {
+            "title": "US Fish and Wildlife Service — Atlantic horseshoe crab",
+            "url": "https://www.fws.gov/species/atlantic-horseshoe-crab-limulus-polyphemus"
+          }
+        ]
       }
     ],
     "featuredText": "말굽 갑각을 두른 해안의 절지동물"
@@ -912,6 +944,37 @@ export const animals = [
         "width": 1536,
         "height": 1024,
         "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+      },
+      {
+        "id": "green-sea-turtle",
+        "src": "assets/images/green-sea-turtle-chatgpt-juvenile-ecology-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "외해의 떠다니는 모자반 주변을 유영하는 어린 바다거북의 교육 재구성.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "앞긴핀2·뒤짧고넓은핀2·별도짧은꼬리·둥근머리와올리브갈색등갑 확인. v1길고좁은뒤핀문제 교정됨. 머리전전두비늘·늑갑판전수는경계/투영미감수.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. A young oceanic-stage green sea turtle Chelonia mydas swimming naturally near a loose mat of FLOATING Sargassum in warm open-ocean surface water. Full turtle in a new oblique overhead-three-quarter view with exactly four separate paddle-like flippers and short tail inside margins. Rounded modest head, one pair of prefrontal scales when readable, four lateral costal scutes on each side where perspective allows, olive-brown heart-shaped shell, no hawksbill hooked beak or leatherback ridges. Natural growth proportions, no infant cartoon eyes. Floating branched golden-brown Sargassum with tiny air bladders, never rooted seabed kelp; no reef or seafloor. Mouth closed, not eating a giant plant leaf, no plastic. Small natural drift-community particles, gentle surface light. Do not claim precise age or a completely herbivorous diet.",
+          "Edit this original green sea turtle Chelonia mydas floating-Sargassum illustration. Correct only the turtle appendage proportions while preserving the realistic shell/head, four anatomically connected flippers, short tail and offshore floating Sargassum background. TWO ANTERIOR flippers at the shoulders beside the neck remain long narrow wing-shaped swimming flippers (upper-center and right). TWO POSTERIOR flippers at the back of the shell must BOTH be clearly short small BROAD rounded steering paddles, each only about ONE THIRD the length of an anterior flipper. CRITICAL: the long narrow appendage emerging from the lower-left rear corner of the shell is a HIND flipper and must become a SHORT BROAD rounded hind paddle, not a second long front wing. Make the far-side rear flipper (leftmost near tail) likewise a short small broad paddle. No extra limbs, keep all four distinct, short tail between rear flippers, complete tips with margin. Natural young oceanic-stage turtle, not a claim of exact age. Landscape3:2 painterly educational realism ages5–12, no text, cartoon face, blood or humans. No pixel cropping, show full animal."
+        ],
+        "generatedAt": "2026-10-03T12:39:35.786Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "ee3eedaca0f607caa8d15714c95ac0b31edb30d7346d93fdcf102692d4459b76",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "외해모자반 drift-community 재구성. 정확한어린연령과실제섭식·순수초식 미인증.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Fisheries",
+            "url": "https://www.fisheries.noaa.gov/species/green-turtle"
+          }
+        ]
       }
     ]
   },
@@ -2325,6 +2388,36 @@ export const animals = [
             "url": "https://www.fisheries.noaa.gov/s3/dam-migration/manta_and_devil_ray_id_fishery_obsever_guide.pdf"
           }
         ]
+      },
+      {
+        "id": "giant-manta-ray",
+        "src": "assets/images/giant-manta-ray-chatgpt-cleaning-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대왕쥐가오리 · 청소 물고기 곁에서",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "두큰가슴날개끝·두두부엽·앞입·근측옆눈·등핀1·가늘고길며분지없는꼬리1확인. 작은줄무늬물고기2.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE giant oceanic manta ray Mobula birostris, NOT reef manta M. alfredi. Very broad diamond disc with TWO complete triangular pectoral wings, forward-facing terminal mouth and TWO rolled cephalic lobes beside it, small eyes laterally, one small dorsal fin at tail base, ONE thin long unbranched tail fully framed. Dark charcoal dorsal surface with angular pale shoulder patches, pale belly with restrained natural dark speckling. No stingray barb, teeth, horns or missing wing. Low front-side three-quarter view slightly below animal hovering gently horizontally above low coral-rock seamount cleaning station. TWO TINY blue-streaked cleaner wrasse Labroides dimidiatus (slender tapered small fishes, blue-white body with uninterrupted black longitudinal stripe, no sucker disc, no remoras) gently inspect near pectoral underside and gill-area edge. Fish mouth near skin, no wounds or magnified parasites, parasite removal itself not visible. Complete ray and fishes with clear scale contrast and margins. Natural diffuse shallow-seamount daylight; no divers or ocean surface. Calm mutualistic cleaning reconstruction."
+        ],
+        "generatedAt": "2026-10-03T12:28:19.947Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "a3e8b6374829ff36565feeb559e232e3c54d6e18c1cf72f363a9be0ef7a20b8c",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "Mobula birostris와 Labroides dimidiatus를 조사한 Murie et al.2020 연구에 근거한 청소소 재구성. 작은 물고기들이 아가미/가슴핀 배면 주변에 접근한다. 실제 기생충 제거·입 접촉 성공·치유·구체 현장을 정지 삽화로 인증하지 않는다. Mobula alfredi 연구를 이 장면의 종별 행동 근거로 혼합하지 않았다.",
+        "behaviorSources": [
+          {
+            "title": "Murie et al. 2020 — Current strength, temperature, and bodyscape modulate cleaning services for giant manta rays",
+            "url": "https://doi.org/10.1007/s00227-020-3674-2"
+          }
+        ]
       }
     ]
   },
@@ -3295,5 +3388,1407 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "blue-whale",
+    "name": "흰긴수염고래",
+    "scientificName": "Balaenoptera musculus",
+    "group": "포유류",
+    "habitatIds": [
+      "pelagic",
+      "polar"
+    ],
+    "summary": "아주 큰 몸으로 작은 크릴을 먹는 수염고래예요. 입 안의 수염으로 물속 먹이를 걸러요.",
+    "identity": [
+      "얼룩진 푸른 회색 몸은 길고 날씬해요.",
+      "머리는 넓고 납작하며, 작은 등지느러미는 몸 뒤쪽에 있어요.",
+      "목 아래 주름과 수평으로 펼쳐진 두 꼬리 엽을 보세요."
+    ],
+    "ecology": "혼자나 둘이 유영하며 작은 무리로 보이기도 해요. 많은 개체가 여름에 차가운 바다에서 먹이를 찾지만, 모든 개체가 같은 경로로 이동하지는 않아요.",
+    "diet": "주로 크릴. 입을 벌리면 목주름이 펼쳐지고, 물을 내보낼 때 수염에 먹이가 남아요. 일부는 작은 물고기나 요각류도 먹어요.",
+    "range": "NOAA 안내는 북극해를 제외한 세계 바다를 제시해요. 이번 그림은 남극 바다를 배경으로 한 재구성이며 아종을 그림으로 동정하지 않아요.",
+    "size": "NOAA의 지역별 최대 길이 안내는 북대서양·북태평양 약 90피트(27m), 남극 약 110피트(34m)예요. 모두의 보통 크기를 뜻하지 않아요.",
+    "depth": "수면에서 호흡하고 물속 먹이 무리를 따라 잠수해요. 햇빛 구간 표시는 이번 상층 먹이·수면 장면을 뜻하며, 종의 최대 잠수 수심은 여기서 확정하지 않아요.",
+    "sources": [
+      {
+        "title": "NOAA Fisheries — Blue whale",
+        "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+      },
+      {
+        "title": "Norwegian Polar Institute — Blue whale",
+        "url": "https://npolar.no/en/species/blue-whale/"
+      }
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "aliases": [
+      "blue whale",
+      "대왕고래"
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "gallery": [
+      {
+        "id": "blue-whale",
+        "src": "assets/images/blue-whale-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "얼룩진 푸른 회색 몸과 멀리 뒤쪽 작은 등지느러미를 가진 흰긴수염고래.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "길고 얼룩진 청회색몸·넓은 주둥이·목주름·가슴핀2·낮은 뒤등핀·수평꼬리2엽 전부 프레임 안 확인. 작은 눈과닫힌입. 수염/숨구멍 내부와 주름전수 불명.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. An anatomically plausible blue whale Balaenoptera musculus: exceptionally long slender mottled blue-gray body, broad flat U-shaped rostrum, small eye on the visible side, low small dorsal fin far back, exactly two narrow pectoral flippers, ventral longitudinal throat pleats, horizontal tail flukes with two broad lobes and a central notch. No teeth, no sperm-whale square head, no humpback bumps, no huge shark-like dorsal fin. Show a single whale swimming slowly leftward in Antarctic open ocean, slightly below and to the front of a side view so both pectoral flippers and both horizontal tail lobes are readable. Mouth closed, unexpanded throat grooves. Clear cool upper-ocean water, no other animals, understated distant ice edge. Whale occupies about 70 percent of width."
+        ],
+        "generatedAt": "2026-10-03T12:15:19.973Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "862f643a2198484c43180a33037cc9ac99cd5f5b7e45355fe8041a3431188077",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "blue-whale",
+        "src": "assets/images/blue-whale-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "크릴 무리를 향해 입을 벌리고 목주름을 펼치는 여과섭식의 교육 재구성.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "긴몸·가슴핀2·작은 뒤등핀·수평2엽꼬리·펼쳐진목주름·위턱의 수염 fringe 읽힘. 이빨 없는 표현, 수염판/주름 전수 미확인.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. An anatomically plausible blue whale Balaenoptera musculus: exceptionally long slender mottled blue-gray body, broad flat U-shaped rostrum, small eye on the visible side, low small dorsal fin far back, exactly two narrow pectoral flippers, ventral longitudinal throat pleats, horizontal tail flukes with two broad lobes and a central notch. No teeth, no sperm-whale square head, no humpback bumps, no huge shark-like dorsal fin. Single whole whale in a side-three-quarter view performing a modest open-mouth lunge toward a dense small krill cloud in the upper Southern Ocean. Lower jaw open and throat pouch expanded naturally with stretched parallel ventral pleats; dark baleen fringe may be partly visible along upper jaw, NEVER teeth. Whale's body does not become a spherical balloon. Krill must be tiny suspended specks at the whale's scale, no oversized shrimp. Show feeding approach rather than bloody prey or proof of capture. Both tail lobes inside frame, natural partial far-side flipper occlusion allowed. Soft upper-ocean light."
+        ],
+        "generatedAt": "2026-10-03T12:16:19.009Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "dbf30d1bac1bdb68c95ea1720a9066c285d0a5190fc1ca2d42b82dac1e7f6cc2",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "작은 크릴 무리 향해 입을 벌리고 목주머니를 펼치는 교육 재구성. 여과나 섭식 성공의 실제 관측 아님.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Fisheries",
+            "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+          }
+        ]
+      },
+      {
+        "id": "blue-whale",
+        "src": "assets/images/blue-whale-chatgpt-ecology-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "남극 바다 수면 가까이 유영하는 모습. 정확한 아종이나 호흡 순간은 그림으로 동정하지 않음.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "넓은앞머리·목주름·가슴핀2(원측일부수면투영)·낮은 뒤등핀·두꼬리끝 모두 프레임 안 읽힘. 숨구멍 주변 분출 연출 있으나 구멍2개 세부 미확인.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. An anatomically plausible blue whale Balaenoptera musculus: exceptionally long slender mottled blue-gray body, broad flat U-shaped rostrum, small eye on the visible side, low small dorsal fin far back, exactly two narrow pectoral flippers, ventral longitudinal throat pleats, horizontal tail flukes with two broad lobes and a central notch. No teeth, no sperm-whale square head, no humpback bumps, no huge shark-like dorsal fin. Different composition: gently oblique overhead view of a single whole blue whale near the Antarctic sea surface, mouth closed, one faint natural exhalation at the paired blowhole region, calm ocean ripples, distant ice floes much smaller than the whale. Both pectoral flippers are submerged and visible, horizontal tail with both lobes. Do not show leaping, vertical fish tail or a whale on the ice. No other animals.",
+          "Edit this original educational blue whale illustration into a NEW landscape 3:2 image. Preserve the plausible Balaenoptera musculus anatomy, mottled gray-blue long body, small far-back dorsal fin, two pectoral flippers and horizontal two-lobed tail, closed mouth, Antarctic ocean surface scene and refined painterly realism. Pull the camera BACK enough that the WHOLE whale including BOTH complete tail-lobe tips and snout are inside the canvas with at least 8 percent water margin on all sides. The rightmost tail tip is clipped in the source: correct the framing by generating natural surrounding ocean and whole tail, not by amputating or shortening the tail. No text, collage, border, gore, humans or anthropomorphic face. Keep 3:2 landscape. Educational reconstruction."
+        ],
+        "generatedAt": "2026-10-03T12:18:20.775Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "a025bba9d92b97127d45a180e01233bd2a2478c342140e165a11639e74963bb4",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "수면 유영·호흡을 표현한 재구성. 숨구멍 세부 두 개와 실제 호흡 사건 인증 아님.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Fisheries",
+            "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+          }
+        ]
+      },
+      {
+        "id": "blue-whale-antarctic-krill",
+        "src": "assets/images/blue-whale-antarctic-krill-chatgpt-interaction-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "거대한 흰긴수염고래와 아주 작은 남극크릴의 먹이 관계를 나타낸 교육 재구성.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "긴 얼룩몸·가슴핀2·작은 뒤등핀·수평2엽꼬리·목주름/위턱수염 읽힘. 크릴은작은점 무리로 축소. 개별미세형질·절대축척 인증 불가.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. An anatomically plausible blue whale Balaenoptera musculus: exceptionally long slender mottled blue-gray body, broad flat U-shaped rostrum, small eye on the visible side, low small dorsal fin far back, exactly two narrow pectoral flippers, ventral longitudinal throat pleats, horizontal tail flukes with two broad lobes and a central notch. No teeth, no sperm-whale square head, no humpback bumps, no huge shark-like dorsal fin. One whole blue whale gently approaching a dense tiny Antarctic krill cloud in the upper Southern Ocean, mouth slightly open and throat just beginning to expand. Broad diagonal composition from below and slightly in front, entire tail visible and both pectoral flippers separated. Krill Euphausia superba at realistic relative scale: whale tens of meters, krill at most about 6cm; show fine reddish specks, NEVER dozens of giant shrimp comparable with whale flippers. No macro inset or graphic magnification. Educational feeding relationship, no blood, wounds, swallowed prey or proof of capture. Background muted Antarctic ice edge.",
+          "Edit this original blue-whale-and-Antarctic-krill interaction illustration, preserving the whole plausible blue whale Balaenoptera musculus, both pectoral flippers, small far-back dorsal fin, horizontal tail and baleen without teeth. CRITICAL CHANGE: remove ALL large clearly outlined foreground shrimp. Render EVERY krill in this picture only as tiny reddish suspended pinpoints, about 1–3 pixels long at a 1536px-wide canvas, in a dense cloud ahead of the whale. Keep all krill at approximately the whale's distance: a whale about30meters versus Euphausia superba maximumabout6cm. No foreground macro shrimp, no inset, no magnification, no giant crustaceans. Leave ample margin around all whale tips. Antarctic upper-ocean scene with distant ice, refined painterly educational realism ages5–12, landscape3:2. Slightly open mouth, no blood/gore/text or proof of capture."
+        ],
+        "generatedAt": "2026-10-03T12:32:34.847Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "95b757ce221106990373cbeff8d97c4cefcf4f913be27bbe6d06c5a195a2e72d",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "interaction",
+        "behaviorCheck": "흰긴수염고래가 작은 남극크릴에 접근하는 먹이관계 재구성. 실제 여과/섭식 성공 및 크릴 세부종 미인증.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Fisheries",
+            "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+          },
+          {
+            "title": "Australian Antarctic Program – Antarctic krill",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+          }
+        ],
+        "interactionIds": [
+          "blue-whale",
+          "antarctic-krill"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adelie-penguin",
+    "name": "아델리펭귄",
+    "scientificName": "Pygoscelis adeliae",
+    "group": "조류",
+    "habitatIds": [
+      "polar",
+      "coast",
+      "pelagic"
+    ],
+    "summary": "눈 둘레의 하얀 고리가 특징인 남극의 펭귄이에요. 날개를 지느러미처럼 써서 물속을 헤엄쳐요.",
+    "identity": [
+      "검은 머리와 등, 하얀 배를 보세요.",
+      "눈 둘레에 가느다란 하얀 고리가 있어요.",
+      "두 납작한 날개와 물갈퀴 발, 짧은 꼬리를 가져요."
+    ],
+    "ecology": "남극 해안과 작은 섬의 드러난 돌바닥에 모여 번식해요. 조약돌 둥지를 만들고 부모가 번갈아 알을 품어요. 겨울에는 바다와 해빙 주변에서 지내요.",
+    "diet": "먹이를 찾는 장소에 따라 달라요. 호주 남극기관은 연안에서 물고기·옆새우류·Euphausia crystallorophias, 외해에서 주로 남극크릴 Euphausia superba를 먹는다고 설명해요. 먹이 그림은 외해를 재구성했어요.",
+    "range": "남극 대륙의 해안과 인근 작은 섬, 주변 남극 바다와 해빙.",
+    "size": "호주 남극기관의 성체 안내: 서 있을 때 높이 약 70cm, 무게 3–6kg. 누운 몸길이나 새끼 크기와 다른 기준이에요.",
+    "depth": "호주 남극기관은 보통 수면 아래 70m 이내에서 먹이를 찾으며, 일부 개체는 175m까지 잠수한다고 안내해요. 이 수치를 종의 모든 잠수 기록이나 한계로 단정하지 않아요.",
+    "sources": [
+      {
+        "title": "Australian Antarctic Program — Adélie penguin",
+        "url": "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/"
+      }
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "aliases": [
+      "Adélie penguin",
+      "Adelie penguin"
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "gallery": [
+      {
+        "id": "adelie-penguin",
+        "src": "assets/images/adelie-penguin-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "검은 머리와 흰 눈테가 읽히는 아델리펭귄의 전신 모습.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "흰눈테·검은 머리/등과 흰배·날개2·발2·몸뒤짧은깃꼬리 확인. 원측눈은가림, 발가락/깃털전수 미감수.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. Adélie penguin Pygoscelis adeliae with black head and back, white belly, narrow complete white eye ring around each naturally visible dark eye, short dark beak with feathered base, two flipper wings, two pinkish webbed feet, short stiff tail. No yellow patches, no gentoo white head stripe, no chinstrap line. A single adult-form Adélie stands on exposed dark Antarctic coastal rock, full body in three-quarter view. Both wings slightly away from body, both feet separate on rock, tail visible behind. Distant snow and sea, no nest or other penguins. Moderate realistic proportions, no smiling expression."
+        ],
+        "generatedAt": "2026-10-03T12:19:31.119Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "30877e854734c8ddaa0d6bd7f635491fb745c643fa51674ba2cf12179c4d2bf6",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "adelie-penguin",
+        "src": "assets/images/adelie-penguin-chatgpt-feeding-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "외해에서 작은 남극크릴에 접근하는 먹이 활동. 실제 포획 성공을 뜻하지 않음.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "흰눈테·흑백몸·날개2·분리된발2·별도짧은꼬리 확인. 크릴은 수cm를 떠올리게 하는 작은몸이며 미세종진단/절대축척 불명.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. Adélie penguin Pygoscelis adeliae with black head and back, white belly, narrow complete white eye ring around each naturally visible dark eye, short dark beak with feathered base, two flipper wings, two pinkish webbed feet, short stiff tail. No yellow patches, no gentoo white head stripe, no chinstrap line. A single Adélie swimming horizontally underwater in clear Antarctic upper-ocean water toward a loose school of tiny natural Antarctic krill. Wings spread in a swimming stroke, webbed feet trailing separately, short tail clear. Slightly open short beak but no prey inside and no contact. Krill only a few centimeters compared with a roughly 70cm penguin. Left-facing side-three-quarter angle, no giant shrimp, no blood.",
+          "Edit this original Adélie penguin feeding illustration. Keep the whole Pygoscelis adeliae, narrow white eye ring, black head/back and white belly, exactly two separate flipper wings and two separate webbed feet plus short tail, and tiny Euphausia superba Antarctic krill. CHANGE THE BACKGROUND to Antarctic OFFSHORE OPEN OCEAN: no seafloor, no rocks, no coast, no seabed, no coral and no grounded ice. Only deep blue water below and distant rippled water surface above; clear gently lit upper ocean. Reduce foreground krill size moderately so each is a few centimeters versus roughly70cm penguin. Penguin approaches krill with slightly open beak, no contact or prey inside, no proof of capture. Keep whole bird inside with generous margin, landscape3:2 refined educational painterly realism ages5–12, no text, humans, blood, horror or cartoon face."
+        ],
+        "generatedAt": "2026-10-03T12:23:12.419Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "28ba337d234877452c9a85d69b90440a67861420bb4bacbf224335d74ff5cf42",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "해저 없는 외해의 작은 남극크릴 접근 장면으로 교정. E.superba 외해 식단 기관 근거에 따른 재구성, 포획 성공 아님.",
+        "behaviorSources": [
+          {
+            "title": "Australian Antarctic Program",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/"
+          }
+        ]
+      },
+      {
+        "id": "adelie-penguin",
+        "src": "assets/images/adelie-penguin-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "아델리펭귄 · 조약돌 둥지에 웅크린 모습",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "전경웅크림 개체의 흰눈테·근측날개·짧은꼬리 보임; 원측날개/발은 몸과돌에가림. 서있는개체는 두날개/두발 읽힘. 배경개체전수검사 아님.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. Adélie penguin Pygoscelis adeliae with black head and back, white belly, narrow complete white eye ring around each naturally visible dark eye, short dark beak with feathered base, two flipper wings, two pinkish webbed feet, short stiff tail. No yellow patches, no gentoo white head stripe, no chinstrap line. A different composition on exposed Antarctic coastal rock: one foreground adult-form Adélie crouches over a small pebble nest, intact eggs concealed by its abdomen rather than displayed; a second Adélie stands nearby naturally. Broad colony context with a few smaller distant birds. Foreground eye ring and two natural wings readable, crouched feet may be naturally occluded. Stones on dry rocky ground, never a nest floating on ice or underwater. Calm summer light."
+        ],
+        "generatedAt": "2026-10-03T12:24:25.975Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "573f69d06868c8faa88f8813be4da3e6c7d252d09bffc9f31ee4300e7025a560",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "마른 자갈 바닥의 둥지에 머무는 모습은 기관 번식 생태에 따른 교육 재구성이다. 알은 몸과 자갈에 가려져 확인 불가이며, 성별·짝관계·알 품기 성공을 그림으로 확정하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "Australian Antarctic Program",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/"
+          }
+        ]
+      },
+      {
+        "id": "adelie-penguin-antarctic-krill",
+        "src": "assets/images/adelie-penguin-antarctic-krill-chatgpt-interaction-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "아델리펭귄과 남극크릴 · 외해 먹이 접근",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "흰 눈테·검은 등·흰 배, 두 분리된 날개와 뒤로 뻗은 두 발, 별도의 짧은 꼬리를 확인. 축소된 작은 크릴형 개체들은 투명 분홍 마디 몸·눈·더듬이·꼬리팬을 갖추며 부리와 분리돼 있다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Adélie penguin Pygoscelis adeliae swimming horizontally left to right in Antarctic OFFSHORE upper open water with a loose small swarm of Antarctic krill Euphausia superba ahead, clear water background without seabed or coastal colony. Penguin natural black head/back and white belly, a thin distinct WHITE RING around each natural eye, short mostly feather-covered dark beak, TWO flipper wings, TWO small trailing webbed feet, ONE short stiff pointed tail distinct from feet. Side-oblique view lets near flipper show fully and far flipper emerge separately beneath far body edge; both feet separate behind body. Whole penguin within margin. Krill naturally tiny 2–6cm compared with about70cm penguin; translucent pink slender segmented shrimp-like bodies with two black stalked eyes, fine antennae, small thoracic basket legs and a small tail fan. No gigantic lobster claws. Penguin beak slightly ajar toward but not touching swarm. No bitten animal, no blood, no bubbles, no confirmed capture. This explicitly reconstructs offshore E. superba feeding approach, not coastal E. crystallorophias feeding.",
+          "Edit this original Sea Atlas illustration while preserving the penguin's existing correct anatomy, the entire whole body, TWO flippers, TWO separate trailing webbed feet, ONE short pointed tail, white eye ring, natural beak and calm painterly natural-history style. Preserve landscape 3:2, upper OFFSHORE Antarctic open water with no seabed or coastal colony. Correct ONLY the krill SCALE: every Euphausia superba krill body from rostrum to tail tip (excluding fine antennae) should be around ONE FIFTEENTH to ONE TWENTIETH of the penguin's nose-to-tail length, NEVER more than ONE TWELFTH. Make all current foreground krill at least 50 percent smaller in body length; NO magnified close foreground specimens. Keep them a loose subtle swarm ahead of the penguin at the SAME viewing distance, several with tiny translucent pink segmented bodies, paired natural black eyes, fine antennae and small basket-like thoracic legs/tail fan. No giant prawns or lobster claws. The penguin is about70cm long and krill are 2–6cm, no scale labels. Penguin approaches separated swarm, no contact or capture success. Keep all penguin parts clear with generous frame margins; do not crop left feet/tail. No text, blood, wounds, bubbles, neon, arrows or anthropomorphism."
+        ],
+        "generatedAt": "2026-10-03T12:35:53.287Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "ccc99a5bcc44fe9dc82203fbb63ce1cf40086a8bbde1546bd88af4edfe1cf66b",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "interaction",
+        "behaviorCheck": "호주 남극기관 외해 E.superba 식단에 맞춘 열린 상층물 접근 재구성. 연안 E.crystallorophias와 구분, 부리/먹이는 떨어져 실제포획·섭식성공 불명.",
+        "behaviorSources": [
+          {
+            "title": "Australian Antarctic Program — Adélie penguin, diet and feeding",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/"
+          },
+          {
+            "title": "Australian Antarctic Program — Krill",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+          }
+        ],
+        "interactionIds": [
+          "adelie-penguin",
+          "antarctic-krill"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "antarctic-krill",
+    "name": "남극크릴",
+    "scientificName": "Euphausia superba",
+    "group": "절지동물",
+    "habitatIds": [
+      "polar",
+      "pelagic"
+    ],
+    "summary": "투명한 몸을 가진 작은 갑각류예요. 작은 조류를 먹고 고래·펭귄을 비롯한 여러 남극 동물의 먹이가 돼요.",
+    "identity": [
+      "투명한 몸에 붉은 색소 점과 큰 검은 눈이 보여요.",
+      "긴 더듬이와 마디진 배, 꼬리 부채를 보세요.",
+      "미세조류를 먹으면 몸속 소화기관이 녹색으로 보일 수 있어요."
+    ],
+    "ecology": "남극 바다에서 무리를 이루어요. 밤에 수면 가까이, 낮에 더 아래에서 먹이를 찾는 경우가 있어요. 어린 단계에는 해빙 아래 조류도 중요한 먹이가 돼요.",
+    "diet": "주로 식물플랑크톤. 가슴의 섬세한 부속지를 먹이 바구니처럼 써요. 계절과 장소에 따라 해빙 조류, 가라앉은 유기물이나 작은 동물도 먹어요.",
+    "range": "남극수렴대 남쪽의 남극 바다. 이 지역의 여러 크릴 종 가운데 하나이며, 모든 크릴이 Euphausia superba는 아니에요.",
+    "size": "호주 남극기관은 성체 길이 약 6cm, BAS는 최대 약 6cm를 안내해요. 몸길이이며 더듬이를 합친 길이 기준은 안내에서 따로 명시하지 않아요.",
+    "depth": "상층 바다에 많이 분포해요. BAS의 2008년 연구 소개는 남극반도 주변에서 수심 약 3000m까지 해저 가까이 먹는 관측도 설명해요. 탐사 전체의 500–3500m 범위를 이 종의 일상 서식 범위로 바꾸지 않아요.",
+    "sources": [
+      {
+        "title": "Australian Antarctic Program — Antarctic krill",
+        "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+      },
+      {
+        "title": "British Antarctic Survey — Krill discovered living in the Antarctic abyss (2008)",
+        "url": "https://www.bas.ac.uk/news/krill-discovered-living-in-the-antarctic-abyss/"
+      },
+      {
+        "title": "Australian Antarctic Program — Seabed-feeding krill (2011)",
+        "url": "https://www.antarctica.gov.au/news/2011/bottoms-up-for-antarctic-krill/"
+      }
+    ],
+    "depthZoneIds": [
+      "sunlight",
+      "twilight",
+      "midnight"
+    ],
+    "aliases": [
+      "Antarctic krill"
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "gallery": [
+      {
+        "id": "antarctic-krill",
+        "src": "assets/images/antarctic-krill-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "큰 검은 눈과 붉은 점, 투명한 몸을 가진 남극크릴의 확대 삽화.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "투명붉은점몸·검은눈자루2·더듬이·마디배·가슴 부속지와 배유영지·꼬리팬 확인. 미세다리기부/촉각분기·아가미전수 겹침미감수.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. Antarctic krill Euphausia superba, a small approximately 6-centimeter shrimp-like crustacean, translucent slender segmented body with restrained red pigment speckles, a faint green digestive tract, two large dark stalked eyes, slender antennae, compact fine thoracic appendages underneath, small abdominal swimmerets and a natural fan-shaped tail. No lobster claws, no mantis-shrimp raptorial arms, no huge monster eyes, no fish fins. Use plausible overlap of fine appendages, not arbitrary isolated limb counts. Scientific macro view of a single whole krill against soft deep blue Antarctic upper-ocean water. Left-facing side-three-quarter view, both eyes readable and delicate antennae not cropped, several compact thoracic appendages and abdominal swimmerets naturally overlapping. Whole tail fan. No magnification label, no other animal. Fine transparent anatomy without artificial glowing dots."
+        ],
+        "generatedAt": "2026-10-03T12:25:35.477Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "10c22a22f95b2ad0d390fabea7f2058c08c0609e3900e93146693bb733ce65c7",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "antarctic-krill",
+        "src": "assets/images/antarctic-krill-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "가슴의 섬세한 부속지로 작은 식물플랑크톤을 모으는 먹이 바구니의 재구성.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "검은눈2·더듬이·투명 붉은점/녹색소화부·가슴아래모인바구니부속지·뒤배유영지/꼬리팬 읽힘. 다리쌍/기부·아가미전수 인증 불가.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. Antarctic krill Euphausia superba, a small approximately 6-centimeter shrimp-like crustacean, translucent slender segmented body with restrained red pigment speckles, a faint green digestive tract, two large dark stalked eyes, slender antennae, compact fine thoracic appendages underneath, small abdominal swimmerets and a natural fan-shaped tail. No lobster claws, no mantis-shrimp raptorial arms, no huge monster eyes, no fish fins. Use plausible overlap of fine appendages, not arbitrary isolated limb counts. Macro side view of a single whole Antarctic krill suspension-feeding in upper-ocean water. Fine thoracic feeding appendages bend together into a compact basket under its head and thorax, surrounded by very subtle microscopic phytoplankton flecks. Food flecks extremely small, not giant leaves or peas, not objects visibly swallowed. Natural abdominal swimmerets remain distinct behind the compact feeding basket. No huge claw or net. Dark blue-green water and soft scientifically neutral lighting."
+        ],
+        "generatedAt": "2026-10-03T12:27:26.131Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "47e95b8c01d800d70ca0fb51ec6f0b5ba39d97be4975045fbf4d2777c550bb9e",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "가슴부속지의 suspension-feeding basket 교육재구성. 미세 플랑크톤 입자를 표현하며 실제 포집/삼킴 성공은 확인하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "British Antarctic Survey",
+            "url": "https://www.bas.ac.uk/news/krill-discovered-living-in-the-antarctic-abyss/"
+          },
+          {
+            "title": "Australian Antarctic Program – Antarctic krill",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+          }
+        ]
+      },
+      {
+        "id": "antarctic-krill",
+        "src": "assets/images/antarctic-krill-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "해빙 아래 가까이 모여 있는 크릴 무리. 정확한 연령이나 모두의 섭식은 확인하지 않음.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "전경눈2·더듬이·투명붉은점몸·가슴/배부속지·전체꼬리팬 읽힘. 배경작은개체 형태전수검사 아님, 아가미/촉각기부 미감수.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. Antarctic krill Euphausia superba, a small approximately 6-centimeter shrimp-like crustacean, translucent slender segmented body with restrained red pigment speckles, a faint green digestive tract, two large dark stalked eyes, slender antennae, compact fine thoracic appendages underneath, small abdominal swimmerets and a natural fan-shaped tail. No lobster claws, no mantis-shrimp raptorial arms, no huge monster eyes, no fish fins. Use plausible overlap of fine appendages, not arbitrary isolated limb counts. A different oblique underwater view of a small swarm of Antarctic krill just under Antarctic sea ice. One foreground krill in side view with complete antennae and tail; many much smaller krill recede naturally at similar real body sizes. Upper ice underside lightly tinted olive-brown by sea-ice algae, dim diffuse light through thin ice, no direct sunbeams or giant kelp. No glowing bioluminescent decoration. Show open-water swarm near ice, not a claim of exact life stage."
+        ],
+        "generatedAt": "2026-10-03T12:28:58.851Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "7e98657b4ceb75bd39c56a25a19f68edf59914fcdf668f72214ad047e60d46d4",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "해빙 아래 무리와 해빙조류 배경 재구성. 전경개체가 얼음에 직접 접촉해 먹는 장면은 아니며 정확연령/섭식성공 미인증.",
+        "behaviorSources": [
+          {
+            "title": "Australian Antarctic Program",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+          }
+        ]
+      },
+      {
+        "id": "blue-whale-antarctic-krill",
+        "src": "assets/images/blue-whale-antarctic-krill-chatgpt-interaction-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "거대한 흰긴수염고래와 아주 작은 남극크릴의 먹이 관계를 나타낸 교육 재구성.",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "긴 얼룩몸·가슴핀2·작은 뒤등핀·수평2엽꼬리·목주름/위턱수염 읽힘. 크릴은작은점 무리로 축소. 개별미세형질·절대축척 인증 불가.",
+        "generationPrompts": [
+          "Create exactly one original landscape 3:2 natural-history educational illustration for ages 5–12, refined painterly realism with scientifically plausible anatomy and subdued natural colors. No text, labels, logo, border, collage, human, anthropomorphism, cartoon face, gore, injury, horror or exaggerated anatomy. Entire main animal and all visible appendages inside the canvas with comfortable margins. Natural occlusion is allowed but no fused, duplicated or amputated parts. This is an educational reconstruction, not a photograph. An anatomically plausible blue whale Balaenoptera musculus: exceptionally long slender mottled blue-gray body, broad flat U-shaped rostrum, small eye on the visible side, low small dorsal fin far back, exactly two narrow pectoral flippers, ventral longitudinal throat pleats, horizontal tail flukes with two broad lobes and a central notch. No teeth, no sperm-whale square head, no humpback bumps, no huge shark-like dorsal fin. One whole blue whale gently approaching a dense tiny Antarctic krill cloud in the upper Southern Ocean, mouth slightly open and throat just beginning to expand. Broad diagonal composition from below and slightly in front, entire tail visible and both pectoral flippers separated. Krill Euphausia superba at realistic relative scale: whale tens of meters, krill at most about 6cm; show fine reddish specks, NEVER dozens of giant shrimp comparable with whale flippers. No macro inset or graphic magnification. Educational feeding relationship, no blood, wounds, swallowed prey or proof of capture. Background muted Antarctic ice edge.",
+          "Edit this original blue-whale-and-Antarctic-krill interaction illustration, preserving the whole plausible blue whale Balaenoptera musculus, both pectoral flippers, small far-back dorsal fin, horizontal tail and baleen without teeth. CRITICAL CHANGE: remove ALL large clearly outlined foreground shrimp. Render EVERY krill in this picture only as tiny reddish suspended pinpoints, about 1–3 pixels long at a 1536px-wide canvas, in a dense cloud ahead of the whale. Keep all krill at approximately the whale's distance: a whale about30meters versus Euphausia superba maximumabout6cm. No foreground macro shrimp, no inset, no magnification, no giant crustaceans. Leave ample margin around all whale tips. Antarctic upper-ocean scene with distant ice, refined painterly educational realism ages5–12, landscape3:2. Slightly open mouth, no blood/gore/text or proof of capture."
+        ],
+        "generatedAt": "2026-10-03T12:32:34.847Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "95b757ce221106990373cbeff8d97c4cefcf4f913be27bbe6d06c5a195a2e72d",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "interaction",
+        "behaviorCheck": "흰긴수염고래가 작은 남극크릴에 접근하는 먹이관계 재구성. 실제 여과/섭식 성공 및 크릴 세부종 미인증.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Fisheries",
+            "url": "https://www.fisheries.noaa.gov/species/blue-whale"
+          },
+          {
+            "title": "Australian Antarctic Program – Antarctic krill",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+          }
+        ],
+        "interactionIds": [
+          "blue-whale",
+          "antarctic-krill"
+        ]
+      },
+      {
+        "id": "adelie-penguin-antarctic-krill",
+        "src": "assets/images/adelie-penguin-antarctic-krill-chatgpt-interaction-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "아델리펭귄과 남극크릴 · 외해 먹이 접근",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "흰 눈테·검은 등·흰 배, 두 분리된 날개와 뒤로 뻗은 두 발, 별도의 짧은 꼬리를 확인. 축소된 작은 크릴형 개체들은 투명 분홍 마디 몸·눈·더듬이·꼬리팬을 갖추며 부리와 분리돼 있다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Adélie penguin Pygoscelis adeliae swimming horizontally left to right in Antarctic OFFSHORE upper open water with a loose small swarm of Antarctic krill Euphausia superba ahead, clear water background without seabed or coastal colony. Penguin natural black head/back and white belly, a thin distinct WHITE RING around each natural eye, short mostly feather-covered dark beak, TWO flipper wings, TWO small trailing webbed feet, ONE short stiff pointed tail distinct from feet. Side-oblique view lets near flipper show fully and far flipper emerge separately beneath far body edge; both feet separate behind body. Whole penguin within margin. Krill naturally tiny 2–6cm compared with about70cm penguin; translucent pink slender segmented shrimp-like bodies with two black stalked eyes, fine antennae, small thoracic basket legs and a small tail fan. No gigantic lobster claws. Penguin beak slightly ajar toward but not touching swarm. No bitten animal, no blood, no bubbles, no confirmed capture. This explicitly reconstructs offshore E. superba feeding approach, not coastal E. crystallorophias feeding.",
+          "Edit this original Sea Atlas illustration while preserving the penguin's existing correct anatomy, the entire whole body, TWO flippers, TWO separate trailing webbed feet, ONE short pointed tail, white eye ring, natural beak and calm painterly natural-history style. Preserve landscape 3:2, upper OFFSHORE Antarctic open water with no seabed or coastal colony. Correct ONLY the krill SCALE: every Euphausia superba krill body from rostrum to tail tip (excluding fine antennae) should be around ONE FIFTEENTH to ONE TWENTIETH of the penguin's nose-to-tail length, NEVER more than ONE TWELFTH. Make all current foreground krill at least 50 percent smaller in body length; NO magnified close foreground specimens. Keep them a loose subtle swarm ahead of the penguin at the SAME viewing distance, several with tiny translucent pink segmented bodies, paired natural black eyes, fine antennae and small basket-like thoracic legs/tail fan. No giant prawns or lobster claws. The penguin is about70cm long and krill are 2–6cm, no scale labels. Penguin approaches separated swarm, no contact or capture success. Keep all penguin parts clear with generous frame margins; do not crop left feet/tail. No text, blood, wounds, bubbles, neon, arrows or anthropomorphism."
+        ],
+        "generatedAt": "2026-10-03T12:35:53.287Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "ccc99a5bcc44fe9dc82203fbb63ce1cf40086a8bbde1546bd88af4edfe1cf66b",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "interaction",
+        "behaviorCheck": "호주 남극기관 외해 E.superba 식단에 맞춘 열린 상층물 접근 재구성. 연안 E.crystallorophias와 구분, 부리/먹이는 떨어져 실제포획·섭식성공 불명.",
+        "behaviorSources": [
+          {
+            "title": "Australian Antarctic Program — Adélie penguin, diet and feeding",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/penguins/adelie-penguin/"
+          },
+          {
+            "title": "Australian Antarctic Program — Krill",
+            "url": "https://www.antarctica.gov.au/about-antarctica/animals/krill/"
+          }
+        ],
+        "interactionIds": [
+          "adelie-penguin",
+          "antarctic-krill"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spotted-seahorse",
+    "name": "복해마",
+    "scientificName": "Hippocampus kuda",
+    "group": "어류",
+    "habitatIds": [
+      "coast",
+      "reef"
+    ],
+    "summary": "낮고 둥근 머리 돌기와 돌돌 감는 꼬리를 가진 해마예요.",
+    "identity": [
+      "몸의 돌기는 뾰족한 가시보다 둥근 작은 혹에 가까워요.",
+      "머리 꼭대기 돌기가 낮고 둥글어요.",
+      "관처럼 긴 주둥이 끝에 작은 입이 있어요.",
+      "꼬리로 해초를 감아 몸을 붙잡아요."
+    ],
+    "ecology": "해초가 자라는 얕은 바다와 강물이 바다에 닿는 곳에서 살아요. 꼬리로 식물을 붙잡고 작은 먹이가 가까워지면 주둥이로 빨아들여요. 수컷은 배 아래 주머니에서 알을 돌봐요.",
+    "diet": "작은 갑각류와 동물성 플랑크톤",
+    "range": "인도양과 태평양의 따뜻한 해역",
+    "size": "FishBase의 최대 전체 길이 기록은 30cm예요. 몸통만 잰 길이와 구분해요.",
+    "depth": "0–68m의 기록이 있고 보통 0–8m의 얕은 물에 나타나요. 기록 범위가 늘 머무는 깊이를 뜻하지는 않아요.",
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "aliases": [
+      "Spotted seahorse",
+      "Common seahorse",
+      "노랑해마(설명용 별칭)",
+      "점박이해마(설명용 별칭)"
+    ],
+    "sources": [
+      {
+        "title": "국립생물자원관 — 국가생물종목록 척추동물, Hippocampus kuda 복해마",
+        "url": "https://www.nibr.go.kr/aiibook/catImage/21/National%20Species%202.pdf"
+      },
+      {
+        "title": "Project Seahorse — iSeahorse underwater manual, H. kuda",
+        "url": "https://www.projectseahorse.org/wp-content/uploads/2021/06/iSeahorse_Underwater_Manual_English_LowRes_1.0.pdf"
+      },
+      {
+        "title": "NParks — Hippocampus spp., H. kuda habitat",
+        "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/3/0/305"
+      },
+      {
+        "title": "FishBase — Hippocampus kuda",
+        "url": "https://www.fishbase.se/summary/5955"
+      }
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "gallery": [
+      {
+        "id": "spotted-seahorse",
+        "src": "assets/images/spotted-seahorse-chatgpt-portrait-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "복해마 · 해초를 잡는 꼬리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "관형 주둥이와 작은 입, 낮고 둥근 관, 넓고 깊은 몸통, 낮은 둥근 융기, 근측 작은 가슴핀과 등핀, 단일 감긴 꼬리의 줄기 연결을 실제 원본에서 확인. 꼬리·주둥이·몸 전부 프레임 안에 있다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Hippocampus kuda, common/spotted seahorse. A deep broad torso, almost SMOOTH clean rounded surface with flat subtle bony trunk/tail ring seams and only TINY LOW rounded bumps, absolutely no prominent knobs, spikes or jagged ridge. A VERY LOW simple round coronet close to head surface, no tall crown or multi-point crown. Thick tubular snout with small round opening, no teeth. Modest natural eye. Muted golden ochre body with subtle sparse brown freckles, no zebra stripes. One long prehensile tail, NO tail fin, NO legs or arms. Small translucent dorsal fin at rear trunk and tiny pectoral fins behind gill cover. Far-side fin may be naturally hidden. Portrait whole animal in clear left-facing side profile upright in shallow seagrass meadow. Tail forms one loose spiral around a single narrow blade. Low rounded coronet, broad torso and small dorsal fin clearly readable. No prey."
+        ],
+        "generatedAt": "2026-10-03T12:20:31.377Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "b2b933bf92394e2e3dccf16f166a98f8b8f75a811eb344370431ba30e63f53c0",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "spotted-seahorse",
+        "src": "assets/images/spotted-seahorse-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "복해마 · 작은 먹이에 다가가는 주둥이",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "낮은 둥근 관과 낮은 몸 융기, 작은 입이 있는 긴 주둥이, 넓은 몸통, 등핀과 근측 작은 가슴핀, 해초를 감는 단일 꼬리를 확인. 입 앞의 작은 갑각류형 먹이는 몸과 분리돼 있다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Hippocampus kuda, common/spotted seahorse. A deep broad torso, almost SMOOTH clean rounded surface with flat subtle bony trunk/tail ring seams and only TINY LOW rounded bumps, absolutely no prominent knobs, spikes or jagged ridge. A VERY LOW simple round coronet close to head surface, no tall crown or multi-point crown. Thick tubular snout with small round opening, no teeth. Modest natural eye. Muted golden ochre body with subtle sparse brown freckles, no zebra stripes. One long prehensile tail, NO tail fin, NO legs or arms. Small translucent dorsal fin at rear trunk and tiny pectoral fins behind gill cover. Far-side fin may be naturally hidden. Whole animal right-facing side view, tail anchored to seagrass. Tubular snout points toward three tiny naturally translucent copepod-like crustaceans in the water, each far smaller than its eye-to-snout length. A slight small mouth opening suggests feeding approach. No giant shrimp, no engulfed prey or prey inside transparent body, no claim of capture success."
+        ],
+        "generatedAt": "2026-10-03T12:21:05.856Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "9aeb26b170393175c3847067899f7ff4590c6f686c2d16471528cee2ba41ffa8",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "꼬리를 고정한 채 작은 동물플랑크톤에 접근하는 장면. 실제 흡입 순간/섭식 성공·요각류 미세 다리 전수는 확인하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "국립생물자원관 — 국가생물종목록 척추동물, Hippocampus kuda 복해마",
+            "url": "https://www.nibr.go.kr/aiibook/catImage/21/National%20Species%202.pdf"
+          },
+          {
+            "title": "Project Seahorse — iSeahorse underwater manual, H. kuda",
+            "url": "https://www.projectseahorse.org/wp-content/uploads/2021/06/iSeahorse_Underwater_Manual_English_LowRes_1.0.pdf"
+          },
+          {
+            "title": "NParks — Hippocampus spp., H. kuda habitat",
+            "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/3/0/305"
+          },
+          {
+            "title": "FishBase — Hippocampus kuda",
+            "url": "https://www.fishbase.se/summary/5955"
+          }
+        ]
+      },
+      {
+        "id": "spotted-seahorse",
+        "src": "assets/images/spotted-seahorse-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "복해마 · 해초 사이에서 머물기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "낮은 둥근 관과 관형 주둥이, 넓은 몸통, 근측 가슴핀과 등핀, 한 줄기에서 이어져 해초를 감는 꼬리 확인. 꼬리 끝 일부는 줄기 뒤에 자연스럽게 가려진다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Hippocampus kuda, common/spotted seahorse. A deep broad torso, almost SMOOTH clean rounded surface with flat subtle bony trunk/tail ring seams and only TINY LOW rounded bumps, absolutely no prominent knobs, spikes or jagged ridge. A VERY LOW simple round coronet close to head surface, no tall crown or multi-point crown. Thick tubular snout with small round opening, no teeth. Modest natural eye. Muted golden ochre body with subtle sparse brown freckles, no zebra stripes. One long prehensile tail, NO tail fin, NO legs or arms. Small translucent dorsal fin at rear trunk and tiny pectoral fins behind gill cover. Far-side fin may be naturally hidden. Different oblique side view of whole animal upright camouflaged beside shallow estuarine seagrass and algae, tail wrapped once around a slender plant stem, head faces left away from viewer. Keep whole tail readable. No pregnancy, babies, mating or sex claim."
+        ],
+        "generatedAt": "2026-10-03T12:21:44.998Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "460214f470d1fde148945e171d023f9f0ca219df5745e93af7903507cf0de9c7",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "얕은 해초/해조 환경에서 꼬리로 붙잡는 행동 재구성. 하구 정확 위치·성별·임신을 확정하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "국립생물자원관 — 국가생물종목록 척추동물, Hippocampus kuda 복해마",
+            "url": "https://www.nibr.go.kr/aiibook/catImage/21/National%20Species%202.pdf"
+          },
+          {
+            "title": "Project Seahorse — iSeahorse underwater manual, H. kuda",
+            "url": "https://www.projectseahorse.org/wp-content/uploads/2021/06/iSeahorse_Underwater_Manual_English_LowRes_1.0.pdf"
+          },
+          {
+            "title": "NParks — Hippocampus spp., H. kuda habitat",
+            "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/3/0/305"
+          },
+          {
+            "title": "FishBase — Hippocampus kuda",
+            "url": "https://www.fishbase.se/summary/5955"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ocean-sunfish",
+    "name": "개복치",
+    "scientificName": "Mola mola",
+    "group": "어류",
+    "habitatIds": [
+      "pelagic"
+    ],
+    "summary": "몸 뒤가 뚝 잘린 듯한 모양과 높이 솟은 지느러미가 특징인 큰 물고기예요.",
+    "identity": [
+      "몸이 옆으로 납작하고 넓어요.",
+      "등지느러미와 뒷지느러미가 길게 솟아 있어요.",
+      "보통 물고기 같은 꼬리지느러미 대신 물결 모양 가장자리의 키 같은 부분이 있어요.",
+      "몸에 비해 입과 가슴지느러미가 작고 배지느러미는 없어요."
+    ],
+    "ecology": "바깥 바다에서 등지느러미와 뒷지느러미를 움직여 헤엄쳐요. 물속에서 먹이를 찾고 때로는 수면 가까이 옆으로 누워 머물러요. 비슷한 다른 개복치 종류의 기록과 구분해야 해요.",
+    "diet": "해파리와 다른 젤리 같은 동물, 작은 갑각류·물고기·오징어 등",
+    "range": "세계의 온대·열대 바다",
+    "size": "호주 박물관 자료는 길이 3.3m까지 소개해요. 지느러미 끝 사이의 높이와 길이는 달라요. 비슷한 종의 최고중량 기록은 여기 넣지 않았어요.",
+    "depth": "수면과 깊은 물을 오가요. 옛 Mola 기록의 종 구분에 주의해 이 도감에서는 최대 수심을 단정하지 않아요.",
+    "depthZoneIds": [
+      "sunlight",
+      "twilight"
+    ],
+    "aliases": [
+      "Ocean sunfish",
+      "Common mola"
+    ],
+    "sources": [
+      {
+        "title": "Australian Museum — Ocean Sunfish, Mola mola; similar species",
+        "url": "https://australian.museum/learn/animals/fishes/ocean-sunfish-mola-mola/"
+      },
+      {
+        "title": "Museums Victoria / Fishes of Australia — Mola mola",
+        "url": "https://fishesofaustralia.net.au/home/species/785"
+      },
+      {
+        "title": "Monterey Bay Aquarium — Ocean sunfish",
+        "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/ocean-sunfish"
+      }
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "gallery": [
+      {
+        "id": "ocean-sunfish",
+        "src": "assets/images/ocean-sunfish-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "개복치 · 높은 지느러미와 물결 모양 몸끝",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "큰 납작한 타원 몸, 작은 입·근측 눈, 가슴핀 앞 아가미구멍, 높은 등핀과 뒷핀, 물결치는 clavus 몸끝 확인. 일반 어류 꼬리핀이나 배핀은 추가되지 않았다. 모든 주요 끝은 프레임 안에 있다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Mola mola ocean sunfish, not Mola alexandrini or Mola tecta. Broad deep laterally compressed silvery grey round body, blunt rounded forehead without a prominent protruding head bump, small mouth, small gill slit by tiny rounded pectoral fin. ONE very tall dorsal fin and ONE very tall anal fin. Rear body ends in a broad truncated scalloped/wavy clavus, no normal projecting caudal fin or forked tail, no pelvic fins. Entire rear clavus and both tall fins must be visible. Subdued mottled grey natural skin. Clean full left-facing SIDE profile swimming in blue open water. Distinct small pectoral fin and gill slit, tall dorsal and anal fins and scalloped rear clavus all readable, generous margins. No prey."
+        ],
+        "generatedAt": "2026-10-03T12:22:45.308Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "95f7440f142a17f4d181c1c2421f295ee410b9df9acada7976f5da7c4b493f35",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "ocean-sunfish",
+        "src": "assets/images/ocean-sunfish-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "개복치 · 작은 해파리에 접근하기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "작은 입과 근측 눈·아가미구멍·가슴핀, 높은 등핀과 뒷핀, 물결 clavus 확인. 먹이 해파리의 몸·촉수는 떨어져 있고 전신이 프레임 안에 있다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Mola mola ocean sunfish, not Mola alexandrini or Mola tecta. Broad deep laterally compressed silvery grey round body, blunt rounded forehead without a prominent protruding head bump, small mouth, small gill slit by tiny rounded pectoral fin. ONE very tall dorsal fin and ONE very tall anal fin. Rear body ends in a broad truncated scalloped/wavy clavus, no normal projecting caudal fin or forked tail, no pelvic fins. Entire rear clavus and both tall fins must be visible. Subdued mottled grey natural skin. Whole animal right-facing side-oblique view in open water approaching one small translucent jellyfish in front of its small slightly open mouth. Jellyfish clearly separate, about one quarter body height including tentacles, no contact, no bite, no injured jellyfish. No other fish or clutter."
+        ],
+        "generatedAt": "2026-10-03T12:23:25.021Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "94ff6808f352e6048d50c14200d7e026d2277433d57a9a1f0e6afd259be50814",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "작은 해파리와 떨어진 먹이접근 재구성. 물기·삼키기/섭식 성공은 보이지 않아 확정하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "Australian Museum — Ocean Sunfish, Mola mola; similar species",
+            "url": "https://australian.museum/learn/animals/fishes/ocean-sunfish-mola-mola/"
+          },
+          {
+            "title": "Museums Victoria / Fishes of Australia — Mola mola",
+            "url": "https://fishesofaustralia.net.au/home/species/785"
+          },
+          {
+            "title": "Monterey Bay Aquarium — Ocean sunfish",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/ocean-sunfish"
+          }
+        ]
+      },
+      {
+        "id": "ocean-sunfish",
+        "src": "assets/images/ocean-sunfish-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "개복치 · 수면 가까이 옆으로 눕기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "납작한 큰 옆면, 작은 입, 근측 아가미·가슴핀, 두 높은 핀과 물결 몸끝 확인. 수면에 옆면을 두는 회전 구도로 핀의 화면 방향을 해석했다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Mola mola ocean sunfish, not Mola alexandrini or Mola tecta. Broad deep laterally compressed silvery grey round body, blunt rounded forehead without a prominent protruding head bump, small mouth, small gill slit by tiny rounded pectoral fin. ONE very tall dorsal fin and ONE very tall anal fin. Rear body ends in a broad truncated scalloped/wavy clavus, no normal projecting caudal fin or forked tail, no pelvic fins. Entire rear clavus and both tall fins must be visible. Subdued mottled grey natural skin. Whole animal basking on its SIDE immediately beneath calm sea surface, viewed from above at oblique angle. The broad flank lies nearly horizontal under the surface, dorsal and anal fins project laterally left/right in this pose; whole scalloped clavus remains visible. Subtle surface reflections, no boat, no bird cleaning, no dead/floating belly-up pose."
+        ],
+        "generatedAt": "2026-10-03T12:24:36.491Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "2236c2b00de23a62f98562c6636186d8dafdc324b1a337514075b6b0fa2aa486",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "수면 근처에 옆면을 두고 머무는 기관 행동 소개의 재구성. 그림에서 실제 체온변화·건강상태·행동 완료를 인증하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "Australian Museum — Ocean Sunfish, Mola mola; similar species",
+            "url": "https://australian.museum/learn/animals/fishes/ocean-sunfish-mola-mola/"
+          },
+          {
+            "title": "Museums Victoria / Fishes of Australia — Mola mola",
+            "url": "https://fishesofaustralia.net.au/home/species/785"
+          },
+          {
+            "title": "Monterey Bay Aquarium — Ocean sunfish",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/ocean-sunfish"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peacock-mantis-shrimp",
+    "name": "공작갯가재",
+    "scientificName": "Odontodactylus scyllarus",
+    "group": "절지동물",
+    "habitatIds": [
+      "reef",
+      "coast"
+    ],
+    "summary": "두 눈을 따로 움직이고 둥근 앞다리로 단단한 먹이를 두드리는 갯가재예요.",
+    "identity": [
+      "눈 두 개가 각각 자루 끝에 있어요.",
+      "몸 앞쪽에 접힌 곤봉 모양의 먹이잡이 다리 한 쌍이 있어요.",
+      "마디가 있는 몸 뒤에 펼쳐지는 꼬리 부채가 있어요.",
+      "녹색 몸과 주황빛 다리가 눈에 띄지만 색만으로 종을 정하지 않아요."
+    ],
+    "ecology": "따뜻한 산호초 주변 자갈 바닥에 굴을 만들어요. 둥글고 단단한 먹이잡이 다리로 조개 같은 먹이를 두드려요. 굴과 먹이 활동 장면은 실제 순간을 찍은 사진이 아니라 설명을 위한 재구성이에요.",
+    "diet": "조개·고둥 같은 단단한 껍데기의 작은 동물과 다른 갑각류",
+    "range": "인도양과 태평양의 따뜻한 바다",
+    "size": "몬터레이만 수족관 소개 범위는 2.5–17.8cm예요. 이 페이지는 길이 측정 끝점을 따로 적지 않아 정밀 측정값으로 쓰지 않아요.",
+    "depth": "산호초 주변 바닥과 자갈 굴에서 살아요. 이번에 읽은 기관 설명에 전체 수심 범위가 없어 최대 수심은 적지 않았어요.",
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "aliases": [
+      "Peacock mantis shrimp",
+      "공작갯가재(학명에 붙인 설명용 이름)"
+    ],
+    "sources": [
+      {
+        "title": "Monterey Bay Aquarium — Peacock mantis shrimp",
+        "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/peacock-mantis-shrimp"
+      },
+      {
+        "title": "University of Texas DigiMorph — Odontodactylus scyllarus, Patek and Summers",
+        "url": "https://www2.geo.utexas.edu/specimens/Odontodactylus_scyllarus/whole/"
+      }
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "gallery": [
+      {
+        "id": "peacock-mantis-shrimp",
+        "src": "assets/images/peacock-mantis-shrimp-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "공작갯가재 · 접힌 곤봉 앞다리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "두 눈자루와 접힌 둥근 타격부 두 개, 어두운 둥근 무늬가 있는 등갑, 마디 배, 뒤쪽 telson·uropod 꼬리팬 확인. 근측 보행다리는 읽히며 원측 부속지 기부는 겹친다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Odontodactylus scyllarus peacock mantis shrimp with anatomically believable compact segmented stomatopod body. Green turquoise carapace with dark spots outlined pale, natural two separately stalked compound eyes, fine paired antennules/antennae and flattened antennal scales. TWO compact club-type raptorial appendages folded under the anterior thorax, NOT large lobster pincers or spear claws. Three pairs of small walking legs behind the clubs, far legs may naturally overlap. Green segmented abdomen terminates in central telson with paired uropods forming ONE broad coherent tail fan. Restrained orange-red walking legs and blue/orange tail margins. No wings, no spikes, no human fists, no fluorescent rainbow. Clean whole-body three-quarter SIDE view on coarse sand near a reef rock. Head on left and full abdomen and tail fan right. Both eye stalks and both folded clubs readable, small walking legs support body naturally, clear generous margins. No prey."
+        ],
+        "generatedAt": "2026-10-03T12:26:09.256Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "cf48463b751a584140f87ccecd89a272d3fd81c09534b8000dd64d9b1b2f7b37",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "peacock-mantis-shrimp",
+        "src": "assets/images/peacock-mantis-shrimp-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "공작갯가재 · 고둥에 접근하기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "두 눈자루, 두 접힌 둥근 타격부, 무늬 등갑, 마디 배와 넓은 꼬리팬이 이어진 전신 확인. 앞의 고둥껍데기는 몸과 분리돼 있고 부서지지 않았다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Odontodactylus scyllarus peacock mantis shrimp with anatomically believable compact segmented stomatopod body. Green turquoise carapace with dark spots outlined pale, natural two separately stalked compound eyes, fine paired antennules/antennae and flattened antennal scales. TWO compact club-type raptorial appendages folded under the anterior thorax, NOT large lobster pincers or spear claws. Three pairs of small walking legs behind the clubs, far legs may naturally overlap. Green segmented abdomen terminates in central telson with paired uropods forming ONE broad coherent tail fan. Restrained orange-red walking legs and blue/orange tail margins. No wings, no spikes, no human fists, no fluorescent rainbow. Full animal right-facing side-oblique view on sand, one intact small marine snail shell directly ahead. Both compact raptorial clubs visible folded near mouth before a possible strike. No smashed shell, no impact cartoon, no cavitation diagram, no injury and no feeding success claim. Whole tail fan visible."
+        ],
+        "generatedAt": "2026-10-03T12:27:07.555Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "b52a35d2af1794279d654d49ea5e5177b840e3ff975d42071d1b62db4b19bf53",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "고둥껍데기 앞에 선 정지 접근 장면. 실제 타격·공동화/껍데기 파괴·포획성공은 확인하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "Monterey Bay Aquarium — Peacock mantis shrimp",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/peacock-mantis-shrimp"
+          },
+          {
+            "title": "University of Texas DigiMorph — Odontodactylus scyllarus, Patek and Summers",
+            "url": "https://www2.geo.utexas.edu/specimens/Odontodactylus_scyllarus/whole/"
+          }
+        ]
+      },
+      {
+        "id": "peacock-mantis-shrimp",
+        "src": "assets/images/peacock-mantis-shrimp-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "공작갯가재 · 자갈 굴 입구",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "눈자루 두 개·접힌 둥근 타격부 두 개·무늬 등갑·마디 배·전체 꼬리팬 확인. 바위 굴 입구 밖의 몸과 근측 보행다리가 보이고 원측 다리 기부는 겹친다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create one original Sea Atlas natural-history illustration for children ages 5–12, landscape 3:2, naturalistic painterly realism with restrained brush texture. Whole focal animal and complete important appendages and tail inside generous frame margins. Natural small eyes, no anthropomorphism. Calm documentary composition, believable habitat, clear soft illustrative light. No text, labels, arrows, logos, borders, humans, blood, wounds, horror, fantasy anatomy, exaggerated cartoon eyes. Do not draw extra limbs. Avoid artificial neon glow. This is an educational reconstruction, not a photograph of an observed event. ONE Odontodactylus scyllarus peacock mantis shrimp with anatomically believable compact segmented stomatopod body. Green turquoise carapace with dark spots outlined pale, natural two separately stalked compound eyes, fine paired antennules/antennae and flattened antennal scales. TWO compact club-type raptorial appendages folded under the anterior thorax, NOT large lobster pincers or spear claws. Three pairs of small walking legs behind the clubs, far legs may naturally overlap. Green segmented abdomen terminates in central telson with paired uropods forming ONE broad coherent tail fan. Restrained orange-red walking legs and blue/orange tail margins. No wings, no spikes, no human fists, no fluorescent rainbow. Different low oblique SIDE view beside entrance of a gravel U-shaped burrow, burrow architecture underground NOT drawn as cutaway. Entire animal outside the entrance, head faces left, full abdomen and tail fan visible. Pebbles frame entrance behind the animal without hiding body. No other animals, no mating or sex claim."
+        ],
+        "generatedAt": "2026-10-03T12:27:53.840Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "66a331e495bb2805b39a8aef3d2a0fe444486a67547142d1f5581feb5487c8ad",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "자갈 굴 입구 밖 전신 재구성. 땅속 U자 굴 형태는 정지 그림에서 안 보이므로 확정하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "Monterey Bay Aquarium — Peacock mantis shrimp",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/peacock-mantis-shrimp"
+          },
+          {
+            "title": "University of Texas DigiMorph — Odontodactylus scyllarus, Patek and Summers",
+            "url": "https://www2.geo.utexas.edu/specimens/Odontodactylus_scyllarus/whole/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "blue-glaucus",
+    "name": "푸른갯민숭달팽이",
+    "scientificName": "Glaucus atlanticus",
+    "aliases": [
+      "푸른 바다 달팽이",
+      "Blue glaucus",
+      "Blue dragon"
+    ],
+    "group": "연체동물",
+    "habitatIds": [
+      "pelagic"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "바다 표면에 거꾸로 떠다니는 작은 갯민숭달팽이예요. 한국어 이름은 모습을 풀어 쓴 설명용 표기예요.",
+    "identity": [
+      "가늘어진 몸 양옆에 세 쌍의 돌기 무리가 있고, 손가락처럼 생긴 돌기가 한 줄로 벌어져요.",
+      "위로 향한 발 쪽은 파랗고 물속 아래로 향한 진짜 등 쪽은 은회색이에요."
+    ],
+    "ecology": "속에 있는 기체 주머니가 떠 있는 데 도움을 줘요. 바람과 물살을 따라 바다 표면 가까이 이동해요.",
+    "diet": "피살리아(Portuguese man-of-war·bluebottle)의 촉수 등을 먹어요. 먹이에서 얻은 자포를 돌기 끝의 주머니에 보관해 방어에 이용해요.",
+    "range": "세계의 온대·열대 바다. 해변에 떠밀려 온 기록은 원래 해저에서 산다는 뜻이 아니에요.",
+    "size": "Australian Museum 사진의 살아 있는 개체는 몸길이 4 cm로 기록됐어요. 이 개별 기록을 종의 최대 크기로 단정하지 않아요.",
+    "depth": "바다 표면 또는 바로 아래에서 생활해요. 확인한 기관 자료는 종의 정확한 최대 잠수 깊이를 제시하지 않아요.",
+    "sources": [
+      {
+        "title": "Australian Museum Sea Slug Forum — Glaucus atlanticus",
+        "url": "https://www.seaslugforum.net/find/glauatla"
+      },
+      {
+        "title": "ICAR-CMFRI Cadalmin No.148 — Sea slugs washed ashore",
+        "url": "https://eprints.cmfri.org.in/11004/1/Newsletter%20Cadalmin%20-%20148.pdf"
+      },
+      {
+        "title": "Australian Museum — Sea Slug Saga",
+        "url": "https://publications.australian.museum/blog/science/sea-slug-saga-2016-sleek-geeks-science-winner/"
+      }
+    ],
+    "featured": false,
+    "gallery": [
+      {
+        "id": "blue-glaucus",
+        "src": "assets/images/blue-glaucus-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "푸른갯민숭달팽이 · 거꾸로 뜨는 작은 몸",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "길고 가는 연속몸·앞큰/중간/뒤작은 팬형 cerata 3쌍(6기부)·꼬리끝 확인. 각 팬의 돌기는 단일 부채열로 읽힘.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Glaucus atlanticus, a small shell-less BLUE NEUSTONIC NUDIBRANCH, not a vertebrate dragon. Long flat tapered soft silver-and-deep-blue central body with small rounded head and short tapering posterior tip. EXACTLY THREE pairs of side ceratal clusters, SIX cluster bases total, attached bilaterally along the body: large anterior fan pair, medium middle fan pair, smaller posterior fan pair; each fan has long tapered finger-shaped cerata in ONE SINGLE row, never multi-tier stacked feather fronds. Short natural cephalic tentacles; no wings, legs, scales, jaws, horns or conspicuous eyes. Animal naturally floats inverted just below sea surface: BLUE ventral FOOT side faces UP toward air, true SILVER-grey dorsal side faces DOWN into water. Macro view from ABOVE the surface, gently diagonal head toward upper-left. Calm blue water with small ripples, visible blue foot and SIX unobscured separated ceratal fan bases, whole organism broadly spread at surface. Natural daylight, no reef or seabed."
+        ],
+        "generatedAt": "2026-10-03T12:15:52.729Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "0b98955fb654917f94e12230b2dfd3a1421e9f219d1e0867d324933873bc89ce",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "blue-glaucus",
+        "src": "assets/images/blue-glaucus-chatgpt-feeding-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "푸른갯민숭달팽이 · 피살리아 촉수에 접근",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "연속몸·꼬리·3쌍6팬과 피살리아 부력낭/늘어진 촉수 끝이 화면 안. 큰발/날개/척추동물눈 없음.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Glaucus atlanticus, a small shell-less BLUE NEUSTONIC NUDIBRANCH, not a vertebrate dragon. Long flat tapered soft silver-and-deep-blue central body with small rounded head and short tapering posterior tip. EXACTLY THREE pairs of side ceratal clusters, SIX cluster bases total, attached bilaterally along the body: large anterior fan pair, medium middle fan pair, smaller posterior fan pair; each fan has long tapered finger-shaped cerata in ONE SINGLE row, never multi-tier stacked feather fronds. Short natural cephalic tentacles; no wings, legs, scales, jaws, horns or conspicuous eyes. Animal naturally floats inverted just below sea surface: BLUE ventral FOOT side faces UP toward air, true SILVER-grey dorsal side faces DOWN into water. MACRO low oblique side view at surface, Glaucus head right. A single intact Physalia bluebottle appears upper-right at surface as an accurately small relative-scale translucent blue-violet gas float with slight sail ridge and several slender dangling blue feeding tentacles. Glaucus anterior mouth at small head approaches ONE separated thin trailing Physalia tentacle; no tearing, dismemberment or violence. Show surface interface and blue foot upwards, silver dorsal side down. Each animal completely framed. Glaucus whole SIX clustered bases clear with mild angle occlusion only. Safe feeding preparation reconstruction.",
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Glaucus atlanticus, a small shell-less BLUE NEUSTONIC NUDIBRANCH, not a vertebrate dragon. Long flat tapered soft silver-and-deep-blue central body with small rounded head and short tapering posterior tip. EXACTLY THREE pairs of side ceratal clusters, SIX cluster bases total, attached bilaterally along the body: large anterior fan pair, medium middle fan pair, smaller posterior fan pair; each fan has long tapered finger-shaped cerata in ONE SINGLE row, never multi-tier stacked feather fronds. Short natural cephalic tentacles; no wings, legs, scales, jaws, horns or conspicuous eyes. Animal naturally floats inverted just below sea surface: BLUE ventral FOOT side faces UP toward air, true SILVER-grey dorsal side faces DOWN into water. MACRO low oblique side view at surface, Glaucus head right. A single intact Physalia bluebottle appears upper-right at surface as an accurately small relative-scale translucent blue-violet gas float with slight sail ridge and several slender dangling blue feeding tentacles. Glaucus anterior mouth at small head approaches ONE separated thin trailing Physalia tentacle; no tearing, dismemberment or violence. Show surface interface and blue foot upwards, silver dorsal side down. Each animal completely framed. Glaucus whole SIX clustered bases clear with mild angle occlusion only. Safe feeding preparation reconstruction. CORRECTION FOR THIS REVISED IMAGE: reduce both animals slightly and zoom out, leave broad empty margins on ALL sides. Put the ENTIRE Physalia gas float and ALL its few fine long tentacles inside the frame, with visible free ends at least 100px above bottom and inside right margin. Physalia trailing tentacles must be very THIN smooth natural threads with only restrained fine texture, not thick pearl beads or knotted rope. Glaucus should be near/in contact with the surface rather than hovering several body diameters below. The blue ventral foot faces sky. No visible shiny eye globes: slug's small sensory organs must remain inconspicuous, never fishlike eyes. Keep one row of finger cerata per fan and six connected bases, not extra clusters. Full long body and tail within frame."
+        ],
+        "generatedAt": "2026-10-03T12:18:33.825Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "4a4d4ff3c1f18586443811dfce993efe49ad371a6c5f69876112c280393107ba",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "피살리아 부속 촉수에 입 앞쪽을 가까이 댄 교육 재구성. v1에서 잘린 피살리아 촉수 끝이 v2에서는 화면 안. 실제 먹이 절단·삼킴·자포 저장은 그림으로 확인하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "Australian Museum Sea Slug Forum — Glaucus atlanticus",
+            "url": "https://www.seaslugforum.net/find/glauatla"
+          },
+          {
+            "title": "ICAR-CMFRI Cadalmin No.148 — Sea slugs washed ashore",
+            "url": "https://eprints.cmfri.org.in/11004/1/Newsletter%20Cadalmin%20-%20148.pdf"
+          },
+          {
+            "title": "Australian Museum — Sea Slug Saga",
+            "url": "https://publications.australian.museum/blog/science/sea-slug-saga-2016-sleek-geeks-science-winner/"
+          }
+        ]
+      },
+      {
+        "id": "blue-glaucus",
+        "src": "assets/images/blue-glaucus-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "푸른갯민숭달팽이 · 바다 표면 아래에서 표류",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "아래에서 보이는 은회색 몸면·6팬기부·꼬리끝과 수면 배경 확인.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Glaucus atlanticus, a small shell-less BLUE NEUSTONIC NUDIBRANCH, not a vertebrate dragon. Long flat tapered soft silver-and-deep-blue central body with small rounded head and short tapering posterior tip. EXACTLY THREE pairs of side ceratal clusters, SIX cluster bases total, attached bilaterally along the body: large anterior fan pair, medium middle fan pair, smaller posterior fan pair; each fan has long tapered finger-shaped cerata in ONE SINGLE row, never multi-tier stacked feather fronds. Short natural cephalic tentacles; no wings, legs, scales, jaws, horns or conspicuous eyes. Animal naturally floats inverted just below sea surface: BLUE ventral FOOT side faces UP toward air, true SILVER-grey dorsal side faces DOWN into water. Underwater UPWARD oblique view directly under quiet ocean surface, silver true dorsal side of inverted Glaucus faces camera below, blue foot visible only at turned upper edge. Head left, body diagonal, SIX fan clusters connected; full animal with negative open-water space. Natural diffused daylight through surface, no reef, seabed, bubbles, prey or eggs."
+        ],
+        "generatedAt": "2026-10-03T12:19:43.464Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "7df8c77ceeb3395095c345ff43838079c592196ed65f4e884fc20fcd393737c5",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "아래에서 수면을 바라보며 은회색 진짜 등면을 보는 역전 표류 재구성. 미세부력·실제 깊이·정확한 이동은 인증하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "Australian Museum Sea Slug Forum — Glaucus atlanticus",
+            "url": "https://www.seaslugforum.net/find/glauatla"
+          },
+          {
+            "title": "ICAR-CMFRI Cadalmin No.148 — Sea slugs washed ashore",
+            "url": "https://eprints.cmfri.org.in/11004/1/Newsletter%20Cadalmin%20-%20148.pdf"
+          },
+          {
+            "title": "Australian Museum — Sea Slug Saga",
+            "url": "https://publications.australian.museum/blog/science/sea-slug-saga-2016-sleek-geeks-science-winner/"
+          }
+        ]
+      }
+    ],
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending"
+  },
+  {
+    "id": "blue-sea-star",
+    "name": "파란불가사리",
+    "scientificName": "Linckia laevigata",
+    "aliases": [
+      "푸른 린키아 불가사리",
+      "Blue sea star",
+      "Blue linckia",
+      "Azure sea star"
+    ],
+    "group": "극피동물",
+    "habitatIds": [
+      "reef",
+      "coast"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "작은 중심에서 둥근 팔 다섯 개가 뻗은 불가사리예요. 한국어 이름은 파란 모습을 설명한 표기예요.",
+    "identity": [
+      "둥근 끝을 가진 긴 원통형 팔과 작은 중심 원반, 고운 과립 피부가 특징이에요.",
+      "흔히 파란색이지만 색에는 변이가 있어요. 관족은 팔 아래쪽에 있어요."
+    ],
+    "ecology": "얕은 산호초·암반에서 관족으로 바닥에 붙어 천천히 이동해요. 모래 위에서도 암반 사이를 이동할 수 있어요.",
+    "diet": "바위 표면의 작은 생물막·산호조류와 유기물 찌꺼기를 먹는 것으로 알려져 있어요. 특정 미생물이나 야생의 모든 먹이 구성을 확정하지 않아요.",
+    "range": "인도양·태평양의 열대 암초 지역. 모든 섬이나 모든 파란 불가사리가 이 종인 것은 아니에요.",
+    "size": "DORIS는 팔끝 사이 지름 약 30 cm 이상, 큰 개체는 40 cm에 가까운 기록도 안내해요. 몸길이와 팔 하나의 길이가 아닌 펼친 폭이에요.",
+    "depth": "DORIS는 주로 조간대부터 30 m 사이, 60 m까지의 기록을 안내해요. 주 서식 깊이와 깊은 관측 기록을 구분해요.",
+    "sources": [
+      {
+        "title": "FFESSM DORIS — Linckia laevigata",
+        "url": "https://doris.ffessm.fr/Especes/Linckia-laevigata-Linckia-bleue-2361"
+      },
+      {
+        "title": "Urasoe City species guide — Linckia laevigata",
+        "url": "https://www.city.urasoe.lg.jp/sites/urasoe-envmap/zukan/sonota/aohitode.htm"
+      }
+    ],
+    "featured": false,
+    "gallery": [
+      {
+        "id": "blue-sea-star",
+        "src": "assets/images/blue-sea-star-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "파란불가사리 · 둥근 다섯 팔",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "코발트색 작고구별어려운 중심원반·긴원통형둥근팔5개·모든끝·미세과립과 아래관족일부 확인.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Linckia laevigata BLUE SEA STAR. Five and only FIVE long cylindrical fleshy arms of near-uniform thickness with rounded blunt tips, all independently connected to a small central disc; coherent pentaradial topology. Cobalt-blue finely granular skin, no giant conical black spikes, no pointed triangular cartoon star arms, no facial eyes, smile or central top mouth. A few short pale yellow translucent tube feet appear only along underside ambulacral grooves where angle naturally exposes them, no legs growing out of upper surface. Clean nearly TOP-DOWN view on submerged pale rocky reef ledge, whole sea star with FIVE separated blue arms laid at slightly irregular natural angles, no overlap disguising base count, sharp focus with generous margin. Warm tropical shallow water daylight and faint caustics, discreet blurred coral rubble background."
+        ],
+        "generatedAt": "2026-10-03T12:21:06.809Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "a7e33158e7c90410a902d25619f8a34206849a4c8bd6890f5df1eddc076a2312",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "blue-sea-star",
+        "src": "assets/images/blue-sea-star-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "파란불가사리 · 바위 표면의 작은 유기물",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "5팔연결/둥근끝과 아래짧은황색관족일부 읽힘. 중심배면은바위가림.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Linckia laevigata BLUE SEA STAR. Five and only FIVE long cylindrical fleshy arms of near-uniform thickness with rounded blunt tips, all independently connected to a small central disc; coherent pentaradial topology. Cobalt-blue finely granular skin, no giant conical black spikes, no pointed triangular cartoon star arms, no facial eyes, smile or central top mouth. A few short pale yellow translucent tube feet appear only along underside ambulacral grooves where angle naturally exposes them, no legs growing out of upper surface. LOW SIDE three-quarter view, all FIVE whole arms around central disc on a submerged gently sloped rock covered with a thin natural olive-brown algal organic film. Central underside stays close in gentle contact with rock, suggesting substrate grazing; no open maw, huge extruded organs, dead animal, shell-cracking or invented prey. A lifted near arm edge naturally exposes a few underside tube feet. Feeding posture reconstruction, fine contents invisible at normal scale. Shallow reef daylight."
+        ],
+        "generatedAt": "2026-10-03T12:22:35.368Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "15fc2333630d079c3a54f66fa0618b7809e5f8784c8f89dbccc37235f89c0f01",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "중심 배면이 표면 유기물이 있는 바위와 접촉하는 먹이활동 재구성. 실제 위의 외출/영양흡수 성공·표면 미생물 종류는 외부 정지 그림으로 확인하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "FFESSM DORIS — Linckia laevigata",
+            "url": "https://doris.ffessm.fr/Especes/Linckia-laevigata-Linckia-bleue-2361"
+          },
+          {
+            "title": "Urasoe City species guide — Linckia laevigata",
+            "url": "https://www.city.urasoe.lg.jp/sites/urasoe-envmap/zukan/sonota/aohitode.htm"
+          }
+        ]
+      },
+      {
+        "id": "blue-sea-star",
+        "src": "assets/images/blue-sea-star-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "파란불가사리 · 암초 위를 천천히 이동",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "전신5팔/모든끝·균일파랑 과립몸·아래관족일부 확인.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Linckia laevigata BLUE SEA STAR. Five and only FIVE long cylindrical fleshy arms of near-uniform thickness with rounded blunt tips, all independently connected to a small central disc; coherent pentaradial topology. Cobalt-blue finely granular skin, no giant conical black spikes, no pointed triangular cartoon star arms, no facial eyes, smile or central top mouth. A few short pale yellow translucent tube feet appear only along underside ambulacral grooves where angle naturally exposes them, no legs growing out of upper surface. HIGH OBLIQUE wider habitat view, smaller whole sea star slowly draped over a low rock between dead coral rubble and small living corals, FIVE arm bases and rounded tips visible; some arms bend gently to match contour. Shallow tropical Indo-Pacific clear water, natural daylight, no beach stranding, aquarium or floating swimming sea star."
+        ],
+        "generatedAt": "2026-10-03T12:23:25.094Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "2a17f9f57c54a3dae86026103bfa43aa0df54d57650b5da92cdb44c2555732e4",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "팔로 바위 굴곡을 따라 움직이는 얕은 암초 서식 재구성. 실제 속도/이동 경로/정확한 현장 수심을 확정하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "FFESSM DORIS — Linckia laevigata",
+            "url": "https://doris.ffessm.fr/Especes/Linckia-laevigata-Linckia-bleue-2361"
+          },
+          {
+            "title": "Urasoe City species guide — Linckia laevigata",
+            "url": "https://www.city.urasoe.lg.jp/sites/urasoe-envmap/zukan/sonota/aohitode.htm"
+          }
+        ]
+      }
+    ],
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending"
+  },
+  {
+    "id": "giant-tube-worm",
+    "name": "대왕관벌레",
+    "scientificName": "Riftia pachyptila",
+    "aliases": [
+      "거대 관벌레",
+      "Giant tubeworm",
+      "Giant tube worm"
+    ],
+    "group": "환형동물",
+    "habitatIds": [
+      "deep"
+    ],
+    "depthZoneIds": [
+      "midnight"
+    ],
+    "summary": "흰 관 안에 살며 붉은 아가미를 펼치는 심해 벌레예요. 한국어 이름은 학명의 동물을 설명하는 표기예요.",
+    "identity": [
+      "바닥에 붙은 흰 관의 위쪽에서 붉은 깃털 같은 아가미가 나와요.",
+      "성체에는 입·장·항문 등 소화기관이 없어요. 아가미는 입으로 먹이를 잡는 기관이 아니에요."
+    ],
+    "ecology": "심해 열수 분출구 주변에 무리 지어 붙어 살아요. 붉은 아가미로 물속 성분을 받아 몸속 공생 세균에 전달해요.",
+    "diet": "영양낭(trophosome)의 공생 세균이 황화합물의 화학 에너지를 이용해 만든 영양분을 받아요. 성체가 세균이나 작은 동물을 입으로 삼키는 것은 아니에요.",
+    "range": "MBARI는 동태평양 해령과 갈라파고스 열수 지역을 안내해요. 모든 심해 관벌레를 같은 종으로 보지 않아요.",
+    "size": "MBARI 제시 최대 약 2 m. AMNH는 6 feet가 넘는 높이를 소개해요. 관과 안의 부드러운 몸을 외부 그림으로 각각 재어 인증하지 않아요.",
+    "depth": "MBARI 제시 1,900–3,600 m. 열수는 뜨겁지만 동물이 사는 주변 물은 바닷물과 섞여요.",
+    "sources": [
+      {
+        "title": "NOAA Ocean Exploration — Vent Food Web, Riftia card",
+        "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/04/vent-food-web.pdf"
+      },
+      {
+        "title": "MBARI — Giant tubeworm",
+        "url": "https://www.mbari.org/animal/giant-tubeworm/"
+      },
+      {
+        "title": "AMNH OLogy — giant tubeworms",
+        "url": "https://www.amnh.org/explore/ology/ology-cards/186-giant-tubeworms"
+      }
+    ],
+    "featured": false,
+    "gallery": [
+      {
+        "id": "giant-tube-worm",
+        "src": "assets/images/giant-tube-worm-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대왕관벌레 · 흰 관과 붉은 아가미 깃",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "하얀 긴관1개와 위쪽붉은아가미깃·관입구흰기부 확인. 깃 끝은좁은위여백안쪽, 바위에기부 일부가림.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. Adult Riftia pachyptila giant tubeworm: long sturdy slightly curved ivory-white chitinous cylindrical tube, faint growth wrinkles and some pale sulfide stains, rooted at rocky seafloor, open rim at TOP. Soft worm body remains INSIDE opaque tube; a short pale vestimental collar connects at rim to a dense erect red feathery branching BRANCHIAL PLUME. Natural many fine filaments, not flower petals, not a mouth/anemone tentacle ring. No eyes, jaws, teeth, open-mouth feeding, anus, digestive gut, fish fins, segmented snake extending free, or visible internal bacteria. Adults have no mouth or digestive tract: red plume absorbs dissolved compounds which support internal symbiotic bacteria. Deep seafloor hydrothermal vent habitat, black basalt and gently shimmering diffuse flow; no sunlight, sea surface, flame, molten lava or huge erupting smoke through animal. Soft neutral illustration light reveals colors; this is not natural sunlight or animal bioluminescence. ONE isolated focal full-length tube and complete red plume in three-quarter SIDE portrait, anchored base and tube top in frame, surrounding low basalt with no other animals. Upright tube curves mildly, plume shows fan of dense fine red filaments attached to collar, not a flower."
+        ],
+        "generatedAt": "2026-10-03T12:24:39.885Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "885e72f2cf40d35d81f674e0d7a399667312666708b6ad602a809b3337275f76",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+      },
+      {
+        "id": "giant-tube-worm",
+        "src": "assets/images/giant-tube-worm-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대왕관벌레 · 아가미와 공생 영양",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "관1개/입구흰기부/붉은깃과해저연결 확인. 눈/입/팔 같은부속지없음.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. Adult Riftia pachyptila giant tubeworm: long sturdy slightly curved ivory-white chitinous cylindrical tube, faint growth wrinkles and some pale sulfide stains, rooted at rocky seafloor, open rim at TOP. Soft worm body remains INSIDE opaque tube; a short pale vestimental collar connects at rim to a dense erect red feathery branching BRANCHIAL PLUME. Natural many fine filaments, not flower petals, not a mouth/anemone tentacle ring. No eyes, jaws, teeth, open-mouth feeding, anus, digestive gut, fish fins, segmented snake extending free, or visible internal bacteria. Adults have no mouth or digestive tract: red plume absorbs dissolved compounds which support internal symbiotic bacteria. Deep seafloor hydrothermal vent habitat, black basalt and gently shimmering diffuse flow; no sunlight, sea surface, flame, molten lava or huge erupting smoke through animal. Soft neutral illustration light reveals colors; this is not natural sunlight or animal bioluminescence. ONE complete full-length focal tube from low oblique angle; red plume extended into gently rippling diffuse vent water beside a small crack in basalt. Water shimmer near plume is subtle, no bright chemical beads, arrows, molecules or diagram. Composition foregrounds connected plume and rim but keeps full rooted tube inside frame. NO prey, swallowing, stomach depiction or body cutaway. This is a habitat-based reconstruction of dissolved compound uptake by plume, unseen bacteria are not drawn."
+        ],
+        "generatedAt": "2026-10-03T12:25:50.252Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "7780cf5e7ccc54d0196b3e91e9561601d17376bcd8d68589de04bbc38ebe1221",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "입으로 먹이를 잡는 장면 대신 열수 곁으로 붉은 아가미 깃을 펼친 성체를 보여준다. 물속 산소/황화수소/이산화탄소 흡수와 관 내부 공생세균의 영양 공급 설명에 근거한 재구성이다. 보이지 않는 분자·세균이나 실제 흡수 성공을 시각적으로 인증하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Exploration — Vent Food Web, Riftia card",
+            "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/04/vent-food-web.pdf"
+          },
+          {
+            "title": "MBARI — Giant tubeworm",
+            "url": "https://www.mbari.org/animal/giant-tubeworm/"
+          },
+          {
+            "title": "AMNH OLogy — giant tubeworms",
+            "url": "https://www.amnh.org/explore/ology/ology-cards/186-giant-tubeworms"
+          }
+        ]
+      },
+      {
+        "id": "giant-tube-worm",
+        "src": "assets/images/giant-tube-worm-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대왕관벌레 · 열수 분출구의 무리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "전경에서 관과깃 약7개군집이읽힘. 관 기부는 암석과원근가림, 붉은깃끝안쪽.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. Adult Riftia pachyptila giant tubeworm: long sturdy slightly curved ivory-white chitinous cylindrical tube, faint growth wrinkles and some pale sulfide stains, rooted at rocky seafloor, open rim at TOP. Soft worm body remains INSIDE opaque tube; a short pale vestimental collar connects at rim to a dense erect red feathery branching BRANCHIAL PLUME. Natural many fine filaments, not flower petals, not a mouth/anemone tentacle ring. No eyes, jaws, teeth, open-mouth feeding, anus, digestive gut, fish fins, segmented snake extending free, or visible internal bacteria. Adults have no mouth or digestive tract: red plume absorbs dissolved compounds which support internal symbiotic bacteria. Deep seafloor hydrothermal vent habitat, black basalt and gently shimmering diffuse flow; no sunlight, sea surface, flame, molten lava or huge erupting smoke through animal. Soft neutral illustration light reveals colors; this is not natural sunlight or animal bioluminescence. WIDER elevated three-quarter habitat view of a small thicket of SEVEN whole Riftia tubes of varying natural height, each distinct white tube connects one red plume at its own top and rocky base, main foreground tube fully unobscured. All whole tubes and plumes in frame; bases naturally anchored together with some partial rear occlusion. Dark basalt diffuse-flow vent, gentle water shimmer, no invented giant animals, no explosive black smoke, no free swimming."
+        ],
+        "generatedAt": "2026-10-03T12:26:49.820Z",
+        "checkedAt": "2026-10-03",
+        "sha256": "e67e849f8a8f64d8990d31d7dcebb07fae5cd910a53350c20ebbbe6aa39a812a",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "심해 열수 주변에 붙어 자라는 군집 재구성. 관마다 붉은 아가미가 상단에서 나오는 정착 모습이며 자유 유영·입으로 포획·관내부 세균 표시 없음. 열수 흐름/온도/특정현장 종분포 사건은 인증하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Exploration — Vent Food Web, Riftia card",
+            "url": "https://oceanexplorer.noaa.gov/wp-content/uploads/2025/04/vent-food-web.pdf"
+          },
+          {
+            "title": "MBARI — Giant tubeworm",
+            "url": "https://www.mbari.org/animal/giant-tubeworm/"
+          },
+          {
+            "title": "AMNH OLogy — giant tubeworms",
+            "url": "https://www.amnh.org/explore/ology/ology-cards/186-giant-tubeworms"
+          }
+        ]
+      }
+    ],
+    "checkedAt": "2026-10-03",
+    "reviewStatus": "source-checked-expert-review-pending"
   }
 ];
