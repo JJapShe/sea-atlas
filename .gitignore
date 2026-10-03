@@ -1,0 +1,6 @@
+_site/
+work/
+*.log
+__pycache__/
+assets/images/*
+!assets/images/*-chatgpt-*.png

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#091c25">
+  <meta name="description" content="Sea Atlas. 투구게부터 향유고래까지, 현생 해양동물의 형태와 살아가는 바다를 탐험하는 한국어 도감.">
+  <title>Sea Atlas · 바다를 읽는 도감</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css?v=20261003-interactions">
+</head>
+<body>
+  <a class="skip" href="#catalog">도감으로 건너뛰기</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="Sea Atlas 첫 화면"><img src="./favicon.svg" width="38" height="38" alt=""><span>SEA ATLAS<small>바다를 읽는 도감</small></span></a>
+    <nav aria-label="주요 메뉴"><a class="nav-link active" href="#catalog" id="allNav">해양동물 도감</a><button class="nav-link" id="savedNav" type="button" aria-pressed="false">나의 책갈피 <span id="savedCount">0</span></button><button class="nav-link" id="aboutButton" type="button">도감 이야기 ↗</button></nav>
+    <span class="header-note">현생 해양동물 · 첫 번째 항해</span>
+  </header>
+  <main>
+    <section class="hero" aria-labelledby="heroTitle">
+      <div class="hero-photo" id="heroPhoto" style="background-image:url('./assets/images/sperm-whale-chatgpt-v3.png')" aria-hidden="true"></div>
+      <div class="hero-content"><p class="eyebrow"><span></span> 지금 바다에 살아 있는 동물들</p><h1 id="heroTitle">바다에는 아직,<br>궁금한 생물이 많다.</h1><p class="hero-lead">얕은 모래밭에서 빛이 닿지 않는 심해까지.<br>이름을 알고, 모습을 살피고, 그들의 바다를 만나보세요.</p><a href="#catalog" class="explore-link">해양동물 만나러 가기 <span aria-hidden="true">↓</span></a></div>
+      <div class="hero-bottom"><span><strong id="speciesCount">—</strong> 종의 이야기 <i></i> 7개의 탐색 분류</span><button type="button" id="heroSource">표지 삽화 안내 ↗</button></div>
+      <span class="hero-coordinate" aria-hidden="true">SURFACE → DEEP SEA</span>
+    </section>
+    <section class="featured" aria-labelledby="featuredTitle"><div class="featured-intro"><p class="eyebrow">먼저 만나볼까요?</p><h2 id="featuredTitle">이번 항해의<br>첫 세 친구</h2></div><div id="featuredList" class="featured-list"></div></section>
+    <section class="atlas" id="catalog" aria-labelledby="catalogTitle">
+      <div class="atlas-top"><div><p class="eyebrow">바다 친구 찾기</p><h2 id="catalogTitle">어떤 바다를 만나볼까요?</h2></div><div class="atlas-status"><span class="live-dot"></span> 출처와 함께 보는 도감</div></div>
+      <div class="habitat-tabs" id="habitatTabs" aria-label="서식 환경 선택"></div>
+      <div class="atlas-layout">
+        <aside class="filters" id="filters" aria-label="생물 찾기">
+          <div class="filter-header"><h3>조금 더 자세히 찾기</h3><button id="resetFilters" type="button">다시 보기</button></div>
+          <fieldset><legend>동물 종류</legend><div id="groupFilters" class="group-filters"></div><p class="filter-note">탐색하기 쉬운 묶음이에요.<br>계통 관계를 나타내지는 않아요.</p></fieldset>
+          <fieldset class="depth-filter"><legend>바다의 깊이</legend><div id="depthFilters"></div><p class="filter-note">서식·먹이 활동에서 이용하는 구간.<br>정확한 범위는 종 상세에서 확인하세요.</p></fieldset>
+          <label class="bookmark-filter"><input id="bookmarksOnly" type="checkbox"> 책갈피한 생물만</label>
+          <p class="local-note">책갈피는 이 브라우저에 저장돼요.</p>
+        </aside>
+        <div class="catalog-main">
+          <div class="catalog-toolbar"><label class="search-box"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg><span class="sr-only">이름, 학명, 특징으로 검색</span><input type="search" id="searchInput" placeholder="생물 이름을 써보세요" autocomplete="off"></label><button id="mobileFilter" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filters">골라보기 <span aria-hidden="true">☷</span></button><label class="sort-box"><span class="sr-only">정렬 순서</span><select id="sortOrder"><option value="featured">추천 순</option><option value="name">이름 순</option></select></label></div>
+          <div class="results-bar"><p id="resultCount" role="status" aria-live="polite">도감을 불러오고 있어요.</p><span id="activeFilters"></span></div>
+          <div class="animal-grid" id="animalGrid"></div>
+          <noscript><p>이 도감의 검색과 상세 보기는 JavaScript가 필요해요. 브라우저 설정에서 허용해 주세요.</p></noscript>
+        </div>
+      </div>
+    </section>
+    <section class="reading-note"><span class="note-mark" aria-hidden="true">≈</span><div><h2>아는 만큼, 바다가 더 가까워져요.</h2><p>작은 형태의 차이도 생물을 구별하는 단서가 됩니다. 자체 제작 삽화의 모습과 실제 크기, 서식 환경을 함께 살펴보세요.</p></div><button id="readingAbout" type="button">이 도감이 만들어지는 방식 ↗</button></section>
+  </main>
+  <footer><a class="footer-brand" href="./">SEA ATLAS</a><p>현생 해양동물의 모습을 기록하는 작은 도감</p><span>자료 출처 대조 · 전문가 감수 전</span></footer>
+  <dialog id="detailDialog" class="detail-dialog" aria-labelledby="detailTitle"><button class="dialog-close" type="button" data-close="detailDialog" aria-label="종 상세 닫기">×</button><div id="detailContent"></div></dialog>
+  <dialog id="imageDialog" class="image-dialog" aria-labelledby="imageTitle"><div class="image-top"><div><p class="eyebrow">이미지를 크게 봐요</p><h2 id="imageTitle"></h2></div><button class="dialog-close" type="button" data-close="imageDialog" aria-label="확대 보기 닫기">×</button></div><div class="image-stage"><button id="prevImage" type="button" aria-label="이전 이미지">←</button><img id="largeImage" alt=""><button id="nextImage" type="button" aria-label="다음 이미지">→</button></div><div id="imageCaption" class="image-caption"></div></dialog>
+  <dialog id="aboutDialog" class="about-dialog" aria-labelledby="aboutTitle"><button class="dialog-close" type="button" data-close="aboutDialog" aria-label="도감 이야기 닫기">×</button><p class="eyebrow">우리 도감 이야기</p><h2 id="aboutTitle">한 종씩, 정확하게.<br>바다를 알아가는 도감.</h2><p>Dino Atlas와 Insect Atlas의 탐색·관찰 방식을 이어받아, 지금 바다에 살아 있는 동물들을 소개합니다. 첫 항해는 투구게·대왕오징어·향유고래와 함께 시작해요.</p><h3>자료와 삽화를 읽는 방법</h3><p>종 설명은 연구기관·박물관·수족관 자료를 대조해 정리했으며 전문가 감수 전입니다. 도감의 그림은 ChatGPT로 만든 자체 제작 삽화이며 실제 사진이 아닙니다. 핵심 형태를 눈으로 대조했지만 전문가 감수 전입니다.</p><p>삽화와 실물 사진, 표본 이미지는 구분해 표시합니다. 수심은 서식지와 잠수 활동의 의미를 함께 적고, 이름이 비슷한 다른 종의 정보를 섞지 않습니다.</p><h3>작은 기록을 남겨보세요</h3><p>책갈피는 이 브라우저에만 저장됩니다. 종 상세의 원문 자료와 이미지 안내를 열어, 조금 더 깊이 살펴보세요.</p><button class="primary-button" type="button" data-close="aboutDialog">도감으로 돌아가기 →</button></dialog>
+  <script type="module" src="./app.js?v=20261003-interactions"></script>
+</body>
+</html>
