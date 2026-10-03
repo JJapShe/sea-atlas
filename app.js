@@ -1,4 +1,4 @@
-import { animals, habitats, groups, depthZones } from "./data/animals.js";
+import { animals, habitats, groups, depthZones } from "./data/animals.js?v=20261003-deep-sea";
 
 const normalized = (value) => String(value).normalize("NFKC").toLocaleLowerCase().replace(/\s+/g, "");
 export function filterAnimals(records, { query = "", group = "", habitat = "", depth = "", bookmarksOnly = false, bookmarkIds = [] } = {}) {
@@ -29,8 +29,9 @@ function init() {
     if (Array.isArray(saved)) state.bookmarkIds = [...new Set(saved.filter((id) => typeof id === "string" && animals.some((animal) => animal.id === id)))];
   } catch { /* Damaged or unavailable storage must not prevent exploration. */ }
 
-  const groupsIcons = { "어류": "◁", "포유류": "⌒", "연체동물": "◉", "절지동물": "⋈", "자포동물": "♧", "극피동물": "✳", "파충류": "◇" };
+  const groupsIcons = { "어류": "◁", "포유류": "⌒", "연체동물": "◉", "절지동물": "⋈", "자포동물": "♧", "극피동물": "✳", "파충류": "◇", "빗해파리류": "✧" };
   $("#speciesCount").textContent = animals.length;
+  $("#groupCount").textContent = groups.length;
   const coverAnimal = animals.find((animal) => animal.id === "sperm-whale");
   const cover = primaryImage(coverAnimal);
   if (cover?.role === "illustration") $("#heroPhoto").style.backgroundImage = `url("${cover.src}")`;

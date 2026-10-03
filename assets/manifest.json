@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-03",
-  "reviewNote": "18종 각 3장 이상, 공유 상호작용 2장 포함 56개 원본 이미지·58개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전.",
+  "reviewNote": "24종 각 3장 이상, 공유 상호작용 2장 포함 74개 원본 이미지·76개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -1595,6 +1595,554 @@
         {
           "title": "Charles Darwin Foundation — Marine iguanas: between land and sea (2022), printed p26",
           "url": "https://www.darwinfoundation.org/en/documents/110/FCD_Marine_iguanas_between_land_and_sea.pdf"
+        }
+      ]
+    },
+    {
+      "id": "barreleye",
+      "src": "assets/images/barreleye-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "투명머리물고기 · 투명막 안의 관 모양 눈",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "투명한 머리 막 내부의 녹색 관눈2와 얼굴 바깥 검은 후각기관2가 따로 읽힌다. 불투명 몸통·작은 입·근측 큰 가슴핀·등핀·뒷핀·갈라진 꼬리 전체 확인. 원측 짝지느러미와 배지느러미는 가려 전수 확인하지 않는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original natural-history illustration for Sea Atlas for children ages 5–12. Refined realistic painterly style, subtle brush texture, believable wild animal anatomy, natural proportions, quiet documentary mood. Landscape 3:2. Full animal, fins and tail inside the frame with generous margins. Dark blue-black deep midwater without surface, sunbeams or seafloor; soft neutral illustration lighting solely to make the form readable, not claimed sunlight or biological glow. No text, labels, arrows, watermark, humans, submersibles, fantasy, anthropomorphism, horror, blood, wounds, torn prey or aggressive monster expression. Subject: ONE Macropinna microstoma barreleye fish with an opaque dark olive-gray small fish body, fine scales, a SMALL closed horizontal mouth at the front of the snout, translucent broad paired pectoral fins near the sides and translucent dorsal/anal fins toward the rear, and one complete translucent forked fish tail. Above the face is a continuous rounded clear fluid-filled tissue shield, NOT a glass helmet, NOT a skeletal skull and NOT a wholly transparent body. Exactly TWO cylindrical tubular eyes are INSIDE the shield behind the face, each topped by a green lens. Clearly reveal enough of the tube under each green lens to read it as a tubular internal eye. Exactly TWO little dark nares/olfactory organs on the outer front face ABOVE the mouth; these are simple dark depressions with no iris or sclera, NOT exterior cartoon eyes. No extra eyes, no glowing emitted rays, no smiling face. Composition: left-facing front-side three-quarter whole body at eye level. The two internal green tubular eyes point UP toward the shield roof while the dark nares remain distinct on the face. Fish holds a level horizontal posture with its broad pectoral fins extended. Empty midwater, a few tiny suspended particles, no prey. Educational reconstruction of the animal, not a scientific specimen photo."
+      ],
+      "generatedAt": "2026-10-03T07:14:34.065Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "3ff1cc3e368e28dcafe72c6a4e156b84747d646e7a4d564b61a55e173ff119ef",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+    },
+    {
+      "id": "barreleye",
+      "src": "assets/images/barreleye-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "투명머리물고기 · 작은 동물플랑크톤에 접근",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "투명한 머리 막 안 녹색 관눈2와 바깥 후각기관2가 구분된다. 작은 입·불투명 몸통·근측 가슴핀·아래 배핀 윤곽·등/뒷핀·갈라진 꼬리 전체 확인. 눈은 앞쪽으로 기울어 보이나 정확 회전각·실제 전방 시선 확정 불가, 원측 핀은 가림.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original natural-history illustration for Sea Atlas for children ages 5–12. Refined realistic painterly style, subtle brush texture, believable wild animal anatomy, natural proportions, quiet documentary mood. Landscape 3:2. Full animal, fins and tail inside the frame with generous margins. Dark blue-black deep midwater without surface, sunbeams or seafloor; soft neutral illustration lighting solely to make the form readable, not claimed sunlight or biological glow. No text, labels, arrows, watermark, humans, submersibles, fantasy, anthropomorphism, horror, blood, wounds, torn prey or aggressive monster expression. Subject: ONE Macropinna microstoma barreleye fish with an opaque dark olive-gray small fish body, fine scales, a SMALL closed horizontal mouth at the front of the snout, translucent broad paired pectoral fins near the sides and translucent dorsal/anal fins toward the rear, and one complete translucent forked fish tail. Above the face is a continuous rounded clear fluid-filled tissue shield, NOT a glass helmet, NOT a skeletal skull and NOT a wholly transparent body. Exactly TWO cylindrical tubular eyes are INSIDE the shield behind the face, each topped by a green lens. Clearly reveal enough of the tube under each green lens to read it as a tubular internal eye. Exactly TWO little dark nares/olfactory organs on the outer front face ABOVE the mouth; these are simple dark depressions with no iris or sclera, NOT exterior cartoon eyes. No extra eyes, no glowing emitted rays, no smiling face. Composition: right-facing low front-side three-quarter whole body, gently angled upward. The two green tubular eyes rotate FORWARD inside the clear shield to face a SINGLE tiny intact drifting copepod-like crustacean just ahead and slightly above the SMALL mouth. No prey touching the mouth, no captured or wounded animal. Other fins stable, complete tail. Educational reconstruction of approaching zooplankton based on diet and observed eye rotation; do NOT depict a proven kill, siphonophore food theft or contact with stinging tentacles."
+      ],
+      "generatedAt": "2026-10-03T07:15:41.185Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "1ddc2518fdbd1cac8099e90323b0e2c5504b6db45dadc24cca549bfa50e553a2",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "작은 온전한 갑각류 앞에 간격을 두고 접근하는 먹이활동 재구성. 초록 관눈이 앞·위 방향으로 기울어진 모습이 읽히지만 정확한 회전 각도와 실제 섭식 성공은 인증하지 않는다. 관해파리 먹이 탈취 가설을 확정 장면으로 그리지 않았다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Barreleye fish",
+          "url": "https://www.mbari.org/animal/barreleye-fish/"
+        },
+        {
+          "title": "MBARI — Tubular eyes and transparent head (2009)",
+          "url": "https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/"
+        }
+      ]
+    },
+    {
+      "id": "barreleye",
+      "src": "assets/images/barreleye-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "투명머리물고기 · 중층에서 자세 유지",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "녹색 관눈2가 투명막 안에 있고 바깥 검은 후각기관2와 분리된다. 불투명 검갈색 몸·작은 입·양 가슴핀·등핀·뒷핀·갈라진 꼬리의 연결과 전체 프레임 확인. 일부 배쪽 핀과 미세 줄 수는 불명.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original natural-history illustration for Sea Atlas for children ages 5–12. Refined realistic painterly style, subtle brush texture, believable wild animal anatomy, natural proportions, quiet documentary mood. Landscape 3:2. Full animal, fins and tail inside the frame with generous margins. Dark blue-black deep midwater without surface, sunbeams or seafloor; soft neutral illustration lighting solely to make the form readable, not claimed sunlight or biological glow. No text, labels, arrows, watermark, humans, submersibles, fantasy, anthropomorphism, horror, blood, wounds, torn prey or aggressive monster expression. Subject: ONE Macropinna microstoma barreleye fish with an opaque dark olive-gray small fish body, fine scales, a SMALL closed horizontal mouth at the front of the snout, translucent broad paired pectoral fins near the sides and translucent dorsal/anal fins toward the rear, and one complete translucent forked fish tail. Above the face is a continuous rounded clear fluid-filled tissue shield, NOT a glass helmet, NOT a skeletal skull and NOT a wholly transparent body. Exactly TWO cylindrical tubular eyes are INSIDE the shield behind the face, each topped by a green lens. Clearly reveal enough of the tube under each green lens to read it as a tubular internal eye. Exactly TWO little dark nares/olfactory organs on the outer front face ABOVE the mouth; these are simple dark depressions with no iris or sclera, NOT exterior cartoon eyes. No extra eyes, no glowing emitted rays, no smiling face. Composition: a HIGH front-side oblique viewpoint of one fish facing upper-left; whole body and complete tail visible while broad translucent pectoral fins extend to hold position. Two internal green tubular eyes point upward under the intact transparent head shield. Body is horizontal in open dark twilight midwater with tiny drifting particles; no surface, seafloor, jelly or other fish. A different view from the portrait. Educational reconstruction of hovering in midwater, not proof of exact movement or water depth."
+      ],
+      "generatedAt": "2026-10-03T07:18:20.314Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "0b8c6a190f96c87519f179a26aab0ff9c0404a3284d2c12d2a6a050f4deb79de",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "중층에서 넓은 가슴지느러미를 펼친 자세 유지 재구성이다. 정지 그림으로 실제 부동 상태·정확한 수심·회전 각도를 인증하지 않는다. 프롬프트의 높은 시점보다는 앞쪽 비스듬한 구도로 나왔으나 대표와 구분되는 전신 시점이다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Barreleye fish",
+          "url": "https://www.mbari.org/animal/barreleye-fish/"
+        },
+        {
+          "title": "MBARI — Tubular eyes and transparent head (2009)",
+          "url": "https://www.mbari.org/news/researchers-solve-mystery-of-deep-sea-fish-with-tubular-eyes-and-transparent-head/"
+        }
+      ]
+    },
+    {
+      "id": "black-seadevil",
+      "src": "assets/images/black-seadevil-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "검은바다악마 · 작은 불빛과 둥근 몸",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 둥근 검갈색 몸, 작은 근측 옆눈, 큰 입과 가는 치아, 머리에서 나온 단일 낚싯대와 단일 밝은 끝, 근측 가슴지느러미·뒤쪽 등/뒷지느러미·짧은 부채 꼬리를 확인했다. 원측 가슴지느러미와 반대눈은 가려져 짝 전체·치아와 지느러미살의 정확 수를 인증하지 않는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One ORIGINAL Sea Atlas natural-history illustration for children ages 5–12. Refined painterly realism with subtle brush texture, scientifically plausible natural anatomy, natural tiny eyes and calm documentary presentation, no anthropomorphism. Landscape 3:2. Whole focal animal, every important appendage and complete tail inside the frame with generous margins. Dark deep-ocean midwater fading into black, sparse suspended particles, no visible sea surface, no sunbeams, no caustics, no seabed unless specified, no bubble wake. Subtle neutral soft illustrative fill light lets children understand its shape; this light is not natural sunlight or a claimed luminescent body. No text, arrows, labels, logos, border, humans, boats, blood, wounds, violence, horror expressions, fantasy spikes, huge cartoon eyes, plastic sheen or glowing eyes. Subject ONE female black seadevil anglerfish, Melanocetus johnsonii: compact globose black-to-dark-brown soft-skinned body, a large natural upturned mouth, small non-glowing lateral eyes, slender modest uneven inward-pointing teeth without exaggerated monster fangs. ONE thin curved illicium fishing stalk naturally emerging from the top front of the head, ending in ONE small softly glowing pale bulb-like esca with only a faint local halo. Not multiple lures, no giant lantern. Paired small rounded pectoral fins behind the head, one modest posterior dorsal fin, one anal fin beneath the rear body, and one short caudal peduncle with a simple small fan-shaped tail, no long eel tail, no pelvic leg-fins, legs or feet. Natural fin membrane rays, no huge horned forehead. Portrait: centered oblique SIDE view facing left, mouth only slightly parted so a few fine teeth read naturally, both head stalk and complete tail visible. Near pectoral fin clear; far pectoral may be naturally hidden. Lure hangs forward above head, low gentle glow. No prey. Relaxed floating pose."
+      ],
+      "generatedAt": "2026-10-03T07:13:26.767Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "8a9ebbe7145caee447785e97dfdc910a5170edb9fcc88cc3c5a9395f6ab7aa6c",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+    },
+    {
+      "id": "black-seadevil",
+      "src": "assets/images/black-seadevil-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "검은바다악마 · 불빛 가까이에 온 작은 먹이",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 둥근 검갈색 몸, 작은 근측 옆눈, 큰 입과 가는 치아, 머리에서 나온 단일 낚싯대와 단일 밝은 끝, 근측 가슴지느러미·뒤쪽 등/뒷지느러미·짧은 부채 꼬리를 확인했다. 원측 가슴지느러미와 반대눈은 가려져 짝 전체·치아와 지느러미살의 정확 수를 인증하지 않는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One ORIGINAL Sea Atlas natural-history illustration for children ages 5–12. Refined painterly realism with subtle brush texture, scientifically plausible natural anatomy, natural tiny eyes and calm documentary presentation, no anthropomorphism. Landscape 3:2. Whole focal animal, every important appendage and complete tail inside the frame with generous margins. Dark deep-ocean midwater fading into black, sparse suspended particles, no visible sea surface, no sunbeams, no caustics, no seabed unless specified, no bubble wake. Subtle neutral soft illustrative fill light lets children understand its shape; this light is not natural sunlight or a claimed luminescent body. No text, arrows, labels, logos, border, humans, boats, blood, wounds, violence, horror expressions, fantasy spikes, huge cartoon eyes, plastic sheen or glowing eyes. Subject ONE female black seadevil anglerfish, Melanocetus johnsonii: compact globose black-to-dark-brown soft-skinned body, a large natural upturned mouth, small non-glowing lateral eyes, slender modest uneven inward-pointing teeth without exaggerated monster fangs. ONE thin curved illicium fishing stalk naturally emerging from the top front of the head, ending in ONE small softly glowing pale bulb-like esca with only a faint local halo. Not multiple lures, no giant lantern. Paired small rounded pectoral fins behind the head, one modest posterior dorsal fin, one anal fin beneath the rear body, and one short caudal peduncle with a simple small fan-shaped tail, no long eel tail, no pelvic leg-fins, legs or feet. Natural fin membrane rays, no huge horned forehead. Feeding educational reconstruction: lower front SIDE three-quarter view facing right, a SINGLE very small intact deep-sea shrimp floating a little ahead of the softly glowing head lure. Shrimp is clearly separated from mouth, all shrimp legs normal and tiny, no biting or swallowing. Mouth naturally moderately parted without screaming. Patient ambush before capture, no chase lines. Show full fish and tail, no extra lure or tooth inflation."
+      ],
+      "generatedAt": "2026-10-03T07:14:22.287Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "5f2d756d74331c828f5565403c6805054e37e078103bb56cd9fd0e0fba2172e7",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "발광 미끼 가까이에 작은 갑각류가 접근한 상황을 기관 설명으로 재구성했다. 실제 유인·포획·삼킴 성공은 정지 그림으로 확인 불가하며 잔인한 섭식 표현은 없다.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Black seadevil anglerfish",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/black-seadevil-anglerfish"
+        },
+        {
+          "title": "MBARI — Melanocetus johnsonii observed at 580m (2014)",
+          "url": "https://www.mbari.org/news/amazing-black-sea-devil-anglerfish-observed-in-monterey-bay/"
+        }
+      ]
+    },
+    {
+      "id": "black-seadevil",
+      "src": "assets/images/black-seadevil-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "검은바다악마 · 어두운 물속에서 떠 있기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 둥근 검갈색 몸, 작은 근측 옆눈, 큰 입과 가는 치아, 머리에서 나온 단일 낚싯대와 단일 밝은 끝, 근측 가슴지느러미·뒤쪽 등/뒷지느러미·짧은 부채 꼬리를 확인했다. 원측 가슴지느러미와 반대눈은 가려져 짝 전체·치아와 지느러미살의 정확 수를 인증하지 않는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One ORIGINAL Sea Atlas natural-history illustration for children ages 5–12. Refined painterly realism with subtle brush texture, scientifically plausible natural anatomy, natural tiny eyes and calm documentary presentation, no anthropomorphism. Landscape 3:2. Whole focal animal, every important appendage and complete tail inside the frame with generous margins. Dark deep-ocean midwater fading into black, sparse suspended particles, no visible sea surface, no sunbeams, no caustics, no seabed unless specified, no bubble wake. Subtle neutral soft illustrative fill light lets children understand its shape; this light is not natural sunlight or a claimed luminescent body. No text, arrows, labels, logos, border, humans, boats, blood, wounds, violence, horror expressions, fantasy spikes, huge cartoon eyes, plastic sheen or glowing eyes. Subject ONE female black seadevil anglerfish, Melanocetus johnsonii: compact globose black-to-dark-brown soft-skinned body, a large natural upturned mouth, small non-glowing lateral eyes, slender modest uneven inward-pointing teeth without exaggerated monster fangs. ONE thin curved illicium fishing stalk naturally emerging from the top front of the head, ending in ONE small softly glowing pale bulb-like esca with only a faint local halo. Not multiple lures, no giant lantern. Paired small rounded pectoral fins behind the head, one modest posterior dorsal fin, one anal fin beneath the rear body, and one short caudal peduncle with a simple small fan-shaped tail, no long eel tail, no pelvic leg-fins, legs or feet. Natural fin membrane rays, no huge horned forehead. Ecology: slightly elevated REAR SIDE three-quarter view, fish facing upper-left at a small upward angle, show rounded body and rear dorsal/anal/tail arrangement clearly while the head with tiny eye and one lure remains readable. Single fish floating quietly in the enormous dark midwater, placed slightly left of center with more negative space to right. Mouth closed or gently parted, no prey. No seafloor; habitat depiction only, not a measured depth or event."
+      ],
+      "generatedAt": "2026-10-03T07:15:05.637Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "afe744844f6e6358ab6b6511cfe5d71e8adbcde6580d07772ea271f90b9971ab",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "어두운 물속에 홀로 떠 있는 서식 구도. 관찰 수심·실제 이동·대기 섭식·발광 세기를 인증하지 않는다. 피부를 읽기 위한 중성 삽화 조명은 태양광이 아니다.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Black seadevil anglerfish",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/black-seadevil-anglerfish"
+        },
+        {
+          "title": "MBARI — Melanocetus johnsonii observed at 580m (2014)",
+          "url": "https://www.mbari.org/news/amazing-black-sea-devil-anglerfish-observed-in-monterey-bay/"
+        }
+      ]
+    },
+    {
+      "id": "pelican-eel",
+      "src": "assets/images/pelican-eel-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "펠리컨장어 · 큰 입과 가느다란 꼬리",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 주둥이 가까운 작은 눈, 긴 큰 턱과 그 아래 넓은 목주머니, 검은 단일 길쭉한 몸, 작은 근측 가슴지느러미, 낮게 이어지는 지느러미 가장자리, 가늘어지는 긴 단일 꼬리와 작은 분홍 끝을 확인했다. 큰 부채꼬리/아귀 낚싯대/거대 송곳니는 보이지 않는다. 미세 치아 줄·원측 핀·아가미 구멍은 정확히 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One ORIGINAL Sea Atlas natural-history illustration for children ages 5–12. Refined painterly realism with subtle brush texture, scientifically plausible natural anatomy, natural tiny eyes and calm documentary presentation, no anthropomorphism. Landscape 3:2. Whole focal animal, every important appendage and complete tail inside the frame with generous margins. Dark deep-ocean midwater fading into black, sparse suspended particles, no visible sea surface, no sunbeams, no caustics, no seabed unless specified, no bubble wake. Subtle neutral soft illustrative fill light lets children understand its shape; this light is not natural sunlight or a claimed luminescent body. No text, arrows, labels, logos, border, humans, boats, blood, wounds, violence, horror expressions, fantasy spikes, huge cartoon eyes, plastic sheen or glowing eyes. Subject ONE pelican eel, Eurypharynx pelecanoides, NOT Saccopharynx: velvety soft black scaleless skin, tiny skull relative to massive long jaws, very small eyes close to snout tip. Large pouch-like expandable throat beneath the jaws, a coherent continuous slender elongated body that tapers into ONE extremely long compressed whip-like tail. Tiny reduced pectoral fins low on body just behind small gill openings, thin low continuous dorsal and anal fin margins along the tail. NO broad fan-shaped caudal fin, forked tail, fish tail paddle, legs, wing fins, head fishing stalk, huge teeth, horns or dragon crest. Small numerous teeth only. Tail ends with a tiny subtle pinkish luminous organ, no big neon ball and no claim it attracts food. Portrait: clean whole-animal oblique SIDE view with head facing left and the large jaws gently open, broad lower throat pouch relaxed rather than fully inflated. Main body and extremely long tapering tail sweep gently toward the right in one uninterrupted shallow S, complete minute pinkish tail tip visible inside generous margin. One near pectoral fin tiny and clear. This silhouette must read as a large jawed pelican eel followed by a slender tapering body, not a normal moray eel. No prey."
+      ],
+      "generatedAt": "2026-10-03T07:15:53.719Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "28436be9320582c3a7a110d202bc60773355072c446928e73268d67e6a7ce812",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+    },
+    {
+      "id": "pelican-eel",
+      "src": "assets/images/pelican-eel-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "펠리컨장어 · 넓은 입 앞의 작은 갑각류",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 주둥이 가까운 작은 눈, 긴 큰 턱과 그 아래 넓은 목주머니, 검은 단일 길쭉한 몸, 작은 근측 가슴지느러미, 낮게 이어지는 지느러미 가장자리, 가늘어지는 긴 단일 꼬리와 작은 분홍 끝을 확인했다. 큰 부채꼬리/아귀 낚싯대/거대 송곳니는 보이지 않는다. 미세 치아 줄·원측 핀·아가미 구멍은 정확히 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One ORIGINAL Sea Atlas natural-history illustration for children ages 5–12. Refined painterly realism with subtle brush texture, scientifically plausible natural anatomy, natural tiny eyes and calm documentary presentation, no anthropomorphism. Landscape 3:2. Whole focal animal, every important appendage and complete tail inside the frame with generous margins. Dark deep-ocean midwater fading into black, sparse suspended particles, no visible sea surface, no sunbeams, no caustics, no seabed unless specified, no bubble wake. Subtle neutral soft illustrative fill light lets children understand its shape; this light is not natural sunlight or a claimed luminescent body. No text, arrows, labels, logos, border, humans, boats, blood, wounds, violence, horror expressions, fantasy spikes, huge cartoon eyes, plastic sheen or glowing eyes. Subject ONE pelican eel, Eurypharynx pelecanoides, NOT Saccopharynx: velvety soft black scaleless skin, tiny skull relative to massive long jaws, very small eyes close to snout tip. Large pouch-like expandable throat beneath the jaws, a coherent continuous slender elongated body that tapers into ONE extremely long compressed whip-like tail. Tiny reduced pectoral fins low on body just behind small gill openings, thin low continuous dorsal and anal fin margins along the tail. NO broad fan-shaped caudal fin, forked tail, fish tail paddle, legs, wing fins, head fishing stalk, huge teeth, horns or dragon crest. Small numerous teeth only. Tail ends with a tiny subtle pinkish luminous organ, no big neon ball and no claim it attracts food. Feeding reconstruction: LOW SIDE three-quarter angle facing right, enormous jaws naturally opened and lower throat pouch expanded into a soft dark triangular scoop, tiny eye at upper snout. A SINGLE small intact deep-sea shrimp rests in open water JUST AHEAD of the gape, distinctly separate, no actual swallowing, no wounds. The eel's body curves back to left and down in a single long slender tapering tail with minute pinkish tip fully framed. Jaws have only extremely small fine teeth, no fangs. Do not claim tail light is a prey lure. All eel and shrimp in frame."
+      ],
+      "generatedAt": "2026-10-03T07:16:37.899Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "cda5ce1b647adaaf43f85f15870fb24f9b526c2d0dca491dd6294462999821e9",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "입 앞에 작은 온전한 갑각류가 놓인 안전한 섭식 준비 재구성. 실제 흡입·물 배출·삼킴 성공과 먹이 종을 인증하지 않으며 꼬리빛을 먹이 미끼로 단정하지 않는다.",
+      "behaviorSources": [
+        {
+          "title": "Australian Museum — Pelican Eel, Eurypharynx pelecanoides",
+          "url": "https://australian.museum/learn/animals/fishes/pelican-eel-eurypharynx-pelecanoides/"
+        },
+        {
+          "title": "Museums Victoria / Fishes of Australia — Eurypharynx pelecanoides",
+          "url": "https://fishesofaustralia.net.au/home/species/3300"
+        }
+      ]
+    },
+    {
+      "id": "pelican-eel",
+      "src": "assets/images/pelican-eel-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "펠리컨장어 · 깊은 물속에서 헤엄치기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 주둥이 가까운 작은 눈, 긴 큰 턱과 그 아래 넓은 목주머니, 검은 단일 길쭉한 몸, 작은 근측 가슴지느러미, 낮게 이어지는 지느러미 가장자리, 가늘어지는 긴 단일 꼬리와 작은 분홍 끝을 확인했다. 큰 부채꼬리/아귀 낚싯대/거대 송곳니는 보이지 않는다. 미세 치아 줄·원측 핀·아가미 구멍은 정확히 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One ORIGINAL Sea Atlas natural-history illustration for children ages 5–12. Refined painterly realism with subtle brush texture, scientifically plausible natural anatomy, natural tiny eyes and calm documentary presentation, no anthropomorphism. Landscape 3:2. Whole focal animal, every important appendage and complete tail inside the frame with generous margins. Dark deep-ocean midwater fading into black, sparse suspended particles, no visible sea surface, no sunbeams, no caustics, no seabed unless specified, no bubble wake. Subtle neutral soft illustrative fill light lets children understand its shape; this light is not natural sunlight or a claimed luminescent body. No text, arrows, labels, logos, border, humans, boats, blood, wounds, violence, horror expressions, fantasy spikes, huge cartoon eyes, plastic sheen or glowing eyes. Subject ONE pelican eel, Eurypharynx pelecanoides, NOT Saccopharynx: velvety soft black scaleless skin, tiny skull relative to massive long jaws, very small eyes close to snout tip. Large pouch-like expandable throat beneath the jaws, a coherent continuous slender elongated body that tapers into ONE extremely long compressed whip-like tail. Tiny reduced pectoral fins low on body just behind small gill openings, thin low continuous dorsal and anal fin margins along the tail. NO broad fan-shaped caudal fin, forked tail, fish tail paddle, legs, wing fins, head fishing stalk, huge teeth, horns or dragon crest. Small numerous teeth only. Tail ends with a tiny subtle pinkish luminous organ, no big neon ball and no claim it attracts food. Ecology: HIGH SIDE oblique view from above, head toward upper-left, massive jaw only slightly open with relaxed pouch. Long black body and tail form a gentle smooth diagonal S toward lower-right, all tail and tiny pinkish tip visible. Show low dorsal and anal ribbon edges, extremely small eye and reduced pectoral fin anatomically connected. Animal swimming alone in dark ocean midwater, no surface or seabed, no prey, no invented balloon defense or mating scene. More open space and smaller animal in frame than portrait."
+      ],
+      "generatedAt": "2026-10-03T07:17:15.975Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "a3ab712bc0443e94048d8f6c9a7ab26cf6fe563071c4f2859e28b6f00e6cfbe9",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "심해 물속 단독 유영 서식 재구성. 방어 팽창·교미·먹이 유인·실제 수심을 주장하지 않는다. 꼬리 기관의 약한 분홍 표시는 기관 형태를 설명하는 표현이다.",
+      "behaviorSources": [
+        {
+          "title": "Australian Museum — Pelican Eel, Eurypharynx pelecanoides",
+          "url": "https://australian.museum/learn/animals/fishes/pelican-eel-eurypharynx-pelecanoides/"
+        },
+        {
+          "title": "Museums Victoria / Fishes of Australia — Eurypharynx pelecanoides",
+          "url": "https://fishesofaustralia.net.au/home/species/3300"
+        }
+      ]
+    },
+    {
+      "id": "fangtooth",
+      "src": "assets/images/fangtooth-chatgpt-portrait-v3.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "송곳니고기 · 입을 다문 성체 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "짧고 높은 검갈색 몸·큰 뼈질 머리의 능선/오목부·작은 옆눈·옆줄·근측 가슴핀과 배핀·등핀·뒷핀·갈라진 꼬리 연결과 전신 프레임 확인. 입이 거의 닫혀 긴 이빨 두 개의 기부·방향·전수는 확인 불가. 원측 짝지느러미 가림.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original natural-history illustration for Sea Atlas for children ages 5–12. Refined realistic painterly style, subtle brush texture, believable wild animal anatomy, natural proportions, quiet documentary mood. Landscape 3:2. Full animal, fins and tail inside the frame with generous margins. Dark blue-black deep midwater without surface, sunbeams or seafloor; soft neutral illustration lighting solely to make the form readable, not claimed sunlight or biological glow. No text, labels, arrows, watermark, humans, submersibles, fantasy, anthropomorphism, horror, blood, wounds, torn prey or aggressive monster expression.  Subject: one small adult common fangtooth Anoplogaster cornuta. Natural deep-sea fish, short deep dark brown-black body, large bony head with rough serrated ridges and cavities, tiny SMALL eye only about 1/12 of head height, small prickly body scales, pronounced lateral-line groove. Stubby pectoral and pelvic fins naturally paired with occlusion, one rear dorsal fin, one rear anal fin, and complete forked tail. NO juvenile long head horns, no lure. The mouth is FULLY CLOSED in a natural oblique jaw line. The lower-jaw fangs fit into upper-mouth pockets and are concealed when the jaw shuts. NO exposed gigantic downward tusks, NO roaring gape, NO human lips. Show a real small marine fish, not a monster. Portrait composition: one fish whole body facing left, strict natural lateral profile with a slight frontward angle. Fully closed mouth, one small lateral eye, quiet dark midwater, no prey. Full fins and forked tail with generous margins. Refined painterly realism. Educational anatomy reconstruction, not an observed specimen."
+      ],
+      "generatedAt": "2026-10-03T07:22:13.675Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "460b3380ba025e8d0d27819def6aa963cd1a244973330a207cddd575292dfc83",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+    },
+    {
+      "id": "fangtooth",
+      "src": "assets/images/fangtooth-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "송곳니고기 · 작은 물고기에 접근",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "짧고 높은 검갈색 몸·큰 머리의 능선·작은 눈·옆줄·근측 가슴/배핀·등/뒷핀·갈라진 꼬리 연결을 확인. 작은 먹이 물고기도 온전하며 두 동물 사이 간격이 있다. 닫힌 입 내부 치아·원측 짝지느러미는 확인 불가.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original natural-history illustration for Sea Atlas for children ages 5–12. Refined realistic painterly style, subtle brush texture, believable wild animal anatomy, natural proportions, quiet documentary mood. Landscape 3:2. Full animal, fins and tail inside the frame with generous margins. Dark blue-black deep midwater without surface, sunbeams or seafloor; soft neutral illustration lighting solely to make the form readable, not claimed sunlight or biological glow. No text, labels, arrows, watermark, humans, submersibles, fantasy, anthropomorphism, horror, blood, wounds, torn prey or aggressive monster expression.  Subject: one small adult common fangtooth Anoplogaster cornuta. Natural deep-sea fish, short deep dark brown-black body, large bony head with rough serrated ridges and cavities, tiny SMALL eye only about 1/12 of head height, small prickly body scales, pronounced lateral-line groove. Stubby pectoral and pelvic fins naturally paired with occlusion, one rear dorsal fin, one rear anal fin, and complete forked tail. NO juvenile long head horns, no lure. The mouth is FULLY CLOSED in a natural oblique jaw line. The lower-jaw fangs fit into upper-mouth pockets and are concealed when the jaw shuts. NO exposed gigantic downward tusks, NO roaring gape, NO human lips. Show a real small marine fish, not a monster. Feeding composition: whole adult fish facing RIGHT in a front-side oblique angle. Mouth remains CLOSED as the fish approaches ONE very small intact silver fish floating clearly in front with a gap between them. No contact or capture. No teeth visible because the mouth is shut. Full fish bodies and all tails within generous frame margins. Quiet dark open midwater. Reconstruction based on adult fish diet, not proof of actual predation."
+      ],
+      "generatedAt": "2026-10-03T07:23:23.568Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "cc6ba4b9c10b7a4ebb089ff33bfff3a9fe5c84d2552adb06c0ab9cba1d566e2b",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "온전한 작은 물고기와 입 사이의 간격이 있는 접근 장면. 성체 식단 근거의 교육 재구성이며 실제 추적·포획·섭식 성공 또는 먹이의 종을 단정하지 않는다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Fangtooth",
+          "url": "https://www.mbari.org/animal/fangtooth/"
+        },
+        {
+          "title": "Australian Museum — Fangtooth, Anoplogaster cornuta",
+          "url": "https://australian.museum/learn/animals/fishes/fangtooth-anoplogaster-cornuta-valenciennes-1833/"
+        }
+      ]
+    },
+    {
+      "id": "fangtooth",
+      "src": "assets/images/fangtooth-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "송곳니고기 · 어두운 중층의 다른 구도",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "비스듬한 검갈색 몸·큰 머리의 능선과 오목부·작은 눈·옆줄·근측 가슴/배핀·후방 등/뒷핀·갈라진 꼬리가 전부 프레임 안에서 읽힌다. 긴 유년 머리 가시·미끼 없음. 닫힌 입 속 이빨 기부/전수와 원측 핀은 가려졌다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original natural-history illustration for Sea Atlas for children ages 5–12. Refined realistic painterly style, subtle brush texture, believable wild animal anatomy, natural proportions, quiet documentary mood. Landscape 3:2. Full animal, fins and tail inside the frame with generous margins. Dark blue-black deep midwater without surface, sunbeams or seafloor; soft neutral illustration lighting solely to make the form readable, not claimed sunlight or biological glow. No text, labels, arrows, watermark, humans, submersibles, fantasy, anthropomorphism, horror, blood, wounds, torn prey or aggressive monster expression.  Subject: one small adult common fangtooth Anoplogaster cornuta. Natural deep-sea fish, short deep dark brown-black body, large bony head with rough serrated ridges and cavities, tiny SMALL eye only about 1/12 of head height, small prickly body scales, pronounced lateral-line groove. Stubby pectoral and pelvic fins naturally paired with occlusion, one rear dorsal fin, one rear anal fin, and complete forked tail. NO juvenile long head horns, no lure. The mouth is FULLY CLOSED in a natural oblique jaw line. The lower-jaw fangs fit into upper-mouth pockets and are concealed when the jaw shuts. NO exposed gigantic downward tusks, NO roaring gape, NO human lips. Show a real small marine fish, not a monster. Ecology composition: HIGH rear-side oblique whole-body view, one adult faces upper-right away from viewer. Keep near small eye and head ridges visible, lateral-line groove, whole dorsal/anal/near paired fins and forked tail. Mouth remains completely closed. Quiet solitary open dark midwater with tiny drifting particles. No seafloor or surface. Different viewpoint from portrait, educational midwater posture reconstruction."
+      ],
+      "generatedAt": "2026-10-03T07:24:16.043Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "4fbb529c0bccde4263e0bffca8007a8808189e20cfbf55c0daeae3624a44f324",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "어두운 중층의 다른 자세를 보여 주는 교육 재구성이다. 프롬프트의 뒤쪽 시점보다 옆쪽 기울어진 구도로 나왔으나 대표/먹이와 구도가 다르다. 실제 상향 이동·매복 사냥·수심을 인증하지 않는다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Fangtooth",
+          "url": "https://www.mbari.org/animal/fangtooth/"
+        },
+        {
+          "title": "Australian Museum — Fangtooth, Anoplogaster cornuta",
+          "url": "https://australian.museum/learn/animals/fishes/fangtooth-anoplogaster-cornuta-valenciennes-1833/"
+        }
+      ]
+    },
+    {
+      "id": "bloody-belly-comb-jelly",
+      "src": "assets/images/bloody-belly-comb-jelly-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "붉은배 빗해파리 · 붉은 위와 빗판의 전신 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 반투명 붉은 몸과 짙은 붉은 중심, 길게 이어지는 빗판 열, 입쪽의 넓은 두 엽을 확인했다. 눈·이빨·문어 팔·자포동물의 긴 촉수나 달해파리 네 생식소는 보이지 않는다. 뒤쪽 빗판 열과 작은 구강 구조는 겹침으로 여덟 열 전체와 정밀 기부를 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: ONE original Sea Atlas natural-history gallery illustration for children ages 5–12, horizontal landscape 3:2, no collage.\nStyle: refined naturalistic painterly realism, believable delicate marine anatomy and natural muted color, quiet documentary mood. Very dark navy-black deep-sea midwater or abyssal seafloor as specified. Soft neutral illustrative fill light reveals anatomy; this is not sunlight or emitted light. No visible surface, sunbeams, surface caustics, bubbles, text, labels, arrows, logo, border, humans, boats, blood, injury, horror, anthropomorphic face, eyes where absent, teeth where absent, fantasy neon aura or plastic appearance. Whole animal and all important appendage ends inside frame with generous margins.\nSubject identity: ONE bloody-belly comb jelly, Lampocteis cruentiventer, a lobate ctenophore, NOT a cnidarian jellyfish. A delicate translucent red-maroon gelatinous body, vertically elongated oval upper body with a domed aboral top, two broad rounded soft oral lobes continuing from its lower sides and framing a narrow central oral area. A large dark crimson central stomach/pharyngeal region is visible through the semitransparent body; subdued delicate canal lines only. Exactly eight longitudinal meridional comb rows overall, each a fine series of short closely spaced translucent ciliary plates, NOT giant spines or mechanical zippers. Show the naturally visible rows, allow back rows to hide under perspective; do not invent extra rows just to expose all eight. Short fine auricles near oral region may be naturally partly obscured. No long dangling cnidarian tentacle fringe, no moon-jelly umbrella or four horseshoe gonads, no octopus arms, eyes, face or bright glowing stomach. Tiny restrained iridescent glints on comb plates are diffraction of the soft illustrative light, NOT self-produced bioluminescence. No glowing aura or rays from the body.\nComposition: eye-level front three-quarter full portrait of the jelly hanging vertically in quiet black midwater. Its domed end points upward; two soft separated oral lobes open gently at the lower end. Main body about two-thirds of frame height and centrally placed, with open dark water and sparse tiny drifting specks. Render its translucent volume, dark red central stomach and fine longitudinal comb plates cleanly without clutter. No prey shown."
+      ],
+      "generatedAt": "2026-10-03T07:17:57.429Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "a363d138928324376d7a7d0fcbb34079152f15586372f1f1d81a210b40db91c1",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+    },
+    {
+      "id": "bloody-belly-comb-jelly",
+      "src": "assets/images/bloody-belly-comb-jelly-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "붉은배 빗해파리 · 작은 미동정 먹이에 접근하는 재구성",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 반투명 붉은 몸과 짙은 붉은 중심, 길게 이어지는 빗판 열, 입쪽의 넓은 두 엽을 확인했다. 눈·이빨·문어 팔·자포동물의 긴 촉수나 달해파리 네 생식소는 보이지 않는다. 뒤쪽 빗판 열과 작은 구강 구조는 겹침으로 여덟 열 전체와 정밀 기부를 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: ONE original Sea Atlas natural-history gallery illustration for children ages 5–12, horizontal landscape 3:2, no collage.\nStyle: refined naturalistic painterly realism, believable delicate marine anatomy and natural muted color, quiet documentary mood. Very dark navy-black deep-sea midwater or abyssal seafloor as specified. Soft neutral illustrative fill light reveals anatomy; this is not sunlight or emitted light. No visible surface, sunbeams, surface caustics, bubbles, text, labels, arrows, logo, border, humans, boats, blood, injury, horror, anthropomorphic face, eyes where absent, teeth where absent, fantasy neon aura or plastic appearance. Whole animal and all important appendage ends inside frame with generous margins.\nSubject identity: ONE bloody-belly comb jelly, Lampocteis cruentiventer, a lobate ctenophore, NOT a cnidarian jellyfish. A delicate translucent red-maroon gelatinous body, vertically elongated oval upper body with a domed aboral top, two broad rounded soft oral lobes continuing from its lower sides and framing a narrow central oral area. A large dark crimson central stomach/pharyngeal region is visible through the semitransparent body; subdued delicate canal lines only. Exactly eight longitudinal meridional comb rows overall, each a fine series of short closely spaced translucent ciliary plates, NOT giant spines or mechanical zippers. Show the naturally visible rows, allow back rows to hide under perspective; do not invent extra rows just to expose all eight. Short fine auricles near oral region may be naturally partly obscured. No long dangling cnidarian tentacle fringe, no moon-jelly umbrella or four horseshoe gonads, no octopus arms, eyes, face or bright glowing stomach. Tiny restrained iridescent glints on comb plates are diffraction of the soft illustrative light, NOT self-produced bioluminescence. No glowing aura or rays from the body.\nComposition: DISTINCT close oblique view from slightly BELOW toward the open oral lobes, body tilted diagonally upper-left to lower-right, whole body framed. A few extremely tiny indistinct pale animal-plankton specks drift just outside the narrow space between the two broad oral lobes. Do not draw an identifiable shrimp, copepod or fish, a captured large animal, food visibly swallowed, stinging attack, wrapping long tentacles, giant mouth, glowing prey or stomach emission. This only reconstructs a possible approach to small unidentified prey; the exact diet and capture process remain scientifically unknown. A dark red central stomach and fine comb rows remain coherent. Keep tiny specks clearly separated from the animal."
+      ],
+      "generatedAt": "2026-10-03T07:19:19.562Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "c354678c5f72ea1c4ab7d6a91ada00962675feb8e7e91f468ecd2876e78b8941",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "열린 입쪽 엽 주변의 작은 미동정 먹이에 접근하는 재구성이다. 정확한 먹이 종류와 포획 과정은 연구 중이며, 확립된 포획법·먹이 종·실제 섭식 성공을 주장하지 않는다. 빗판 무지갯빛은 조명 회절·굴절 표현이다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Bloody-belly comb jelly",
+          "url": "https://www.mbari.org/animal/bloody-belly-comb-jelly/"
+        },
+        {
+          "title": "Monterey Bay Aquarium — Bloody-belly comb jelly",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/bloodybelly-comb-jelly"
+        }
+      ]
+    },
+    {
+      "id": "bloody-belly-comb-jelly",
+      "src": "assets/images/bloody-belly-comb-jelly-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "붉은배 빗해파리 · 어두운 중층에서 유영하는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본 크기로 반투명 붉은 몸과 짙은 붉은 중심, 길게 이어지는 빗판 열, 입쪽의 넓은 두 엽을 확인했다. 눈·이빨·문어 팔·자포동물의 긴 촉수나 달해파리 네 생식소는 보이지 않는다. 뒤쪽 빗판 열과 작은 구강 구조는 겹침으로 여덟 열 전체와 정밀 기부를 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: ONE original Sea Atlas natural-history gallery illustration for children ages 5–12, horizontal landscape 3:2, no collage.\nStyle: refined naturalistic painterly realism, believable delicate marine anatomy and natural muted color, quiet documentary mood. Very dark navy-black deep-sea midwater or abyssal seafloor as specified. Soft neutral illustrative fill light reveals anatomy; this is not sunlight or emitted light. No visible surface, sunbeams, surface caustics, bubbles, text, labels, arrows, logo, border, humans, boats, blood, injury, horror, anthropomorphic face, eyes where absent, teeth where absent, fantasy neon aura or plastic appearance. Whole animal and all important appendage ends inside frame with generous margins.\nSubject identity: ONE bloody-belly comb jelly, Lampocteis cruentiventer, a lobate ctenophore, NOT a cnidarian jellyfish. A delicate translucent red-maroon gelatinous body, vertically elongated oval upper body with a domed aboral top, two broad rounded soft oral lobes continuing from its lower sides and framing a narrow central oral area. A large dark crimson central stomach/pharyngeal region is visible through the semitransparent body; subdued delicate canal lines only. Exactly eight longitudinal meridional comb rows overall, each a fine series of short closely spaced translucent ciliary plates, NOT giant spines or mechanical zippers. Show the naturally visible rows, allow back rows to hide under perspective; do not invent extra rows just to expose all eight. Short fine auricles near oral region may be naturally partly obscured. No long dangling cnidarian tentacle fringe, no moon-jelly umbrella or four horseshoe gonads, no octopus arms, eyes, face or bright glowing stomach. Tiny restrained iridescent glints on comb plates are diffraction of the soft illustrative light, NOT self-produced bioluminescence. No glowing aura or rays from the body.\nComposition: DISTINCT high rear-side three-quarter full view of the animal tilted gently toward the right in dark midwater with large negative space. The back comb rows and domed aboral end are favored by the perspective; two soft lower oral lobes can partly overlap naturally. Dark crimson stomach is only softly readable through the body. Show more subdued dim red tissue and only a few tiny diffraction colors where illustrative light touches comb plates, never a glowing neon jelly. Quiet water with sparse suspended particles, no seafloor or prey. Explain its cilia-driven midwater swimming by a calm ordinary swimming pose, without motion trails or arrows."
+      ],
+      "generatedAt": "2026-10-03T07:21:02.686Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "35b29ecd9c48a4b222efecb7910b86d14413a87fcb09c0ebde6765e5fdb5ff85",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "중층 유영 자세를 설명하는 재구성이다. 어두운 자연 환경에서 붉은색이 숨는 특징을 삽화 조명으로 드러내며 빗판 회절·굴절과 자체 발광을 구분한다. 속도·수심·실제 유영 방향을 측정한 그림이 아니다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Bloody-belly comb jelly",
+          "url": "https://www.mbari.org/animal/bloody-belly-comb-jelly/"
+        },
+        {
+          "title": "Monterey Bay Aquarium — Bloody-belly comb jelly",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/bloodybelly-comb-jelly"
+        }
+      ]
+    },
+    {
+      "id": "swimming-sea-cucumber",
+      "src": "assets/images/swimming-sea-cucumber-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "유영해삼 · 앞쪽 유영막과 반투명한 몸",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "반투명 분홍/자주색의 부푼 몸, 몸에 이어진 넓은 앞쪽 유영막과 뒤 양옆 작은 막 두 개, 앞쪽 막 안쪽의 입 주변에 모인 짧고 갈라진 촉수를 원본 크기로 확인했다. 눈/이빨/어류 꼬리/오징어 팔은 보이지 않는다. 입 부위와 촉수 기부가 겹쳐 배면 위치·개수·개별 기부의 전수를 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: ONE original Sea Atlas natural-history gallery illustration for children ages 5–12, horizontal landscape 3:2, no collage.\nStyle: refined naturalistic painterly realism, believable delicate marine anatomy and natural muted color, quiet documentary mood. Very dark navy-black deep-sea midwater or abyssal seafloor as specified. Soft neutral illustrative fill light reveals anatomy; this is not sunlight or emitted light. No visible surface, sunbeams, surface caustics, bubbles, text, labels, arrows, logo, border, humans, boats, blood, injury, horror, anthropomorphic face, eyes where absent, teeth where absent, fantasy neon aura or plastic appearance. Whole animal and all important appendage ends inside frame with generous margins.\nSubject identity: ONE swimming sea cucumber, Enypniastes eximia, a benthopelagic echinoderm NOT a jellyfish, squid or fish. Soft translucent pink-mauve to red-brown bulbous elongated barrel-like body, convex dorsal side and flatter ventral side, approximately twice as long as broad. One broad anterior webbed swimming cowl, a rounded scalloped flowing membrane forming a partial brim around the anterior end from fused podia, about twelve fine membrane supports, NOT a detached umbrella and NOT two detached wings. Two smaller posterior lateral webbed brims are continuous with the posterior sides of the SAME body, NOT hind legs or fish tail. At the anterior VENTRAL mouth directly BELOW and INSIDE the cowl, a cluster of approximately twenty SHORT leaf-like feeding tentacles with small forked tips connects around the small mouth opening, NOT to the outer cowl edge. Natural perspective may hide some; do not fan twenty giant octopus arms around the body. A subtle curved sediment-filled intestinal loop may be visible through the body, no cutaway organs. No head, vertebrate eyes, beak, face, skeleton, scales or limbs. No ongoing self-luminescence in this calm non-contact scene; soft light simply makes transparent tissue visible.\nComposition: front-ventral three-quarter full-body portrait, floating mostly vertically above a very distant dim silty seabed. Large rounded anterior swimming cowl at TOP, barrel body below and smaller posterior side brims at BOTTOM. The mouth and short feeding-tentacle cluster are clearly placed on the anterior ventral surface below the cowl, not an eye or face. Show complete continuous membrane roots and a faint natural intestinal curve. Animal occupies about 65% height with clear surrounding black water. Calm hovering, no feeding contact or other animal."
+      ],
+      "generatedAt": "2026-10-03T07:22:29.903Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "ddf7b89bf2c9ea6d064875e00b9937891d96bdffdc25a7661a56129748fb951b",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존."
+    },
+    {
+      "id": "swimming-sea-cucumber",
+      "src": "assets/images/swimming-sea-cucumber-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "유영해삼 · 입 주변 촉수로 해저 퇴적물 모으기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "반투명 분홍/자주색의 부푼 몸, 몸에 이어진 넓은 앞쪽 유영막과 뒤 양옆 작은 막 두 개, 앞쪽 막 안쪽의 입 주변에 모인 짧고 갈라진 촉수를 원본 크기로 확인했다. 눈/이빨/어류 꼬리/오징어 팔은 보이지 않는다. 입 부위와 촉수 기부가 겹쳐 배면 위치·개수·개별 기부의 전수를 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: ONE original Sea Atlas natural-history gallery illustration for children ages 5–12, horizontal landscape 3:2, no collage.\nStyle: refined naturalistic painterly realism, believable delicate marine anatomy and natural muted color, quiet documentary mood. Very dark navy-black deep-sea midwater or abyssal seafloor as specified. Soft neutral illustrative fill light reveals anatomy; this is not sunlight or emitted light. No visible surface, sunbeams, surface caustics, bubbles, text, labels, arrows, logo, border, humans, boats, blood, injury, horror, anthropomorphic face, eyes where absent, teeth where absent, fantasy neon aura or plastic appearance. Whole animal and all important appendage ends inside frame with generous margins.\nSubject identity: ONE swimming sea cucumber, Enypniastes eximia, a benthopelagic echinoderm NOT a jellyfish, squid or fish. Soft translucent pink-mauve to red-brown bulbous elongated barrel-like body, convex dorsal side and flatter ventral side, approximately twice as long as broad. One broad anterior webbed swimming cowl, a rounded scalloped flowing membrane forming a partial brim around the anterior end from fused podia, about twelve fine membrane supports, NOT a detached umbrella and NOT two detached wings. Two smaller posterior lateral webbed brims are continuous with the posterior sides of the SAME body, NOT hind legs or fish tail. At the anterior VENTRAL mouth directly BELOW and INSIDE the cowl, a cluster of approximately twenty SHORT leaf-like feeding tentacles with small forked tips connects around the small mouth opening, NOT to the outer cowl edge. Natural perspective may hide some; do not fan twenty giant octopus arms around the body. A subtle curved sediment-filled intestinal loop may be visible through the body, no cutaway organs. No head, vertebrate eyes, beak, face, skeleton, scales or limbs. No ongoing self-luminescence in this calm non-contact scene; soft light simply makes transparent tissue visible.\nComposition: DISTINCT low side-front oblique view of the WHOLE animal gently settled onto a fine pale-gray silty abyssal seabed. Its anterior end bends down so short mouth tentacles gently touch and scoop loose surface sediment directly UNDER the front mouth, while the broad anterior cowl is relaxed above and behind that mouth. Body runs diagonally from front at lower-right to posterior at upper-left, two small posterior lateral brims remain connected to its sides. Show a tiny lightly disturbed patch of sediment near the tentacle tips, no enormous cloud, no stones held in tentacles, no fish or seaweed prey, no midwater filter-feeding. Tentacles are short fork-tipped delicate pads, not squid arms. Educational reconstruction of collecting sediment organic material, cannot show actual swallowing success."
+      ],
+      "generatedAt": "2026-10-03T07:24:16.256Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "c08906505484022048ea41399b0b10395e22b61ab2ea4d515bf9aaacad44182f",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "해저 표면 퇴적물에 입 주변 촉수를 대는 먹이 활동 재구성이다. NOAA의 바닥에 내려가 유기물이 든 퇴적물을 모아 먹는 설명에 부합하며 수중 플랑크톤 여과 먹이로 바꾸지 않았다. 실제 삼킴과 섭식량은 확인하지 못한다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Exploration — What is a headless chicken monster?",
+          "url": "https://oceanexplorer.noaa.gov/ocean-fact/what-is-a-headless-chicken-monster/"
+        },
+        {
+          "title": "Museums Victoria — Enypniastes eximia",
+          "url": "https://collections.museumsvictoria.com.au/species/16848"
+        },
+        {
+          "title": "NOAA Ocean Exploration — May 1, 2021 Sea Cucumber",
+          "url": "https://oceanexplorer.noaa.gov/multimedia/daily-image-media-20210501/"
+        }
+      ]
+    },
+    {
+      "id": "swimming-sea-cucumber",
+      "src": "assets/images/swimming-sea-cucumber-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "유영해삼 · 막을 펼쳐 해저 위를 이동하는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "반투명 분홍/자주색의 부푼 몸, 몸에 이어진 넓은 앞쪽 유영막과 뒤 양옆 작은 막 두 개, 앞쪽 막 안쪽의 입 주변에 모인 짧고 갈라진 촉수를 원본 크기로 확인했다. 눈/이빨/어류 꼬리/오징어 팔은 보이지 않는다. 입 부위와 촉수 기부가 겹쳐 배면 위치·개수·개별 기부의 전수를 인증하지 못한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: ONE original Sea Atlas natural-history gallery illustration for children ages 5–12, horizontal landscape 3:2, no collage.\nStyle: refined naturalistic painterly realism, believable delicate marine anatomy and natural muted color, quiet documentary mood. Very dark navy-black deep-sea midwater or abyssal seafloor as specified. Soft neutral illustrative fill light reveals anatomy; this is not sunlight or emitted light. No visible surface, sunbeams, surface caustics, bubbles, text, labels, arrows, logo, border, humans, boats, blood, injury, horror, anthropomorphic face, eyes where absent, teeth where absent, fantasy neon aura or plastic appearance. Whole animal and all important appendage ends inside frame with generous margins.\nSubject identity: ONE swimming sea cucumber, Enypniastes eximia, a benthopelagic echinoderm NOT a jellyfish, squid or fish. Soft translucent pink-mauve to red-brown bulbous elongated barrel-like body, convex dorsal side and flatter ventral side, approximately twice as long as broad. One broad anterior webbed swimming cowl, a rounded scalloped flowing membrane forming a partial brim around the anterior end from fused podia, about twelve fine membrane supports, NOT a detached umbrella and NOT two detached wings. Two smaller posterior lateral webbed brims are continuous with the posterior sides of the SAME body, NOT hind legs or fish tail. At the anterior VENTRAL mouth directly BELOW and INSIDE the cowl, a cluster of approximately twenty SHORT leaf-like feeding tentacles with small forked tips connects around the small mouth opening, NOT to the outer cowl edge. Natural perspective may hide some; do not fan twenty giant octopus arms around the body. A subtle curved sediment-filled intestinal loop may be visible through the body, no cutaway organs. No head, vertebrate eyes, beak, face, skeleton, scales or limbs. No ongoing self-luminescence in this calm non-contact scene; soft light simply makes transparent tissue visible.\nComposition: DISTINCT high side-rear three-quarter whole-body view of one animal swimming just above the silty deep seabed, body tilted diagonally upward-left with a clear gap below it. Broad anterior cowl is extended with one gentle fold indicating a paddling stroke, visibly CONTINUOUS with its anterior body; two posterior side membranes are smaller and subtly flared as stabilizers. Anterior ventral feeding tentacles are mostly tucked naturally beneath the cowl and may be partly hidden. The distant silty bottom and sparse sinking organic specks are softly visible in lower background; no predators, escape attack, shed skin, or bioluminescent display. Calm transit to another feeding spot; actual motion and speed not measured."
+      ],
+      "generatedAt": "2026-10-03T07:25:31.265Z",
+      "checkedAt": "2026-10-03",
+      "sha256": "47dcea1139ed702cae8da8e7cc948b926f94ec9370bfbfcfffa31c1a60fa8048",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "해저와 간격을 두고 막을 펼쳐 유영하는 재구성이다. 앞 막의 펄럭임과 뒤 막의 자세 조절을 설명하지만 실제 속도나 이동 목적을 측정한 것은 아니다. 접촉 자극·발광·피부 탈락 사건은 추가하지 않았다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Exploration — What is a headless chicken monster?",
+          "url": "https://oceanexplorer.noaa.gov/ocean-fact/what-is-a-headless-chicken-monster/"
+        },
+        {
+          "title": "Museums Victoria — Enypniastes eximia",
+          "url": "https://collections.museumsvictoria.com.au/species/16848"
+        },
+        {
+          "title": "NOAA Ocean Exploration — May 1, 2021 Sea Cucumber",
+          "url": "https://oceanexplorer.noaa.gov/multimedia/daily-image-media-20210501/"
         }
       ]
     }
