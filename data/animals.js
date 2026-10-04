@@ -424,7 +424,7 @@ export const animals = [
     "gallery": [
       {
         "id": "sperm-whale",
-        "src": "assets/images/sperm-whale-chatgpt-v3.png",
+        "src": "assets/images/sperm-whale-chatgpt-v4.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
         "caption": "향유고래 · 물속에서 헤엄치는 온몸 모습",
@@ -433,18 +433,19 @@ export const animals = [
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "큰 직사각형 머리·가느다란 아래턱·작은 가슴지느러미 한 쌍·낮은 등 돌기·좌우로 펼쳐진 수평 꼬리를 육안 대조. 분기공의 위치는 이 각도로 확인하기 어려움.",
+        "identityCheck": "큰 네모 머리와 좁은 아래턱, 작은 앞지느러미 두 개와 낮은 등 돌기를 확인했어요. 가늘어지는 꼬리자루가 넓은 꼬리뿌리로 이어지고, 그곳에서 두 꼬리엽이 갈라져요. 꼬리 양끝은 그림 안에 있어요. 이 각도에서는 분수공을 확인하기 어려워요.",
         "generationPrompts": [
           "Use case: scientific-educational. Create one original natural-history illustration for a marine animal atlas for children ages 5–12. Subject: ONE sperm whale, Physeter macrocephalus. Realistic painterly scientific illustration, anatomically accurate, friendly but not anthropomorphic. Entire animal in unobstructed left-facing side view, centered, pale blue underwater background with subtle depth gradient, no other animals. Enormous rectangular blunt head occupying about one third of body length, very narrow underslung lower jaw, small eye near corner of mouth, wrinkled dark gray skin, two short paddle-shaped pectoral flippers (far one may be occluded), low rounded dorsal hump followed by small knuckles, broad horizontal tail flukes. Long tapered body, no sharp dolphin-like dorsal fin. Keep the outline easy to read at thumbnail size, generous margin around every extremity. Landscape 3:2 composition. No text, labels, logos, watermark, border, human, boat, blood, giant round eyes, smiling face, fantasy features, or extra fins.",
           "Edit this sperm whale natural-history illustration with ONE targeted anatomical correction: replace the tail flukes on the right with a clearly horizontal cetacean tail, rather than a vertical fish-like tail. Keep the head, body, dorsal hump, skin, pectoral flippers, scale, lighting, entire blue background, and composition unchanged. Show the corrected tail in a slight three-quarter view so we can see that its two symmetrical flukes extend to either side of the body in the horizontal plane, with a single central notch and thin trailing edges. There must not be an upward-and-downward pair of lobes or a caudal fish fin. No new fins, animals, text or labels. Preserve the natural-history illustration style. Keep every tail tip inside the image.",
-          "Use case: precise-object-edit. Edit this self-generated sperm whale illustration for our children's marine atlas. Preserve the same whale identity, rectangular large head, narrow underslung jaw, small eyes, wrinkled charcoal skin, small paddle pectoral flippers and low dorsal hump/knuckles. Improve the tail and framing: show a anatomically plausible narrow caudal peduncle smoothly connecting to one broad horizontal pair of whale flukes, seen slightly from above with a clear central notch. The tail must spread left-right in the horizontal plane, never up-down as a fish tail. Make the whole whale about 85% of current displayed size so BOTH head and tail tip have at least 8% image-width clear blue-water margin. Keep entire animal visible, no cut-off tips. Same natural-history painterly realism and blue underwater gradient, landscape 3:2. No other animal, no text, labels, logo or watermark. Do not change any other anatomy."
+          "Use case: precise-object-edit. Edit this self-generated sperm whale illustration for our children's marine atlas. Preserve the same whale identity, rectangular large head, narrow underslung jaw, small eyes, wrinkled charcoal skin, small paddle pectoral flippers and low dorsal hump/knuckles. Improve the tail and framing: show a anatomically plausible narrow caudal peduncle smoothly connecting to one broad horizontal pair of whale flukes, seen slightly from above with a clear central notch. The tail must spread left-right in the horizontal plane, never up-down as a fish tail. Make the whole whale about 85% of current displayed size so BOTH head and tail tip have at least 8% image-width clear blue-water margin. Keep entire animal visible, no cut-off tips. Same natural-history painterly realism and blue underwater gradient, landscape 3:2. No other animal, no text, labels, logo or watermark. Do not change any other anatomy.",
+          "Use case: precise-object-edit. Asset: sperm whale representative illustration for the Sea Atlas children's marine animal guide. Image 1 is the edit target. Correct ONLY the posterior caudal peduncle and tail flukes in the rightmost quarter of this existing illustration. The present two flukes look like separate pieces touching at a bead and floating away from the whale: remove that anatomical discontinuity. Show ONE continuous flesh-and-skin structure: the tapering muscular caudal peduncle flows smoothly into the broad central root and leading edge of ONE horizontal cetacean tail fin, which widens into two triangular flukes. BOTH flukes must share a substantial continuous central base visibly joined to the peduncle; do not leave a water gap, narrow bead, seam, dark cut line, separate tail island, or pointed body tip behind the tail. Put the central V-notch only on the posterior trailing edge of the single broad fin, never at its attachment to the body. Use a modest elevated three-quarter presentation of the tail so its horizontal left-right spread and continuous connection are clearly legible; keep the original whale body orientation. Continue the whale's charcoal gray skin texture and natural shading uninterrupted over peduncle and tail root. Preserve the large rectangular blunt head, tiny eye, narrow underslung jaw, two small paddle flippers, low dorsal hump and knuckles, entire rest of torso, painterly realism, blue background, lighting, whale size, and landscape 3:2 framing. Leave both tail tips inside clear blue margin. No other animals, no text, arrows, labels, logo, watermark, human, boat, blood, injuries, extra fins, or vertical fish tail. This is a targeted anatomical correction, not a new species or scene."
         ],
-        "generatedAt": "2026-10-02T17:45:07.022Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "895a16ed0a36dd45a30549752290434ca25d3162f2e88e0cf84d784f75549160",
+        "generatedAt": "2026-10-04T17:37:28.195Z",
+        "checkedAt": "2026-10-05",
+        "sha256": "3377d69e9b8e3605b30bc3192560a230324ae69ae857eb2468b628371e5a2060",
         "width": 1536,
         "height": 1024,
-        "changes": "ChatGPT 생성 및 명시된 형태 교정. 최종 PNG의 픽셀 수정 없음; 화면에서는 전체 그림을 맞춰 표시."
+        "changes": "사용자가 지적한 대표 v3의 꼬리 연결을 ChatGPT로 교정. 꼬리자루와 두 엽의 연속 조직을 부모·독립 에이전트가 원본 육안 점검. 도구 원본 PNG 그대로 복사."
       },
       {
         "id": "sperm-whale",
