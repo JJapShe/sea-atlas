@@ -5,7 +5,7 @@ import { root, localFile } from "./verify.mjs";
 import { animals } from "../data/animals.js";
 
 const site = resolve(root, "_site");
-const files = ["index.html", "styles.css", "app.js", "data/animals.js", "favicon.svg", ...new Set(animals.flatMap((animal) => animal.gallery.map((image) => image.src)))];
+const files = ["index.html", "styles.css", "app.js", "data/animals.js", "favicon.svg", "app.webmanifest", "assets/icons/sea-atlas-192.png", "assets/icons/sea-atlas-512.png", "assets/icons/sea-atlas.ico", ...new Set(animals.flatMap((animal) => animal.gallery.map((image) => image.src)))];
 const manifest = await lstat(resolve(root, "assets/manifest.json")).catch((error) => { if (error.code !== "ENOENT") throw error; });
 if (manifest) files.push("assets/manifest.json");
 const privatePath = /\b[A-Za-z]:[\\/]|file:\/\/|\.codex|(?:^|["'\s])(?:\.\.\/|work\/|sources\/)|assets\/[^\s"']*\/review\//;
@@ -13,7 +13,7 @@ const sourceFiles = new Map();
 for (const file of files) {
   const path = await localFile(file);
   sourceFiles.set(file, path);
-  if (/\.(?:html|css|js|svg|json)$/.test(file)) assert(!privatePath.test(await readFile(path, "utf8")), `Private path in public file: ${file}`);
+  if (/\.(?:html|css|js|svg|json|webmanifest)$/.test(file)) assert(!privatePath.test(await readFile(path, "utf8")), `Private path in public file: ${file}`);
 }
 const existing = await lstat(site).catch((error) => { if (error.code !== "ENOENT") throw error; });
 assert.equal(dirname(site), resolve(root));

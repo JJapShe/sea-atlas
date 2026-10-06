@@ -111,6 +111,30 @@ assert.equal(new Set(manifest.images.map((image) => image.src)).size, manifest.i
 const bySource = (a, b) => a.src.localeCompare(b.src);
 assert.deepEqual([...manifest.images].sort(bySource), [...uniqueImages.values()].sort(bySource), "Manifest images differ from animal galleries");
 
+const appManifest = JSON.parse(await readFile(await localFile("app.webmanifest"), "utf8"));
+assert.equal(appManifest.id, "./");
+assert.equal(appManifest.start_url, "./");
+assert.equal(appManifest.scope, "./");
+assert.equal(appManifest.display, "standalone");
+assert(text(appManifest.name) && text(appManifest.short_name));
+assert(!appManifest.prefer_related_applications);
+for (const size of [192, 512]) {
+  const icon = appManifest.icons.find((item) => item.sizes === `${size}x${size}`);
+  assert.equal(icon?.src, `assets/icons/sea-atlas-${size}.png`);
+  assert.equal(icon.type, "image/png");
+  const bytes = await readFile(await localFile(icon.src));
+  assert(bytes.subarray(0, 8).equals(Buffer.from([137, 80, 78, 71, 13, 10, 26, 10])));
+  assert.equal(bytes.readUInt32BE(16), size);
+  assert.equal(bytes.readUInt32BE(20), size);
+}
+const desktopIcon = await readFile(await localFile("assets/icons/sea-atlas.ico"));
+assert.equal(desktopIcon.readUInt16LE(0), 0);
+assert.equal(desktopIcon.readUInt16LE(2), 1);
+assert.equal(desktopIcon.readUInt16LE(4), 3);
+const entryHtml = await readFile(await localFile("index.html"), "utf8");
+assert(entryHtml.includes('rel="manifest" href="./app.webmanifest"'));
+assert(!entryHtml.includes('sperm-whale-chatgpt-v3.png'), "Retired representative remains in entry HTML");
+
 const photo = { role: "photo", reviewStatus: "source-checked" };
 const reference = { role: "reference", reviewStatus: "source-checked" };
 const illustration = { role: "illustration", reviewStatus: "visual-checked" };
