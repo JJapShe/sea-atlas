@@ -120,9 +120,10 @@ assert(text(appManifest.name) && text(appManifest.short_name));
 assert(!appManifest.prefer_related_applications);
 for (const size of [192, 512]) {
   const icon = appManifest.icons.find((item) => item.sizes === `${size}x${size}`);
-  assert.equal(icon?.src, `assets/icons/sea-atlas-${size}.png`);
+  const iconPath = icon?.src.split("?")[0];
+  assert.equal(iconPath, `assets/icons/sea-atlas-${size}.png`);
   assert.equal(icon.type, "image/png");
-  const bytes = await readFile(await localFile(icon.src));
+  const bytes = await readFile(await localFile(iconPath));
   assert(bytes.subarray(0, 8).equals(Buffer.from([137, 80, 78, 71, 13, 10, 26, 10])));
   assert.equal(bytes.readUInt32BE(16), size);
   assert.equal(bytes.readUInt32BE(20), size);
