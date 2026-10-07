@@ -1,4 +1,4 @@
-import { animals, habitats, groups, depthZones } from "./data/animals.js?v=20261005-tail";
+import { animals, habitats, groups, depthZones } from "./data/animals.js?v=20261008-toc-1";
 
 const normalized = (value) => String(value).normalize("NFKC").toLocaleLowerCase().replace(/\s+/g, "");
 export function filterAnimals(records, { query = "", group = "", habitat = "", depth = "", bookmarksOnly = false, bookmarkIds = [] } = {}) {
@@ -63,7 +63,7 @@ function init() {
     const visible = filterAnimals(animals, state);
     if ($("#sortOrder").value === "name") visible.sort((a, b) => a.name.localeCompare(b.name, "ko"));
     $("#animalGrid").innerHTML = visible.length ? visible.map(card).join("") : '<div class="empty-state"><h3>아직 만날 생물이 없어요.</h3><p>검색어나 선택한 조건을 바꾸어보세요.</p><button class="primary-button" type="button" data-reset>모든 생물 보기 →</button></div>';
-    $("#resultCount").innerHTML = `<strong>${visible.length}종</strong>의 해양동물${state.bookmarksOnly ? " · 나의 책갈피" : ""}`;
+    $("#resultCount").innerHTML = `<strong>${visible.length}가지</strong> 해양동물${state.bookmarksOnly ? " · 나의 책갈피" : ""}`;
     const labels = [state.group, habitats.find((h) => h.id === state.habitat)?.name, depthZones.find((z) => z.id === state.depth)?.name].filter(Boolean);
     $("#activeFilters").textContent = labels.join(" · ");
     $("#savedCount").textContent = state.bookmarkIds.length;

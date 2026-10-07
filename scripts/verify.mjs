@@ -52,7 +52,14 @@ for (const animal of animals) {
   assert(Array.isArray(animal.sources) && animal.sources.length && animal.sources.every((source) => text(source.title) && https(source.url)), `Invalid sources: ${animal.id}`);
   assert(Array.isArray(animal.gallery), `Invalid gallery: ${animal.id}`);
   assert(publicGallery(animal).length >= 3, `Fewer than three reviewed images: ${animal.id}`);
-  for (const scene of ["feeding", "ecology"]) assert(publicGallery(animal).some((image) => image.sceneType === scene), `Missing ${scene} scene: ${animal.id}`);
+  assert(publicGallery(animal).some((image) => image.sceneType === "ecology"), `Missing ecology scene: ${animal.id}`);
+  if (animal.feedingUnconfirmed !== undefined) assert(typeof animal.feedingUnconfirmed === "boolean", `Invalid feeding evidence flag: ${animal.id}`);
+  if (animal.feedingUnconfirmed === true) {
+    // Unverified diets use two distinct observation scenes rather than invented prey.
+    assert(text(animal.feedingUnconfirmedReason) && animal.sources.length >= 2, `Missing unconfirmed-diet evidence: ${animal.id}`);
+    assert(publicGallery(animal).filter((image) => image.sceneType === "ecology").length >= 2, `Missing replacement observation scenes: ${animal.id}`);
+    assert(!publicGallery(animal).some((image) => image.sceneType === "feeding"), `Unconfirmed diet mislabeled as feeding: ${animal.id}`);
+  } else assert(publicGallery(animal).some((image) => image.sceneType === "feeding"), `Missing feeding scene: ${animal.id}`);
   for (const image of animal.gallery) {
     if (image.sceneType === "interaction") {
       assert(Array.isArray(image.interactionIds) && image.interactionIds.length >= 2 && new Set(image.interactionIds).size === image.interactionIds.length, `Invalid interaction species: ${image.src}`);

@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-05",
-  "reviewNote": "42종 각 3장 이상, 공유 상호작용 4장 포함 134개 원본 이미지·138개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전.",
+  "checkedAt": "2026-10-08",
+  "reviewNote": "49개 생물 항목 각3장 이상, 155개 원본 이미지·159개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -4031,6 +4031,603 @@
         {
           "title": "Soo & Todd 2014 — The behaviour of giant clams",
           "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4231208/"
+        }
+      ]
+    },
+    {
+      "id": "scaly-foot-snail",
+      "src": "assets/images/scaly-foot-snail-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "비늘발고둥 · 나선 껍데기와 발의 겹친 비늘",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "나선 껍데기·외투막·겹친 비늘발·두 머리 촉수의 연결을 원본 1536×1024에서 확인. 검은 비늘의 열수구 개체군 색상과 심해 환경이 자료와 맞는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create one detailed natural-history illustration for a Korean marine atlas for ages 5–12, landscape 3:2, one uncropped full-body living scaly-foot snail Chrysomallon squamiferum from the black-sclerite Kairei hydrothermal-vent population in the Indian Ocean. Low front-side three-quarter view on a small mineral-encrusted rock, animal fills about 65% of frame. Anatomically precise gastropod: low brown coiled spiral shell sitting continuously on the mantle and broad muscular foot; many overlapping small dark mineralized scales/sclerites covering the sides of the foot, which is visibly connected to the snail rather than detached plates. A natural head with two simple cephalic tentacles, no cartoon face, no antenna forest, no huge eyes. Show the whole shell, foot and tentacle tips in frame. Restrained gray-black sclerites and brown shell, no chrome-metal armor and no gold armor. Deep ocean background in navy-black, neutral soft expedition-style illumination for anatomical clarity, no sunlight, no lava, no red volcanic glow, no bubbles boiling around the animal. Realistic painted natural-history museum illustration, accessible but not toy-like, subtle skin and mineral texture. This is an educational reconstruction, not a photograph. No labels, text, arrows, watermark, scale bar or montage."
+      ],
+      "generatedAt": "2026-10-07T11:30:14.486Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "1065d3d4156b1216624ad18c2b11c0e9e792bb0283cc4f393d63ec22b4f54dc4",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "scaly-foot-snail",
+      "src": "assets/images/scaly-foot-snail-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "비늘발고둥 · 공생 세균 덕분에 살아가는 열수구 곁",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본에서 연결된 전신과 두 촉수를 확인. 식물·먹이·사냥을 넣지 않고 공생 영양이 가능한 열수구 주변 서식환경을 표현했다. 세균은 외부에서 보이지 않는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create one detailed natural-history illustration for a Korean marine atlas for ages 5–12, landscape 3:2, one uncropped full-body living scaly-foot snail Chrysomallon squamiferum from the black-sclerite Kairei hydrothermal-vent population in the Indian Ocean. Low front-side three-quarter view on a small mineral-encrusted rock, animal fills about 65% of frame. Anatomically precise gastropod: low brown coiled spiral shell sitting continuously on the mantle and broad muscular foot; many overlapping small dark mineralized scales/sclerites covering the sides of the foot, which is visibly connected to the snail rather than detached plates. A natural head with two simple cephalic tentacles, no cartoon face, no antenna forest, no huge eyes. Show the whole shell, foot and tentacle tips in frame. Restrained gray-black sclerites and brown shell, no chrome-metal armor and no gold armor. Deep ocean background in navy-black, neutral soft expedition-style illumination for anatomical clarity, no sunlight, no lava, no red volcanic glow, no bubbles boiling around the animal. Realistic painted natural-history museum illustration, accessible but not toy-like, subtle skin and mineral texture. This is an educational reconstruction, not a photograph. No labels, text, arrows, watermark, scale bar or montage.",
+        "Use case: scientific-educational. Generate a new single natural-history marine-atlas illustration, landscape 3:2, based on the supplied reference only for the anatomy and colors of the Kairei black-sclerite scaly-foot snail Chrysomallon squamiferum; it is a supporting identity reference, not an edit target. Scene: one full-body living snail seen in clear low lateral profile, moving slowly across mineral-encrusted rock beside a distant hydrothermal vent at about 2.5 km depth in the Indian Ocean. Its coiled brown shell, broad dark muscular foot covered on its sides by overlapping black sclerites, and two natural head tentacles must all be visible and continuously connected. Keep shell scale and sclerite shapes natural; no chrome fantasy armor. The mineral surface and diffuse distant warm-water plume provide the context for its sulfur-oxidizing bacterial symbiosis: the bacteria live internally, are invisible in this intact external view, and do not glow. The snail receives nutrition from its symbionts rather than hunting visible prey or grazing plants, so no fish, shrimp, leaves or food in its mouth. The plume is far behind the snail, no boiling bubbles, no lava, no searing direct plume contact. Neutral gentle expedition-style fill light in dark blue-black water; no sunlight. Zoom out enough to leave margin around the entire animal and retain the near rocks, with a different composition from the reference. Detailed realistic painted museum illustration suitable for ages 5–12, not a photograph. No text, labels, arrows, cutaways, diagram, watermark or collage."
+      ],
+      "generatedAt": "2026-10-07T11:31:34.718Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "68cda2d9a22c635dec9b2e72201f449ab764cbfb0ba3f7fa72d5de4b412da599",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "공생 영양 방식의 서식환경 교육 재구성; 외부 먹이 섭식이나 사냥을 그리지 않음",
+      "behaviorSources": [
+        {
+          "title": "JAMSTEC — 비늘발고둥의 열수구 공생 영양",
+          "url": "https://www.jamstec.go.jp/e/about/press_release/20260212/"
+        }
+      ]
+    },
+    {
+      "id": "scaly-foot-snail",
+      "src": "assets/images/scaly-foot-snail-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "비늘발고둥 · 열수구 주변을 살아가는 고둥",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본에서 3개체, 각 껍데기·비늘발·머리의 연결과 앞쪽 개체의 완전한 윤곽을 확인. 배경 열수구와 암석 위 서식이 일치한다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create one detailed natural-history illustration for a Korean marine atlas for ages 5–12, landscape 3:2, one uncropped full-body living scaly-foot snail Chrysomallon squamiferum from the black-sclerite Kairei hydrothermal-vent population in the Indian Ocean. Low front-side three-quarter view on a small mineral-encrusted rock, animal fills about 65% of frame. Anatomically precise gastropod: low brown coiled spiral shell sitting continuously on the mantle and broad muscular foot; many overlapping small dark mineralized scales/sclerites covering the sides of the foot, which is visibly connected to the snail rather than detached plates. A natural head with two simple cephalic tentacles, no cartoon face, no antenna forest, no huge eyes. Show the whole shell, foot and tentacle tips in frame. Restrained gray-black sclerites and brown shell, no chrome-metal armor and no gold armor. Deep ocean background in navy-black, neutral soft expedition-style illumination for anatomical clarity, no sunlight, no lava, no red volcanic glow, no bubbles boiling around the animal. Realistic painted natural-history museum illustration, accessible but not toy-like, subtle skin and mineral texture. This is an educational reconstruction, not a photograph. No labels, text, arrows, watermark, scale bar or montage.",
+        "Use case: scientific-educational. Create one realistic natural-history illustration, landscape 3:2, an ecological scene for a children's Korean ocean atlas. Supporting identity reference: attached image shows Chrysomallon squamiferum, the Kairei black-sclerite scaly-foot snail; use only its anatomy and colors, not its composition. Show three small living snails of this same black-sclerite population scattered naturally across the sides of a mineral-encrusted hydrothermal-vent rock ledge in the Indian Ocean deep sea. Elevated oblique camera view looking down and slightly from behind, wide environmental composition; nearest snail remains large enough to see a coiled brown shell, a broad connected foot and rows of overlapping dark scaly sclerites. Leave the complete outlines of all shells and the nearest entire animal in frame. Their heads and body parts are attached naturally; natural occlusion in the two farther animals is okay. Do not mix a white-sclerite population from another vent in this scene. Dark blue-black deep water, faint distant hydrothermal plume above a far chimney, pale mineral crusts on basalt. Neutral documentary fill illumination, not sunlight, no sun rays, no lava, no glowing bacteria, no steam bubbles, no fantasy armor, no coral reef or vegetation. Snails remain beside the vent on cooler rock, not inside a hot jet. Museum-quality realistic painted texture suitable for ages 5–12. It is an educational reconstruction of vent habitat, not an assertion of an exact observed group size. No text, labels, arrows, watermark, scale bar, panels or collage."
+      ],
+      "generatedAt": "2026-10-07T11:32:49.020Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "f69f93e6e402b1a41c425ac804da0c1d650ee68fbf0fb63289eb14b801eb2aa2",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "열수구 서식 환경 교육 재구성; 정확한 개체 밀도·수온을 뜻하지 않음",
+      "behaviorSources": [
+        {
+          "title": "JAMSTEC BISMaL — Chrysomallon squamiferum",
+          "url": "https://www.godac.jamstec.go.jp/bismal/e/view/9045026"
+        }
+      ]
+    },
+    {
+      "id": "japanese-bobtail-squid",
+      "src": "assets/images/japanese-bobtail-squid-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "투구귀꼴뚜기 · 둥근 지느러미와 은빛 띠",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "둥근 외투막, 외투막에 연결된 넓은 지느러미, 은빛 측면 띠, 두 긴 촉수와 자연스러운 눈·머리 연결을 실제 원본에서 확인. 후면 팔 일부는 가려져 개수를 추정으로 인증하지 않음.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create one finished natural-history illustration for a Korean marine atlas for children ages 5–12. Landscape 3:2. PORTRAIT of a single living Japanese bobtail squid Sepiolina nipponensis, Korean name 투구귀꼴뚜기, Japanese Ginobi-ika. Do not substitute Euprymna scolopes, Sepiolina petasus or an ordinary long-bodied squid. Whole uncropped animal suspended in clear dark-blue continental-shelf seawater, low front-side three-quarter angle revealing the lower mantle edge. Precise morphology: small short dome-shaped oval mantle, two broad rounded single-lobed lateral fins each about 60% of mantle length, a natural head with two prominent squid eyes, exactly eight short muscular arms arranged clearly in a relaxed loose fan and exactly two longer thin feeding tentacles with small narrow clubs, all arising continuously from the arm crown around the mouth. The two tentacles are distinct from the eight arms and remain attached all the way to their roots; no extra limbs, no cut-off tips, no detached strands. Speckled reddish-brown minute chromatophores on soft mantle, silvery iridescent broad belt along the ventrolateral mantle margin and a darker patch of ventral mantle pigment; show a readable silver belt, not a glowing stripe. Dorsal surface is rounded, not a high top-hat extension. Show fins joining smoothly along both sides of mantle, not ears on the head. Neutral soft underwater observation light for readable natural texture; no neon bioluminescent cloud, no giant black eyes, no anthropomorphic smile, no prey or claimed feeding activity. Body fills roughly60% of frame with comfortable margin for every appendage tip. Detailed realistic painted museum-style illustration, not a photograph, no text, labels, arrows, scale bar, watermark, border, collage or panels."
+      ],
+      "generatedAt": "2026-10-07T11:34:39.741Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "e68b162470cea822b2dc0b450b244be1c0c12a145764c0d76f620ad16bc94a79",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "japanese-bobtail-squid",
+      "src": "assets/images/japanese-bobtail-squid-chatgpt-ecology-swimming-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "투구귀꼴뚜기 · 대륙붕 바다에서 본 옆모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "옆 구도에서 연결된 전신·두 긴 촉수·둥근 지느러미·은빛 측면 띠를 확인. 대륙붕 바닥 위 교육적 관찰 구도이며 먹이 성공·잠복을 주장하지 않음.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create one single landscape3:2 realistic painted natural-history illustration for an ocean atlas for ages5–12. A living Sepiolina nipponensis, Japanese bobtail squid, is viewed from below and nearly straight in front while suspended quietly in blue continental-shelf water. This is a new ecology/observation scene, no feeding or prey. Full uncropped body. Species morphology follows FAO2005: a short dome-shaped mantle, two broad round single-lobed fins attached to its lateral mantle, minute reddish-brown chromatophores, a DARK ventral mantle patch bordered along the lower mantle sides by a broad silvery iridescent belt. The silver is reflected observation light, never a neon glowing band. Readable ventral view of the arm crown: EXACTLY EIGHT short broad arms in four symmetrical pairs, clearly separated enough to count each from its root to its own intact tip, and EXACTLY TWO additional longer thin feeding tentacles with narrow small clubs arising separately from the same head. Small suckers in two rows on the eight arms, much tinier dense suckers on the narrow tentacle clubs; no large octopus-like club suckers. Do not confuse one curled arm with two, do not merge separate arm roots, and do not add any disconnected or ninth short arm. Keep every appendage tip within the frame with broad margins. Natural amber squid eyes, both on the head, realistic tissue rather than cartoon expression. The arms are softly open and relaxed; the two tentacles extend downward outside the arm fan to help show their distinct structure. No sand-burial behavior, no luminous secretion event, no predator and no prey because those actions are not confirmed in the checked species sources. Neutral soft underwater observation illumination, dark blue open-water background without sun beams, shell or vegetation. Clear fine realistic anatomy, museum illustration, no labels, text, arrows, scale bar, watermark, collage or border.",
+        "Use case: scientific-educational. Generate a new single landscape3:2 natural-history marine atlas illustration. Supporting identity reference is the supplied Sepiolina nipponensis Japanese bobtail squid image, used for species anatomy only, not an edit target. Scene: a single complete squid seen in SIDE PROFILE swimming quietly a little above a dim continental-shelf seabed. Zoom out to show context and the entire animal, with its body occupying around half of the width. Domed short oval mantle with broad rounded single-lobed lateral fins joined to the mantle, a normal squid head with amber eyes, eight short arms and two much thinner longer tentacles with narrow small clubs. Total anatomy remains eight arms plus two tentacles; nearer short arms overlap naturally, the far side arms may be occluded by the head. Never add disconnected roots or extra limbs to show all arms in a profile view. The tentacle clubs carry minute dense suckers, not big octopus cups. Minute brown-red speckles, characteristic dark ventral pigment and a broad silvery iridescent belt at the ventrolateral mantle edge, reflecting light but not emitting neon. The body and fins form one continuous animal, not fin-ears on its head. Arms and tentacles rest loosely forward during slow movement, no prey, no attack or feeding success. Unobtrusive gravelly continental-shelf seabed below and blue water fading darker behind; this is an education reconstruction of a shelf habitat, not a measured observation. Use restrained soft underwater observation light without surface sun rays. Do not depict hiding in sand, luminous secretion, symbiotic bacteria, or any prey interaction not confirmed for this species. Detailed realistic painted museum illustration suited for ages5–12, no labels, text, arrows, scale bars, logos, watermarks, panels, border or collage."
+      ],
+      "generatedAt": "2026-10-07T11:37:17.956Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "b630e2294e1f64d30f6ace7a00ebb0f4186ae4d72333797c601c6da65db184d2",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "공식자료의 대륙붕 분포에 따른 관찰구도 교육 재구성; 종별 먹이활동·모래잠복·발광분비를 단정하지 않음",
+      "behaviorSources": [
+        {
+          "title": "FAO1984 — Sepiolina nipponensis 대륙붕",
+          "url": "https://www.fao.org/4/ac479e/ac479e12.pdf"
+        },
+        {
+          "title": "FAO2005 — Sepiolina nipponensis 형태",
+          "url": "https://www.fao.org/4/a0150e/a0150e24.pdf"
+        }
+      ]
+    },
+    {
+      "id": "japanese-bobtail-squid",
+      "src": "assets/images/japanese-bobtail-squid-chatgpt-ecology-underside-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "투구귀꼴뚜기 · 아래에서 본 은빛 띠와 팔",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "정면 아래 구도에서 짧은 팔들의 연속된 뿌리와 두 긴 촉수, 외투막·지느러미 연결, 어두운 복면 색소 및 은빛 띠를 확인. 일부 팔 뿌리의 겹침 때문에 해부학적 개수를 전문가 인증하지 않음.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create one single landscape3:2 realistic painted natural-history illustration for an ocean atlas for ages5–12. A living Sepiolina nipponensis, Japanese bobtail squid, is viewed from below and nearly straight in front while suspended quietly in blue continental-shelf water. This is a new ecology/observation scene, no feeding or prey. Full uncropped body. Species morphology follows FAO2005: a short dome-shaped mantle, two broad round single-lobed fins attached to its lateral mantle, minute reddish-brown chromatophores, a DARK ventral mantle patch bordered along the lower mantle sides by a broad silvery iridescent belt. The silver is reflected observation light, never a neon glowing band. Readable ventral view of the arm crown: EXACTLY EIGHT short broad arms in four symmetrical pairs, clearly separated enough to count each from its root to its own intact tip, and EXACTLY TWO additional longer thin feeding tentacles with narrow small clubs arising separately from the same head. Small suckers in two rows on the eight arms, much tinier dense suckers on the narrow tentacle clubs; no large octopus-like club suckers. Do not confuse one curled arm with two, do not merge separate arm roots, and do not add any disconnected or ninth short arm. Keep every appendage tip within the frame with broad margins. Natural amber squid eyes, both on the head, realistic tissue rather than cartoon expression. The arms are softly open and relaxed; the two tentacles extend downward outside the arm fan to help show their distinct structure. No sand-burial behavior, no luminous secretion event, no predator and no prey because those actions are not confirmed in the checked species sources. Neutral soft underwater observation illumination, dark blue open-water background without sun beams, shell or vegetation. Clear fine realistic anatomy, museum illustration, no labels, text, arrows, scale bar, watermark, collage or border."
+      ],
+      "generatedAt": "2026-10-07T11:36:01.337Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "b00ec893f98b931549ec11e6a22f20e34bfe777362ff3343b355f2e218cbd25f",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "몸의 구조와 바닷속 모습을 소개하는 교육 재구성; 먹이 섭식을 꾸미지 않음",
+      "behaviorSources": [
+        {
+          "title": "FAO2005 — Sepiolina nipponensis",
+          "url": "https://www.fao.org/4/a0150e/a0150e24.pdf"
+        }
+      ]
+    },
+    {
+      "id": "atlantic-footballfish",
+      "src": "assets/images/atlantic-footballfish-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "짧고 굵은 낚싯대와 뼈판 돌기가 있는 대서양초롱아귀 암컷이에요.",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "실제 원본을 보고 구형 암컷 몸, 가시가 있는 뼈판, 굵은 앞머리 낚싯대, 연결된 미끼와 꼬리, 뒤쪽 등·뒷지느러미를 확인. Museums Victoria의 Himantolophidae 형태와 일치하는 교육 삽화.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE standalone 3:2 landscape natural-history marine illustration, no words, labels, watermark, border, panels or collage. Subject: adult female Atlantic footballfish Himantolophus groenlandicus, a REAL biological species, calm educational atlas for ages 5–12. Portrait scene in dim deep blue midwater, complete whole body lateral view facing left, generous 12 percent clear margins around all appendages. Almost spherical dark charcoal/brown body, small eyes, stout protruding lower jaw and many fine inward curved teeth; skin includes discrete bony plates each with a short conical spine, not a smooth Melanocetus anglerfish. A stout relatively short fishing stalk arises from the upper front of the head before the eye, ends in a fleshy luminous bulb with multiple delicate branching filaments and paired terminal appendages. Tiny dorsal and anal fins are far back on the body, small broad tail fin. Anatomical continuity is critical: all fins, caudal peduncle, tail fin and fishing stalk visibly connect seamlessly to the one fish body. Soft restrained blue-green luminous bait, only the lure emits light; body illuminated enough to inspect anatomy, sparse marine snow, dark unobtrusive background. Do not add attached parasitic males, extra fishing poles, horns, arms, paired pelvic fins, detached fins, huge monster teeth, human objects, violent action or gore. Beautiful realistic painted scientific illustration with fine organic texture, not a cartoon mascot."
+      ],
+      "generatedAt": "2026-10-07T11:29:24.862Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "a68dc5e5e98fc6e2b8ba44e9ae7ba6b35b45063abd1b41d931910325021e2dd9",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "atlantic-footballfish",
+      "src": "assets/images/atlantic-footballfish-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "초롱아귀의 빛나는 미끼에 작은 갑각류가 다가오는 교육 재구성이에요.",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "실제 원본에서 작은 눈, 원형 몸, 뼈판 가시, 굵은 낚싯대와 연결 꼬리·후방 지느러미 확인. 새우는 입 밖에 있고 해부학적으로 연결된 미끼를 향하는 장면으로, 과 수준 갑각류 먹이 근거를 넘는 성공포식 주장이 없음.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE 3:2 landscape realistic natural-history painted illustration, no writing, labels, panels, grid or watermark. Complete adult female Himantolophus groenlandicus Atlantic footballfish, round dark brown body with discrete short-spined bony plates, very small eyes, stout protruding lower jaw with modest thin inward teeth, small rear dorsal and anal fins, a small broad tail connected by a visible caudal peduncle. At upper-front head before eye, one stout short curving fishing stalk ends in a pale blue-green softly glowing fleshy lure bearing several branching filaments with paired end appendages. Whole fish angled gently toward a tiny red deep-water shrimp approaching the lure, shrimp outside mouth, no swallowing or contact. An educational reconstruction of family-level crustacean feeding and luminous lure use, not documentary observed prey. Fish is ten times larger than shrimp. Dim blue midwater and sparse marine snow, clear restrained lighting, generous margins around all fins and fishing filaments. Every appendage visibly connects to body. No parasitic attached males, pelvic fins, extra poles, monstrous teeth, violent attack, blood, detached tail or cropped lure."
+      ],
+      "generatedAt": "2026-10-07T11:32:25.371Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "e0b0700b5d45fd9e41128baec136dc0fa9c2c5a93d61405307a7565af2c79afe",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "과 또는 형태 수준 먹이활동을 바탕으로 한 교육 재구성. 종별 직접 사냥과 특정 먹이 성공을 단정하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Museums Victoria — Himantolophidae",
+          "url": "https://fishesofaustralia.net.au/home/family/181"
+        }
+      ]
+    },
+    {
+      "id": "atlantic-footballfish",
+      "src": "assets/images/atlantic-footballfish-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "어두운 중층을 떠다니는 초롱아귀 암컷이에요.",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "실제 원본을 보고 단독 중층 부유, 둥근 몸과 작은 눈, 짧은 뼈판 가시, 몸에 이어진 꼬리와 후방 지느러미, 굵은 한 낚싯대 확인. 미끼 밖의 피부 발광이나 붙은 수컷이 없음.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE standalone 3:2 landscape realistic natural-history illustration, no words, labels, grid, collage, watermark or border. Show the complete adult female Himantolophus groenlandicus Atlantic footballfish from a slightly elevated three-quarter side view, drifting calmly alone in spacious deep-ocean midwater. Keep the subject smaller, occupying about 55 percent of frame so its whole tail and ornate lure have ample clear space. It is round and dark charcoal brown with small discrete short-spined bony skin plates, tiny natural eyes, strong protruding lower jaw and fine inward teeth, short narrow-based dorsal and anal fins set near the rear, small broad caudal fin with uninterrupted attachment. One stout comparatively short fishing stalk rises near front of head before eye and bears a gently blue-green glowing bulb with branching fine filaments and terminal paired appendages. Dim blue black water with only sparse marine snow, no seabed, plants, coral or sunbeams. Illuminate body softly so natural texture remains clear. Preserve anatomical connections of stalk, lure, paired pectoral fins, rear fins and tail. No attached parasitic males, additional rods, glowing skin, huge fangs, fantasy horns, extra fins or cropped body."
+      ],
+      "generatedAt": "2026-10-07T11:33:02.342Z",
+      "checkedAt": "2026-10-07",
+      "sha256": "840fa55f1c3142edd366b3e30f786cbbb764c563239fb138330f6f785744f57c",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "기관 형태·서식 자료에 근거한 교육 삽화.",
+      "behaviorSources": [
+        {
+          "title": "Museums Victoria — Himantolophidae",
+          "url": "https://fishesofaustralia.net.au/home/family/181"
+        }
+      ]
+    },
+    {
+      "id": "red-paper-lantern-jelly",
+      "src": "assets/images/red-paper-lantern-jelly-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "붉은종이초롱해파리 · 붉은 세로 주름과 가는 촉수",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "Pandea rubra의 높은 붉은 반투명 우산과 세로 접힘, 가장자리에 연결된 가는 다수 촉수, 중앙 구병을 원본에서 확인. 빗판·네 리본 입팔·네온 발광 없으며 전신과 촉수 끝이 화면 안에 있다.",
+      "generationPrompts": [
+        "Create ONE landscape 3:2 finished image for a Korean children's marine natural-history atlas. A single complete red paper lantern jelly Pandea rubra in dark deep open seawater, realistic detailed painterly scientific illustration, clear anatomy, calm observation illumination, rich natural colors, suitable for ages 5–12. Show the animal in a clean slightly low three-quarter frontal portrait, entirely in frame. Its tall translucent deep-red bell resembles a paper lantern: a rounded upper dome narrows softly toward the opening below, with conspicuous VERTICAL folded ribs of red tissue and darker red muscle strands, not a flat saucer or ctenophore sphere. The bell is compact, approximately 7.5 centimeters at maximum, represented without any size labels. Numerous extremely fine naturally dark red tentacles attach continuously in a single ring around the bell margin and trail below and outward in orderly separate long curves; the entire tentacles and tips stay in frame, with a generous dark-water margin. Each tentacle is thin, not a giant thick oral ribbon. A simple central reddish mouth/manubrium remains anatomically attached inside the bell opening. No broad frilly oral arms, no comb rows, no eight neon rainbow stripes, no additional animal bell, no tentacles growing from the top, no disconnected floating filaments. The jelly does not emit neon red light; natural red tissue is softly lit from a neutral distant observation light. Deep navy-black water, few small suspended particles, no sunny shallow reef or sea floor. No text, labels, borders, split panels, collage, logos or watermarks."
+      ],
+      "generatedAt": "2026-10-07T11:34:57.283Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "7769e6e5b7a87d2c573a58a729a30fc5f4cc2460baa46b0063c17971e2828e15",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "red-paper-lantern-jelly",
+      "src": "assets/images/red-paper-lantern-jelly-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "붉은종이초롱해파리 · 작은 갑각류 먹이와 촉수",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "높은 붉은 우산·가는 가장자리 촉수 연결과 전신이 유지됨. 몸 밖의 작은 크릴/요각류형 먹이와 촉수 끝의 근접/접촉은 수족관이 제시한 크릴·요각류 식단과 부합하며 조직 속 먹이 또는 고어 없음.",
+      "generationPrompts": [
+        "ONE landscape 3:2 finished realistic painterly scientific marine natural-history illustration, suitable for ages 5–12, no text, labels, frames, montage, split panels, logos or watermark. A single complete red paper lantern jelly Pandea rubra seen in a gentle diagonal SIDE view, its tall lantern-shaped natural deep-red bell placed at upper right and numerous THIN red marginal tentacles drifting toward the lower left. The entire jelly and every long tentacle tip are inside the frame with open-water margins. The translucent bell has strong vertical folded pleats and red internal muscle ribs, a rounded top and softly narrowed opening, with one simple small attached central mouth organ; no broad oral ribbon arms, no ctenophore comb rows, no neon patterns. A food encounter with only THREE much smaller realistic crustacean plankton: a tiny slender krill and two small copepods float close to the outward tentacle ends. The krill sits gently against ONE tentacle near its tip, with clear connected eye, antennae and tail; the other plankton are separate and freely floating. This reconstructs the jelly's known krill-and-copepod diet and is bloodless, calm, without injured prey or an open gory mouth. One thin tentacle touches a small prey naturally, not a tentacle knot or a net, and no object appears inside the bell. Deep dark navy midwater background with sparse particles, neutral soft observation light makes red tissue visible without self-emitted glow. Include the full tall red bell, all attached tentacles, intact curled tips and small prey."
+      ],
+      "generatedAt": "2026-10-07T11:36:23.674Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "a0b1860dd360d209c6c3f8c3c14c2723a736a2d7102dfdd2867b2813af2d3240",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "기관에 적힌 krill/copepod 식단을 근거로 작은 먹이와 촉수 접촉을 재구성. 특정 야생 포획을 촬영한 장면이 아님.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Red paper lantern jelly, krill and copepods diet",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/red-paper-lantern-jelly"
+        }
+      ]
+    },
+    {
+      "id": "red-paper-lantern-jelly",
+      "src": "assets/images/red-paper-lantern-jelly-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "붉은종이초롱해파리 · 우산을 접으며 헤엄치기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "높은 붉은 우산이 접혀 약간 기울고 모든 긴 가는 촉수가 가장자리에서 이어져 흐른다. 세로 접힘/근육 모양과 전신이 유지되어 수족관의 우산 수축 설명에 부합. 빗판 또는 다른종 입팔 없음.",
+      "generationPrompts": [
+        "Create ONE landscape 3:2 realistic painterly marine natural-history illustration for a Korean children's atlas, ages 5–12. Ecology scene of ONE complete red paper lantern jelly Pandea rubra swimming by gently pulsating its bell in cold deep pelagic water. A HIGH, slightly rear-oblique camera angle looks down toward the animal, which is diagonally oriented at the center-left, with spacious dark open water all around. The tall lantern-shaped bell is partly contracted: a rounded top and strongly VERTICAL red folds drawn inward near the opening, like soft organic pleated tissue, still translucent natural wine-red and with dark red muscle network. Many long, exceptionally thin dark red marginal tentacles attach continuously around the lower opening and drift back and down in separated curves, all intact tips fully INSIDE the frame. The central attached mouth organ is simple and mostly hidden by this angle. This is one moment of swimming, not a before-and-after chart. The tentacles and bell do not emit neon light. No huge broad oral ribbons, no detached tentacles, no ctenophore comb rows, no star-shaped crest or terrestrial lantern strings. Only a few distant tiny particles establish the deep-water setting; no fish swarm, coral, seabed, sunlight or aquarium equipment. Soft neutral illumination reveals delicate transparency and water movement subtly, without motion trails or lasers. The bell and all thin tentacles are one connected animal. No text, labels, frames, divided panels, logos or watermarks."
+      ],
+      "generatedAt": "2026-10-07T11:37:43.719Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "7b1b35e0e40e6a185af2befe1c202b41ad609e45f70341264cbae4e95c9cea0e",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "수족관의 우산 주름과 수축·이완 관찰 설명을 근거로 한 생태 재구성. 한 순간의 삽화로 시간 순서 실측도가 아님.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Red paper lantern jelly, vertical folds and pulsation",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/red-paper-lantern-jelly"
+        }
+      ]
+    },
+    {
+      "id": "silky-jelly",
+      "src": "assets/images/silky-jelly-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "무지개곤봉해파리 · 투명한 우산과 빛을 반사하는 촉수",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "Colobonema sericeum의 투명한 높은 우산·가느다란 방사관·중앙 구병과 가장자리에서 이어진 청색 반사 촉수가 보인다. 말린 촉수의 휴식 모습과 전신이 유지됨. 빗해파리 빗판이나 네온/자가발광 촉수로 표현되지 않았다.",
+      "generationPrompts": [
+        "Create ONE 3:2 landscape finished scientific natural-history marine illustration for children ages 5–12, detailed realistic painterly tissue, calm lighting and clear silhouette. PORTRAIT of a single complete silky jelly Colobonema sericeum in blue-black open midwater. Its SMALL translucent colorless bell is slightly conical, approximately as high as it is wide, with a gently rounded top, no pointed apex. Inside the clear bell are EIGHT thin simple radial canals and a slender attached central tubular manubrium with small plain lips, no elaborate oral ribbons. It naturally has 32 marginal tentacles: represent a single evenly spaced ring of numerous clear blue-tinted slender solid tentacles rooted continuously around the bell's lower edge, no other tentacle roots on the top or sides. At rest the tentacles spread radially out and down, with subtly paddle-shaped portions and loosely coiled intact tips. Show the entire bell and all these tentacle tips inside the frame, generous water margins. Tentacles can look softly blue only because neutral observation illumination is reflected; do NOT add self-emitted blue light, a luminous halo, glowing tentacle tips or eight neon comb stripes. This is a cnidarian medusa, not a rainbow comb jelly, not a large Aurelia saucer and not a reddish Crossota medusa. The animal occupies about 55 percent of frame width including its separated spread-out tentacles. Deep navy water with sparse marine snow and restrained neutral side illumination, no seafloor, coral, surface sunshine, equipment or other animals. No text, labels, border, collage, panels, logos, or watermark."
+      ],
+      "generatedAt": "2026-10-07T11:40:31.281Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "cd051a14d2064348dea9354f2147c7cb4bb161b968a8136c976d4cadc52d54a8",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "silky-jelly",
+      "src": "assets/images/silky-jelly-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "무지개곤봉해파리 · 작은 갑각류 먹이 가까이 촉수 펼치기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "투명 우산·방사관·가장자리 촉수 연결이 유지되고 몸 바깥의 작은 요각류형 갑각류가 말린 촉수 가까이에 있다. MBARI의 작은 갑각류 식단/휴식 시 촉수로 먹이 포획 설명과 부합. 조직 속 먹이·확정된 삼킴 없음.",
+      "generationPrompts": [
+        "ONE 3:2 landscape scientific natural-history illustration for a Korean children's marine atlas, detailed realistic painterly style, no text, labels, frames, panels, collage, logo or watermark. Show ONE complete silky jelly Colobonema sericeum seen from a slightly low oblique SIDE view in dark blue open midwater. A small translucent colorless bell, slightly conical and approximately as high as wide, has no apical spike; inside are eight narrow plain radial canals and a slim central attached tubular mouth organ ending in short simple lips. A single ring of about 32 naturally blue-tinted, slender solid marginal tentacles attaches continuously to the lower bell edge and spreads outward and down, some tips gently coiled and some extended. Every tentacle tip stays INSIDE the frame with generous margins and visible attachment to the bell. Arrange the subject at center-right, gently tilted, leaving room for THREE much smaller copepod-like crustacean plankton in the surrounding water near the tentacle tips. One copepod is at a tentacle's tip while the others float nearby; no internal prey, gore, injured animals or fantasy net. The known crustacean diet supports this modest feeding reconstruction, which is not a documentary photograph of a witnessed hunt. Tentacles show only soft blue reflective coloration under neutral observation illumination, never self-generated blue light or a glowing halo. No ctenophore comb rows, rainbow neon stripes, broad frilly oral arms or detached filaments. Natural cold pelagic atmosphere and sparse suspended particles, without sea floor, shallow coral or surface rays. Anatomical clarity and whole-animal framing are essential."
+      ],
+      "generatedAt": "2026-10-07T11:41:34.849Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "95201f12b284deaf8aeda97518d6aeddfaf0070dc8984c965ab9daa7610be976",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "MBARI의 small crustaceans 식단에 근거한 작은 갑각류와 촉수 근접 재구성. 직접 촬영한 성공 포식이 아님. 촉수의 파란색은 반사.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Silky jelly diet and reflected tentacle color",
+          "url": "https://www.mbari.org/animal/silky-jelly/"
+        }
+      ]
+    },
+    {
+      "id": "silky-jelly",
+      "src": "assets/images/silky-jelly-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "무지개곤봉해파리 · 우산을 좁히고 촉수를 뒤로 뻗어 헤엄치기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "가늘고 길어진 투명 우산과 연결된 긴 청색 반사 촉수들이 진행 방향 뒤로 늘어진 모습. MBARI의 수축 시 우산이 관 모양이 되고 촉수가 길게 펴지는 관측 설명에 부합. 전신과 촉수 끝이 화면 안에 있다.",
+      "generationPrompts": [
+        "ONE finished landscape 3:2 realistic painterly scientific natural-history marine illustration for children ages 5–12, no text, labels, border, montage, panels, logos or watermark. A single complete silky jelly Colobonema sericeum moving quickly through dark pelagic seawater, the scientifically observed fast-swimming posture. View from the opposite high three-quarter SIDE angle: a small translucent COLORLESS bell has contracted from a rounded dome into a somewhat narrower tubular cone, still a soft jelly bell with rounded top, not a rigid rocket and no apex spike. Eight thin natural internal radial canals and one slender attached tubular mouth organ are visible through the bell, without decorative comb rows. About 32 slender solid blue-reflective marginal tentacles are continuously connected in one ring around the lower bell opening. In this swimming moment most tentacles straighten and trail behind the jelly toward the left in separate gentle long curves rather than evenly splaying all around; a few intact distal tips remain slightly curved. The entire bell and every tentacle tip are fully within the frame, with generous dark-water margins. Tentacles look softly blue under neutral observation lighting, NOT because of bioluminescence: absolutely no luminous tentacle dots, glowing halos, eight neon stripes, trailing lasers, electric arcs, or bright colored aura. No predator, no detached tentacles, no bloody attack, no self-amputation scene. Tiny sparse suspended marine particles are the only background elements; no coral, sea floor, aquarium equipment, surface sunshine or motion-line graphics. Emphasize transparent jelly tissue, connected bell-to-tentacle anatomy, and a quiet natural three-dimensional pose."
+      ],
+      "generatedAt": "2026-10-07T11:42:50.910Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "f612b7b89d51b90b4d254c061c8a700a2b472131bcb3e254ece93b91fee8c034",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "MBARI 관찰과 swimming 연구의 좁아진 우산 및 길게 뻗은 촉수를 바탕으로 한 생태 재구성. 촉수는 푸른 반사를 보일 뿐 자체 발광하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Silky jelly, fast swimming and blue reflection",
+          "url": "https://www.mbari.org/animal/silky-jelly/"
+        },
+        {
+          "title": "Meech et al. — Two swimming modes in Trachymedusae",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8180259/"
+        }
+      ]
+    },
+    {
+      "id": "wolftrap-anglerfish",
+      "src": "assets/images/wolftrap-anglerfish-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "넓게 앞으로 나온 위턱과 입 안의 미끼를 가진 늑대덫아귀예요.",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본에서 낮고 넓게 앞으로 나온 위턱, 작은 뒤쪽 눈, 입천장 하나의 뿌리에 연결된 두 갈래 미끼, 몸과 꼬리·지느러미 연결을 확인.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One standalone 3:2 landscape realistic natural-history painted illustration, no letters, labels, panels, watermark or collage. Subject is a real adult female wolftrap anglerfish Thaumatichthys axeli, NOT a generic anglerfish. Show complete body in a front-left three-quarter view above a dim deep-ocean mud floor, all tail and fins visible within generous 15 percent margins. Soft dark brown broad low head and relatively small posterior body; extremely broad flattened forward-projecting U-shaped upper jaw extending far in front of narrower lower jaw, rows of long slender inward-curving hooked teeth on the sides of both jaws. The broad projecting upper lip has small tactile papillae. Very small eyes set behind the projecting upper jaw. The lure is a small softly luminous fleshy two-lobed structure suspended from the ROOF INSIDE the large open mouth, with one paired set of lateral lobes and delicate end filaments. Do not put a fishing stalk, pole or light bulb on top of the head. Compact small posterior dorsal and anal fins, paired pectorals close to body, short tail attached seamlessly through a clear caudal peduncle. Calm educational body posture, mouth naturally partly open so internal lure is visible. Black blue deep water, muted brown sediment, enough scientific soft light to inspect body; only mouth lure faintly blue-green glowing. Every jaw, tail, fin and internal lure visibly continuous with the one animal. Avoid round footballfish body, huge eyeballs, head-top rod, extra limbs, detached tail, fantasy trap hardware, blood or prey."
+      ],
+      "generatedAt": "2026-10-07T11:35:28.467Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "4432557c610744e1a93b64268f561db0ab7bf215077bc7326568a8e36da50041",
+      "width": 1535,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "wolftrap-anglerfish",
+      "src": "assets/images/wolftrap-anglerfish-chatgpt-feeding-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "늑대덫아귀 · 입 안의 미끼 살펴보기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "v2 원본에서 입천장의 한 공통 뿌리가 두 측면 미끼 엽으로 갈라지는 연결을 확인. 넓고 납작한 위턱, 작은 눈, 연결된 꼬리와 후방 지느러미는 유지되고 먹이는 입 밖에 있다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One 3:2 landscape realistic natural-history painted illustration, no words, labels, watermark, grid, collage or border. Show complete adult female Thaumatichthys axeli wolftrap anglerfish waiting close above deep-ocean muddy seabed in side-left three-quarter view. Broad low dark brown head with very large flattened upper jaw jutting forward beyond the smaller lower jaw like a wide open U-shaped canopy; long slender curved needle teeth at jaw margins, tiny eyes set rearward. A pair of faintly blue-green luminous fleshy lateral lure lobes hang only from the roof INSIDE THE MOUTH with delicate filaments, clearly anatomically attached to the palate. NO external head-top fishing rod. The mouth remains moderately open as a possible tiny prey silhouette approaches but stays entirely OUTSIDE the mouth; do not show swallowing or assert a documented specific prey. This is an educational reconstruction of trap-like jaw morphology and waiting behavior, because live feeding evidence for this rare species is limited. Show whole posterior body and modest dorsal/anal/pectoral fins and short caudal fin connected visibly, 15 percent framing margins. Dim black blue water and sparse marine snow; no sunlight or reef. Natural proportions, restrained lure glow, no violence, blood, detached anatomy, machinery or monstrous oversized teeth.",
+        "Use case: scientific-educational. Edit the supplied natural-history illustration only to correct the wolftrap anglerfish Thaumatichthys axeli mouth lure. Preserve the complete fish, connected tail and fins, pose, teeth, broad projecting upper jaw, small prey outside the mouth, seabed, light, natural textures and 3:2 framing. Inside the mouth, REMOVE the two separate long light stalks with separate attachment roots. Replace them with ONE clearly visible short common fleshy base attached centrally to the roof of the mouth; from this one base, the esca branches into TWO lateral soft lobes, each with delicate filaments and restrained pale blue-green glow. Both lobes must visibly join the same short single base, a compact bifurcated organ, not two rods hanging separately. Make the shared junction unambiguous and illuminated enough to inspect. Do not add any head-top fishing rod or any third lobe. This is a precise local anatomical correction; everything else stays consistent with the source illustration. No text, labels, arrows, panels or watermark."
+      ],
+      "generatedAt": "2026-10-07T18:02:02.428Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "da786b5efe07c083f1b34fcf4ab584d76f02b5b35fcd7a28cfd308b5b76a9e6d",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "자세한 식성이 확인되지 않아 사냥 성공 대신 입과 몸의 관찰 구도로 분류한 교육 재구성.",
+      "behaviorSources": [
+        {
+          "title": "FishBase — Thaumatichthys axeli ecology",
+          "url": "https://fishbase.se/Ecology/Thaumatichthys_axeli"
+        }
+      ]
+    },
+    {
+      "id": "wolftrap-anglerfish",
+      "src": "assets/images/wolftrap-anglerfish-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "아주 깊은 바다 바닥 가까이 머무르는 늑대덫아귀예요.",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본의 단일 입천장 줄기 끝에서 두 미끼 엽이 이어짐. 넓고 납작한 위턱과 작은 눈, 연결된 꼬리와 지느러미, 해저 가까이 머무는 전신이 보임.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE 3:2 landscape realistic natural-history educational illustration, no text, labels, watermark, border, collage or grid. Whole female Thaumatichthys axeli wolftrap anglerfish shown at modest scale 50 percent frame from an elevated oblique front-side view, quietly hovering centimeters above featureless muddy seabed near 3600 m. A distinct wide low flattened upper jaw extends forward far beyond the smaller lower jaw. Very small rearward eyes; dark brown broad head tapering to a compact smaller body. Mouth partly open, enough to glimpse a single central palate stalk ending in ONE paired set of two softly glowing fleshy lure lobes with fine filaments INSIDE mouth. Lure bases connect in the mouth roof; there is no external fishing pole on the head. Rows of inward hooked long slender teeth stay anatomically along jaw margins. Small back dorsal and anal fins, pectorals, short visible tail and connected caudal peduncle. Every body part connects, complete uncropped outline with wide margins. Muddy deep seafloor receding into black-blue water, no reef or surface light, subtle marine snow. Expedition-like gentle anatomical illumination; luminous lure remains restrained, no glowing skin. Calm nonviolent educational reconstruction of benthic habitat, no prey, injuries, robot trap jaws or detached parts."
+      ],
+      "generatedAt": "2026-10-07T11:39:12.832Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "23962bf1c19e209da9744a8e3a385a2ca4425e3c098e494bb78f82460d984d9b",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "기관의 형태·서식 자료에 근거한 교육 재구성. 실제 관측 사진 아님.",
+      "behaviorSources": [
+        {
+          "title": "FishBase — Thaumatichthys axeli",
+          "url": "https://www.fishbase.se/summary/52839"
+        }
+      ]
+    },
+    {
+      "id": "phantom-anglerfish",
+      "src": "assets/images/phantom-anglerfish-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "반투명한 몸과 둥근 피부판 미끼를 가진 심해투명아귀예요.",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "v2 원본을 실제 열어 창백하고 둥근 몸, 눈 위/입 뒤 가시, 낮고 둥근 납작 피부판 미끼, 연결 꼬리, 막이 각 3개의 주요 지지 줄기에 걸린 작은 후방 등·뒷지느러미를 확인.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE standalone 3:2 landscape realistic natural-history painted marine illustration for ages 5–12, no letters, labels, panels, grid, collage, border or watermark. Subject is a real female Haplophryne mollis phantom anglerfish. Complete whole animal lateral three-quarter view facing left in dim deep blue midwater, occupying 60 percent frame with generous clear margins around every fin and tail. Body plump rounded, naturally pale creamy translucent gelatinous skin with faint internal shapes, not an entirely glass skeleton. Small dark natural eyes; short distinct bony spines above each eye and behind mouth corners, not spikes scattered over whole body. Large mouth with numerous modest fine needle teeth. Critically the illicium is a small ROUND FLESHY SKIN FLAP attached near the upper front of the head, lying against the forehead; no long upright fishing stalk, no branching luminous tentacles, no lightbulb lure. Small posterior dorsal fin with three simple soft rays and corresponding anal fin, small paired pectoral fins, clear caudal peduncle leading continuously to a small broad rounded tail fin. Preserve all body-fin-tail anatomical connections. No attached male in this portrait. Soft neutral lighting clarifies near-transparency against dark blue, no luminous eyes or luminous skin. No generic smooth black seadevil, frog legs, horns, huge monster teeth, detached anatomy, surface sunlight, plants or violence.",
+        "Use case: scientific-educational. Edit the supplied Haplophryne mollis phantom anglerfish natural-history illustration with precise local anatomy corrections, preserving its 3:2 composition, complete connected body and tail, pale translucent skin, small eyes, bony spines above the eyes and behind the mouth, small teeth, original pose and dark midwater background. The small rear DORSAL fin must contain EXACTLY THREE simple distinct supporting soft rays. The small rear ANAL fin must likewise contain EXACTLY THREE simple distinct supporting soft rays. In each of these two fins, show one single thin membrane stretched between exactly three clearly countable unbranched main stems, with no extra strong radial lines, fine fan ribs or decorative striations that could be mistaken for additional rays. Reduce the existing fan fins accordingly. These are three-ray soft fins, not three bare spine horns. Leave pectoral and caudal fins natural and do not apply the three-ray rule to those fins. Also make the forehead lure a SMALL ROUNDED FLAT SKIN FLAP lying close against the front forehead, visibly joined to its skin along a short edge: no upright rod, no stem, no spherical glowing bulb. Preserve the skin spines and all whole-animal framing margins. Make no other compositional or behavioral change. No labels, numbers, text, arrows or watermarks."
+      ],
+      "generatedAt": "2026-10-07T18:03:33.737Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "bf682119a8d07b91fc8109e58c61c3072ee97e140dc9e12de4f2508a9b091f36",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "phantom-anglerfish",
+      "src": "assets/images/phantom-anglerfish-chatgpt-feeding-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "심해투명아귀 · 입을 벌린 모습 관찰",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "v2 원본을 실제 열어 창백하고 둥근 몸, 눈 위/입 뒤 가시, 낮고 둥근 납작 피부판 미끼, 연결 꼬리, 막이 각 3개의 주요 지지 줄기에 걸린 작은 후방 등·뒷지느러미를 확인. 입은 비어 있어 특정 먹이의 포획·섭식 성공을 표현하지 않는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One complete standalone 3:2 landscape realistic natural-history painted marine illustration, no text, labels, panels, grid, collage or watermark. A living female Haplophryne mollis phantom anglerfish floats calmly in dim blue midwater, mouth naturally ajar in a prey-search posture. No visible prey inside or outside mouth, because species-specific diet evidence is sparse; this educational scene shows searching rather than a documented successful hunt. Whole animal front-left three-quarter view occupying 60 percent of frame, generous clear margins. Rounded pale cream-pink nearly unpigmented translucent skin with subtle internal shapes; tiny dark eyes, short stiff bony spines ABOVE the eye and behind mouth corners. Large mouth with numerous small thin inward teeth. The head-top illicium is only a small round fleshy SKIN FLAP near front forehead, no rod, no luminous lightbulb. Smooth otherwise spineless body, two small pectoral fins; small far-back dorsal and anal fins each explicitly consist of THREE translucent supporting soft rays (not a dense fan), clear short caudal peduncle and small broad rounded caudal fin. Show uninterrupted connection of tail and all fins to body. Gentle neutral fill light, deep black-blue background, sparse particles; no glow from body or eyes, no bright surface beams. No attached males in this scene, generic black anglerfish, branched lure, huge fangs, detached parts, gore or cartoon face.",
+        "Use case: scientific-educational. Edit the supplied Haplophryne mollis phantom anglerfish natural-history illustration with precise local anatomy corrections, preserving its 3:2 composition, complete connected body and tail, pale translucent skin, small eyes, bony spines above the eyes and behind the mouth, small teeth, original pose and dark midwater background. The small rear DORSAL fin must contain EXACTLY THREE simple distinct supporting soft rays. The small rear ANAL fin must likewise contain EXACTLY THREE simple distinct supporting soft rays. In each of these two fins, show one single thin membrane stretched between exactly three clearly countable unbranched main stems, with no extra strong radial lines, fine fan ribs or decorative striations that could be mistaken for additional rays. Reduce the existing fan fins accordingly. These are three-ray soft fins, not three bare spine horns. Leave pectoral and caudal fins natural and do not apply the three-ray rule to those fins. Also make the forehead lure a SMALL ROUNDED FLAT SKIN FLAP lying close against the front forehead, visibly joined to its skin along a short edge: no upright rod, no stem, no spherical glowing bulb. Preserve the skin spines and all whole-animal framing margins. Make no other compositional or behavioral change. No labels, numbers, text, arrows or watermarks."
+      ],
+      "generatedAt": "2026-10-07T18:04:22.516Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "8b0ebdfe6cf4d9908c3f0f56276d2c4ec68d73ecaffeaf58b320a3e92373c42b",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "자세한 식성이 확인되지 않아 사냥 성공 대신 입과 몸의 관찰 구도로 분류한 교육 재구성.",
+      "behaviorSources": [
+        {
+          "title": "FishBase — Haplophryne mollis field guide",
+          "url": "https://www.fishbase.se/FieldGuide/FieldGuideSummary.php?GenusName=Haplophryne&SpeciesName=mollis&print=&sps="
+        },
+        {
+          "title": "Te Ara / Te Papa — Phantom anglerfish",
+          "url": "https://teara.govt.nz/en/photograph/5249/phantom-anglerfish"
+        }
+      ]
+    },
+    {
+      "id": "phantom-anglerfish",
+      "src": "assets/images/phantom-anglerfish-chatgpt-ecology-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "아주 작은 수컷이 암컷에 붙어 지내는 모습을 재구성했어요.",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "v2 원본을 실제 열어 창백하고 둥근 몸, 눈 위/입 뒤 가시, 낮고 둥근 납작 피부판 미끼, 연결 꼬리, 막이 각 3개의 주요 지지 줄기에 걸린 작은 후방 등·뒷지느러미를 확인. 작은 수컷은 암컷 복부 피부에 입으로 붙어 있다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. One 3:2 landscape realistic natural-history educational illustration, no words, labels, grids, panels, collage or watermark. Complete pale unpigmented translucent adult female Haplophryne mollis phantom anglerfish drifting in spacious dark deep-ocean midwater, seen from a slightly elevated clear left-side view, fish about 55 percent of canvas and all appendages inside generous margins. Rounded soft creamy body with subtly visible internal shapes, very small natural dark eyes, short bony spines above eyes and behind mouth corners. Fleshy small round skin-flap illicium rests at front forehead, NOT an upright fishing pole, no glowing lightbulb. Numerous fine small teeth in a partly closed mouth. Small rear dorsal and anal fins each with THREE distinct simple supporting soft rays, small paired pectorals, rounded tail continuously attached to short caudal peduncle. Include ONE very tiny naturally pale dwarf male (about one fifth female body length), anatomically attached by mouth to the female's lower abdominal skin, near but not obscuring posterior anal fin. The male has its own tiny body and tapered small tail, attachment unambiguous; no loose floating dismembered part, no male riding on top, no blood. The image is a biological educational reconstruction of parasitic attachment documented in museum specimens. Keep female and male whole, sufficiently illuminated for identification against dark blue-black water, sparse marine snow, no seabed, plants or surface sunlight. No glowing body or eyes, generic black seadevil, extra rods, giant spines, monster teeth, human objects or injury.",
+        "Use case: scientific-educational. Edit the supplied Haplophryne mollis phantom anglerfish natural-history illustration with precise local anatomy corrections, preserving its 3:2 composition, complete connected body and tail, pale translucent skin, small eyes, bony spines above the eyes and behind the mouth, small teeth, original pose and dark midwater background, and the tiny male attached by his mouth to the female's underside. The small rear DORSAL fin must contain EXACTLY THREE simple distinct supporting soft rays. The small rear ANAL fin must likewise contain EXACTLY THREE simple distinct supporting soft rays. In each of these two fins, show one single thin membrane stretched between exactly three clearly countable unbranched main stems, with no extra strong radial lines, fine fan ribs or decorative striations that could be mistaken for additional rays. Reduce the existing fan fins accordingly. These are three-ray soft fins, not three bare spine horns. Leave pectoral and caudal fins natural and do not apply the three-ray rule to those fins. Also make the forehead lure a SMALL ROUNDED FLAT SKIN FLAP lying close against the front forehead, visibly joined to its skin along a short edge: no upright rod, no stem, no spherical glowing bulb. Preserve the skin spines and all whole-animal framing margins. Make no other compositional or behavioral change. No labels, numbers, text, arrows or watermarks."
+      ],
+      "generatedAt": "2026-10-07T18:05:26.849Z",
+      "checkedAt": "2026-10-08",
+      "sha256": "f64b339e5ed8d5abdb7d8579c92f5af68e20c1deca5cd56af70b2fa12f9c098d",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "박물관 표본의 수컷 기생 부착에 근거한 교육 재구성. 실제 관측 사진 아님.",
+      "behaviorSources": [
+        {
+          "title": "FishBase — Haplophryne mollis field guide",
+          "url": "https://www.fishbase.se/FieldGuide/FieldGuideSummary.php?GenusName=Haplophryne&SpeciesName=mollis&print=&sps="
+        },
+        {
+          "title": "Te Ara / Te Papa — Phantom anglerfish",
+          "url": "https://teara.govt.nz/en/photograph/5249/phantom-anglerfish"
         }
       ]
     }
