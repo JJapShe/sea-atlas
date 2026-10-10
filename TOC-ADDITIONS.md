@@ -2,24 +2,24 @@
 
 확인일: 2026-10-08. 목차 번호 50개에서 슬래시로 묶인 생물을 나누면 이름 56개입니다. 성어·치어(12·13번)를 한 항목으로 합치고 기존 도감과 겹치는 8개를 제외해 신규 47개를 정리했습니다. 종과 속 단위 항목이 함께 있어 모두를 47종이라고 부르지 않습니다.
 
-현재 앱 데이터에 추가한 항목은 7개, 남은 항목은 40개입니다. 각 생물은 검토한 삽화 3장 이상을 갖춘 뒤 반영합니다. 표의 “추가”는 앱 데이터 반영 상태이며 게시 완료 여부는 README의 배포 기록을 따릅니다. 식성이 미확인인 생물은 먹이 장면을 만들어내지 않고 서로 다른 생태 구도로 대신합니다.
+현재 앱 데이터에 추가한 항목은 15개, 남은 항목은 32개입니다. 각 생물은 검토한 삽화 3장 이상을 갖춘 뒤 반영합니다. 표의 “추가”는 앱 데이터 반영 상태이며 게시 완료 여부는 README의 배포 기록을 따릅니다. 식성이 미확인인 생물은 먹이 장면을 만들어내지 않고 서로 다른 생태 구도로 대신합니다.
 
 ## 신규 목록
 
 | 목차 | 생물 | 대조한 학명 | 범위·주의 | 앱 반영 |
 |---|---|---|---|---|
-| 1 | 대왕심해해파리 | *Stygiomedusa gigantea* | 종 항목 | 제작·검토 대기 |
+| 1 | 대왕심해해파리 | *Stygiomedusa gigantea* | 종 항목 | 추가 · 3장 |
 | 2 | 붉은종이초롱해파리 | *Pandea rubra* | 종 항목 | 추가 · 3장 |
 | 3 | 무지개곤봉해파리 | *Colobonema sericeum* | 종 항목 | 추가 · 3장 |
-| 4 | 접시해파리 | *Solmissus spp.* | 속 단위 | 제작·검토 대기 |
-| 5 | 대왕관해파리 | *Praya dubia* | 종 항목 | 제작·검토 대기 |
-| 6 | 오이빗해파리 | *Beroe cucumis* | 종 항목 | 제작·검토 대기 |
+| 4 | 접시해파리 | *Solmissus spp.* | 속 단위 | 추가 · 3장 |
+| 5 | 대왕관해파리 | *Praya dubia* | 종 항목 | 추가 · 3장 |
+| 6 | 오이빗해파리 | *Beroe cucumis* | 종 항목 | 추가 · 3장 |
 | 6 | 풍선빗해파리 | *Hormiphora palmata* | 종 항목 | 제작·검토 대기 |
 | 7 | 감투빗해파리 | *Bolinopsis mikado* | 종 항목 | 제작·검토 대기 |
 | 8 | 초롱아귀 | *Himantolophus groenlandicus* | 대표종 선택: 대서양초롱아귀 | 추가 · 3장 |
 | 9 | 늑대덫아귀 | *Thaumatichthys axeli* | 대표종 선택 | 추가 · 3장 |
 | 10 | 심해투명아귀 | *Haplophryne mollis* | 종 항목 | 추가 · 3장 |
-| 11 | 바늘방석아귀 | *Neoceratias spinifer* | 종 항목 | 제작·검토 대기 |
+| 11 | 바늘방석아귀 | *Neoceratias spinifer* | 종 항목 | 추가 · 3장 |
 | 12 | 태평양블랙드래곤피시 | *Idiacanthus antrostomus* | 12 성어·13 치어 통합 | 제작·검토 대기 |
 | 15 | 샛비늘치 | *Diaphus watasei* | 종 항목 | 제작·검토 대기 |
 | 16 | 발광금눈돔 | *Anomalops katoptron* | 밤의 산호초 생물 | 제작·검토 대기 |
@@ -41,10 +41,10 @@
 | 34 | 바다벼룩 | *Hyperia galba* | 종 항목 | 제작·검토 대기 |
 | 35 | 비늘발고둥 | *Chrysomallon squamiferum* | 종 항목 | 추가 · 3장 |
 | 36 | 투구귀꼴뚜기 | *Sepiolina nipponensis* | 종 항목 | 추가 · 3장 |
-| 37 | 발광짧은꼬리오징어 | *Heteroteuthis nordopacifica* | 하와이 발광오징어와 구별 | 제작·검토 대기 |
-| 39 | 망원경문어 | *Amphitretus pelagicus* | 종 항목 | 제작·검토 대기 |
+| 37 | 발광짧은꼬리오징어 | *Heteroteuthis nordopacifica* | 하와이 발광오징어와 구별 | 추가 · 3장 |
+| 39 | 망원경문어 | *Amphitretus pelagicus* | 종 항목 | 추가 · 3장 |
 | 39 | 보석오징어 | *Stigmatoteuthis dofleini* | 옛 이름 Histioteuthis dofleini | 제작·검토 대기 |
-| 40 | 큰지느러미오징어 | *Magnapinna spp.* | 속 단위 | 제작·검토 대기 |
+| 40 | 큰지느러미오징어 | *Magnapinna spp.* | 속 단위 | 추가 · 3장 |
 | 41 | 대서양크랜치오징어 | *Teuthowenia megalops* | 종 항목 | 제작·검토 대기 |
 | 43 | 우무문어 | *Exsuperoteuthis depressa* | 옛 이름 Opisthoteuthis depressa | 제작·검토 대기 |
 | 44 | 일곱다리문어 | *Haliphron atlanticus* | 실제 팔은 8개 | 제작·검토 대기 |

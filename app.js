@@ -1,4 +1,4 @@
-import { animals, habitats, groups, depthZones } from "./data/animals.js?v=20261008-toc-1";
+import { animals, habitats, groups, depthZones } from "./data/animals.js?v=20261011-pose-1";
 
 const normalized = (value) => String(value).normalize("NFKC").toLocaleLowerCase().replace(/\s+/g, "");
 export function filterAnimals(records, { query = "", group = "", habitat = "", depth = "", bookmarksOnly = false, bookmarkIds = [] } = {}) {
