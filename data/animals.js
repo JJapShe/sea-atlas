@@ -652,33 +652,38 @@ export const animals = [
       },
       {
         "id": "orca",
-        "src": "assets/images/orca-chatgpt-ecology-v1.png",
+        "src": "assets/images/orca-chatgpt-ecology-rear-rise-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
         "sceneType": "ecology",
-        "caption": "범고래 · 무리와 함께 헤엄치기",
+        "caption": "범고래 · 뒤사선에서 본 무리의 상승 유영",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "분리된 3개체의 전신·가슴지느러미 각 2개·등지느러미 각 1개·수평 2엽 꼬리 확인. 앞 개체 실제 눈이 흰 반점과 별도로 보임.",
-        "behaviorCheck": "여러 마리가 무리를 이루어 살아요. 연안에서 함께 이동하는 모습을 그렸어요.",
+        "identityCheck": "주개체의 둥근 머리·작은 눈과 뒤 흰 눈무늬·흰 턱/배/옆무늬, 회색 안장 영역·하나의 등핀·몸에 연결된 두 가슴핀과 수평 두 꼬리엽의 꼬리자루 연결을 실제 원본에서 대조했다. 뒤 동료도 머리·등핀·흰 눈/배무늬와 연결 꼬리가 보임.",
+        "behaviorCheck": "NOAA의 무리 생활을 토대로 동료와 같은 방향으로 이동하는 모습을 교육용으로 재구성했다. 특정 가족이나 집단, 먹이 사냥의 성공은 확정하지 않는다.",
         "behaviorSources": [
           {
-            "title": "NOAA Fisheries — Killer Whale: Behavior and Diet",
+            "title": "NOAA Fisheries — Killer Whale: Appearance and Behavior and Diet",
             "url": "https://www.fisheries.noaa.gov/species/killer-whale"
           }
         ],
         "generationPrompts": [
-          "Use case: scientific-educational\nAsset type: Sea Atlas ecology gallery, one standalone horizontal 3:2 image.\nStyle: exquisitely detailed naturalistic painted educational illustration for children ages 5–12, realistic natural anatomy and proportions, natural eyes, gentle documentary mood, quiet habitat background, not a photo.\nConstraints: whole principal animal and important appendages inside frame with margin; no text, labels, arrows, border, watermark, logos, people, boats, fishing gear, blood, injury, horror, anthropomorphism, glowing eyes, plastic or cartoon look.\nScene: Three killer whales Orcinus orca traveling together through cool northeast Pacific coastal water. Underwater broad three-quarter view from slightly above, looking toward their heads, distinctly different from a single side profile. One foreground adult female and two smaller distant individuals with separate visible bodies and comfortable space, all moving quietly in the same direction below the sunlit surface. The nearby adult is completely framed; distant animals also completely framed. Low-contrast rocky coast/kelp far away, no prey and no acrobatic behavior.\nAnatomy: each whale has black back, white underside, small natural eyes distinct from white patches behind eyes, gray saddle behind one upright dorsal fin, exactly two rounded pectoral flippers, horizontal left-right tail flukes perpendicular to its dorsal fin. Female's dorsal fin modestly curved, not all whales giant male dorsal fins. Keep tails visibly spreading left-right in horizontal planes even under perspective. Do not invent visible sound waves."
+          "Use case: scientific-educational\nAsset type: Sea Atlas ecology gallery, one standalone horizontal 3:2 image.\nStyle: exquisitely detailed naturalistic painted educational illustration for children ages 5–12, realistic natural anatomy and proportions, natural eyes, gentle documentary mood, quiet habitat background, not a photo.\nConstraints: whole principal animal and important appendages inside frame with margin; no text, labels, arrows, border, watermark, logos, people, boats, fishing gear, blood, injury, horror, anthropomorphism, glowing eyes, plastic or cartoon look.\nScene: Three killer whales Orcinus orca traveling together through cool northeast Pacific coastal water. Underwater broad three-quarter view from slightly above, looking toward their heads, distinctly different from a single side profile. One foreground adult female and two smaller distant individuals with separate visible bodies and comfortable space, all moving quietly in the same direction below the sunlit surface. The nearby adult is completely framed; distant animals also completely framed. Low-contrast rocky coast/kelp far away, no prey and no acrobatic behavior.\nAnatomy: each whale has black back, white underside, small natural eyes distinct from white patches behind eyes, gray saddle behind one upright dorsal fin, exactly two rounded pectoral flippers, horizontal left-right tail flukes perpendicular to its dorsal fin. Female's dorsal fin modestly curved, not all whales giant male dorsal fins. Keep tails visibly spreading left-right in horizontal planes even under perspective. Do not invent visible sound waves.",
+          "Create ONE new realistic natural-history marine illustration for Sea Atlas, children ages 5–12, landscape 3:2, refined painterly detail and gentle clear underwater light. Species Orcinus orca. Use the attached illustration ONLY as an identity and painting-style reference; reconstruct a genuinely new camera and swimming pose, never mirror or rotate that flat broadside whale. View the main adult from BELOW AND BEHIND in a pronounced rear three-quarter perspective: its complete two horizontal tail flukes are nearest the camera in the lower-left foreground, the connected caudal peduncle, thick body, and rounded head recede into depth toward the upper right. The whale gently banks and rises, showing part of its white underside and the side of its face; the body axis curves gently through depth. One pectoral flipper angles outward toward the viewer and the other sweeps backward at a different angle, each attached behind the head. Keep the body, head, both tail tips and all visible flippers wholly inside the picture with generous clear margins. Anatomically continuous whale: broad blunt head without a dolphin beak, black upper body, white belly and flank patch, a lateral white eye patch wherever the visible side permits it, a gray saddle just behind its ONE dorsal fin, TWO pectoral flippers and exactly TWO horizontally oriented tail lobes joined at their shared root. Mouth closed, no teeth, no prey or dramatic hunt. One much smaller whole companion orca swims farther away above-right, oriented away at a different depth, suggesting a social group without claiming a specific family or population. Calm open coastal blue water with distant restrained kelp silhouettes. No additional wildlife, boats, humans, text, arrows, labels, panels or watermark. The rear-underbody perspective, foreshortened body and gentle bank must be unmistakably different from the existing side-view representative and the earlier top-front feeding picture."
         ],
-        "generatedAt": "2026-10-03T00:41:28.636Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "e32e4190d105e7737d9be2634690bf506285514eaa061d73bd83609bfd89eddb",
+        "generatedAt": "2026-10-10T18:16:44.338Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "01d0af611f3fb9d7d2e8607827e51762a6156da7b395cede85e2a23ab93097bb",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
+        "viewpoint": "꼬리가 가까운 뒷옆 사선, 몸은 위쪽 오른편으로 후퇴하며 흰 배 일부가 보임",
+        "pose": "완만하게 올라가는 비스듬한 몸통과 서로 다른 각도의 가슴지느러미, 앞쪽 무리 한 마리",
+        "poseVariationCheck": "baseline의 대표 측면과 머리 가까운 위앞 먹이/원래 생태 사선에서, 큰 꼬리가 전경·머리가 멀어지는 뒤옆 원근으로 깊이 순서가 바뀜. 두 가슴핀의 노출 면과 벌림 각도·몸의 상승 기울기도 달라져 시점+핀/몸 상태 두 축이 구별됨. 동료/빛/배경만을 근거로 세지 않음.",
+        "visualLimitations": "완전 배 아래보다 뒷옆 시점. 왼쪽 꼬리 끝 여백 약 4%로 좁으나 잘림 없음. 동료 원측 핀과 가족 관계는 확인하지 않음. 실제는 완전 배 아래 뒤 정면보다 뒤옆 사선이다. 왼 꼬리 끝 약4% 여백으로 좁으나 잘리지 않음. 원측 눈·동료 원측 핀·성별/특정 개체/무리 친족관계는 확인하지 못함."
       }
     ]
   },
@@ -1118,33 +1123,40 @@ export const animals = [
       },
       {
         "id": "whale-shark",
-        "src": "assets/images/whale-shark-chatgpt-ecology-v1.png",
+        "src": "assets/images/whale-shark-chatgpt-ecology-rear-bank-round2-v2.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
         "sceneType": "ecology",
-        "caption": "고래상어 · 위에서 본 헤엄치는 모습",
+        "caption": "고래상어 · 뒤쪽 위에서 본 느린 방향 바꾸기",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "위에서 본 넓은 머리·닫힌 앞쪽 입·작은 눈·근측 아가미 5틈·등지느러미 2개·가슴지느러미 2개·수직 꼬리 확인. 반대 눈/아가미·배지느러미 전수는 가림.",
-        "behaviorCheck": "따뜻한 바다를 헤엄치는 모습을 위쪽에서 그렸어요. 넓은 머리와 하얀 점무늬를 찾아보세요.",
+        "identityCheck": "v1의 가슴지느러미 바로 뒤 추가 삼각 돌기가 제거됨. 넓고 납작한 머리·작은 근측 눈·근측 다섯 아가미 틈·점무늬/흰 배·두 등지느러미·한 연속된 꼬리와 정상 뒤쪽 지느러미 배열을 주요 육안 범위에서 대조.",
+        "behaviorCheck": "Georgia Aquarium의 외해/연안 서식과 보통 유영 근거의 재구성. 특정 C 굽힘/핀 박자를 관측 사실로 단정하지 않는다. 기존 전면 여과섭식 컷은 유지하고 새 생태 컷에 먹이를 넣지 않는다.",
         "behaviorSources": [
           {
-            "title": "Georgia Aquarium — Whale Shark: feeding behavior",
+            "title": "Georgia Aquarium — Whale Shark",
             "url": "https://www.georgiaaquarium.org/animal/whale-shark/"
           }
         ],
         "generationPrompts": [
-          "Use case: scientific-educational\nAsset type: Sea Atlas ecology gallery, one standalone horizontal 3:2 image.\nStyle: exquisitely detailed naturalistic painted educational illustration for children ages 5–12, realistic natural anatomy and proportions, natural eyes, gentle documentary mood, quiet habitat background, not a photo.\nConstraints: whole principal animal and important appendages inside frame with margin; no text, labels, arrows, border, watermark, logos, people, boats, fishing gear, blood, injury, horror, anthropomorphism, glowing eyes, plastic or cartoon look.\nScene: One whale shark Rhincodon typus cruising quietly through warm clear turquoise-to-deep-blue ocean water. A high underwater dorsal three-quarter view looking almost down on the back, full animal swimming diagonally from lower-left head toward upper-right tail. Dramatically different from mouth-open close view. Broad flat head and all of the patterned back are visible, mouth closed. Subtle sun caustics and empty quiet water, faint distant seabed only, no fish riders, no dramatic feeding event. Entire head, body and tail inside frame with clear margins.\nAnatomy: white spot rows and faint lines on dark blue-gray dorsal body, broad flattened head, lateral small natural eyes when visible, one tall first dorsal and much smaller second dorsal fin, two broad pectoral fins spreading out separately on left and right, smaller paired pelvic fins behind them. Tail is VERTICAL with larger upper lobe, not horizontal whale flukes; from above use natural perspective and preserve upright orientation. Exactly five gill openings per side only where visible, never invent extra furrows. No baleen, no giant teeth."
+          "Use case: scientific-educational. One original realistic natural-history illustration for Sea Atlas, a marine animal encyclopedia for children ages 5–12. Refined painterly realism with clear silhouettes, accurate adult anatomy and restrained texture; no anthropomorphism. Landscape 3:2. Show ONE whole animal (one connected colony for coral), centered with generous 8–10% margins so all extremities fit. Simple uncluttered blue aquatic background appropriate to this species, soft neutral illumination that clearly reveals the body. No other animals, humans, boats, text, letters, labels, logos, borders, signatures, watermark, smile, fantasy features, plastic or toy style. Subject: ONE adult whale shark, Rhincodon typus, calm full-body left-facing lateral view, slightly from above so flattened broad head is visible. Very broad flat head, huge wide straight mouth located at the FRONT of head, tiny lateral eye, FIVE gill slits immediately behind head on visible side. Massive streamlined gray-blue body covered with orderly rows of SMALL pale white spots and faint pale cross-lines, pale belly, three subtle longitudinal body ridges. Two pectoral fins, two pelvic fins, TWO dorsal fins with first much larger than second, one anal fin, VERTICAL heterocercal shark caudal fin with longer upper lobe. Far paired fins can be partly occluded; no duplicates. Narrow tailstock, entire tail top and bottom tips fully visible. Gentle tropical blue open water, no teeth display, no prey, no fish around it. Must be a spotted shark rather than whale, no horizontal whale tail, no beak or exaggerated open mouth.",
+          "Edit this existing Sea Atlas illustration with one precise anatomical correction: the whale shark must have EXACTLY FIVE distinct gill slits on its visible left side immediately behind the head. Currently the closely spaced curves suggest an extra sixth slit. Replace the whole gill area with a clearly readable sequence of five simple curved vertical slits, no extra gill-like crease, while preserving the pectoral fin attachment. Keep the same Rhincodon typus animal, broad flattened head, front terminal mouth, white spots and pale lines, fin layout and vertical crescent tail, natural realistic illustration style and blue underwater background. Do not add other animals or text. Keep the whole body and tail visible within the frame.",
+          "Use case: scientific-educational. Create ONE new 3:2 landscape natural-history illustration of a whale shark Rhincodon typus making a gentle swimming turn in natural blue ocean water. Reference image 1 supplies ONLY accurate spotted identity and realistic illustration style, never its straight side-view silhouette. Entirely reconstruct a new camera and fin/body state, not a mirrored image or image tilted in the frame.\nCamera is HIGH and clearly BEHIND the animal on the tail-to-head axis. The fully connected heterocercal tail is close in the lower-right foreground; the broad flat head is noticeably smaller in the upper-left middle distance, facing away. We look along the spotted back from tail to head with strong genuine three-dimensional foreshortening, NOT another head-near front three-quarter view. Body follows a smooth modest C-shaped curve while banking gently; one pectoral is partly lowered and the opposite pectoral extends sideways in its naturally foreshortened plane. Spine and body are muscular with one continuous gradual curve, never a kink or floppy ribbon. Mouth closed; ordinary unhurried swimming, no prey, suction-feeding pose or attack.\nKeep the very broad flattened head and wide terminal mouth, small side eyes, horizontal/vertical pattern of pale spots and stripes on gray-blue skin, pale belly edge, FIVE gill slits per side where the view naturally reveals them, two anatomically separate dorsal fins, connected paired pectorals and pelvic fins, anal fin, and heterocercal caudal fin with the larger upper lobe. Do not force far-side slits or fins through the body, duplicate gills or appendages, or make the tail huge. Clear realistic body-root connections. Entire shark, head, tail tips and every visible fin inside 14 percent margins. Soft daylight, plain open blue water, single shark, no reef requiring attention, no humans or extra animals. Scientific educational reconstruction consistent with Georgia Aquarium's normal ocean swimming habitat. No text, labels, arrows, motion streaks, panels, grid, border or watermark. The final camera must be unequivocally rear/high and the body curve and pectoral angles must also differ from both the straight side portrait and the head-near filter-feeding picture.",
+          "Use case: precise-object-edit, scientific-educational. Edit ONLY the anatomical fin-count issue in the attached NEW rear-view whale shark illustration. Preserve this exact high rear camera, close right-foreground connected tail, far upper-left head, body curve, dotted coloration, soft blue water, framing and every correct fin unchanged.\nRemove the small redundant downward triangular appendage immediately behind the large lower-left PECTORAL fin near image coordinates x455,y460 (the little unspotted triangle at the neck-side belly edge). At that location there must be a smooth continuous pale belly contour, with NO extra small fin. Keep the TWO real pectorals: the large spotted lower-left fin near the gills and the small foreshortened spotted upper-right fin near the shoulder. Keep the actual rear pelvic region near x630,y600 and anal fin near x860,y650, both connected at their correct posterior positions. Keep two dorsal fins and the uninterrupted heterocercal tail. Do not relocate a pelvic fin to the chest, add new fins or alter the tail roots. All changes confined to deleting that small extra triangle and restoring its belly edge. No text, labels, arrows, crop, mirror, scene changes or watermark."
         ],
-        "generatedAt": "2026-10-03T00:51:26.445Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "8ac38080e5af2e199173faa8a619b3bab1ceae33e93382caea66d1e436da0d60",
+        "generatedAt": "2026-10-10T18:24:22.807Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "0664bf0f3158935ab5403f6d4876a7364ca5b633a10ec38a65901a70deebef16",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
+        "viewpoint": "등면을 보는 높은 뒤옆 사선·오른쪽 꼬리가 가까움·왼쪽 위 머리 멀어짐",
+        "pose": "가슴핀의 큰 근측 아래/원측 옆 단축 투영·부드러운 작은 몸굽힘·입은 뒤 시점에서 가림",
+        "poseVariationCheck": "대표의 넓은 옆면과 feeding의 앞머리 열린 입에 비해 등면을 보는 뒤옆 원근이며 가까운 큰 꼬리에서 멀어지는 머리가 보임. 기존 ecology의 앞 높은 시점과도 원근 방향이 달라지고 근측 가슴핀 아래/밖과 원측 옆 단축 투영·완만한 몸굽힘이 구별됨. 실제 카메라+핀/몸 상태 두 축 범위에서 통과. 강한 뒤축/C 자세라는 프롬프트 목표로 확대하지 않음.",
+        "visualLimitations": "강한 뒤축과 큰 C 굽힘보다 실제는 뒤옆 사선과 작은 곡선. 입·원측 눈·아가미·핀 근부 일부는 가림. 꼬리 아래 여백은 약 5%로 좁으나 잘림 없음. 실제 몸굽힘은 작고 뒤축 정면보다 뒤옆 사선임,먼 아가미·짝 배지느러미 일부·입은 가려져 전체 계수와 입 닫힘을 인증하지 않음,연령·성별·정확한 회전 박자·방향 또는 이동 속도는 확인 불가"
       }
     ]
   },
@@ -1244,33 +1256,38 @@ export const animals = [
       },
       {
         "id": "great-white-shark",
-        "src": "assets/images/great-white-shark-chatgpt-ecology-v1.png",
+        "src": "assets/images/great-white-shark-chatgpt-ecology-rear-turn-round2-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
         "sceneType": "ecology",
-        "caption": "백상아리 · 먼바다에서 헤엄치기",
+        "caption": "백상아리 · 뒤쪽 위에서 본 방향 바꾸기",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "원추형 주둥이·작은 눈·근측 아가미 5틈·등지느러미 2개·가슴지느러미 2개·흰 배/회색 등·수직 꼬리·닫힌 입 확인. 반대 눈/아가미·작은 짝지느러미 전수는 가림.",
-        "behaviorCheck": "자란 백상아리가 먼바다를 헤엄치는 장면이에요. 비스듬한 아래쪽에서 본 모습으로 그렸어요.",
+        "identityCheck": "몸에서 연속된 큰 초승달 꼬리, 원뿔형 머리, 회색 등·흰 배, 큰 첫 등지느러미와 작은 둘째 등지느러미, 근측 아가미 틈 및 가슴지느러미 연결이 보임. 주요 형태의 육안 대조 범위에서 통과.",
+        "behaviorCheck": "NOAA가 확인한 외해 서식 맥락의 보통 유영 재구성. 특정 굽힘과 핀 박자는 삽화 기획이며 실제 특정 관측 또는 섭식 성공이라고 단정하지 않는다.",
         "behaviorSources": [
           {
-            "title": "NOAA Fisheries — White Shark: juvenile diet and habitat",
+            "title": "NOAA Fisheries — White Shark",
             "url": "https://www.fisheries.noaa.gov/species/white-shark"
           }
         ],
         "generationPrompts": [
-          "Use case: scientific-educational\nAsset type: Sea Atlas ecology gallery, one standalone horizontal 3:2 image.\nStyle: exquisitely detailed naturalistic painted educational illustration for children ages 5–12, realistic natural anatomy and proportions, natural eyes, gentle documentary mood, quiet habitat background, not a photo.\nConstraints: whole principal animal and important appendages inside frame with margin; no text, labels, arrows, border, watermark, logos, people, boats, fishing gear, blood, injury, horror, anthropomorphism, glowing eyes, plastic or cartoon look.\nScene: One adult great white shark Carcharodon carcharias peacefully cruising in open temperate ocean. Low underwater oblique front-side view looking upward at the pale underside and near flank while the animal passes diagonally from lower-right head to upper-left tail. Entire animal and all fin tips clearly framed with generous margin. Empty deep blue water beneath, distant sunlit surface above, no seabed or coast and no prey; no charging toward camera, no open-mouthed attack. This view is distinctly different from a flat side-profile coastal feeding picture.\nAnatomy: robust torpedo body with conical snout and natural small dark eyes, gray back sharply countershaded to white underside, one large triangular upright first dorsal fin and one much smaller second dorsal fin, exactly two long pectoral fins arising from side body behind gills, paired pelvic fins, small anal fin, narrow caudal peduncle with keel, vertical crescent tail with upper and lower lobes. Exactly five near-side gill slits if seen, no sixth crease, no extra fins. Mouth CLOSED and relaxed, no visible rows of giant teeth, smooth natural fin edges, no injuries. Natural camera perspective can hide far-side small fins, don't invent extra appendages."
+          "Use case: scientific-educational. One original realistic natural-history illustration for Sea Atlas, a marine animal encyclopedia for children ages 5–12. Refined painterly realism with clear silhouettes, accurate adult anatomy and restrained texture; no anthropomorphism. Landscape 3:2. Show ONE whole animal (one connected colony for coral), centered with generous 8–10% margins so all extremities fit. Simple uncluttered blue aquatic background appropriate to this species, soft neutral illumination that clearly reveals the body. No other animals, humans, boats, text, letters, labels, logos, borders, signatures, watermark, smile, fantasy features, plastic or toy style. Subject: ONE adult great white shark, Carcharodon carcharias, calm full-body left-facing lateral underwater view with closed mouth. Stout powerful torpedo-shaped body, moderately pointed conical snout, small black lateral eye, FIVE gill slits behind head. Slate-gray upper half and white belly with clear natural boundary, not covered in spots. TWO dorsal fins: one large triangular first dorsal and one very small second dorsal nearer tail. Two long triangular pectoral fins, two pelvic fins and one small anal fin. VERTICAL crescent-shaped caudal fin with approximately balanced upper and lower lobes and narrow caudal peduncle, visible lateral keel. Far paired fins may be occluded, no duplicated fins. Full animal including ALL tail and fin tips inside frame. Plain cool blue ocean, no prey or bubbles obscuring features. Peaceful scientific portrait, no attack, open jaws, exaggerated teeth, scars, blood or frightening monster features. No horizontal whale tail, whale-shark dots or hammerhead.",
+          "Use case: scientific-educational. Create ONE new 3:2 landscape natural-history illustration for a children's marine atlas. Reference image 1 provides ONLY the identity, coloring and restrained realistic illustration style of Carcharodon carcharias, the great white shark. Reconstruct an entirely NEW three-dimensional camera view and swimming posture; do not preserve, mirror, rotate or tilt the reference silhouette.\nCamera and pose: a strong HIGH REAR three-quarter view looking from above and behind the tail toward the head. The connected crescent tail is closest in the lower-left foreground, the head much smaller and farther away in the upper-right middle distance. Make the back and tail peduncle face the camera; show clear foreshortening along the body. The whole torpedo-shaped body follows one gentle continuous C/S turning curve into depth, not a bent neck. The near pectoral fin projects out and downward; the farther pectoral is foreshortened and held at a visibly different angle. Mouth closed, ordinary slow swimming in open temperate ocean water. No prey or attack.\nKeep the gray back, pale underside, conical snout, prominent caudal keel, connected crescent caudal fin with natural upper/lower lobes, one large first dorsal and smaller second dorsal, paired pectorals and pelvics, anal fin, and five gill slits on each side. If the far slits or far paired fin are naturally hidden, do not draw an extra visible row or duplicate fin. Use ample gentle light to read the whole body and fins. Entire head, both tail tips, every visible fin and all connecting roots comfortably inside at least 12 percent margins. Moderate perspective without swollen tail or deformed head. Single shark only, plain natural blue water, no text, arrows, panels, grid, border or watermark. The result must visibly differ from both a lateral straight portrait and a head-near frontal feeding view in CAMERA and BODY/FIN STATE."
         ],
-        "generatedAt": "2026-10-03T00:54:48.050Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "4a06731d1d4bd16358a9161a5aff731376bfa6280647350db316419a9a685df2",
+        "generatedAt": "2026-10-10T18:19:37.905Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "857eb1ead9040bf1c7db912899c44cebbe51225e8a4d62197ae92189d22126e7",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
+        "viewpoint": "높은 뒤옆 사선으로 가까운 꼬리에서 먼 머리까지 등면 원근을 봄",
+        "pose": "약한 몸굽힘·근측 가슴핀 아래밖/원측 핀 옆으로 단축 투영",
+        "poseVariationCheck": "기존 대표는 넓은 옆면, feeding는 앞머리가 크게 보이는 회전 사선. 새 컷은 꼬리가 가까이 커지고 등면 원근이 드러나는 높은 뒤옆 사선이며 근측 가슴핀은 아래/바깥, 원측은 뒤쪽으로 단축됨. 실제 카메라+핀/완만한 몸굽힘의 두 축은 구별된다. 강한 꼬리축 직시나 깊은 C 굽힘까지 달성했다고 주장하지 않는다.",
+        "visualLimitations": "강한 뒤축보다 뒷옆 사선이며 몸 굽힘은 완만함. 원측 아가미 및 일부 핀 근부는 가려져 전부 계수하지 못함. 실제 특정 유영 박자나 개체는 확정하지 않음. 등축 정면이 아니라 뒤옆 사선이며 몸굽힘은 완만함,원측 아가미·배쪽 짝 지느러미 뿌리와 입은 일부 가려져 전체를 인증하지 않음,연령·성별·순항 속도·실제 회전 순간은 확인 불가"
       }
     ]
   },
@@ -1378,37 +1395,42 @@ export const animals = [
       },
       {
         "id": "clownfish",
-        "src": "assets/images/clownfish-chatgpt-ecology-v1.png",
+        "src": "assets/images/clownfish-chatgpt-ecology-egg-fanning-round2-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
         "sceneType": "ecology",
-        "caption": "퍼큘라 흰동가리 · 바위에 붙은 알 지키기",
+        "caption": "퍼큘라 흰동가리 · 뒤쪽에서 본 알 돌보기",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "전신 흰 3띠·검은 테두리·꼬리와 자연스러운 가슴지느러미, 말미잘 곁 바위에 붙은 길쭉한 알 확인. 성별·등가시 수는 확정 불가.",
-        "behaviorCheck": "수컷이 말미잘 가까운 바위에 붙은 알을 돌보는 장면이에요. 작은 알이 잘 보이도록 확대해 그렸어요.",
+        "identityCheck": "주황 몸에 검은 경계의 세 흰 띠, 둥근 꼬리, 몸에 연결된 근측 넓은 가슴핀·배쪽 지느러미와 등지느러미가 보임. 몸 전체와 꼬리 끝이 화면 안에 있으며 먼 부속지 가림을 인정한 주요 형태 대조 범위에서 통과.",
+        "behaviorCheck": "Georgia Aquarium는 수컷의 둥지 감시·지속적 알 부채질, Museums Victoria는 말미잘 근처 부착 산란을 확인. 핀의 정확한 박자와 외형 성판별은 교육 재구성 한계.",
         "behaviorSources": [
           {
             "title": "Georgia Aquarium — Clown Anemonefish",
             "url": "https://www.georgiaaquarium.org/animal/clown-anemonefish/"
           },
           {
-            "title": "Museums Victoria — Fishes of Australia: Amphiprion percula",
+            "title": "Museums Victoria — Amphiprion percula",
             "url": "https://fishesofaustralia.net.au/Home/species/317"
           }
         ],
         "generationPrompts": [
-          "Use case: scientific-educational. One independent Sea Atlas gallery illustration for children ages 5–12, landscape 3:2. Refined naturalistic painterly illustration, believable anatomy, subtle visible brushwork, natural colors and proportions, quiet informative underwater habitat. Entire focal animal and important appendages inside frame with breathing room. No text, labels, arrows, border, logo, watermark, humans, boats, blood, injuries, horror, anthropomorphism, glowing eyes or plastic rendering. Scene: One adult male wild-type Amphiprion percula, complete side profile angled slightly downward to the right, just above a modest patch of many tiny translucent pale amber elongated eggs attached vertically to a cleaned rock immediately beside a Heteractis magnifica host anemone. The fish guards and gently fans the egg patch with its naturally positioned pectoral fins; a calm brooding scene without visual motion streaks. Show exactly three black-bordered vertical white bars, orange body, middle bar with a forward rounded bulge, black fin borders, natural small eye, continuous dorsal fin and complete tail. Eggs are 3–4mm scale relative to the 7cm fish, no large pebbles or bubble eggs, no second fish, host tentacles do not obscure the fish or egg patch."
+          "Use case: scientific-educational. One original realistic natural-history illustration for Sea Atlas, a marine animal encyclopedia for children ages 5–12. Refined painterly realism with clear silhouettes, accurate adult anatomy and restrained texture; no anthropomorphism. Landscape 3:2. Show ONE whole animal (one connected colony for coral), centered with generous 8–10% margins so all extremities fit. Simple uncluttered blue aquatic background appropriate to this species, soft neutral illumination that clearly reveals the body. No other animals, humans, boats, text, letters, labels, logos, borders, signatures, watermark, smile, fantasy features, plastic or toy style. Subject: ONE adult true percula clownfish, Amphiprion percula, full-body left-facing lateral view in clear blue shallow reef water, with only faint soft sea-anemone tentacles low in background that never obscure fish. Warm orange compact deep body, exactly THREE vertical white bands with broad dark-black borders: first band immediately behind eye/head, second mid-body band with a rounded forward bulge, third band near the tail base. Broad black edging around fins and white bands, realistic natural true-percula pattern rather than generic ocellaris. Single small realistic lateral eye with orange iris and dark pupil. One continuous dorsal fin with a spiny front section and soft rounded rear section, rounded fan-shaped tail, pectoral fin behind gill cover, small pelvic and anal fins. Front dorsal section has ten spines if individually visible. All fin tips visible, natural small mouth closed, no smile or exaggerated cartoon eyes. No fourth white band, no horizontal body stripes, no maroon clownfish, no duplicated fish or fin.",
+          "Use case: scientific-educational. Create ONE new 3:2 landscape natural-history illustration of Amphiprion percula, the true percula clown anemonefish, tending attached eggs near its host anemone. Reference image 1 supplies ONLY species identity, three white bars, black margins and restrained natural illustration style. Do not copy its side-view silhouette, flip it or merely tip it toward eggs.\nNew camera and posture: HIGH REAR THREE-QUARTER view looking over the close tail and orange back toward the much farther small head and egg patch. The tail is closest in lower-left, head smaller and facing away toward eggs in upper-right. Clear tail-to-head foreshortening; the viewer sees the back of the body rather than a complete flat cheek. The body has a small gentle continuous caudal turn, not a broken neck. A small adult male hovers just above the attached eggs while FANNNING water over them: near pectoral fin broad and extended out sideways, far pectoral naturally shortened and partly occluded; tail mildly flexed to hold position. No artificial arrows, motion streaks or bubbles. The eggs are a small patch of many tiny attached translucent orange-tinted individual eggs on rock, not large fish-shaped embryos. Host anemone tentacles to the side, not wrapping over or hiding the fish.\nPreserve vivid orange percula body, three anatomically located white bars with broad black margins: behind head, middle body, near tail base. White bars wrap plausibly around the newly visible back; do not invent a fourth band. Connected single dorsal fin with natural spine/soft portions, rounded connected caudal, paired pectorals and pelvic fins, anal fin. Eyes small and natural; only naturally visible eye portions, do not add a false second eye on back. This is a reconstruction of male egg care and fanning documented by Georgia Aquarium, not an external sex diagnosis or exact observed fin phase. Make camera and fin/body state both clearly distinct from a flat side portrait and front-hover feeding view. Whole fish and connected fin edges visible inside 14 percent margins, with enough light and space to inspect. Natural shallow tropical reef, single adult fish, no other fish, text, labels, grid, panels, border or watermark."
         ],
-        "generatedAt": "2026-10-03T00:42:37.419Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "40720594e6a4e268a5b134f6f73bb4fae146e8ceaed1df16700481f8c4b8af3e",
+        "generatedAt": "2026-10-10T18:21:53.163Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "1d4c17675360145523dfcd1738c7cb5e580a9875c3c373029fc95b46fe702d55",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
+        "viewpoint": "꼬리가 큰 앞쪽이고 등/목뒤에서 먼 머리와 알을 보는 높은 뒤 사선",
+        "pose": "꼬리 쪽 완만한 굽힘·알 곁에 떠서 근측 가슴핀을 크게 옆으로 펼친 부채질 재구성",
+        "poseVariationCheck": "대표의 평평한 옆면과 feeding의 앞 얼굴/두 가슴핀 시점에 비해 가까운 꼬리에서 먼 머리로 보는 높은 뒤 사선이다. 근측 가슴핀을 알 쪽에서 크게 펼치고 몸/꼬리 축이 완만하게 굽어 기존 ecology 옆머리 숙임과도 구별됨. 실제 시점 및 가슴핀/몸 상태의 두 축이 달라짐.",
+        "visualLimitations": "원측 눈·핀 및 등핀 일부 근부가 가려져 모든 지느러미 수를 확정하지 않음. 알 눈점은 보이나 발달 단계·외형 성별·부채질 박자와 혈연은 확정하지 않음. 먼 가슴/배 지느러미와 등지느러미 일부 뿌리는 가려지거나 중첩됨; 전체 핀 줄기 수를 전문 계수하지 않음,알의 눈점과 색으로 정확한 발달 단계·수·부화 시각은 확정하지 않음,수컷 돌봄은 기관 근거에 따른 재구성이며 그림만으로 개체 성별·물의 실제 산소 공급이나 부채질 순간을 확인할 수 없음"
       }
     ]
   },
@@ -1474,33 +1496,38 @@ export const animals = [
       },
       {
         "id": "giant-pacific-octopus",
-        "src": "assets/images/giant-pacific-octopus-chatgpt-feeding-v1.png",
+        "src": "assets/images/giant-pacific-octopus-chatgpt-feeding-low-side-arms-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
         "sceneType": "feeding",
-        "caption": "대문어 · 팔로 작은 게 붙잡기",
+        "caption": "대문어 · 낮은 옆사선에서 게를 향해 굽힌 팔",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "둥근 외투막·측면 눈·거친 적갈색 피부·빨판, 바위 곁 짧게 감긴 우후방 끝 포함 8팔 끝 확인. 팔막/머리 겹침으로 8기부 연결 전수는 확인 불가.",
-        "behaviorCheck": "빨판이 있는 팔로 게 같은 먹이를 붙잡아요. 일부 팔의 시작 부분은 몸 뒤에 가려져 있어요.",
+        "identityCheck": "적갈색 돌기 있는 외투막·연결 머리·수평 동공이 있는 옆눈 하나와 빨판 달린 팔을 실제 원본에서 대조. 앞 아치 팔과 바닥 지지 팔의 보이는 부분은 머리 쪽 군집에서 연속되며 오징어형 지느러미/별도 촉완은 없음. 보이는 근부와 겹침을 끝까지 따라 전체 여덟 팔로 확정하지는 못함.",
+        "behaviorCheck": "MBA가 설명하는 게 먹이와 팔을 이용한 먹이 접근을 바탕으로 재구성했다. 게는 멀쩡하고 입·부리는 팔 아래에 가려져 있으며 실제 포획·섭식 성공을 뜻하지 않는다.",
         "behaviorSources": [
           {
-            "title": "Monterey Bay Aquarium — Giant Pacific octopus",
+            "title": "Monterey Bay Aquarium — Giant Pacific octopus: Diet, beak, and mouth",
             "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/giant-pacific-octopus"
           }
         ],
         "generationPrompts": [
-          "Use case: scientific-educational. One independent Sea Atlas gallery illustration for children ages 5–12, landscape 3:2. Refined naturalistic painterly illustration, believable anatomy, subtle visible brushwork, natural colors and proportions, quiet informative underwater habitat. Entire focal animal and important appendages inside frame with breathing room. No text, labels, arrows, border, logo, watermark, humans, boats, blood, injuries, horror, anthropomorphism, glowing eyes or plastic rendering. Scene: One Enteroctopus dofleini holding one small intact crab gently but securely on a cold North Pacific rocky seafloor at the edge of a rocky den. Oblique overhead three-quarter view, large rounded reddish-brown mantle behind head, natural side eye, textured skin, exactly eight distinct arms attached once around the head and gradually tapering to separate tips. Arrange arms clearly: six relaxed arms spread across foreground and sides, two forward arms gently enclosing the small crab; each visible inner arm has two rows of white suckers, no extra branches or tentacles, no squid fins. Entire mantle and all eight arm tips inside frame, crab much smaller than octopus, prey intact and no bites, exposed beak, wounds or torn shells. Quiet cold green-blue water and modest kelp background."
+          "Use case: scientific-educational. One independent Sea Atlas gallery illustration for children ages 5–12, landscape 3:2. Refined naturalistic painterly illustration, believable anatomy, subtle visible brushwork, natural colors and proportions, quiet informative underwater habitat. Entire focal animal and important appendages inside frame with breathing room. No text, labels, arrows, border, logo, watermark, humans, boats, blood, injuries, horror, anthropomorphism, glowing eyes or plastic rendering. Scene: One Enteroctopus dofleini holding one small intact crab gently but securely on a cold North Pacific rocky seafloor at the edge of a rocky den. Oblique overhead three-quarter view, large rounded reddish-brown mantle behind head, natural side eye, textured skin, exactly eight distinct arms attached once around the head and gradually tapering to separate tips. Arrange arms clearly: six relaxed arms spread across foreground and sides, two forward arms gently enclosing the small crab; each visible inner arm has two rows of white suckers, no extra branches or tentacles, no squid fins. Entire mantle and all eight arm tips inside frame, crab much smaller than octopus, prey intact and no bites, exposed beak, wounds or torn shells. Quiet cold green-blue water and modest kelp background.",
+          "Create ONE new original realistic natural-history illustration for Sea Atlas, children ages 5–12, landscape 3:2, refined painterly marine illustration. Species Enteroctopus dofleini, a giant Pacific octopus. The attached picture is ONLY a reference for species identity and style, not its camera, silhouette or arm arrangement. NEW CAMERA: a LOW ROCK-LEVEL SIDE VIEW, almost eye-level with the octopus, facing its LEFT side. Its round reddish-brown mantle is to the RIGHT and the head and a single clearly visible lateral eye are farther LEFT. Avoid a frontal face and avoid the broad symmetrical eight-arm fan in the reference. NEW ARM STATE: the octopus is partly crawling while investigating ONE much smaller intact crab on the rock to its left. Several near arms are bent into compact low curves beneath and ahead of the head, with two arms lifted in shallow arches around the crab and the other near arms bracing the rock in staggered positions; far arms recede behind the head and mantle in natural overlap. There must be EXACTLY EIGHT ARMS total attached continuously to the common head crown, no separate squid tentacles and no extra ninth arm. Keep the entire octopus and every visible arm tip within the frame; show enough separated roots and contours to read the anatomy without falsely drawing hidden arms through the body. Any exposed lower arm surface has TWO rows of rounded suckers following the arm continuously. Soft webbing between proximal arms, no spikes or fish fins; textured irregular papillae and reddish-brown mottling fading paler on the underside; short mantle connection and realistic lateral eye. Mouth and beak remain naturally hidden at the underside of the arm crown. The intact little crab is visible between the forward arm arches with no broken shell, gore, bite or swallowing, an educational approach/reaching reconstruction rather than an observed capture success. Cool coastal Pacific rocky bottom, restrained kelp silhouettes far behind, one main animal only and no eggs or brood behavior. Entire main animal comfortably inside the 3:2 composition with generous water/rock margins, about 70 percent frame occupancy. No text, labels, arrows, collage, panel or watermark. Make the low side camera and compact asymmetrical crawling/reaching arm arrangement unmistakably different from the previous high frontal spread-arm pictures."
         ],
-        "generatedAt": "2026-10-03T00:43:47.571Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "9bca0b416ebbee15dbd14fcfa74cc19c1e0379048e5bfa386ba35f751a120032",
+        "generatedAt": "2026-10-10T18:19:39.627Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "d4e3fa51360d373fa315b7414bdd9c23db07e4ed636b955fbc0a035568ac69bd",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
+        "viewpoint": "바위 높이에서 본 낮은 옆사선, 보이는 한쪽 눈 앞에 팔이 있고 외투막은 뒤 오른쪽",
+        "pose": "낮게 굽힌 앞팔과 게 주변의 얕은 팔 아치, 서로 다른 바닥 지지와 뒤로 겹친 팔",
+        "poseVariationCheck": "baseline의 높은 앞/위 대표·원래 먹이 팔 부채에서 바닥 높이의 낮은 앞옆 사선으로 카메라가 내려가고 외투막의 옆면이 크게 보임. 앞의 낮은 팔 아치·뒤의 바닥 지지와 굴곡 배열이 새로 달라져 시점+팔 상태 변화가 있음. 기존 알 생태의 굴 천장에 올린 팔·가로 외투막과도 구별.",
+        "visualLimitations": "명료한 팔 윤곽 약 다섯 갈래이며 원측 팔·근부 중첩으로 전체 여덟 팔 대응은 확인 불가. 일부 뒤팔 여백이 좁고 게의 종·포획 성공은 확정하지 않음. 명료한 팔 윤곽은 약5~6갈래이고 근부/원측 팔/팔 끝 일부는 몸·다른 팔·바위 뒤로 가려져 전체8팔 대응은 미확인. 보이는 빨판의 한 줄이 우세한 구간이 있어 각 팔의 정확한 두 줄 전부를 확인한 것으로 확대하지 않음. 오른쪽 팔의 좁은 여백이나 명백한 프레임 잘림은 없음. 게 종·섭식 성공·입/부리는 가림."
       },
       {
         "id": "giant-pacific-octopus",
@@ -1847,33 +1874,41 @@ export const animals = [
       },
       {
         "id": "moon-jelly",
-        "src": "assets/images/moon-jelly-chatgpt-feeding-v1.png",
+        "src": "assets/images/moon-jelly-chatgpt-feeding-round2-pose-v2.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
         "sceneType": "feeding",
-        "caption": "북동태평양 달해파리 · 짧은 촉수로 플랑크톤 모으기",
+        "caption": "달해파리 · 옆에서 본 우산과 안쪽으로 모인 입팔",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "얕고 투명한 우산·짧은 촉수 fringe·내부 4꽃잎형 구조·주름 구완 확인. 4구완 기부 전수와 A. labiata 정밀 종 동정은 겹침으로 확인 불가.",
-        "behaviorCheck": "우산 가장자리의 짧은 촉수로 작은 플랑크톤을 모아요. 먹이를 알아보기 쉽게 표현한 그림이에요.",
+        "identityCheck": "낮고 투명한 단일 우산, 가장자리에서 이어진 짧은 가는 촉수, 중앙의 주름진 구강팔 묶음을 원본 크기로 확인했다. 우산 옆면과 안쪽 개구부가 좁게 단축되어 있고, 생식소는 반투명 조직 뒤에서 겹쳐 보인다. 분리된 입팔·추가 우산은 보이지 않는다. MBA의 형태와 먹이 기작 설명은 Aurelia spp. 범위로 대조했다.",
+        "behaviorCheck": "Aurelia spp.의 짧은 촉수가 우산 가장자리 점액층으로 먹이를 모은다는 MBA 설명에 근거한 재구성. 먹이는 조직 밖에 둠. 이번 짧게 모인 입팔의 순간 모양은 종 특정 관찰사진의 그대로 재현이라고 주장하지 않음.",
         "behaviorSources": [
           {
-            "title": "Monterey Bay Aquarium — Moon jelly",
-            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/moon-jelly"
+            "title": "Monterey Bay Aquarium — Moon jelly, Aurelia spp.",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/moon-jelly",
+            "readAt": "2026-10-11",
+            "evidence": "짧은 촉수, 우산 가장자리 점액층, 동물플랑크톤 식성; 출처 표기는 Aurelia spp."
           }
         ],
         "generationPrompts": [
-          "Use case: scientific-educational. One independent Sea Atlas gallery illustration for children ages 5–12, landscape 3:2. Refined naturalistic painterly illustration, believable anatomy, subtle visible brushwork, natural colors and proportions, quiet informative underwater habitat. Entire focal animal and important appendages inside frame with breathing room. No text, labels, arrows, border, logo, watermark, humans, boats, blood, injuries, horror, anthropomorphism, glowing eyes or plastic rendering. Scene: One Aurelia labiata moon jelly drifting in northeast Pacific coastal water with a sparse sprinkling of tiny copepod zooplankton near its bell margin. View obliquely from just below and to the side, showing the entire shallow translucent milky bell, a delicate dense fringe of SHORT hair-fine tentacles around the rim, and the four short softly frilled oral arms hanging centrally. Show four faint petal or horseshoe-like gonad structures within the translucent bell, anatomically coherent radial canals, soft pale pink interior. A few tiny plankton held at margin mucus and near central oral arms indicate feeding; not a huge shrimp, fish prey or clouds. Short rim tentacles never longer than bell radius; no eyes, face, bones, rainbow comb rows or long sea-nettle tentacles. Entire jelly and all oral arm ends in frame, natural dim blue-green water, no neon glow."
+          "Use case: scientific-educational. One original realistic natural-history illustration for Sea Atlas, a marine animal encyclopedia for children ages 5–12. Refined painterly realism with clear silhouettes, accurate adult anatomy and restrained texture; no anthropomorphism. Landscape 3:2. Show ONE whole animal (one connected colony for coral), centered with generous 8–10% margins so all extremities fit. Simple uncluttered blue aquatic background appropriate to this species, soft neutral illumination that clearly reveals the body. No other animals, humans, boats, text, letters, labels, logos, borders, signatures, watermark, smile, fantasy features, plastic or toy style. Subject: ONE Pacific moon jelly, Aurelia labiata, a translucent pale milky-blue shallow saucer-shaped umbrella drifting in clear blue coastal water. Slightly elevated oblique view to see both the round upper bell and its underside. Four clearly separated subtle horseshoe-shaped lavender gonadal rings visible through center of bell in fourfold symmetry; delicate radial canals. Fine fringe of MANY very short thin tentacles evenly spaced around rim, not a few thick long tentacles. Exactly FOUR modest frilly oral arms hang down from central mouth on underside, much shorter than the bell diameter, clearly separated and slightly curved. Broad nearly circular flattened dome, clean transparent edges, natural delicate jellyfish anatomy, faint pale lavender accents. Whole rim, oral arms and tentacle fringe fully visible. Do not create lion's mane jelly, Portuguese man-of-war, box jellyfish, octopus arms, giant long tentacles, neon fantasy body or glowing face. No face, eyes, teeth, fish or second jellyfish.",
+          "Use case: scientific-educational.\nAsset: one original natural-history gallery illustration for Sea Atlas, children ages 5–12, landscape 3:2. Generate a genuinely new view of a single Aurelia labiata moon jelly encountering zooplankton. The supplied image is ONLY an identity, colour, and illustration-style reference; do not preserve its posture, camera, broad frontal dome, or arm silhouette. Do not rotate, mirror, or simply add prey to the supplied pose.\nCamera and pose: camera is almost at the bell rim, slightly below and strongly oblique from the jelly's side. The bell is a narrow foreshortened elliptical dome across the upper-middle of the frame, not a circular underside disc. Show the bell partway through a gentle pulse: the near rim visibly rolls inward and the dome is deeper and narrower than a relaxed saucer. From the underside, exactly four short frilled oral arms remain continuously attached to the centre; they are gathered inward beneath the bell, with two curled toward the near lower rim and two behind, instead of four hanging straight down or splayed radially. Distinguish the short marginal tentacle fringe from the four oral arms. All four faint pink horseshoe-like gonads can be suggested through the translucent bell with realistic perspective and occlusion.\nFeeding context: a sparse few tiny copepod-like zooplankton stay outside the bell next to its short marginal tentacles; subtly show the near tentacle fringe swept toward the thin mucous band at the bell edge. Do not make prey impale tissue or draw a mouth engulfing a large shrimp. This is an educational reconstruction of food collection, not a record of an observed event.\nStyle: match the reference's detailed, soft realistic translucent natural-history painting and blue open-water setting. One connected complete animal; all oral-arm and tentacle tips entirely inside the frame with breathing room. No long trailing tentacles, no added arms, no cutaway organs, arrows, text, border, inset, collage, or watermark. The new low rim-level perspective and inward gathered arms must be immediately visible and clearly different from the supplied frontal view.",
+          "Use case: scientific-educational. Redraw this moon-jelly feeding scene as a true nearly edge-on lateral view, rather than the present broad oblique frontal view. This is a new camera and new body state, never a rotated or mirrored copy. Keep the same single Aurelia labiata identity, translucent natural-history illustration style, blue water, short marginal tentacles, four oral arms, and small zooplankton outside the tissues. Landscape 3:2, entire animal and all tips inside the frame.\nMake the camera almost perpendicular to the umbrella axis (about 85 degrees off that axis), exactly level with its rim. The bell rim must lie almost horizontally and its opening must appear as an extremely narrow slit ellipse, at least five times wider than its visible front-to-back opening. Clearly show the side profile of a compressed jelly cap above that rim. The underside must NOT be displayed as a broad oval panel and the four horseshoe gonads must NOT be arranged in a face-on flower: most of them are obscured or overlapped by this real side view.\nSecond change: the bell is in a contracted pulse with the rim tucked inward; exactly four short frilled oral arms are drawn tightly gathered directly below the central attachment, with two arms folded back upward toward the underside and the other two overlapping behind in depth. The four arms must be organically attached, with no detached frill, extra limb, arm divided into branches, or long tentacles. Short marginal tentacles bend toward the thin mucous band at the near edge; a few minute copepod-like prey are outside next to that fringe. Avoid a feeding tube, prey piercing the animal, arrows, cutaway, text, border, collage, or watermark. Prioritize a visibly horizontal side silhouette, tiny foreshortened opening, concealed gonads, and a compact upward-folded arm bundle that cannot be mistaken for the supplied relaxed frontal pose."
         ],
-        "generatedAt": "2026-10-03T00:45:49.938Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "576106a3f25b9c9239bda8b5a9ba4ab2e0c37267c4ea6c0e0b17f21e42995e31",
+        "generatedAt": "2026-10-10T18:18:26.847Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "ea869fc8f8a3879fcaddcfc3bcaa07cfe6e5afde0112491ea1b1553dccb5b953",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 외부 참조 이미지 없이 자체 생성."
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
+        "viewpoint": "가장자리 높이의 거의 수평 옆면; 아래 개구부가 좁게 단축되고 생식소 중첩",
+        "pose": "짧고 중앙으로 모인 구강팔과 안으로 말린 우산 가장자리",
+        "poseVariationCheck": "기존 대표·먹이는 넓은 앞위 사선 우산 면과 늘어진 구강팔, round1 생태는 원형 아랫면과 말린 팔이었다. 새 v2는 거의 수평인 우산 가장자리 높이의 옆면이며, 짧게 모은 구강팔과 안으로 말린 가장자리가 중심이다. 카메라의 관측 면과 팔/우산 상태가 모두 달라 반전·배경 차이로 판정하지 않았다.",
+        "visualLimitations": "네 입팔 뿌리와 뒤쪽 두 팔은 중첩되어 독립 개수 전부를 확정하지 못함. 우산 수축의 실제 시각·미세 점액 운반·먹이 종은 확인하지 않음. 겹쳐진 네 구강팔의 뿌리와 네 생식소를 모두 분리 계수하지 못한다. 전체 우산과 주된 팔 끝은 프레임 안이지만, 모든 미세 가장자리 촉수를 전수 추적하지 않았다. 먹이 운반·실제 섭식 성공·점액층의 미세 구조는 확인할 수 없다. 수정 전 v1은 제외하며 v2만 판정했다."
       },
       {
         "id": "moon-jelly",
@@ -2275,33 +2310,38 @@ export const animals = [
       },
       {
         "id": "bottlenose-dolphin",
-        "src": "assets/images/bottlenose-dolphin-chatgpt-feeding-v1.png",
+        "src": "assets/images/bottlenose-dolphin-chatgpt-feeding-rear-underbelly-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "큰돌고래 · 물고기를 향해 다가가기",
+        "caption": "큰돌고래 · 배 아래 뒷사선에서 본 먹이 접근",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "오른쪽 방향의 짧고 두꺼운 부리, 둥근 이마, 작은 눈, 회색 등과 밝은 배를 확인. 가슴지느러미 2개, 등지느러미 1개, 비스듬하게 투영된 좌우 꼬리 2엽이 몸에 자연스럽게 연결된다.",
+        "identityCheck": "짧고 두꺼운 주둥이와 멜론·작은 근측 눈·회색 등/넓은 밝은 배, 두 가슴핀과 한 등핀·이어진 꼬리자루와 수평 두 꼬리엽을 실제 원본에서 대조했다. 새 핀이나 분리된 꼬리는 보이지 않으며 작은 물고기는 주둥이와 떨어져 있음.",
         "generationPrompts": [
-          "Use case: scientific-educational\nAsset type: Sea Atlas species gallery, ONE standalone horizontal 3:2 image, not a collage.\nStyle: refined exquisitely detailed naturalistic educational painting for children ages 5–12, real natural anatomy and proportions, realistic subtle skin texture and natural eyes, gentle documentary feeling, quiet marine habitat background. No text, labels, arrows, logo, border, watermark, people, boats, fishing gear, blood, wounds, horror, anthropomorphism, exaggerated smiles, glowing eyes or toy/plastic/cartoon appearance.\nSubject identity: common bottlenose dolphin Tursiops truncatus, robust smooth gray torpedo body, darker gray back graduating to pale belly, rounded melon forehead separated by a subtle crease from a SHORT THICK beak-like rostrum. Do not use long narrow spinner/common dolphin snout, white-sided/hourglass body patterns, spotted dolphin markings or gray-whale body. Do not label as Indo-Pacific bottlenose dolphin Tursiops aduncus, no abdominal black spots as an identification motif. No region or subspecies should be claimed just from appearance.\nAnatomy invariants: exactly TWO pectoral flippers attached behind head on opposite body sides, ONE curved falcate dorsal fin, ONE tail peduncle ending in TWO horizontal left-right flukes with central notch. Whale tail plane must be perpendicular to upright dorsal fin, never fish-like vertical upper/lower lobes. No hindlimbs, pelvic fins or shark gill slits. Small natural lateral eyes, one subtle blowhole on top of head behind forehead if visible. Entire principal animal and all appendage ends comfortably inside frame, about 7% margin.\nScene/composition: ONE common bottlenose dolphin Tursiops truncatus calmly approaching ONE intact small silver fish underwater in temperate Pacific seawater. Side-front three-quarter composition facing RIGHT, dolphin's entire body and horizontal tail in frame, clearly distinct from its left-facing portrait. Fish is small relative to dolphin, well ahead of the dolphin's very slightly open mouth with a clear noncontact gap; prey is complete, no bite damage or blood. Modest small conical teeth may only subtly show if necessary, never dramatic tooth display. Mouth positioned naturally below the short thick rostrum, not smiling or human expression. Both pectoral flippers and horizontal two-lobed tail remain clear. Quiet sunlit blue water with a few subtle particles and no dramatic chase streaks or sound beams. This is a cautious educational reconstruction of fish foraging before capture, not an observed event. No squid, seals, humans or other dolphins in this single feeding view."
+          "Use case: scientific-educational\nAsset type: Sea Atlas species gallery, ONE standalone horizontal 3:2 image, not a collage.\nStyle: refined exquisitely detailed naturalistic educational painting for children ages 5–12, real natural anatomy and proportions, realistic subtle skin texture and natural eyes, gentle documentary feeling, quiet marine habitat background. No text, labels, arrows, logo, border, watermark, people, boats, fishing gear, blood, wounds, horror, anthropomorphism, exaggerated smiles, glowing eyes or toy/plastic/cartoon appearance.\nSubject identity: common bottlenose dolphin Tursiops truncatus, robust smooth gray torpedo body, darker gray back graduating to pale belly, rounded melon forehead separated by a subtle crease from a SHORT THICK beak-like rostrum. Do not use long narrow spinner/common dolphin snout, white-sided/hourglass body patterns, spotted dolphin markings or gray-whale body. Do not label as Indo-Pacific bottlenose dolphin Tursiops aduncus, no abdominal black spots as an identification motif. No region or subspecies should be claimed just from appearance.\nAnatomy invariants: exactly TWO pectoral flippers attached behind head on opposite body sides, ONE curved falcate dorsal fin, ONE tail peduncle ending in TWO horizontal left-right flukes with central notch. Whale tail plane must be perpendicular to upright dorsal fin, never fish-like vertical upper/lower lobes. No hindlimbs, pelvic fins or shark gill slits. Small natural lateral eyes, one subtle blowhole on top of head behind forehead if visible. Entire principal animal and all appendage ends comfortably inside frame, about 7% margin.\nScene/composition: ONE common bottlenose dolphin Tursiops truncatus calmly approaching ONE intact small silver fish underwater in temperate Pacific seawater. Side-front three-quarter composition facing RIGHT, dolphin's entire body and horizontal tail in frame, clearly distinct from its left-facing portrait. Fish is small relative to dolphin, well ahead of the dolphin's very slightly open mouth with a clear noncontact gap; prey is complete, no bite damage or blood. Modest small conical teeth may only subtly show if necessary, never dramatic tooth display. Mouth positioned naturally below the short thick rostrum, not smiling or human expression. Both pectoral flippers and horizontal two-lobed tail remain clear. Quiet sunlit blue water with a few subtle particles and no dramatic chase streaks or sound beams. This is a cautious educational reconstruction of fish foraging before capture, not an observed event. No squid, seals, humans or other dolphins in this single feeding view.",
+          "Create ONE original realistic natural-history illustration for Sea Atlas, ages 5–12, landscape 3:2, refined painterly marine detail. Species Tursiops truncatus, one common bottlenose dolphin. The attached illustration is ONLY an identity/style reference, never reproduce, flip or rotate its straight broadside swimming silhouette. Construct a NEW THREE-DIMENSIONAL VIEW FROM BELOW AND BEHIND: the camera looks along the pale underside of the dolphin from the tail toward its head. The entire pair of horizontal tail flukes is near the upper-right foreground, with the attached tail stock leading smoothly into the belly and thorax; its short thick snout and head are farther away toward lower-left, gently curving down toward three tiny intact silver fish well beyond the snout. The long body is moderately foreshortened in depth, with a gentle natural downward arc rather than a severe S bend. NEW FLIPPER STATE: one pectoral flipper is swept outward across the water, and the other is angled back along the body, both clearly attached on the ventrolateral chest behind the head; do not add any other paired fins. TWO horizontal caudal lobes with one central notch, ONE curved dorsal fin on the BACK, not the belly, naturally partly obscured by the roll. Grey back, paler grey sides and light belly, smooth dolphin skin, rounded melon, short thick rostrum, small lateral eye where visible, nearly closed natural mouth with no grin or conspicuous teeth. This must genuinely reveal the belly-facing surfaces and show a rear-low perspective, different from BOTH the old side portrait and the existing head-near-camera top-front curved ecology picture. Leave a visible water gap between dolphin and fish: an educational prey-approach scene, no bite or swallowing, no actual hunting success claim. Clear cool blue coastal water, restrained sand/reef silhouettes distant below, no other dolphin, diver, boat, text, labels, inset, arrow or watermark. Entire main animal, head, BOTH tail tips and all visible flippers comfortably inside the frame with at least 8 percent clear margins; animal occupies about 70 percent of the composition."
         ],
-        "generatedAt": "2026-10-03T01:28:07.413Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "ce9e65b098f0857f4e375ab1d3781937f2e862306474ff275f57575ee9d38f66",
+        "generatedAt": "2026-10-10T18:17:51.911Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "6af5c63772c9eccc86893a3b37d19774a543dbdde2a08dd35bae5399ea2d5b8e",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "큰돌고래는 물고기를 먹어요. 물고기에게 다가가는 모습을 그렸고, 실제로 잡아 삼키는 순간은 아니에요.",
+        "behaviorCheck": "NOAA가 설명하는 물고기 먹이 탐색을 바탕으로 먹이와 거리를 둔 접근 장면을 재구성했다. 실제 포획이나 섭식 성공, 정확한 물고기 종은 확정하지 않는다.",
         "behaviorSources": [
           {
-            "title": "NOAA Fisheries — Common Bottlenose Dolphin: Behavior and Diet",
+            "title": "NOAA Fisheries — Common Bottlenose Dolphin: Appearance and Behavior and Diet",
             "url": "https://www.fisheries.noaa.gov/species/common-bottlenose-dolphin"
           }
-        ]
+        ],
+        "viewpoint": "꼬리가 가까운 아래 뒷옆 사선에서 밝은 배를 따라 머리가 멀어짐",
+        "pose": "머리는 아래쪽 물고기 방향으로 기울고 꼬리는 위로 가까워지며 두 가슴지느러미가 다른 방향으로 펼쳐짐",
+        "poseVariationCheck": "baseline의 측면/거의 반전 원래 먹이와 머리 가까운 위앞 생태 컷에서, 꼬리가 가까운 아래 뒤옆 사선으로 흰 배와 꼬리 아래 면이 크게 드러남. 가까운 핀 옆 펼침/먼 핀 아래 펼침 및 머리 하향·꼬리 상향 상태가 다른 두 축. 단순 반전·화면 기울임보다 노출 면/전후 단축 변화가 실제 있음.",
+        "visualLimitations": "오른쪽 꼬리 끝 여백 약 2%·위 약 5%로 좁으나 전체가 보임. 물고기와 거리가 있고 실제 포획·정확한 먹이 종·미세 조직은 확인하지 않음. 오른 꼬리 끝 약2%, 위 약5%의 좁은 여백이지만 전체 주개체 윤곽은 자르지 않았다. 원측 눈·생식기관·물고기 종과 섭식 성공은 확인 불가."
       },
       {
         "id": "bottlenose-dolphin",
@@ -2413,33 +2453,38 @@ export const animals = [
       },
       {
         "id": "giant-manta-ray",
-        "src": "assets/images/giant-manta-ray-chatgpt-feeding-v1.png",
+        "src": "assets/images/giant-manta-ray-chatgpt-feeding-ventral-round2-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "대왕쥐가오리 · 작은 먹이를 걸러 먹기",
+        "caption": "대왕쥐가오리 · 아래에서 본 먹이 거르기",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "큰 가슴날개 2개·펼친 머리지느러미 2개·옆 눈·작은 등핀·긴 단일 꼬리의 전체 윤곽과 끝을 확인한다. 열린 입은 머리 앞쪽에 있고 흰 배의 아가미 줄 일부와 후방 점무늬가 보인다. 입속 줄무늬 여과조직은 도식적 표현이며 판수·정밀 내부해부·양쪽 아가미 전수를 확정하지 않는다.",
+        "identityCheck": "한 연속된 넓은 원반·두 긴 가슴날개·두 머리엽·앞쪽 큰 입·배쪽 아가미 틈·가느다란 한 꼬리의 연결을 확인. 흰 배와 검은 후방 점/테두리가 보이며 머리엽은 입 앞에서 벌어짐. 주요 형태 대조 범위에서 통과.",
         "generationPrompts": [
-          "Use case: scientific-educational. One independent original natural-history illustration for Sea Atlas, for children ages 5–12. Refined painterly realism with slight brush texture, natural anatomy and colors, soft natural underwater light, no anthropomorphism. Landscape 3:2. One adult giant oceanic manta ray, Mobula birostris, chevron color form, not Mobula alfredi. Broad diamond-shaped central body with exactly TWO very large triangular wing-like pectoral fins smoothly connected left and right; front-facing broad terminal mouth between exactly TWO cephalic lobes, eyes small and naturally on the sides of the head. Black-charcoal dorsal surface with clearly edged broad white shoulder patches creating the normal dark T-shaped shoulder pattern, white belly where visible. One long thin tapering tail attached at posterior body, one small dorsal fin near tail base; small normal pelvic fins may be visible naturally but must not become extra wings. No large barbed stinging tail spine or scorpion tail, no exaggerated teeth, eyes on cephalic lobes, neck, horns or five wings. All wing tips, cephalic lobe tips and entire tail fit inside frame with generous clear-water margins. No text, arrows, labels, borders, humans, boats, blood, injuries, prey fish, horror or neon glowing eyes. Scene: full animal in a low front three-quarter underwater view facing toward the viewer and slightly left. Mouth naturally broad and open at the FRONT edge of head, two cephalic lobes UNROLLED outward and curling around the sides to form a smooth O-like funnel directing water with tiny sparse zooplankton specks into mouth. Show the natural white ventral surface with subtle dark spots toward the posterior, paired gill-slit groups on the underside if clearly visible; avoid black spots crowding between the gill slits. Both broad triangular wings fully spread, no symmetry-breaking extra wings, entire slender tail curves gently behind and remains fully inside frame. Tiny prey particles only, not oversized prawns or a giant fish in the mouth. Shallow open sea with soft daylight, no seabed, mouth not a human smile or fearsome toothed maw. Simple water-filtering feeding moment, not a chase or violent attack."
+          "Use case: scientific-educational. One independent original natural-history illustration for Sea Atlas, for children ages 5–12. Refined painterly realism with slight brush texture, natural anatomy and colors, soft natural underwater light, no anthropomorphism. Landscape 3:2. One adult giant oceanic manta ray, Mobula birostris, chevron color form, not Mobula alfredi. Broad diamond-shaped central body with exactly TWO very large triangular wing-like pectoral fins smoothly connected left and right; front-facing broad terminal mouth between exactly TWO cephalic lobes, eyes small and naturally on the sides of the head. Black-charcoal dorsal surface with clearly edged broad white shoulder patches creating the normal dark T-shaped shoulder pattern, white belly where visible. One long thin tapering tail attached at posterior body, one small dorsal fin near tail base; small normal pelvic fins may be visible naturally but must not become extra wings. No large barbed stinging tail spine or scorpion tail, no exaggerated teeth, eyes on cephalic lobes, neck, horns or five wings. All wing tips, cephalic lobe tips and entire tail fit inside frame with generous clear-water margins. No text, arrows, labels, borders, humans, boats, blood, injuries, prey fish, horror or neon glowing eyes. Scene: calm full-body swimming in open blue ocean, elevated front three-quarter view, facing lower left of frame with tail trailing upward-right. Both entire triangular wings are stretched out in a nearly level plane, front mouth closed or only a relaxed narrow opening, both cephalic lobes naturally loosely rolled inward. The black dorsal T-shaped shoulder area and distinct white shoulder patches are clearly visible, subtle white underside near edges. Quiet pale-to-deep blue gradient background, no other animals, no seabed. Keep left and right wings balanced and all body connections clear.",
+          "Use case: scientific-educational. Make ONE new 3:2 landscape natural-history illustration of the giant manta ray Mobula birostris filter-feeding in blue open water. Reference image 1 is ONLY an identity/color/illustration-style reference, not a pose to copy. Redraw a completely different camera angle AND wingbeat phase. Do not mirror, rotate or reuse the same elevated-left-wing lateral silhouette.\nCamera: almost AXIAL FRONT from distinctly BELOW the animal, looking upward at the broad white VENTRAL surface. The mouth and two cephalic lobes are close and centered; the tail runs continuously backward into distance and remains fully visible. Most of the torso visible to the camera is pale underside, not the dark top. Pose: BOTH broad pectoral wings are on a smooth DOWNSTROKE, gently swept downward in visibly curved arcs, rather than one wing high and the other horizontal, and rather than both wings raised. Natural muscular fin curvature, not broken joints or folded bat wings. The mouth is open with TWO anatomically continuous cephalic lobes unrolled into the curved O/funnel arrangement that channels water. Sparse tiny plankton particles in front of the mouth, no fish capture, blood or human equipment.\nKeep a broad diamond-shaped body, two broad wing-like pectorals continuous with the body, two cephalic lobes only, ventral paired pelvic region, FIVE gill openings on each side of the white underside, one small rear dorsal, long thin continuous tail and tiny natural tail-base remnant thorn. Small dark ventral spots, restrained dark chevron back visible only near edges, no cartoon face. Both lateral eyes are in anatomical positions; natural occlusion is okay. Distinguish this true underside/front viewpoint and both-wings-down posture from the reference's front/top one-wing-up pose and from a wings-up horizontal cleaning pose. Educational reconstruction, not a claim of one observed feeding success. Entire animal, wing tips, head lobes and tail tip inside 14 percent margins; moderate perspective with anatomically plausible proportions. Single manta, natural soft blue water, realistic detailed illustration consistent with the reference. No text, labels, extra animals, arrows, grids, panels or watermark."
         ],
-        "generatedAt": "2026-10-03T01:27:12.424Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "0362b790db8339a84d586ed4eebc708784f837a19ba1b155d990aebcc6ea539a",
+        "generatedAt": "2026-10-10T18:20:46.266Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "fd41b3854f77d4194e32198a1b14149d06c34ed26909c1c3ea0c8539de5b7ae4",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "입 앞의 두 머리지느러미로 작은 먹이가 든 물을 모아 걸러 먹어요. 입속 모양은 설명을 위한 재현이며 세밀한 해부 도판은 아니에요.",
+        "behaviorCheck": "NOAA의 플랑크톤 여과섭식·입 벌림·O형 머리엽 실제 확인. 날개 하향 박자와 정확한 시점은 교육 재구성이며 특정 실제 관측 장면이라고 단정하지 않는다.",
         "behaviorSources": [
           {
             "title": "NOAA Fisheries — Giant Manta Ray",
             "url": "https://www.fisheries.noaa.gov/species/giant-manta-ray"
           }
-        ]
+        ],
+        "viewpoint": "흰 배를 보는 거의 정면의 아래쪽 시점",
+        "pose": "양쪽 넓은 가슴날개의 끝이 아래로 휘는 하향 박자·큰 열린 입·앞으로 편 두 머리엽",
+        "poseVariationCheck": "기존 대표/먹이는 검은 등면이 넓게 보이는 앞 사선, ecology는 높은 등쪽 시점. 새 컷은 흰 배가 거의 정면으로 드러나는 아래 시점이며 두 날개 끝이 아래로 굽고 입과 머리엽이 크게 열려 실제 면과 날개 박자가 모두 바뀜. 배경이나 입만 바꾼 컷이 아님.",
+        "visualLimitations": "양 날개 끝 여백 약 2%로 좁으나 잘림 없음. 배 무늬로 개체를 동정하거나 실제 여과율·먹이 입자를 확정하지 않음. 양 날개 끝 여백이 약 2%로 좁지만 원본 끝은 화면 안에서 완결됨,등쪽 무늬·꼬리 가시와 입 안 여과판의 미세 수/배열은 이 면에서 전문 동정할 수 없음,부유 입자가 실제 삼켜지는 순간이나 섭식 성공을 확정하지 않음"
       },
       {
         "id": "giant-manta-ray",
@@ -4724,37 +4769,46 @@ export const animals = [
       },
       {
         "id": "blue-sea-star",
-        "src": "assets/images/blue-sea-star-chatgpt-feeding-v1.png",
+        "src": "assets/images/blue-sea-star-chatgpt-feeding-round2-pose-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "파란불가사리 · 바위 표면의 작은 유기물",
+        "caption": "파란불가사리 · 바위 틈에서 본 작은 입과 관족",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "5팔연결/둥근끝과 아래짧은황색관족일부 읽힘. 중심배면은바위가림.",
+        "identityCheck": "작은 중앙 원반에 이어진 다섯 개의 둥근 청색 팔을 원본에서 끝까지 확인했다. 가까운 두 앞팔의 옅은 아랫면, 중앙의 작은 입과 짧은 옅은 노란 관족이 보이며, 관족은 별도 다리나 긴 촉수로 그려지지 않았다. DORIS의 5개 원통형 팔·옅은 황색 관족·아랫면 보대구 형태와 대조했다.",
         "generationPrompts": [
-          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Linckia laevigata BLUE SEA STAR. Five and only FIVE long cylindrical fleshy arms of near-uniform thickness with rounded blunt tips, all independently connected to a small central disc; coherent pentaradial topology. Cobalt-blue finely granular skin, no giant conical black spikes, no pointed triangular cartoon star arms, no facial eyes, smile or central top mouth. A few short pale yellow translucent tube feet appear only along underside ambulacral grooves where angle naturally exposes them, no legs growing out of upper surface. LOW SIDE three-quarter view, all FIVE whole arms around central disc on a submerged gently sloped rock covered with a thin natural olive-brown algal organic film. Central underside stays close in gentle contact with rock, suggesting substrate grazing; no open maw, huge extruded organs, dead animal, shell-cracking or invented prey. A lifted near arm edge naturally exposes a few underside tube feet. Feeding posture reconstruction, fine contents invisible at normal scale. Shallow reef daylight."
+          "Use case: scientific-educational. Asset: ORIGINAL Sea Atlas natural-history illustration for ages 5–12. Landscape 3:2, 1536×1024. Refined painterly realism, subtle brush texture, calm documentary animal with realistic proportions. Complete focal animal and all important appendages inside generous frame margins. No text, labels, arrows, panels, logos, people, boats, blood, wounds, horror, fantasy, cartoon face, large humanlike eyes, neon glow, cropped body or cut-off appendages. ONE Linckia laevigata BLUE SEA STAR. Five and only FIVE long cylindrical fleshy arms of near-uniform thickness with rounded blunt tips, all independently connected to a small central disc; coherent pentaradial topology. Cobalt-blue finely granular skin, no giant conical black spikes, no pointed triangular cartoon star arms, no facial eyes, smile or central top mouth. A few short pale yellow translucent tube feet appear only along underside ambulacral grooves where angle naturally exposes them, no legs growing out of upper surface. Clean nearly TOP-DOWN view on submerged pale rocky reef ledge, whole sea star with FIVE separated blue arms laid at slightly irregular natural angles, no overlap disguising base count, sharp focus with generous margin. Warm tropical shallow water daylight and faint caustics, discreet blurred coral rubble background.",
+          "Use case: scientific-educational. Generate one new realistic natural-history illustration of a single Linckia laevigata blue sea star on a tropical reef rock, landscape 3:2. Use the supplied image only for species identity, blue granular skin, five long rounded arms, and the detailed atlas painting style. Replace the old view of a flat star from above with a true low view of its oral underside. Do not rotate or mirror the flat above-view star.\nScene geometry and camera: the sea star is naturally crawling across a narrow, shallow crack between two reef-rock ridges, with arm tips and many tube feet attached to the rock edges. Put the camera at the crack level below and in front of the animal, looking upward through the space it bridges. The central oral surface and underside grooves of the two near arms are clearly exposed in depth, while the three farther arms recede to rock contacts. Keep the whole animal and all five arm tips inside the frame. This must be a supported, slow crawl, not a sea star floating upside down, jumping, standing like a person, or unnaturally contorted.\nPose and anatomy: exactly five thick rounded unbranched arms continuously join one small central disk. Gently arch the disk across the shallow gap while the nearer two arms conform to the adjacent rock contours. Show numerous short, pale yellow translucent tube feet extending from the real narrow ambulacral grooves on the underside, some gripping the rock and a few reaching between nearby contacts; do not place a skirt of feet on the top surface. Include only a small ordinary central mouth on the oral underside. No giant teeth, tongue, invented external gills, protruding stomach, gore, or cutaway.\nFeeding context: the attached rock surface near the oral area has a subtle natural biofilm and ordinary tiny organic particles, not whole fish, mussels, or colourful cartoon microbes. This species commonly grazes reef-surface biofilms and detrital material. Illustrate contact with a potential food surface rather than pretending to show a proven ingestion event or making tube feet into hands passing prey.\nSoft natural blue-green underwater light, realistic reef texture, clear blue animal with underside texture visible, no text, labels, arrows, inset, collage, border, or watermark. Prioritize the low actual oral-face camera and deployed gripping tube feet with an uneven supported five-arm contour as two obvious changes from the input."
         ],
-        "generatedAt": "2026-10-03T12:22:35.368Z",
-        "checkedAt": "2026-10-03",
-        "sha256": "15fc2333630d079c3a54f66fa0618b7809e5f8784c8f89dbccc37235f89c0f01",
+        "generatedAt": "2026-10-10T18:28:57.279Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "04850f612193c0b87becd02af118e921270d66ad407d94db205a3ea9998d2d06",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "중심 배면이 표면 유기물이 있는 바위와 접촉하는 먹이활동 재구성. 실제 위의 외출/영양흡수 성공·표면 미생물 종류는 외부 정지 그림으로 확인하지 않는다.",
+        "behaviorCheck": "DORIS와 우라소에 시 종정보에서 표면 생물막 등 미세 유기물 먹이와 아랫면 관족을 확인했다. 관족을 손처럼 먹이를 전달하는 기관으로 그리지 않으며, 입 표면 접촉의 실제 섭식 성공은 확인 불가. 이 바위 틈 배치는 시점 설명을 위한 교육 재구성.",
         "behaviorSources": [
           {
             "title": "FFESSM DORIS — Linckia laevigata",
-            "url": "https://doris.ffessm.fr/Especes/Linckia-laevigata-Linckia-bleue-2361"
+            "url": "https://doris.ffessm.fr/Especes/Linckia-laevigata-Linckia-bleue-2361",
+            "readAt": "2026-10-11",
+            "evidence": "생물막, 석회조류·유기물 미세섭식; 아랫면 보대구에서 짧은 옅은 노랑 관족이 나옴."
           },
           {
-            "title": "Urasoe City species guide — Linckia laevigata",
-            "url": "https://www.city.urasoe.lg.jp/sites/urasoe-envmap/zukan/sonota/aohitode.htm"
+            "title": "Urasoe City — Linckia laevigata species guide",
+            "url": "https://www.city.urasoe.lg.jp/sites/urasoe-envmap/zukan/sonota/aohitode.htm",
+            "readAt": "2026-10-11",
+            "evidence": "5팔, 입을 통한 외부 소화와 표면 영양물 이용 설명; 이번 그림은 위를 밖으로 드러내는 장면이 아님."
           }
-        ]
+        ],
+        "viewpoint": "얕은 바위 틈 높이에서 중앙 입과 두 앞팔의 아랫면을 올려다보는 낮은 사선",
+        "pose": "다섯 팔을 바위 양쪽에 받치고 중앙 원반을 조금 띄운 채 아랫면 관족을 여러 접점에 붙임",
+        "poseVariationCheck": "기존 대표·먹이는 다섯 팔을 넓게 펼친 윗면이고 round1 생태는 바위에 오른 굽힌 팔의 위사선이었다. 새 그림은 바위 틈 높이의 낮은 사선에서 입과 두 앞팔의 아랫면을 보며, 중앙 원반을 띄우고 여러 팔과 관족으로 지지하는 다리형 배열이다. 카메라의 보이는 면과 팔/지지 상태 두 축이 다르다.",
+        "visualLimitations": "관족은 일부 바위 접촉·일부 펼침 상태이며 미세 보대구 전체 배열은 확정하지 못함. 바위 틈은 교육 구도이며 실제 섭식 성공·생물막 종류·특정 이동 박자를 확인하지 않음. 미세 보대구의 정확한 배열과 각 관족의 실제 접점을 모두 확인하지 못한다. 뒤쪽 팔 끝의 위 여백은 약 5%로 좁으나 다섯 팔은 프레임 안이다. 입은 바위에서 조금 떨어져 있어 먹이 표면 접촉·섭식 성공을 확인하지 못하며, 위를 내밀어 소화하는 장면도 아니다. 종의 세부 골판 동정이나 실제 수심을 그림만으로 확정하지 않는다."
       },
       {
         "id": "blue-sea-star",
@@ -5865,41 +5919,43 @@ export const animals = [
       },
       {
         "id": "chambered-nautilus",
-        "src": "assets/images/chambered-nautilus-chatgpt-feeding-v1.png",
+        "src": "assets/images/chambered-nautilus-chatgpt-feeding-rear-search-v2.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "황제앵무조개 · 바닥의 작은 먹이 탐색",
+        "caption": "황제앵무조개 · 껍데기 뒤사선에서 본 먹이 탐색",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "실제 저장 원본 크기에서 나선 패각·흰/갈색 무늬·제공의 덮인 중심·반점 후드·작은 근측 눈·다수 가는 무흡반 촉수와 머리 아래 깔때기를 확인. 껍질·촉수 끝이 화면 안.",
+        "identityCheck": "단일 줄무늬 크림색 껍데기의 둥근 바깥 가장자리가 가까우며 그 뒤 왼쪽 입구의 두건·작은 옆눈 하나와 가는 촉수의 이어진 근부를 실제 원본에서 대조. 촉수에 문어형 큰 빨판은 보이지 않으며 껍데기 벽을 뚫은 촉수/분리된 두 번째 껍데기도 보이지 않음.",
         "generationPrompts": [
-          "Use case: scientific-educational. Sea Atlas natural-history illustration for children age 5–12. One landscape 3:2 image, painterly realism with careful anatomy, calm natural animal behavior. All shell, hood, eye region and every visible tentacle tip fit inside the frame with generous margins. No text, letters, labels, arrows, collage, human objects, anthropomorphic face, blood, wounds, horror, cutaway or transparent shell. Soft explanatory illumination in deep dark blue water, NOT surface sunbeams.\nSubject: one adult Nautilus pompilius, with a smooth compressed planispiral ivory external shell, irregular narrow russet-brown radial stripes mostly on the older shell and a largely pale newest body-chamber near the opening. The spiral center is covered by a small ivory callus, NOT a deep open black hole. A broad mottled brown-and-cream leathery hood lies above the head at the shell opening. Below the hood and around the mouth region there are MANY slender flexible tapered pale-brown tentacles, without suckers; show natural layered bundles with some bases hidden, NOT eight thick octopus arms, NOT squids with suckers. A small natural pinhole eye on each side of the head; only the near eye need be visible when the other is naturally hidden. The soft body remains inside the final shell chamber; a small natural funnel below the head may be visible, not an extra tentacle. No exposed teeth or cartoon eyeballs.\nScene: a whole animal in low three-quarter side view just above a dim rocky-sandy deep reef slope, approaching one SMALL intact pale shrimp-like scavenging food item resting on the substrate. The food is small compared with the shell, with no wound, blood or torn body. Several slender suckerless tentacles extend toward the sand and the item while remaining visibly separated from the food; other tentacles form natural bundles around the hidden mouth. Do not depict biting, capture success or a violent hunt. Keep the near pinhole eye, upper hood, whole spiral shell, bottom funnel if exposed, and all visible tentacle tips within generous margins. This is a careful educational reconstruction of food exploration, not an observed feeding photograph."
+          "Use case: scientific-educational. Sea Atlas natural-history illustration for children age 5–12. One landscape 3:2 image, painterly realism with careful anatomy, calm natural animal behavior. All shell, hood, eye region and every visible tentacle tip fit inside the frame with generous margins. No text, letters, labels, arrows, collage, human objects, anthropomorphic face, blood, wounds, horror, cutaway or transparent shell. Soft explanatory illumination in deep dark blue water, NOT surface sunbeams.\nSubject: one adult Nautilus pompilius, with a smooth compressed planispiral ivory external shell, irregular narrow russet-brown radial stripes mostly on the older shell and a largely pale newest body-chamber near the opening. The spiral center is covered by a small ivory callus, NOT a deep open black hole. A broad mottled brown-and-cream leathery hood lies above the head at the shell opening. Below the hood and around the mouth region there are MANY slender flexible tapered pale-brown tentacles, without suckers; show natural layered bundles with some bases hidden, NOT eight thick octopus arms, NOT squids with suckers. A small natural pinhole eye on each side of the head; only the near eye need be visible when the other is naturally hidden. The soft body remains inside the final shell chamber; a small natural funnel below the head may be visible, not an extra tentacle. No exposed teeth or cartoon eyeballs.\nScene: a whole animal in low three-quarter side view just above a dim rocky-sandy deep reef slope, approaching one SMALL intact pale shrimp-like scavenging food item resting on the substrate. The food is small compared with the shell, with no wound, blood or torn body. Several slender suckerless tentacles extend toward the sand and the item while remaining visibly separated from the food; other tentacles form natural bundles around the hidden mouth. Do not depict biting, capture success or a violent hunt. Keep the near pinhole eye, upper hood, whole spiral shell, bottom funnel if exposed, and all visible tentacle tips within generous margins. This is a careful educational reconstruction of food exploration, not an observed feeding photograph.",
+          "Create ONE new original realistic natural-history illustration for Sea Atlas, children ages 5–12, landscape 3:2, refined painterly marine detail. Species Nautilus pompilius, chambered nautilus. Use the attached image ONLY for shell colour, animal identity and illustration style; rebuild the geometry from a new viewpoint, not a mirrored or rotated side-on spiral disc. NEW CAMERA: a pronounced REAR THREE-QUARTER VIEW at LOW REEF LEVEL, looking obliquely along the convex BACK EDGE of the shell toward the head. The rounded striped shell is closest in the RIGHT foreground, foreshortened so its thick rounded outer whorl and curved back dominate, with only a narrow oblique glimpse of the lateral spiral instead of the full flat circular spiral shown in the old picture. The shell opening, hood, head and ONE visible simple small pinhole eye are farther away on the LEFT LOWER side. NEW TENTACLE STATE: many thin supple suckerless tentacles are partly gathered together and curve DOWN AND LEFT toward one tiny intact shrimp-like crustacean on the reef; a few gently touch the rock just before reaching it, instead of forming a wide horizontal forward fan. All tentacles emerge continuously from the head at the shell opening, not from the shell back, with fine tapering tips, no octopus suction cups, no squid clubs and no detached strands. The textured brown-and-cream hood rests above the head. One natural muscular funnel lies near the lower head, partly concealed by the tentacle bundle if needed; no siphon emerging through the shell, no chamber cutaway or air-bubble diagram. One continuous cream shell with brown radial bands over the exposed upper/back whorl, not two shells, no horns or fish fins. Keep the complete shell, hood, head and all visible tentacle ends inside generous margins, about 70 percent composition occupancy. This is an educational food-search/reaching scene consistent with eating small crustaceans and scavenging; keep the little crustacean intact with a visible gap from the hidden mouth, no gore, shell-breaking or claim of successful capture. Dim cool blue reef slope, subdued rocky substrate, no additional nautilus or other large animal, labels, text, panels, arrows or watermark. The strong rear-side depth view and downward gathered tentacles must differ from the old full side-spiral fan and the existing front-oblique ecology picture.",
+          "Revise ONLY the CAMERA and corresponding three-dimensional anatomy/pose of this Nautilus pompilius natural-history illustration. Keep one cream-and-brown banded chambered nautilus, the restrained underwater reef, tiny intact crustacean, refined painterly Sea Atlas style and landscape 3:2. The current result is still essentially a side view with a large flat spiral face, so it is not suitable. Reconstruct a strong DIRECT REAR-OBLIQUE CAMERA ALONG THE SHELL BACK: the visible nearest shell surface is its rounded narrow BACK/RIM, the curved outer whorl, like a thick rounded edge. Hide almost all of the broad circular side spiral around the far sides; at most a small narrow oblique part of the spiral is visible on the left edge. The shell should read as a tall rounded convex EDGE in the center-right foreground with strong depth, not the same full side spiral flipped. Look PAST the shell toward its aperture farther away on the left-lower side: only part of the brown textured hood and one small pinhole eye peek beyond the far edge, and the thin suckerless tentacles emerge from that proper far aperture, curving down-left toward the reef. The animal remains upright in water, do not bend or distort the rigid shell to create the angle. The tentacles form a compact downward-curved bundle; a few near tips rest on the rock before reaching the small intact crustacean, no feeding success, injury or swallowing. Maintain one continuous head inside one single shell, all tentacles anatomically joined to the head at the aperture, no tentacle through the shell back, no extra shell, no octopus suction cups, no squid clubs, no horns, no fantasy fins. The muscular funnel is naturally near the lower head and may be hidden behind the shell edge in this view; do not move it through the shell. Keep every visible animal contour and tentacle end completely inside the frame with generous margins. No labels, arrows, text, panels or watermark. A genuine rear geometry is essential: dominant rounded shell edge nearest us, head and aperture farther away beyond the edge, with clear depth occlusion."
         ],
-        "generatedAt": "2026-10-03T13:16:04.372Z",
-        "checkedAt": "2026-10-04",
-        "sha256": "51de2581b7d00fd52d0250ecffd5f9d790842179905d7414296067dc73974468",
+        "generatedAt": "2026-10-10T18:24:12.913Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "80bda38484d9521d0a0b244c35c64f19352fbbd9d0ae8d054bf4343735853867",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "작은 갑각류형 먹이와 바닥 탐색 재구성. 먹이의 생사·정밀종동정·실제 접촉·포획·섭식 성공은 정지 그림으로 확정하지 않음.",
+        "behaviorCheck": "MBA의 갑각류 먹이와 먹이 탐색·빨판 없는 촉수를 토대로 접근 장면을 재구성했다. 갑각류는 멀쩡하며 섭식 성공과 정확한 종을 확정하지 않는다.",
         "behaviorSources": [
           {
-            "title": "NOAA Fisheries — Chambered Nautilus",
-            "url": "https://www.fisheries.noaa.gov/species/chambered-nautilus"
-          },
-          {
-            "title": "Monterey Bay Aquarium — Chambered nautilus",
+            "title": "Monterey Bay Aquarium — Chambered nautilus: Diet and Anatomy",
             "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/chambered-nautilus"
           },
           {
-            "title": "NOAA 2018 status review — movement and feeding",
-            "url": "https://media.fisheries.noaa.gov/dam-migration/final_nautilus_status_review_508_compliant.pdf"
+            "title": "NOAA Fisheries — Chambered Nautilus: suckerless tentacles and crustacean diet only",
+            "url": "https://www.fisheries.noaa.gov/species/chambered-nautilus"
           }
-        ]
+        ],
+        "viewpoint": "나선 옆면 대부분이 가려지고 둥근 바깥 껍데기 가장자리가 가까운 뒤옆 사선",
+        "pose": "먼 입구의 두건·옆눈이 가장자리 너머로 조금 보이며 촉수가 아래 왼쪽으로 좁게 모여 바닥을 살핌",
+        "poseVariationCheck": "baseline 대표·원래 먹이의 넓은 나선 옆면, 새 정면 생태의 앞 머리에서 바깥 껍데기 가장자리 전경·입구와 머리 후경의 실제 뒤옆 기하로 바뀜. 아래 왼쪽으로 모여 바닥을 살피는 촉수의 좁은 투영과 접촉 배열도 큰 수평 부채/떠 있는 정면 모음과 차이가 있음.",
+        "visualLimitations": "후면 가림으로 원측 눈·나선 대부분·깔때기·전체 촉수 수는 확인 불가. 위 패각 여백 약 3%로 좁으나 잘리지 않음. 갑각류 종·실제 섭식 성공은 확정하지 않음. 껍데기 위 여백 약3%로 좁지만 전체 윤곽은 잘리지 않음. 대부분 나선 옆면·원측 눈·머리 밑 깔때기·다수 촉수 근부/총수는 가려져 미확인. 껍데기/촉수 미세 동정·갑각류 종·섭식 성공을 확정하지 않음. v1은 선정 대상이 아니며 이번 독립 판정은 v2에만 적용."
       },
       {
         "id": "chambered-nautilus",
@@ -6015,45 +6071,46 @@ export const animals = [
       },
       {
         "id": "lions-mane-jellyfish",
-        "src": "assets/images/lions-mane-jellyfish-chatgpt-feeding-v1.png",
+        "src": "assets/images/lions-mane-jellyfish-chatgpt-feeding-round2-pose-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "사자갈기해파리 · 작은 플랑크톤과의 만남",
+        "caption": "사자갈기해파리 · 아래에서 본 주름진 입팔과 먹이 촉수",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "실제 원본에서 붉은 갈색 우산·갈래진 엽상 가장자리·주변의 길고 가는 촉수 다발·중앙의 넓고 주름진 구강팔을 구분. 주된 끝은 프레임 안.",
+        "identityCheck": "붉은 단일 우산의 아랫면, 중앙의 두껍고 주름진 구강팔과 가장자리의 매우 가는 긴 촉수 커튼을 원본으로 확인했다. 촉수와 구강팔은 우산 아래에서 이어지고, 말굽형 생식소나 판데아형 단순 긴 구병으로 혼합하지 않았다. MarLIN의 아랫면 입·주름진 구강팔·8개 촉수 묶음 기준과 대조했다.",
         "generationPrompts": [
-          "Use case: scientific-educational. Exactly ONE landscape 3:2 natural-history painterly-realism illustration for Sea Atlas, friendly and accurate for children aged 5–12, not a photograph. Show one whole Cyanea capillata lion's mane jellyfish in calm cool coastal open water. A tawny amber-red shallow saucer-shaped translucent bell with a thicker center and much thinner scalloped rim, arranged as eight PAIRS of marginal lobes, 16 lobes in total. Many VERY FINE long hair-like pale amber tentacles originate in EIGHT clustered bands near the underside of the rim, not one uniform ring or eight thick octopus arms. FOUR broad heavily folded reddish-brown frilly oral arms form a central curtain beneath the bell, much broader and shorter than the thin marginal tentacles. Keep these two types of appendage visibly different; oral-arm bases and far-side tentacle clusters may be naturally hidden. Bell is not a smooth tall mushroom, no eyes, face, fins, teeth, moon-jelly four circles or neon glow. This is a moderate-size individual with naturally curved trailing tentacles, not a record-size specimen. Every visible tentacle tip and entire bell/central oral-arm curtain must remain inside the canvas, with generous empty margins. No cropping, text, arrows, labels, collage, cutaway, person, blood, injury, horror, tropical coral, ice, seafloor, aquarium or human props. Soft underwater daylight and subtle explanatory fill, amber against blue-green water.\nComposition: whole-animal side view in blue-green near-surface water. The central folded oral arms are readable while long very fine clustered tentacles curve gently through the surrounding water, their complete tips inside the image. Place THREE tiny translucent copepod/amphipod-like planktonic crustaceans near but visibly separated from the fine tentacles, extremely small relative to the bell, with no magnified foreground shrimp. Show calm encounter/exploration only: no prey pierced, trapped, paralyzed, swallowed, bleeding or captured. Keep all fine tips and small prey bodies within generous margins. This is feeding-context reconstruction, not proof of a successful sting."
+          "Use case: scientific-educational. Exactly ONE landscape 3:2 natural-history painterly-realism illustration for Sea Atlas, friendly and accurate for children aged 5–12, not a photograph. Show one whole Cyanea capillata lion's mane jellyfish in calm cool coastal open water. A tawny amber-red shallow saucer-shaped translucent bell with a thicker center and much thinner scalloped rim, arranged as eight PAIRS of marginal lobes, 16 lobes in total. Many VERY FINE long hair-like pale amber tentacles originate in EIGHT clustered bands near the underside of the rim, not one uniform ring or eight thick octopus arms. FOUR broad heavily folded reddish-brown frilly oral arms form a central curtain beneath the bell, much broader and shorter than the thin marginal tentacles. Keep these two types of appendage visibly different; oral-arm bases and far-side tentacle clusters may be naturally hidden. Bell is not a smooth tall mushroom, no eyes, face, fins, teeth, moon-jelly four circles or neon glow. This is a moderate-size individual with naturally curved trailing tentacles, not a record-size specimen. Every visible tentacle tip and entire bell/central oral-arm curtain must remain inside the canvas, with generous empty margins. No cropping, text, arrows, labels, collage, cutaway, person, blood, injury, horror, tropical coral, ice, seafloor, aquarium or human props. Soft underwater daylight and subtle explanatory fill, amber against blue-green water.\nComposition: unobstructed whole-animal side-three-quarter portrait, bell upper left-of-center, frilly central oral arms immediately below. Long fine tentacles stream diagonally to the right and curve gently back beneath the bell, all ends visible in the frame. Several near-side paired lobes and distinct clustered fine tentacle roots are readable; do not falsely make every hidden root visible. No other animal or food.",
+          "Use case: scientific-educational. Make a completely new single-animal feeding illustration of Cyanea capillata, the lion's mane jellyfish, in the same softly realistic detailed natural-history painting style as the supplied reference. Landscape 3:2. The input is only an identity, anatomy, colour, and style reference. Do not preserve its frontal mushroom-shaped dome, downward hanging frilled arm mass, or rightward trailing tentacle silhouette; no mirroring or rotation of that pose.\nNew viewpoint: look upward directly at the oral underside of the jelly, with a small amount of oblique depth. The underside faces the viewer as a broad round disc, the central mouth and attached folded oral structures in the foreground, and the bell's top mostly concealed behind it. This must be visibly different from looking horizontally across the outside dome and from an edge-on swimming view.\nNew body and appendage state: show a relaxed broadly open saucer-like bell. The thick frilled and folded oral arms gather inward around the underside's central mouth instead of forming a long hanging cauliflower column; keep their real folds attached continuously, not a flower of detached petals. The bell margin carries numerous very thin hairlike stinging tentacles in eight discrete connected groups. Each group must arise organically from its part of the underside margin. Arrange the long tentacles in a loose irregular three-dimensional feeding curtain around and below the bell; nearer strands arc gently toward the foreground, distant strands overlap behind, with some gently curled near the oral folds. Every tentacle tip must remain inside the image; do not shorten the animal by cropping.\nA sparse few tiny copepod-like zooplankton remain outside the animal near the outer tentacle curtain. No impaled prey, large shrimp in a mouth, exact witnessed feeding-event claim, gore, or anatomical cutaway.\nKeep the species' amber to reddish brown bell, thick brown-red frilled oral structures, and pale golden hairlike tentacles. Soft blue open water, no text, arrows, labels, inset, border, collage, or watermark. Prioritize the true upward oral-disc viewpoint and inward folded arm state as two obvious differences from the reference."
         ],
-        "generatedAt": "2026-10-03T19:27:17.679Z",
-        "checkedAt": "2026-10-04",
-        "sha256": "c93ae53f8030cfb84599a623d9727695b7caaeae7eb3dcf54245638982fa0930",
+        "generatedAt": "2026-10-10T18:22:06.047Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "9890bf89d70e6c031d2e3bc334e16644c0c7bb1e76ac79768708e4186842029f",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "작은 동물플랑크톤을 만나는 먹이 맥락 재구성. 자포 발사·마비·촉수 접촉·먹이의 종·포획이나 삼킴 성공은 확인 불가.",
+        "behaviorCheck": "MarLIN은 우산 아래의 두껍고 주름진 구강팔과 8그룹의 가는 촉수를 설명하며 MBA는 작은 갑각류 등 식성을 설명한다. 특정 먹이 포획이나 구강팔의 실제 전달 순간을 확정하지 않는 교육 재구성.",
         "behaviorSources": [
           {
             "title": "MarLIN — Cyanea capillata",
-            "url": "https://www.marlin.ac.uk/species/detail/2090"
-          },
-          {
-            "title": "Oregon Coast Aquarium — Lion's Mane Jellyfish",
-            "url": "https://aquarium.org/animals/lions-mane-jellyfish/"
+            "url": "https://www.marlin.ac.uk/species/detail/2090",
+            "readAt": "2026-10-11",
+            "evidence": "아랫면 입과 두껍고 접힌 구강팔; 우산 가장자리에 8그룹의 가는 촉수."
           },
           {
             "title": "Monterey Bay Aquarium — Lion's mane jelly",
-            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/lions-mane-jelly"
-          },
-          {
-            "title": "Naturalis — Cyanea capillata, morphology",
-            "url": "https://ns-zooplankton.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/nsr_taxon.php?cat=TAB_DESCRIPTION&id=131585"
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/lions-mane-jelly",
+            "readAt": "2026-10-11",
+            "evidence": "작은 갑각류, 동물플랑크톤 등이 먹이."
           }
-        ]
+        ],
+        "viewpoint": "우산의 입쪽 아랫면을 올려다보는 낮은 정면 사선",
+        "pose": "중앙으로 접힌 구강팔 주름과 좌우·앞뒤로 퍼진 촉수 커튼",
+        "poseVariationCheck": "기존 대표·먹이는 둥근 우산 바깥 윗면과 아래로 길게 늘어진 구강팔을, round1 생태는 옆으로 세운 우산과 뒤로 흐르는 팔을 보였다. 새 그림은 낮은 정면 사선으로 입쪽 아랫면을 보며 구강팔이 짧게 중앙에 모이고 촉수가 앞뒤·좌우로 퍼진다. 실제 카메라 면과 구강팔/촉수 배열 두 축이 달라졌다.",
+        "visualLimitations": "완전 축 정면보다 낮은 사선이고 팔은 일부 아래로도 늘어짐. 촉수 8그룹과 개별 전체 개수는 중첩으로 확인 불가. 실제 먹이 운반이나 사건은 확정하지 않음. 촘촘한 촉수 뿌리 8묶음과 4구강팔 전체를 겹침 없이 계수하지 못한다. 왼쪽·아랫쪽 미세 촉수 끝의 여백이 좁아 모든 가는 실 끝의 완전 포함은 확인 불가하나, 주요 우산·구강팔은 잘리지 않았다. 먹이 접촉이나 섭식 성공은 보이지 않는다."
       },
       {
         "id": "lions-mane-jellyfish",
@@ -6164,45 +6221,42 @@ export const animals = [
       },
       {
         "id": "giant-clam",
-        "src": "assets/images/giant-clam-chatgpt-feeding-v1.png",
+        "src": "assets/images/giant-clam-chatgpt-feeding-mantle-detail-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "대왕조개 · 물속의 작은 먹이를 거르기",
+        "caption": "대왕조개 · 외투막과 물을 들이는 틈 가까이 보기",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "실제 원본에서 두꺼운 깊은 방사 주름 패각의 앞/뒤 경계·황갈 외투막과 청록 작은 고리·매끈한 낮은 입수 구멍·높은 출수관을 확인. 주된 전신 끝이 화면 안.",
+        "identityCheck": "노란 갈색 외투막의 작은 청록 고리, 깊은 방사 주름의 두꺼운 보이는 패각 부분, 매끈한 긴 입수 틈과 별도의 작은 원뿔 출수관을 원본 크기로 확인했다. 출수관 기부는 외투막 조직에 이어져 있고 분리된 관·이빨·거대 입은 없다. NOAA T. gigas 외형 기준과 대조했으며 MBA의 Tridacna sp. 먹이 설명은 속 수준 근거로만 사용했다.",
         "generationPrompts": [
-          "Use case: scientific-educational. Create exactly ONE original Sea Atlas landscape 3:2 illustration, natural-history painterly realism for children aged 5–12, calm and anatomically careful. Subject: one living adult Tridacna gigas TRUE giant clam, not T. derasa, T. squamosa, T. maxima or Hippopus. TWO thick heavy off-white matching shell valves stay physically connected at a single basal hinge, upright on a sandy coral-reef patch. Each valve has about FIVE broad deep radial folds (within the species' 4–6 range), giving the upper shell margins long rounded triangular projections. No leafy scutes, large scales or spikes on the adult shell, no predatory teeth. One continuous thick olive-yellow-brown fleshy mantle spreads over both upper margins, with small restrained blue-green rings, especially at the edge; natural fleshy undulating folds, not a pair of eyes. Show ONE elongated low incurrent opening in the mantle with a SMOOTH margin and NO guard tentacles, and ONE smaller gently raised conical round excurrent siphon, in their natural positions on the same connected mantle. They are two DIFFERENT openings, not mouths, noses or cartoon eyes. The hinge and shell bases may be partly hidden by sand but both shell halves and all outer margins are clearly traceable. Adult rests freely with its weight, not buried entirely in a coral boulder, not attached with visible ropes. No exposed internal gills, cartoon algae, cutaway or illustrated glowing cells. Clear shallow tropical reef water with gentle natural daylight. Entire clam and both valve tips inside canvas with generous margins. No person, text, labels, arrows, collage, bleeding, wound, horror, capture, giant teeth or anthropomorphic smile.\nComposition: full clam in a more elevated view while open in calm sunlit water. Very subtle tiny suspended natural particles near the smooth low incurrent opening establish a suspension-feeding context; particles are sparse specks, NOT oversized shrimp, fish or drawings of bacteria. Keep the distinct raised excurrent cone and two shell valves visible. No dramatic jet, glowing flow streak, mouth eating or swallowing. Do not show symbiotic algae as visible plants on top of the mantle: algae are microscopic within its tissues and their nutrition cannot be seen directly. Depict plausible feeding context only, not measured water direction, filtration or photosynthetic success."
+          "Use case: scientific-educational. Create exactly ONE original Sea Atlas landscape 3:2 illustration, natural-history painterly realism for children aged 5–12, calm and anatomically careful. Subject: one living adult Tridacna gigas TRUE giant clam, not T. derasa, T. squamosa, T. maxima or Hippopus. TWO thick heavy off-white matching shell valves stay physically connected at a single basal hinge, upright on a sandy coral-reef patch. Each valve has about FIVE broad deep radial folds (within the species' 4–6 range), giving the upper shell margins long rounded triangular projections. No leafy scutes, large scales or spikes on the adult shell, no predatory teeth. One continuous thick olive-yellow-brown fleshy mantle spreads over both upper margins, with small restrained blue-green rings, especially at the edge; natural fleshy undulating folds, not a pair of eyes. Show ONE elongated low incurrent opening in the mantle with a SMOOTH margin and NO guard tentacles, and ONE smaller gently raised conical round excurrent siphon, in their natural positions on the same connected mantle. They are two DIFFERENT openings, not mouths, noses or cartoon eyes. The hinge and shell bases may be partly hidden by sand but both shell halves and all outer margins are clearly traceable. Adult rests freely with its weight, not buried entirely in a coral boulder, not attached with visible ropes. No exposed internal gills, cartoon algae, cutaway or illustrated glowing cells. Clear shallow tropical reef water with gentle natural daylight. Entire clam and both valve tips inside canvas with generous margins. No person, text, labels, arrows, collage, bleeding, wound, horror, capture, giant teeth or anthropomorphic smile.\nComposition: full clam in a more elevated view while open in calm sunlit water. Very subtle tiny suspended natural particles near the smooth low incurrent opening establish a suspension-feeding context; particles are sparse specks, NOT oversized shrimp, fish or drawings of bacteria. Keep the distinct raised excurrent cone and two shell valves visible. No dramatic jet, glowing flow streak, mouth eating or swallowing. Do not show symbiotic algae as visible plants on top of the mantle: algae are microscopic within its tissues and their nutrition cannot be seen directly. Depict plausible feeding context only, not measured water direction, filtration or photosynthetic success.",
+          "Use case: scientific-educational. Asset: Sea Atlas original natural-history painted illustration for ages 5–12, one landscape 3:2 image. Input is the old Tridacna gigas illustration, an identity and style reference only; rebuild the composition, do not rotate, mirror, crop or paste its original silhouette. NEW COMPOSITION: a deliberate MACRO observation of the mantle and two natural water openings from LOW FRONT-OBLIQUE at mantle height, rather than the original complete elevated shell portrait or the existing overhead partly retracted shell. The broad yellow-brown/olive mantle with small blue-green rings fills the middle, soft folded tissue is fully extended over a few thick smooth weathered shell folds along the bottom. One elongated smooth-edged inhalant slit in the near central tissue and one separate small conical exhalant tube farther back, naturally connected to the continuous mantle, not giant gaping mouths or detached tubes. Keep the natural shell rigid and stationary on the shallow reef. The outer shell may extend outside the macro observation frame by design, but both openings and their connecting mantle are fully visible with comfortable margins. Tiny faint suspended plankton-like specks provide filtration context, no arrows, jets, predators, hands, people or visible swallowing. Subtle clear blue water and softly blurred reef behind, natural museum-quality texture, no text, labels, frames, watermarks, fantasy, giant particles, teeth, exaggerated suction or internal cutaway. This is a scientific close observation, not a pose cloned from the old image."
         ],
-        "generatedAt": "2026-10-03T19:34:20.004Z",
-        "checkedAt": "2026-10-04",
-        "sha256": "015a6e97e4f12a847af6ac240e319eacdd19b6d80bc73d5bf49c3a82582a2dc1",
+        "generatedAt": "2026-10-10T18:13:47.561Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "5d1a408448092ee8b102d7006d95c7540009d755cd5e6319efb6908e264ba7ea",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 요청은 generationPrompts에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "작은 부유 입자와 열린 조개의 여과 먹이 맥락 재구성. 실제 물 흐름 방향·입자의 종·여과율·공생 조류의 영양 생산은 외부 그림에서 확인 불가.",
+        "behaviorCheck": "물속 작은 부유 입자를 걸러 얻는 영양의 교육 재구성. 외투막과 자연스러운 물 입출구의 접사이며 실제 물 흐름 방향·여과율·섭식 성공은 확정하지 않음.",
         "behaviorSources": [
+          {
+            "title": "Monterey Bay Aquarium — Giant clam diet",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/giant-clam"
+          },
           {
             "title": "NOAA Fisheries — True Giant Clam",
             "url": "https://www.fisheries.noaa.gov/species/true-giant-clam"
-          },
-          {
-            "title": "NOAA 2024 source text — Tridacna gigas morphology",
-            "url": "https://public-inspection.federalregister.gov/2024-14970.pdf"
-          },
-          {
-            "title": "Hernawan 2012 — Taxonomy of Indonesian giant clams",
-            "url": "https://smujo.id/biodiv/article/download/184/190"
-          },
-          {
-            "title": "Soo & Todd 2014 — The behaviour of giant clams",
-            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4231208/"
           }
-        ]
+        ],
+        "viewpoint": "외투막 높이의 낮은 앞 사선 접사",
+        "pose": "단단한 패각은 고정하고 넓게 펼친 외투막과 긴 입수 틈, 작은 출수관을 가까이 관찰",
+        "poseVariationCheck": "baseline 대표·먹이의 높은 앞사선 전신과 달리 외투막 높이의 낮은 앞사선 접사여서 두 입출수구와 펼친 외투막의 주름이 중심이 된다. round1 생태의 위에서 본 좁게 오므린 패각·외투막과도 시점, 확대 범위, 조직 펼침 상태가 모두 다르다. 단단한 고착성 조개를 무리하게 움직이지 않은 관찰 장면이다.",
+        "visualLimitations": "의도된 접사로 전체 패각과 기저부는 화면 밖이며 전체 패각 주름 수는 확인하지 않음. 미세 입자의 정체·물 흐름·여과율·실제 공생 영양은 확인 불가. 의도된 외투막 접사로 양쪽 바깥 패각과 전체 전신은 프레임 밖이다. 전체 패각 계수·연령·몸 크기·세부 종 동정을 이 접사만으로 확정하지 않는다. 두 구멍과 연결 조직은 잘리지 않았고 물 흐름 방향·공생 조류·여과율·섭식 성공은 외부 그림으로 확인되지 않는다."
       },
       {
         "id": "giant-clam",
@@ -6322,34 +6376,39 @@ export const animals = [
       },
       {
         "id": "scaly-foot-snail",
-        "src": "assets/images/scaly-foot-snail-chatgpt-feeding-v1.png",
+        "src": "assets/images/scaly-foot-snail-chatgpt-feeding-front-foot-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "비늘발고둥 · 공생 세균 덕분에 살아가는 열수구 곁",
+        "caption": "비늘발고둥 · 앞에서 본 열수구의 공생 영양 환경",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "원본에서 연결된 전신과 두 촉수를 확인. 식물·먹이·사냥을 넣지 않고 공생 영양이 가능한 열수구 주변 서식환경을 표현했다. 세균은 외부에서 보이지 않는다.",
+        "identityCheck": "낮은 나선 껍데기 하나와 머리·발의 연결, 머리의 가는 두 촉수, 발 양쪽에 겹쳐진 어두운 비늘판을 원본으로 확인했다. 판은 머리·촉수가 아닌 발에 놓였으며 JAMSTEC가 설명하는 발의 피부 비늘과 대조했다. 먹이·그림 속 세균·외부 영양 섭취는 꾸며 넣지 않았다.",
         "generationPrompts": [
           "Use case: scientific-educational. Create one detailed natural-history illustration for a Korean marine atlas for ages 5–12, landscape 3:2, one uncropped full-body living scaly-foot snail Chrysomallon squamiferum from the black-sclerite Kairei hydrothermal-vent population in the Indian Ocean. Low front-side three-quarter view on a small mineral-encrusted rock, animal fills about 65% of frame. Anatomically precise gastropod: low brown coiled spiral shell sitting continuously on the mantle and broad muscular foot; many overlapping small dark mineralized scales/sclerites covering the sides of the foot, which is visibly connected to the snail rather than detached plates. A natural head with two simple cephalic tentacles, no cartoon face, no antenna forest, no huge eyes. Show the whole shell, foot and tentacle tips in frame. Restrained gray-black sclerites and brown shell, no chrome-metal armor and no gold armor. Deep ocean background in navy-black, neutral soft expedition-style illumination for anatomical clarity, no sunlight, no lava, no red volcanic glow, no bubbles boiling around the animal. Realistic painted natural-history museum illustration, accessible but not toy-like, subtle skin and mineral texture. This is an educational reconstruction, not a photograph. No labels, text, arrows, watermark, scale bar or montage.",
-          "Use case: scientific-educational. Generate a new single natural-history marine-atlas illustration, landscape 3:2, based on the supplied reference only for the anatomy and colors of the Kairei black-sclerite scaly-foot snail Chrysomallon squamiferum; it is a supporting identity reference, not an edit target. Scene: one full-body living snail seen in clear low lateral profile, moving slowly across mineral-encrusted rock beside a distant hydrothermal vent at about 2.5 km depth in the Indian Ocean. Its coiled brown shell, broad dark muscular foot covered on its sides by overlapping black sclerites, and two natural head tentacles must all be visible and continuously connected. Keep shell scale and sclerite shapes natural; no chrome fantasy armor. The mineral surface and diffuse distant warm-water plume provide the context for its sulfur-oxidizing bacterial symbiosis: the bacteria live internally, are invisible in this intact external view, and do not glow. The snail receives nutrition from its symbionts rather than hunting visible prey or grazing plants, so no fish, shrimp, leaves or food in its mouth. The plume is far behind the snail, no boiling bubbles, no lava, no searing direct plume contact. Neutral gentle expedition-style fill light in dark blue-black water; no sunlight. Zoom out enough to leave margin around the entire animal and retain the near rocks, with a different composition from the reference. Detailed realistic painted museum illustration suitable for ages 5–12, not a photograph. No text, labels, arrows, cutaways, diagram, watermark or collage."
+          "Use case: scientific-educational. Generate a new single natural-history marine-atlas illustration, landscape 3:2, based on the supplied reference only for the anatomy and colors of the Kairei black-sclerite scaly-foot snail Chrysomallon squamiferum; it is a supporting identity reference, not an edit target. Scene: one full-body living snail seen in clear low lateral profile, moving slowly across mineral-encrusted rock beside a distant hydrothermal vent at about 2.5 km depth in the Indian Ocean. Its coiled brown shell, broad dark muscular foot covered on its sides by overlapping black sclerites, and two natural head tentacles must all be visible and continuously connected. Keep shell scale and sclerite shapes natural; no chrome fantasy armor. The mineral surface and diffuse distant warm-water plume provide the context for its sulfur-oxidizing bacterial symbiosis: the bacteria live internally, are invisible in this intact external view, and do not glow. The snail receives nutrition from its symbionts rather than hunting visible prey or grazing plants, so no fish, shrimp, leaves or food in its mouth. The plume is far behind the snail, no boiling bubbles, no lava, no searing direct plume contact. Neutral gentle expedition-style fill light in dark blue-black water; no sunlight. Zoom out enough to leave margin around the entire animal and retain the near rocks, with a different composition from the reference. Detailed realistic painted museum illustration suitable for ages 5–12, not a photograph. No text, labels, arrows, cutaways, diagram, watermark or collage.",
+          "Use case: scientific-educational. Asset: Sea Atlas original natural-history painted illustration for ages 5–12, one landscape 3:2 image. Input old Chrysomallon squamiferum is identity and painterly style reference only. Completely redraw in an unmistakably NEW LOW HEAD-ON view from the rock surface, not the old side-on spiral-shell silhouette, not a flip or flat rotation. One scaly-foot snail resting with its muscular foot spread broadly against a mineral-encrusted black vent rock. The small blunt fleshy head faces the viewer in front, two simple tapering cephalic tentacles extend left and right, the dark brown shell rises and recedes behind the head. Dense overlapping dark iron-sulfide dermal sclerites fringe both sides of the broad foot like natural tiny plates; plates belong to the foot, NOT the head or tentacles. The shell is a low spired gastropod shell with natural whorls, not an extra disconnected spiral. The anterior foot stance and foreshortened shell must be visibly different from the original side portrait and the already existing rear climb scene. Entire snail, shell and both tentacle ends inside generous margins, clear continuous body connections. Diffuse white/gray vent fluid is far behind, cold dark Indian Ocean seafloor and mineral substrate. This represents the habitat of sulfur-oxidising endosymbiotic nutrition, which is invisible externally: NO prey, grazing on food, hunting, eating algae, internal cutaway, arrows, bacteria cartoons or nutrients painted into the mouth. No invented stalked eyes, literal iron boots, claws, dragon horns, text, labels, watermark or fantasy."
         ],
-        "generatedAt": "2026-10-07T11:31:34.718Z",
-        "checkedAt": "2026-10-07",
-        "sha256": "68cda2d9a22c635dec9b2e72201f449ab764cbfb0ba3f7fa72d5de4b412da599",
+        "generatedAt": "2026-10-10T18:14:55.208Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "9dfcbd84d47661d11a1304dd57ecec04477493561f22f5afb3a17c4689737f36",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "공생 영양 방식의 서식환경 교육 재구성; 외부 먹이 섭식이나 사냥을 그리지 않음",
+        "behaviorCheck": "몸속 황 산화 공생 세균을 외부 먹이로 꾸미지 않고 열수구 서식환경을 정면에서 재구성. 실제 공생 영양 전달은 외부 그림에서 확인할 수 없으며 섭식 성공을 주장하지 않음.",
         "behaviorSources": [
           {
-            "title": "JAMSTEC — 비늘발고둥의 열수구 공생 영양",
-            "url": "https://www.jamstec.go.jp/e/about/press_release/20260212/"
+            "title": "JAMSTEC2020 — Scaly-foot Snail genome and sulfur-oxidising symbionts",
+            "url": "https://www.jamstec.go.jp/e/about/press_release/20200408/"
           }
-        ]
+        ],
+        "viewpoint": "바위 높이에서 보는 낮은 정면",
+        "pose": "비늘 달린 발을 넓게 바위에 붙이고 두 촉수를 벌린 정면 자세, 껍데기는 몸 뒤로 이어짐",
+        "poseVariationCheck": "baseline 대표·기존 먹이의 넓은 나선 옆면과 head-right 측면 대비 낮은 정면으로 머리와 넓게 접지한 발이 전경이고 껍데기는 그 뒤로 후퇴한다. round1 생태의 뒤위 오르기와도 시선·앞발 노출 면·촉수 벌림 및 몸 방향이 다르다.",
+        "visualLimitations": "뒤쪽 발과 반대 패각 면은 가려짐. 촉수의 미세 조직이나 비늘 재료는 그림에서 판정하지 않으며 몸속 공생 영양 전달은 확인할 수 없음. 후면 나선의 전체 회전 수와 발 밑 구조는 가려져 계수하지 못한다. 촉수 끝의 작은 어두운 음영을 실제 눈이나 구멍으로 동정하지 않는다. 내생 공생 세균과 영양 전달은 그림에서 확인할 수 없으며 황화철 축적량·개체·수심·먹이 성공을 확정하지 않는다. 껍데기와 촉수 끝은 프레임 안이다."
       },
       {
         "id": "scaly-foot-snail",
@@ -6741,33 +6800,40 @@ export const animals = [
       },
       {
         "id": "red-paper-lantern-jelly",
-        "src": "assets/images/red-paper-lantern-jelly-chatgpt-feeding-v1.png",
+        "src": "assets/images/red-paper-lantern-jelly-chatgpt-feeding-round2-pose-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "붉은종이초롱해파리 · 작은 갑각류 먹이와 촉수",
+        "caption": "붉은종이초롱해파리 · 아래에서 본 접힌 우산과 말린 촉수",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "높은 붉은 우산·가는 가장자리 촉수 연결과 전신이 유지됨. 몸 밖의 작은 크릴/요각류형 먹이와 촉수 끝의 근접/접촉은 수족관이 제시한 크릴·요각류 식단과 부합하며 조직 속 먹이 또는 고어 없음.",
+        "identityCheck": "붉은 내부를 가진 단일 투명한 주름 우산과 중앙 구병, 우산 가장자리에서 이어지는 가는 촉수를 원본으로 확인했다. 낮은 입쪽 시점으로 우산의 개구부와 안쪽 주름이 보이며, 촉수에는 불규칙하게 말린 고리와 앞뒤 겹침이 있다. MBA Pandea rubra의 박동하며 접히는 높은 우산·작은 갑각류 식성 자료와 대조했다.",
         "generationPrompts": [
-          "ONE landscape 3:2 finished realistic painterly scientific marine natural-history illustration, suitable for ages 5–12, no text, labels, frames, montage, split panels, logos or watermark. A single complete red paper lantern jelly Pandea rubra seen in a gentle diagonal SIDE view, its tall lantern-shaped natural deep-red bell placed at upper right and numerous THIN red marginal tentacles drifting toward the lower left. The entire jelly and every long tentacle tip are inside the frame with open-water margins. The translucent bell has strong vertical folded pleats and red internal muscle ribs, a rounded top and softly narrowed opening, with one simple small attached central mouth organ; no broad oral ribbon arms, no ctenophore comb rows, no neon patterns. A food encounter with only THREE much smaller realistic crustacean plankton: a tiny slender krill and two small copepods float close to the outward tentacle ends. The krill sits gently against ONE tentacle near its tip, with clear connected eye, antennae and tail; the other plankton are separate and freely floating. This reconstructs the jelly's known krill-and-copepod diet and is bloodless, calm, without injured prey or an open gory mouth. One thin tentacle touches a small prey naturally, not a tentacle knot or a net, and no object appears inside the bell. Deep dark navy midwater background with sparse particles, neutral soft observation light makes red tissue visible without self-emitted glow. Include the full tall red bell, all attached tentacles, intact curled tips and small prey."
+          "Create ONE landscape 3:2 finished image for a Korean children's marine natural-history atlas. A single complete red paper lantern jelly Pandea rubra in dark deep open seawater, realistic detailed painterly scientific illustration, clear anatomy, calm observation illumination, rich natural colors, suitable for ages 5–12. Show the animal in a clean slightly low three-quarter frontal portrait, entirely in frame. Its tall translucent deep-red bell resembles a paper lantern: a rounded upper dome narrows softly toward the opening below, with conspicuous VERTICAL folded ribs of red tissue and darker red muscle strands, not a flat saucer or ctenophore sphere. The bell is compact, approximately 7.5 centimeters at maximum, represented without any size labels. Numerous extremely fine naturally dark red tentacles attach continuously in a single ring around the bell margin and trail below and outward in orderly separate long curves; the entire tentacles and tips stay in frame, with a generous dark-water margin. Each tentacle is thin, not a giant thick oral ribbon. A simple central reddish mouth/manubrium remains anatomically attached inside the bell opening. No broad frilly oral arms, no comb rows, no eight neon rainbow stripes, no additional animal bell, no tentacles growing from the top, no disconnected floating filaments. The jelly does not emit neon red light; natural red tissue is softly lit from a neutral distant observation light. Deep navy-black water, few small suspended particles, no sunny shallow reef or sea floor. No text, labels, borders, split panels, collage, logos or watermarks.",
+          "Use case: scientific-educational. Generate a new natural-history feeding illustration of a single Pandea rubra red paper lantern jelly. Landscape 3:2, complete animal and all tentacle ends inside the frame with margin. Use the attached picture only as the species identity, red colour, translucent folded tissue, and realistic painting style reference. Do not copy, rotate, mirror, or slightly tilt that frontal tall-bell posture.\nCamera: look upward along the oral axis from below and slightly off-centre. The lower opening of the bell faces the viewer as a clearly visible broad foreshortened circle; the tall outer side of the bell recedes behind its near lower margin, rather than presenting the entire lantern front. See the continuous attachment of the short central manubrium and the tentacles to the rim in real depth.\nBody and appendage state: the red bell is partway through its natural pulse. The vertical tissue folds are deeper and pulled inward, the near bell rim is gently gathered, and its upper shape is shortened in perspective. Many hair-thin long red marginal tentacles extend as a loose asymmetrical three-dimensional feeding field surrounding the near oral opening. Near strands curve outward toward the viewer and loop back; distant strands extend farther behind the bell. Several near tentacles are partly curled toward the opening, rather than all drifting down and sideways as in the reference. Keep the central mouth/manubrium small and organic, continuously attached to the bell underside. Do not turn it into a flower of giant petals, detached arms, a tube, or an artificial ring.\nA few very small copepod-like prey remain outside the tissues near the tentacles; Pandea rubra is known to eat copepods and krill. This educational encounter does not assert an exact observed capture event. No prey piercing tissue, no gore, no large victim, no extra animal. Deep open-water navy background and subtle light revealing the red tissue, without self-glowing neon lines.\nNo text, arrow, label, collage, border, or watermark. The new upward oral-axis camera with foreshortened bell opening and different inward-folded bell/tentacle field must be unmistakable; keep every tentacle tip within the picture."
         ],
-        "generatedAt": "2026-10-07T11:36:23.674Z",
-        "checkedAt": "2026-10-08",
-        "sha256": "a0b1860dd360d209c6c3f8c3c14c2723a736a2d7102dfdd2867b2813af2d3240",
+        "generatedAt": "2026-10-10T18:25:34.350Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "b921f4bceba5df606bde5df3c247a9eb0b29c3b069cee5bd4dec7533d8b2f96e",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "기관에 적힌 krill/copepod 식단을 근거로 작은 먹이와 촉수 접촉을 재구성. 특정 야생 포획을 촬영한 장면이 아님.",
+        "behaviorCheck": "MBA는 요각류·크릴 식성과 한 번씩 움직일 때 높은 우산이 접히는 행동을 설명한다. 특정 포획 순간을 확정하지 않는 먹이 접근 재구성.",
         "behaviorSources": [
           {
-            "title": "Monterey Bay Aquarium — Red paper lantern jelly, krill and copepods diet",
-            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/red-paper-lantern-jelly"
+            "title": "Monterey Bay Aquarium — Red paper lantern jelly",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/red-paper-lantern-jelly",
+            "readAt": "2026-10-11",
+            "evidence": "요각류·크릴 식성; 박동하며 종이처럼 우산이 접히는 행동."
           }
-        ]
+        ],
+        "viewpoint": "우산의 입쪽 개구부를 올려다보는 낮은 정면 사선; 앞쪽 가장자리가 뒤쪽 조직과 겹침",
+        "pose": "높은 우산 주름이 안쪽으로 모이고, 가는 촉수가 앞뒤·좌우에서 불규칙한 고리로 말림",
+        "poseVariationCheck": "기존 세 컷은 우산의 높은 바깥 면을 보면서 촉수가 아래나 한쪽으로 길게 늘어졌다. 새 컷은 낮은 입쪽 앞사선에서 타원 개구부를 보고, 우산이 짧게 접힌 상태와 촉수가 여러 방향으로 말린 배열이다. 시점과 우산/촉수 상태 두 축을 확인했으며 붉은 조명 차이는 판정 근거로 쓰지 않았다.",
+        "visualLimitations": "팔 근부 및 촉수 뿌리 일부가 겹쳐 전체 촉수 수를 확정하지 못함. 투명 조직 주름을 장기 해부도로 해석하지 않으며 우산의 실제 수축 순간·먹이 전달·포획 성공은 확인 불가. 우산의 4개 방사관·생식소와 모든 촉수 수를 완전 계수하지 못한다. 주된 우산·구병·촉수 끝은 화면 안이나 미세 겹침은 남아 있다. 붉은색은 삽화 조명 아래 표현이며 자발광을 증명하지 않는다. 작은 갑각류가 있다는 것으로 포획·섭식 성공을 단정하지 않는다."
       },
       {
         "id": "red-paper-lantern-jelly",
@@ -6870,33 +6936,40 @@ export const animals = [
       },
       {
         "id": "silky-jelly",
-        "src": "assets/images/silky-jelly-chatgpt-feeding-v1.png",
+        "src": "assets/images/silky-jelly-chatgpt-feeding-round2-pose-v1.png",
         "role": "illustration",
         "reviewStatus": "visual-checked",
-        "caption": "무지개곤봉해파리 · 작은 갑각류 먹이 가까이 촉수 펼치기",
+        "caption": "무지개곤봉해파리 · 위에서 본 쉬는 우산과 말린 촉수",
         "credit": "Sea Atlas · ChatGPT로 제작",
         "generator": "ChatGPT image_gen",
         "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
         "provenanceUrl": "https://openai.com/policies/terms-of-use/",
         "expertReviewed": false,
-        "identityCheck": "투명 우산·방사관·가장자리 촉수 연결이 유지되고 몸 바깥의 작은 요각류형 갑각류가 말린 촉수 가까이에 있다. MBARI의 작은 갑각류 식단/휴식 시 촉수로 먹이 포획 설명과 부합. 조직 속 먹이·확정된 삼킴 없음.",
+        "identityCheck": "투명한 단일 둥근 우산, 짧은 중앙 구병이 우산 너머 보이는 축방향 구도, 가장자리에서 이어져 불규칙하게 말린 촉수를 원본으로 확인했다. 중앙에서 가장자리로 가는 주요 방사 띠는 8방향으로 읽히며 각 띠의 양쪽 경계가 쌍선으로 표현되어 있어, 보이는 밝은 선을 각각 별도 관으로 세지 않았다. Russell 원문 인쇄 436쪽의 8방사관·8선형 생식소·32촉수 기준을 실제 PDF 렌더와 본문으로 대조했다. 외부 조명 아래 촉수의 파란 반사는 MBARI 관측 설명과 양립하며 자발광 촉수로 주장하지 않는다.",
         "generationPrompts": [
-          "ONE 3:2 landscape scientific natural-history illustration for a Korean children's marine atlas, detailed realistic painterly style, no text, labels, frames, panels, collage, logo or watermark. Show ONE complete silky jelly Colobonema sericeum seen from a slightly low oblique SIDE view in dark blue open midwater. A small translucent colorless bell, slightly conical and approximately as high as wide, has no apical spike; inside are eight narrow plain radial canals and a slim central attached tubular mouth organ ending in short simple lips. A single ring of about 32 naturally blue-tinted, slender solid marginal tentacles attaches continuously to the lower bell edge and spreads outward and down, some tips gently coiled and some extended. Every tentacle tip stays INSIDE the frame with generous margins and visible attachment to the bell. Arrange the subject at center-right, gently tilted, leaving room for THREE much smaller copepod-like crustacean plankton in the surrounding water near the tentacle tips. One copepod is at a tentacle's tip while the others float nearby; no internal prey, gore, injured animals or fantasy net. The known crustacean diet supports this modest feeding reconstruction, which is not a documentary photograph of a witnessed hunt. Tentacles show only soft blue reflective coloration under neutral observation illumination, never self-generated blue light or a glowing halo. No ctenophore comb rows, rainbow neon stripes, broad frilly oral arms or detached filaments. Natural cold pelagic atmosphere and sparse suspended particles, without sea floor, shallow coral or surface rays. Anatomical clarity and whole-animal framing are essential."
+          "Create ONE 3:2 landscape finished scientific natural-history marine illustration for children ages 5–12, detailed realistic painterly tissue, calm lighting and clear silhouette. PORTRAIT of a single complete silky jelly Colobonema sericeum in blue-black open midwater. Its SMALL translucent colorless bell is slightly conical, approximately as high as it is wide, with a gently rounded top, no pointed apex. Inside the clear bell are EIGHT thin simple radial canals and a slender attached central tubular manubrium with small plain lips, no elaborate oral ribbons. It naturally has 32 marginal tentacles: represent a single evenly spaced ring of numerous clear blue-tinted slender solid tentacles rooted continuously around the bell's lower edge, no other tentacle roots on the top or sides. At rest the tentacles spread radially out and down, with subtly paddle-shaped portions and loosely coiled intact tips. Show the entire bell and all these tentacle tips inside the frame, generous water margins. Tentacles can look softly blue only because neutral observation illumination is reflected; do NOT add self-emitted blue light, a luminous halo, glowing tentacle tips or eight neon comb stripes. This is a cnidarian medusa, not a rainbow comb jelly, not a large Aurelia saucer and not a reddish Crossota medusa. The animal occupies about 55 percent of frame width including its separated spread-out tentacles. Deep navy water with sparse marine snow and restrained neutral side illumination, no seafloor, coral, surface sunshine, equipment or other animals. No text, labels, border, collage, panels, logos, or watermark.",
+          "Use case: scientific-educational. New illustration of a single Colobonema sericeum silky jelly at rest, waiting for small prey. Detailed translucent realistic natural-history painting for a children's Sea Atlas, landscape 3:2, deep navy open water. The attached image is ONLY a reference for the species identity, anatomy, pale transparent tissue, and painting style. Do not preserve its frontal high-dome posture or downward hanging tentacle skirt, and do not rotate or mirror that picture.\nNew camera: clearly above the animal, looking down almost along the aboral axis at the outside crown of the bell, at about 15 degrees off this axis. The upper bell dome occupies the centre as a near-circular top surface. Its apex is nearest the camera, while the bell margin and its continuously attached tentacle roots recede below around the perimeter. This is a true top-facing surface view rather than a frontal dome or view into the underside; the central manubrium may be faintly visible through the bell in depth, not hanging as a face-on tube.\nNew bell and tentacle state: resting bell is relaxed and broadly open, not the long contracted tube used in escape swimming. Tentacles are spread as an irregular three-dimensional capture field around the rim: closer curled tentacles are foreshortened into compact loose spirals, several distant tentacles form longer coils below, and others curve sideways. Clearly show genuine overlapping depth and unequal natural curves instead of a regular symmetric fan of long downward lines. All tentacles remain unbranched and organically connected at the rim. Retain delicate radial canals within the clear bell; do not give this cnidarian ctenophore comb rows.\nOnly two minute copepod-like animals are near the capture field and remain outside tissue. This is a reconstructed resting feeding opportunity, not a confirmed capture event. No pierced prey, giant prey, gore, or invented organs.\nThe tentacles may appear pale blue because of external illumination; they must NOT emit their own neon blue light or have luminous trailing halos. Leave comfortable margin around the whole bell and every tentacle endpoint. No text, arrow, diagram panel, collage, frame, or watermark. The real top-down viewpoint and irregular deeply curled resting tentacle field must immediately differ from the reference and from a tubular escape pose."
         ],
-        "generatedAt": "2026-10-07T11:41:34.849Z",
-        "checkedAt": "2026-10-08",
-        "sha256": "95201f12b284deaf8aeda97518d6aeddfaf0070dc8984c965ab9daa7610be976",
+        "generatedAt": "2026-10-10T18:27:16.831Z",
+        "checkedAt": "2026-10-11",
+        "sha256": "402acf1e5983c76139e0eae51d34e5589fa55f61e910104f1313ebb837f3c3c2",
         "width": 1536,
         "height": 1024,
-        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "changes": "ChatGPT 원본 PNG를 그대로 복사. 기존의 반복 자세를 새 시점과 몸·부속지 상태로 교체; 원본과 제작·독립 검토 기록은 비공개 작업 폴더에 보존.",
         "sceneType": "feeding",
-        "behaviorCheck": "MBARI의 small crustaceans 식단에 근거한 작은 갑각류와 촉수 근접 재구성. 직접 촬영한 성공 포식이 아님. 촉수의 파란색은 반사.",
+        "behaviorCheck": "MBARI가 관찰한 정지 먹이 탐색 상태는 말린 촉수를 펼치며, 위험 때에는 우산이 관처럼 수축하고 촉수가 곧아진다. 촉수의 푸른색은 외부 조명 반사이며 촉수 자체 발광으로 그리지 않는다. 실제 특정 포획 사건은 확인 불가.",
         "behaviorSources": [
           {
-            "title": "MBARI — Silky jelly diet and reflected tentacle color",
-            "url": "https://www.mbari.org/animal/silky-jelly/"
+            "title": "MBARI — Silky jelly, Colobonema sericeum",
+            "url": "https://www.mbari.org/animal/silky-jelly/",
+            "readAt": "2026-10-11",
+            "evidence": "정지할 때 말린 촉수 펼침; 촉수의 자포로 먹이 포획; 푸른 촉수는 외부 조명에 의해 보임."
           }
-        ]
+        ],
+        "viewpoint": "우산의 바깥 윗면을 거의 축방향 위쪽 사선에서 내려다봄; 중심 구병은 반투명 우산 너머로 보임",
+        "pose": "우산이 둥글게 펼쳐지고 촉수는 가까운 쪽의 짧은 고리와 먼 쪽의 긴 고리로 퍼짐",
+        "poseVariationCheck": "기존 대표·먹이는 높은 우산의 옆면과 아래로 늘어진 촉수, 생태는 길게 수축한 우산과 곧게 늘어난 촉수였다. 새 그림은 우산 바깥 윗면을 거의 축방향으로 보는 둥근 단축 구도이고, 촉수는 가까운 짧은 고리와 먼 긴 고리로 여러 방향에 펼쳐진다. 실제 시점과 우산/촉수 상태 두 축이 모두 다르며 단순 회전이나 조명으로 통과시키지 않았다.",
+        "visualLimitations": "처음 입쪽 면이라고 쓴 표현을 정정함: 실제는 위쪽 축 시점에 가깝고 중앙 입 영역이 반투명 우산 너머 보임. 우산 양면을 이 그림 하나로 해부학적으로 판별했다고 주장하지 않음. 원측 촉수 근부·전체 관과 촉수 수는 가림/중첩 때문에 확정 불가. 푸른 촉수는 외부 빛 반사이며 자체 발광·실제 포획을 확정하지 않음. 반투명 우산의 앞뒤 조직이 겹쳐 방사 띠의 세부 생식소·관 경계를 모두 해부학적으로 분리 확인하지 못한다. 모든 32촉수 뿌리에서 끝까지의 전수 계수와 중앙 입술 4개는 가림·중첩으로 확인 불가하다. 주요 우산과 촉수 끝은 프레임 안이며 미세 색광은 외부 조명에 대한 삽화 표현이다. 작은 요각류와 접촉·포획·섭식 성공은 보이지 않는다."
       },
       {
         "id": "silky-jelly",
