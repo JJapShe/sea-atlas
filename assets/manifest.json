@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-12",
-  "reviewNote": "63개 생물 항목 각3장 이상, 203개 원본 이미지·207개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "reviewNote": "65개 생물 항목 각3장 이상, 211개 원본 이미지·215개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -6494,6 +6494,296 @@
         {
           "title": "Bishop Museum Press — Reef and shore fauna of Hawaii (1977), Ctenophora pp266–267",
           "url": "https://hbs.bpbmwebdata.org/pubs-online/pdf/sp64-1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "slender-snipe-eel",
+      "src": "assets/images/slender-snipe-eel-chatgpt-portrait-female-side-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "도요새장어 · 긴 부리와 실 같은 꼬리",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "긴 위아래 턱, 큰 눈, 작은 가슴지느러미, 몸을 따라 이어지는 낮은 지느러미와 길게 후행하는 꼬리실을 원본에서 확인했다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12, a living slender snipe eel Nemichthys scolopaceus. Extremely LONG, DELICATE, THIN eel body, slightly compressed and tapering into a VERY LONG unbroken threadlike caudal filament; not a thick muscular moray. Dark brown to grey skin, somewhat darker underside, darker anal margin and pectoral tips, smooth SCALELESS surface. Large normal round eyes, no eye lights. Small real PAIRED PECTORAL fins just behind the gill; NO pelvic fins. Dorsal begins above/slightly before pectoral base near the HEAD and continues as a low delicate narrow membrane along the whole tapering body; anal begins far forward near/below the pectoral region and likewise continues posteriorly into the threadlike tail. Fine many thin rays, not thick giant porcupine spines; the tail has NO distinct broad/forked caudal paddle and NO terminal glowing bulb. No chin barbel, long trailing gut, stalk eyes or giant pelican-eel throat pouch. Minute pore rows are subtle, not regular armor/scales, bold belly spots or black transverse bars of another species. Keep the complete eel from jaw tips to the ultimate thread-tail tip and all visible fins inside the frame with broad12% water margins; reduce subject size rather than cropping the filament. Clear enough gentle fill light for fine anatomy in deep blue OPEN MIDWATER, no seafloor, reef, seaweed, text, labels, arrows, diagram panels, measurements, duplicate animals, floating body parts or watermark. This is a source-based educational reconstruction, not a photograph, measured individual, exact observation or professional identification. This is a FEMALE-like long-billed stage: the upper and lower jaws are both long very thin pointed bills, upper only slightly longer; upper tip gently curves UPWARD and lower tip DOWNWARD, so their distal tips naturally separate and do not meet. Tiny backward-curved fine teeth, never enormous dragonfish fangs or teeth sticking like long spikes. No widened spoon/paddle tips and no fleshy lips. The beak's gape ends near the large eye. Scene: ONE whole eel in a true LEFT lateral profile, head/bills left and complete filament tail right. The front body is nearly straight; the long rear filament makes only ONE broad loose shallow arc in the right half, not a tight coil or a tangled knot. Entire thin body about65% of composition width in projection with comfortable water around every terminal tip. Near pectoral gently spread and far fin naturally occluded. Both slender outward-curved bill tips clearly visible; the jaws are not forced fully closed. No prey.",
+        "Use case: precise-object-edit and scientific-educational. Make a minimal anatomy-and-framing correction to this female-like slender snipe eel Nemichthys scolopaceus portrait. Preserve the entire delicate dark-grey/brown extremely slender body, large normal eye, correct pectoral fin behind gill, no pelvic fins, long low connected dorsal/anal membranes and the single uninterrupted very fine thread-tail with its broad loose arc. Preserve the true left lateral camera and painted style. Correct ONLY the two long beaks: the UPPER jaw is slightly LONGER than the lower, its very thin pointed tip extending a little farther LEFT, gently curving anatomically UP. The LOWER jaw's thin pointed terminal third clearly curves DOWNWARD away from the upper jaw; do not make it a straight horizontal rod or curl its tip UP. The two distal beak tips thus separate naturally vertically and cannot close together in this female stage. Tiny recurved teeth remain minute, no giant fangs or thick jaw bone, spoon/paddle tip, throat pouch or luminous organ. Jaw roots remain continuous with the same head. Also modestly reduce/recenter the COMPLETE eel so the upper bill tip at left and the ultimate fine tail tip/right arc have at least8–10% water margins, no body part cropped or erased. Do not thicken the body or shorten/remove the tail. No new prey, diagrams, text or watermark."
+      ],
+      "generatedAt": "2026-10-12T02:05:19.434Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "af3a6cf132e019111c9b02104aadb9dbbf39640d169998c8fe171cd565ddf838",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "slender-snipe-eel",
+      "src": "assets/images/slender-snipe-eel-chatgpt-feeding-front-sweep-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "도요새장어 · 새우를 찾는 긴 턱",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "열린 긴 턱과 큰 눈, 작은 가슴지느러미, 연속된 낮은 지느러미와 꼬리실을 원본에서 확인했다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12, a living slender snipe eel Nemichthys scolopaceus. Extremely LONG, DELICATE, THIN eel body, slightly compressed and tapering into a VERY LONG unbroken threadlike caudal filament; not a thick muscular moray. Dark brown to grey skin, somewhat darker underside, darker anal margin and pectoral tips, smooth SCALELESS surface. Large normal round eyes, no eye lights. Small real PAIRED PECTORAL fins just behind the gill; NO pelvic fins. Dorsal begins above/slightly before pectoral base near the HEAD and continues as a low delicate narrow membrane along the whole tapering body; anal begins far forward near/below the pectoral region and likewise continues posteriorly into the threadlike tail. Fine many thin rays, not thick giant porcupine spines; the tail has NO distinct broad/forked caudal paddle and NO terminal glowing bulb. No chin barbel, long trailing gut, stalk eyes or giant pelican-eel throat pouch. Minute pore rows are subtle, not regular armor/scales, bold belly spots or black transverse bars of another species. Keep the complete eel from jaw tips to the ultimate thread-tail tip and all visible fins inside the frame with broad12% water margins; reduce subject size rather than cropping the filament. Clear enough gentle fill light for fine anatomy in deep blue OPEN MIDWATER, no seafloor, reef, seaweed, text, labels, arrows, diagram panels, measurements, duplicate animals, floating body parts or watermark. This is a source-based educational reconstruction, not a photograph, measured individual, exact observation or professional identification. This is a FEMALE-like long-billed stage: the upper and lower jaws are both long very thin pointed bills, upper only slightly longer; upper tip gently curves UPWARD and lower tip DOWNWARD, so their distal tips naturally separate and do not meet. Tiny backward-curved fine teeth, never enormous dragonfish fangs or teeth sticking like long spikes. No widened spoon/paddle tips and no fleshy lips. The beak's gape ends near the large eye. Scene: ONE whole eel in a true LEFT lateral profile, head/bills left and complete filament tail right. The front body is nearly straight; the long rear filament makes only ONE broad loose shallow arc in the right half, not a tight coil or a tangled knot. Entire thin body about65% of composition width in projection with comfortable water around every terminal tip. Near pectoral gently spread and far fin naturally occluded. Both slender outward-curved bill tips clearly visible; the jaws are not forced fully closed. No prey.",
+        "Use case: precise-object-edit and scientific-educational. Make a minimal anatomy-and-framing correction to this female-like slender snipe eel Nemichthys scolopaceus portrait. Preserve the entire delicate dark-grey/brown extremely slender body, large normal eye, correct pectoral fin behind gill, no pelvic fins, long low connected dorsal/anal membranes and the single uninterrupted very fine thread-tail with its broad loose arc. Preserve the true left lateral camera and painted style. Correct ONLY the two long beaks: the UPPER jaw is slightly LONGER than the lower, its very thin pointed tip extending a little farther LEFT, gently curving anatomically UP. The LOWER jaw's thin pointed terminal third clearly curves DOWNWARD away from the upper jaw; do not make it a straight horizontal rod or curl its tip UP. The two distal beak tips thus separate naturally vertically and cannot close together in this female stage. Tiny recurved teeth remain minute, no giant fangs or thick jaw bone, spoon/paddle tip, throat pouch or luminous organ. Jaw roots remain continuous with the same head. Also modestly reduce/recenter the COMPLETE eel so the upper bill tip at left and the ultimate fine tail tip/right arc have at least8–10% water margins, no body part cropped or erased. Do not thicken the body or shorten/remove the tail. No new prey, diagrams, text or watermark.",
+        "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12, a living slender snipe eel Nemichthys scolopaceus. Extremely LONG, DELICATE, THIN eel body, slightly compressed and tapering into a VERY LONG unbroken threadlike caudal filament; not a thick muscular moray. Dark brown to grey skin, somewhat darker underside, darker anal margin and pectoral tips, smooth SCALELESS surface. Large normal round eyes, no eye lights. Small real PAIRED PECTORAL fins just behind the gill; NO pelvic fins. Dorsal begins above/slightly before pectoral base near the HEAD and continues as a low delicate narrow membrane along the whole tapering body; anal begins far forward near/below the pectoral region and likewise continues posteriorly into the threadlike tail. Fine many thin rays, not thick giant porcupine spines; the tail has NO distinct broad/forked caudal paddle and NO terminal glowing bulb. No chin barbel, long trailing gut, stalk eyes or giant pelican-eel throat pouch. Minute pore rows are subtle, not regular armor/scales, bold belly spots or black transverse bars of another species. Keep the complete eel from jaw tips to the ultimate thread-tail tip and all visible fins inside the frame with broad12% water margins; reduce subject size rather than cropping the filament. Clear enough gentle fill light for fine anatomy in deep blue OPEN MIDWATER, no seafloor, reef, seaweed, text, labels, arrows, diagram panels, measurements, duplicate animals, floating body parts or watermark. This is a source-based educational reconstruction, not a photograph, measured individual, exact observation or professional identification. This is a FEMALE-like long-billed stage: the upper and lower jaws are both long very thin pointed bills, upper only slightly longer; upper tip gently curves UPWARD and lower tip DOWNWARD, so their distal tips naturally separate and do not meet. Tiny backward-curved fine teeth, never enormous dragonfish fangs or teeth sticking like long spikes. No widened spoon/paddle tips and no fleshy lips. The beak's gape ends near the large eye. The input illustration is ONLY a species identity and painted-style reference, never a pose template. Redraw genuinely different three-dimensional camera and body/fin state, not a mirrored or rotated flat eel. Scene: ONE whole female-like eel and ONE small generic shrimp OUTSIDE its mouth. A strong LOW FRONT three-quarter view with near jaws and BOTH normal eyes seen on the head, underside partly visible; long thin body and complete terminal filament recede away into depth toward upper right. Upper bill curves anatomically outward/up and lower outward/down, open only moderately; this is an elongated fine bill, not an enormous broad fanged maw. A real gentle C-turn of the FRONT BODY during prey approach, near small pectoral fanned out and far pectoral foreshortened. Shrimp has long antennae nearby OUTSIDE the separated jaws and no actual hooking, ingestion, wound or success claim. Body must remain extraordinarily slender, the complete filament is readable and safely in frame, no side profile copied diagonally."
+      ],
+      "generatedAt": "2026-10-12T02:07:12.315Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "d611bb918d190b8dded6e3504f0428923a8d925d261bc8f74de9e756c6911c43",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "기관이 설명한 새우/갑각류 식단 및 열린턱 탐색에 근거한 교육 재구성. 특정새우종·포획/더듬이걸림/섭식성공은 확정하지 않으며 새우는조직밖에만.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Slender snipe eel",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/slender-snipe-eel"
+        },
+        {
+          "title": "Museums Victoria / Fishes of Australia — Nemichthys scolopaceus",
+          "url": "https://fishesofaustralia.net.au/home/species/3434"
+        }
+      ]
+    },
+    {
+      "id": "slender-snipe-eel",
+      "src": "assets/images/slender-snipe-eel-chatgpt-ecology-rear-thread-tail-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "도요새장어 · 깊은 물속의 긴 실꼬리",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "멀어진 머리와 큰 눈, S자형의 가는 몸, 양옆 낮은 지느러미 및 긴 꼬리실을 원본에서 확인했다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12, a living slender snipe eel Nemichthys scolopaceus. Extremely LONG, DELICATE, THIN eel body, slightly compressed and tapering into a VERY LONG unbroken threadlike caudal filament; not a thick muscular moray. Dark brown to grey skin, somewhat darker underside, darker anal margin and pectoral tips, smooth SCALELESS surface. Large normal round eyes, no eye lights. Small real PAIRED PECTORAL fins just behind the gill; NO pelvic fins. Dorsal begins above/slightly before pectoral base near the HEAD and continues as a low delicate narrow membrane along the whole tapering body; anal begins far forward near/below the pectoral region and likewise continues posteriorly into the threadlike tail. Fine many thin rays, not thick giant porcupine spines; the tail has NO distinct broad/forked caudal paddle and NO terminal glowing bulb. No chin barbel, long trailing gut, stalk eyes or giant pelican-eel throat pouch. Minute pore rows are subtle, not regular armor/scales, bold belly spots or black transverse bars of another species. Keep the complete eel from jaw tips to the ultimate thread-tail tip and all visible fins inside the frame with broad12% water margins; reduce subject size rather than cropping the filament. Clear enough gentle fill light for fine anatomy in deep blue OPEN MIDWATER, no seafloor, reef, seaweed, text, labels, arrows, diagram panels, measurements, duplicate animals, floating body parts or watermark. This is a source-based educational reconstruction, not a photograph, measured individual, exact observation or professional identification. This is a FEMALE-like long-billed stage: the upper and lower jaws are both long very thin pointed bills, upper only slightly longer; upper tip gently curves UPWARD and lower tip DOWNWARD, so their distal tips naturally separate and do not meet. Tiny backward-curved fine teeth, never enormous dragonfish fangs or teeth sticking like long spikes. No widened spoon/paddle tips and no fleshy lips. The beak's gape ends near the large eye. Scene: ONE whole eel in a true LEFT lateral profile, head/bills left and complete filament tail right. The front body is nearly straight; the long rear filament makes only ONE broad loose shallow arc in the right half, not a tight coil or a tangled knot. Entire thin body about65% of composition width in projection with comfortable water around every terminal tip. Near pectoral gently spread and far fin naturally occluded. Both slender outward-curved bill tips clearly visible; the jaws are not forced fully closed. No prey.",
+        "Use case: precise-object-edit and scientific-educational. Make a minimal anatomy-and-framing correction to this female-like slender snipe eel Nemichthys scolopaceus portrait. Preserve the entire delicate dark-grey/brown extremely slender body, large normal eye, correct pectoral fin behind gill, no pelvic fins, long low connected dorsal/anal membranes and the single uninterrupted very fine thread-tail with its broad loose arc. Preserve the true left lateral camera and painted style. Correct ONLY the two long beaks: the UPPER jaw is slightly LONGER than the lower, its very thin pointed tip extending a little farther LEFT, gently curving anatomically UP. The LOWER jaw's thin pointed terminal third clearly curves DOWNWARD away from the upper jaw; do not make it a straight horizontal rod or curl its tip UP. The two distal beak tips thus separate naturally vertically and cannot close together in this female stage. Tiny recurved teeth remain minute, no giant fangs or thick jaw bone, spoon/paddle tip, throat pouch or luminous organ. Jaw roots remain continuous with the same head. Also modestly reduce/recenter the COMPLETE eel so the upper bill tip at left and the ultimate fine tail tip/right arc have at least8–10% water margins, no body part cropped or erased. Do not thicken the body or shorten/remove the tail. No new prey, diagrams, text or watermark.",
+        "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12, a living slender snipe eel Nemichthys scolopaceus. Extremely LONG, DELICATE, THIN eel body, slightly compressed and tapering into a VERY LONG unbroken threadlike caudal filament; not a thick muscular moray. Dark brown to grey skin, somewhat darker underside, darker anal margin and pectoral tips, smooth SCALELESS surface. Large normal round eyes, no eye lights. Small real PAIRED PECTORAL fins just behind the gill; NO pelvic fins. Dorsal begins above/slightly before pectoral base near the HEAD and continues as a low delicate narrow membrane along the whole tapering body; anal begins far forward near/below the pectoral region and likewise continues posteriorly into the threadlike tail. Fine many thin rays, not thick giant porcupine spines; the tail has NO distinct broad/forked caudal paddle and NO terminal glowing bulb. No chin barbel, long trailing gut, stalk eyes or giant pelican-eel throat pouch. Minute pore rows are subtle, not regular armor/scales, bold belly spots or black transverse bars of another species. Keep the complete eel from jaw tips to the ultimate thread-tail tip and all visible fins inside the frame with broad12% water margins; reduce subject size rather than cropping the filament. Clear enough gentle fill light for fine anatomy in deep blue OPEN MIDWATER, no seafloor, reef, seaweed, text, labels, arrows, diagram panels, measurements, duplicate animals, floating body parts or watermark. This is a source-based educational reconstruction, not a photograph, measured individual, exact observation or professional identification. This is a FEMALE-like long-billed stage: the upper and lower jaws are both long very thin pointed bills, upper only slightly longer; upper tip gently curves UPWARD and lower tip DOWNWARD, so their distal tips naturally separate and do not meet. Tiny backward-curved fine teeth, never enormous dragonfish fangs or teeth sticking like long spikes. No widened spoon/paddle tips and no fleshy lips. The beak's gape ends near the large eye. The input illustration is ONLY a species identity and painted-style reference, never a pose template. Redraw genuinely different three-dimensional camera and body/fin state, not a mirrored or rotated flat eel. Scene: ONE whole eel suspended in open deep midwater, no prey. Strong HIGH REAR three-quarter camera looking FORWARD ALONG its thin back from the tail toward a MUCH SMALLER distant head at upper center. The very long intact THREAD tail lies nearer at lower-left/center in ONE broad open loop, continuously leads through an actual gentle S-bend of the narrow body AWAY into depth, then reaches the small far head and two long bills facing away. Back and fin membrane edge clearly visible; broad side/large eye cheek is mostly hidden on far sides. This is actual tail-near/head-far depth foreshortening, not a diagonal lateral eel. Small pectorals close to flank, contrasting with front feeding fin spread. Keep tail a fine tapering filament with NO broad paddle, no fork, no bulb, no detached cord. Every tip in frame; DO NOT add a second trailing appendage or fictitious gut."
+      ],
+      "generatedAt": "2026-10-12T02:09:08.601Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "d89b776af35560d37de2675968ef025b8895e23f8f4e9ce9704665cff273fa04",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "기관의 심해중층서식·연속핀/실꼬리 구조에 근거한 부유구도. 특정상승/하강·정확수심·시간·속도/도피행동은 주장하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Museums Victoria / Fishes of Australia — Nemichthys scolopaceus",
+          "url": "https://fishesofaustralia.net.au/home/species/3434"
+        },
+        {
+          "title": "FAO / D.G.Smith — Nemichthyidae, printed740–742",
+          "url": "https://www.fao.org/4/y4161e/y4161e09.pdf"
+        },
+        {
+          "title": "FishBase — Nemichthys scolopaceus",
+          "url": "https://www.fishbase.se/summary/Nemichthys-scolopaceus.html"
+        }
+      ]
+    },
+    {
+      "id": "slender-snipe-eel",
+      "src": "assets/images/slender-snipe-eel-chatgpt-mature-short-jaw-v1-root.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "도요새장어 · 턱이 짧아진 성숙 단계",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "가까운 큰 눈, 짧게 벌어진 가는 턱, 작은 가슴지느러미, 연속된 낮은 지느러미와 S자형 몸·꼬리실을 원본에서 확인했다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for the slender snipe eel Nemichthys scolopaceus (도요새장어).\nPrimary request: create a realistic natural-history underwater illustration of a mature male type of slender snipe eel, emphasizing the documented short, tooth-reduced jaws rather than the female-like long bill.\nScene/backdrop: dark blue open ocean at mesopelagic depth, sparse particles, no other fish or prey.\nSubject anatomy: very long extremely thin ribbon-like eel body, a large eye, short blunt jaws with few or no obvious teeth, no pelvic fins, small pectoral fins just behind the head, a low continuous dorsal and anal fin that begins well forward and runs toward a long fine filament tail. The tail must be attached continuously to the body and fully in frame.\nComposition/framing: high front three-quarter view, head toward the viewer but slightly angled, with the narrow body sweeping in an S curve toward the distant attached tail. Entire animal including tail inside frame. This must differ from a side profile, a feeding front view, and a rear-tail view.\nStyle/medium: clear natural-history digital illustration for a Korean children's marine atlas; subtle realistic light, no text or labels.\nConstraints: no cartoon face, no large fangs, no extra fins, no detached tail, no prey or successful feeding claim, no text, watermark, injury or blood. This is a careful educational reconstruction; do not imply exact sex, age, or mating behaviour."
+      ],
+      "generatedAt": "2026-10-12T09:07:41.615Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "61fd7edbf4e0a77a2e322dd2ffa8d65308872c1a3beeeb29abaed8207345a4f7",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "성숙 단계의 짧은 턱을 보여 주는 형태 교육 그림이다. 정확한 성별·연령·번식 행동을 확정하지 않는다.",
+      "behaviorSources": [
+        {
+          "title": "Museums Victoria / Fishes of Australia — Nemichthys scolopaceus",
+          "url": "https://fishesofaustralia.net.au/home/species/3434"
+        },
+        {
+          "title": "FAO / D.G.Smith — Nemichthyidae, printed740–742",
+          "url": "https://www.fao.org/4/y4161e/y4161e09.pdf"
+        },
+        {
+          "title": "Naturalis — Nemichthys scolopaceus diagnosis",
+          "url": "https://fishes-fnam.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?epi=141&id=108865"
+        }
+      ]
+    },
+    {
+      "id": "big-mouth-tunicate",
+      "src": "assets/images/big-mouth-tunicate-chatgpt-portrait-open-front-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "큰입멍게 · 두 입술처럼 열린 큰 입",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "서로 모서리에서 이어지는 위 큰 hood/아래 넓은 lip이 한 개체의 열린 입수구를 형성하고 반투명 본체·굵은 연속 자루·바위에 밀착된 단일기저를 확인했다. 상단뒤 작은 출수관도 같은 몸에 붙으며 눈/치아/보행다리/잎/촉수꽃은 없다.",
+      "generationPrompts": [
+        "Create ONE original landscape 3:2 natural-history gallery illustration for a Korean children's Ocean Atlas (ages 5–12). Refined realistic painterly style, gentle muted colors, credible soft tissue anatomy, calm dark-blue deep water and a gray-brown ROCKY sea floor. No text, labels, arrows, scale bars, diagram panels, collage, borders, people, vehicle, watermark, blood or horror. The whole main animal, both siphons, the entire peduncle and its rock-attached base must be inside the frame with about 8–12% empty-water margins.\n\nSubject: exactly ONE living Megalodicopia hians, the big-mouth predatory tunicate. This is a sessile solitary ASCIDIAN ANIMAL, not a flower, plant, sea anemone, fish, jellyfish or monster. A soft, translucent milky-white to pale gray/cream sack-like body held above the rock by ONE continuously attached, moderately THICK MUSCULAR PEDUNCLE. The peduncle is about half to a little less than the body's height, not a very long thin plant stem. Its posterior terminal base adheres directly to the hard rock. No branching roots, legs, hooves, detached bases, stems with leaves or colony stolons.\n\nSPECIES IDENTITY: the greatly enlarged ORAL/INCURRENT SIPHON comprises TWO OPPOSING BROAD MUSCULAR LIPS or lobes, a large arched dorsal hood and a broad scooped ventral lip; both lobes are continuous with the same body and joined at the two lateral corners. They form ONE cavernous oral hood, not two independent mouths, not six or eight petals, not a circular sea-anemone tentacle crown. Lips have a soft smooth rim with subtle closely spaced curved muscle bands; no teeth, spines, claws, long oral tentacles or sensory eyeballs. At the ANTERO-DORSAL edge of the SAME body, behind/above the large hood, is ONE MUCH SMALLER ATRIAL/EXCURRENT SIPHON: a short distinct slightly upward-directed tube with a small opening attached at its base to the body. If any tiny rim lobes are visible, keep five or six inconspicuous soft notches, not a large second mouth or flower. Large oral hood and small excurrent outlet are separate structures of one individual. The transparent tunic may reveal very faint tissue fibers and a subtle inner branchial-sac outline, NOT a precise cutaway, dense guts, bones, neon, self-luminous organs or hard glass. No external eye, face, tongue, fang, fins or floating tentacles. The rock attachment and upright animal are organic, stable and plausible.\nTHIS REPRESENTATIVE CUT: elevated FRONT-LEFT three-quarter camera, about 25–30 degrees above the rock, showing the interior of the widely OPEN two-lobed oral hood and one side/back of the rounded sack body. The dorsal lip is an arch above and the lower lip a soft wide scoop, with lateral corners physically joined. Show the much smaller excurrent outlet subtly attached to the upper-back/antero-dorsal body, distinguishable from the large hood without turning it into an eye. Whole muscular peduncle almost straight and the one terminal base visibly adhered to a single rock. The body is roughly twice the visible peduncle height; keep the animal about 70% of frame height with generous airless-water space above and around the lips, and visible rock under the base. No other animals or prey. The animal is calmly waiting in current as an observation reconstruction, no water arrows, bubbles, jet or visible cartoon stream. Mouth anatomy remains natural white translucent soft tissue, not a giant threatening jaw."
+      ],
+      "generatedAt": "2026-10-12T02:02:06.716Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "3516df04a9f7a07ce12b737ba1ea8a9c4ad858a98e4e9762a27f4da2a4e0dc1c",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "big-mouth-tunicate",
+      "src": "assets/images/big-mouth-tunicate-chatgpt-feeding-front-partclosing-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "큰입멍게 · 작은 먹이를 모으는 큰 입",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "정면축에서한개의윗hood·아래lip과연속된반투명body/중앙자루/바위기저를확인.작은출수관은상단뒤에붙은동일개체부속관이며큰입과분명히작다.갑각류한마리는입술밖에떨어져있다.",
+      "generationPrompts": [
+        "Create ONE original landscape 3:2 natural-history gallery illustration for a Korean children's Ocean Atlas (ages 5–12). Refined realistic painterly style, gentle muted colors, credible soft tissue anatomy, calm dark-blue deep water and a gray-brown ROCKY sea floor. No text, labels, arrows, scale bars, diagram panels, collage, borders, people, vehicle, watermark, blood or horror. The whole main animal, both siphons, the entire peduncle and its rock-attached base must be inside the frame with about 8–12% empty-water margins.\n\nSubject: exactly ONE living Megalodicopia hians, the big-mouth predatory tunicate. This is a sessile solitary ASCIDIAN ANIMAL, not a flower, plant, sea anemone, fish, jellyfish or monster. A soft, translucent milky-white to pale gray/cream sack-like body held above the rock by ONE continuously attached, moderately THICK MUSCULAR PEDUNCLE. The peduncle is about half to a little less than the body's height, not a very long thin plant stem. Its posterior terminal base adheres directly to the hard rock. No branching roots, legs, hooves, detached bases, stems with leaves or colony stolons.\n\nSPECIES IDENTITY: the greatly enlarged ORAL/INCURRENT SIPHON comprises TWO OPPOSING BROAD MUSCULAR LIPS or lobes, a large arched dorsal hood and a broad scooped ventral lip; both lobes are continuous with the same body and joined at the two lateral corners. They form ONE cavernous oral hood, not two independent mouths, not six or eight petals, not a circular sea-anemone tentacle crown. Lips have a soft smooth rim with subtle closely spaced curved muscle bands; no teeth, spines, claws, long oral tentacles or sensory eyeballs. At the ANTERO-DORSAL edge of the SAME body, behind/above the large hood, is ONE MUCH SMALLER ATRIAL/EXCURRENT SIPHON: a short distinct slightly upward-directed tube with a small opening attached at its base to the body. If any tiny rim lobes are visible, keep five or six inconspicuous soft notches, not a large second mouth or flower. Large oral hood and small excurrent outlet are separate structures of one individual. The transparent tunic may reveal very faint tissue fibers and a subtle inner branchial-sac outline, NOT a precise cutaway, dense guts, bones, neon, self-luminous organs or hard glass. No external eye, face, tongue, fang, fins or floating tentacles. The rock attachment and upright animal are organic, stable and plausible.\nFEEDING-APPROACH CUT: Genuine LOW FRONTAL CAMERA from near the rock, directly facing the oral hood's wide opening, instead of the representative's side/three-quarter profile. Show the TWO opposing broad muscular lips PARTLY CLOSING toward each other, leaving a horizontal-to-oval slit about one quarter of the fully open hood height. The upper hood bends inward/downward and the lower broad scoop bends inward/upward; both remain attached to the same sack and their lateral corners meet without detached pieces. This changes the soft lip state and camera, not just adding prey. A SINGLE TINY drifting crustacean, a restrained small shrimp/copepod-like planktonic animal, is OUTSIDE the lips just in front-left of the gap and clearly separated from the mouth, not inside and not being bitten or swallowed. The illustrated meal organism is generic, not an identified species or measured size. No teeth, fang, predator fish, bloody capture, false lure, whip tentacle or aggressive monster face.\n\nThe much smaller excurrent siphon sits on the upper-back body, partly hidden by the frontal hood; show its short body connection only where genuinely visible, never as a second large round mouth or eyeball. Do not force a false fully exposed backside from this camera. Keep the whole one animal and the entire muscular peduncle and rock base legible, nearly upright, with the nearer two soft lips and their folds foreshortening the body behind. Translucent milky tissue, subtle muscle bands, stable single base on stone. Main animal maximum70% frame height, all top/side/bottom tips within generous margins. Dark canyon water, no sunbeams or arrows. This is an evidence-based educational reconstruction of supported lip-closing capability and small-crustacean feeding, NOT a documented capture event, a claim of successful ingestion, exact closure speed or a precise timed motion phase.",
+        "Use this OWN GENERATED big-mouth tunicate candidate as a species-anatomy/style reference, then redraw the animal from a GENUINELY DIFFERENT THREE-DIMENSIONAL CAMERA. The present animal faces left in a three-quarter view, similar to our representative. Change it to a TRUE DIRECT FRONTAL LOW view, looking straight into the oral-hood axis at body height from slightly below. Do not just mirror, rotate the flat image, move the animal or change the background.\n\nThe animal now faces the VIEWER. Its partly closing two lips form one broad, nearly symmetrical horizontal oval GAP centered over the stalk, with the LEFT and RIGHT lateral corners approximately equal in depth. Hide almost all of the rounded SIDE/BACK sack behind the two lips; do NOT leave a large separate body bulge on the right as the current input does. The upper broad hood and lower broad scooped lip dominate the frontal contour. The top lip curves downward and lower lip upward, leaving a low gap about one quarter of full-open height; interior soft muscles are readable only inside that slit. Keep natural tiny asymmetry rather than an artificial perfect ring. The main body and single muscular stalk align centrally down to the one rock-attached base, with all three spatially continuous.\n\nPreserve correct Megalodicopia hians anatomy: TWO broad oral lips, ONE continuous translucent sack body, ONE thick muscular peduncle with direct rock adhesion, no eyes, teeth, tongue, long tentacles, leaf, petal, forked root or extra body. The small ATRIAL EXCURRENT siphon stays at the SAME upper-back/antero-dorsal site of this animal; from this direct front camera it is largely behind the hood and can be partially occluded. Only a small rim or tube tip may peek behind the upper lip if plausible; do not place a huge round 'eye' or fully exposed second mouth at the front. Do not force invisible far-side structures into view.\n\nKeep the one tiny generic drifting shrimp/copepod-like crustacean just OUTSIDE the frontal gap, clearly separated from the lip at the left edge. No biting, contact or capture success. Preserve gentle white/cream gelatinous tissue, subtle muscle fibers and dark canyon water, no neon or scary monster texture. The complete one tunicate, both broad lip outlines and whole stalk/base must be fully contained; reduce overall animal size if needed to 70–75% image height, leaving 8–12% margin above the animal and visible rock below. No labels, text, arrows, bubbles, sunbeams, panels or copied pixel silhouette."
+      ],
+      "generatedAt": "2026-10-12T02:07:04.859Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "4215afbb0e29ce6ac29b21b3e2f055e8142d83d29db6f97d3600f7a5f074e8a0",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "MBA·NOAA 본종은입안에들어온작은동물때입술닫음을소개하고Okuyama2002장내용물에서작은갑각류/규조류/찌꺼기확인. 부분닫힘과입바깥접근을교육재구성하며정확한유인/먹이종/입접촉·포획성공·동작순서/시간은주장하지않는다.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Megalodicopia hians",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/predatory-tunicate"
+        },
+        {
+          "title": "Okuyama et al. 2002 — feeding and morphology, author-university abstract",
+          "url": "https://u-toyama.elsevierpure.com/en/publications/morphological-studies-on-the-bathyal-ascidian-megalodicopia-hians/"
+        },
+        {
+          "title": "Sanamyan 2024 — Northwestern Pacific ascidians Part2, pp.29–30 Fig19",
+          "url": "https://sanamyan.com/publications/Sanamyan_2024.pdf"
+        },
+        {
+          "title": "NOAA Cordell Bank Taxonomic Guide — Megalodicopia hians, printed65",
+          "url": "https://cordellbank.noaa.gov/science/cb_taxo_guide_final.pdf"
+        },
+        {
+          "title": "MBARI — Megalodicopia spp. general predatory tunicates",
+          "url": "https://www.mbari.org/animal/predatory-tunicate/"
+        }
+      ]
+    },
+    {
+      "id": "big-mouth-tunicate",
+      "src": "assets/images/big-mouth-tunicate-chatgpt-ecology-side-closed-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "큰입멍게 · 입을 접은 옆모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "닫힌 두 큰입술의앞이음새와옆본체/상단작은관/굵은기울어진연속자루/바위기저를확인했다. 입안을해석하거나소화상태로확정하지않았다. 가짜눈·발·분지뿌리·식물잎은없다.",
+      "generationPrompts": [
+        "Create ONE original landscape 3:2 natural-history gallery illustration for a Korean children's Ocean Atlas (ages 5–12). Refined realistic painterly style, gentle muted colors, credible soft tissue anatomy, calm dark-blue deep water and a gray-brown ROCKY sea floor. No text, labels, arrows, scale bars, diagram panels, collage, borders, people, vehicle, watermark, blood or horror. The whole main animal, both siphons, the entire peduncle and its rock-attached base must be inside the frame with about 8–12% empty-water margins.\n\nSubject: exactly ONE living Megalodicopia hians, the big-mouth predatory tunicate. This is a sessile solitary ASCIDIAN ANIMAL, not a flower, plant, sea anemone, fish, jellyfish or monster. A soft, translucent milky-white to pale gray/cream sack-like body held above the rock by ONE continuously attached, moderately THICK MUSCULAR PEDUNCLE. The peduncle is about half to a little less than the body's height, not a very long thin plant stem. Its posterior terminal base adheres directly to the hard rock. No branching roots, legs, hooves, detached bases, stems with leaves or colony stolons.\n\nSPECIES IDENTITY: the greatly enlarged ORAL/INCURRENT SIPHON comprises TWO OPPOSING BROAD MUSCULAR LIPS or lobes, a large arched dorsal hood and a broad scooped ventral lip; both lobes are continuous with the same body and joined at the two lateral corners. They form ONE cavernous oral hood, not two independent mouths, not six or eight petals, not a circular sea-anemone tentacle crown. Lips have a soft smooth rim with subtle closely spaced curved muscle bands; no teeth, spines, claws, long oral tentacles or sensory eyeballs. At the ANTERO-DORSAL edge of the SAME body, behind/above the large hood, is ONE MUCH SMALLER ATRIAL/EXCURRENT SIPHON: a short distinct slightly upward-directed tube with a small opening attached at its base to the body. If any tiny rim lobes are visible, keep five or six inconspicuous soft notches, not a large second mouth or flower. Large oral hood and small excurrent outlet are separate structures of one individual. The transparent tunic may reveal very faint tissue fibers and a subtle inner branchial-sac outline, NOT a precise cutaway, dense guts, bones, neon, self-luminous organs or hard glass. No external eye, face, tongue, fang, fins or floating tentacles. The rock attachment and upright animal are organic, stable and plausible.\nTHIS CUT: a TRUE STRICT SIDE-PROFILE observation at the level of the body, from the animal's RIGHT SIDE, viewing the plane of the oral lips EDGE-ON rather than looking into the hood. The entire thick-stalked tunicate is attached to a single rock, with the outline of its rounded body and the small upper-back excurrent tube legible. The large two oral lips are NOW CLOSED together, not wide open: their soft edges meet in one short slender seam on the anterior side of the rounded sack, with NO dark open cavern, no frontal oval aperture and no teeth. Both lips are real continuous animal tissues joined at the lateral corners. The upper hood folds gently toward the lower scoop so the closed body resembles a naturally rounded ripe-pomegranate shape, not a cartoon laughing face or a clam shell. The lips' edge-on seam faces to LEFT; the back sack lies to RIGHT. Show the same one small short upward excurrent siphon near the antero-dorsal body edge, attached to the sack and MUCH smaller than the now-folded oral hood. Whole moderately thick peduncle has a small natural gentle lean, without articulation, and a compact terminal adhesion base on rock; no forked roots. One organism only, no prey.\n\nThe camera is PURE LATERAL at head/body height, so the mouth interior is NOT visible. This distinguishes it from front-oblique wide-open and direct-front partly closing views. White/gray translucent soft tissue with faint muscle fiber traces, not luminous, no painted vertebrate face. Calm deep water around the full animal, and keep the whole animal only65–70% image height so every lip, short outlet, stalk and rock base remains fully framed. A neutral observational reconstruction of the supported CLOSED hood state, not a claim this particular animal has just eaten, a measured duration of digestion or a response to a specific disturbance. No bubbles, sunbeams, arrows or visible expulsion jet."
+      ],
+      "generatedAt": "2026-10-12T02:09:19.177Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "6cb42f272df64e1087de17e1b4d5d76c01db9fbeb7b3f024b9bfb98d71b93838",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "MBA는먹이를가둔뒤입술이닫힌상태를유지할수있다고설명. 여기서는입을닫은고착개체의일반형태관찰이며특정먹이를이미먹었다거나정확한휴식/소화상태라고단정하지않는다.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Megalodicopia hians",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/predatory-tunicate"
+        },
+        {
+          "title": "Okuyama et al. 2002 — feeding and morphology, author-university abstract",
+          "url": "https://u-toyama.elsevierpure.com/en/publications/morphological-studies-on-the-bathyal-ascidian-megalodicopia-hians/"
+        },
+        {
+          "title": "Sanamyan 2024 — Northwestern Pacific ascidians Part2, pp.29–30 Fig19",
+          "url": "https://sanamyan.com/publications/Sanamyan_2024.pdf"
+        },
+        {
+          "title": "NOAA Cordell Bank Taxonomic Guide — Megalodicopia hians, printed65",
+          "url": "https://cordellbank.noaa.gov/science/cb_taxo_guide_final.pdf"
+        },
+        {
+          "title": "MBARI — Megalodicopia spp. general predatory tunicates",
+          "url": "https://www.mbari.org/animal/predatory-tunicate/"
+        }
+      ]
+    },
+    {
+      "id": "big-mouth-tunicate",
+      "src": "assets/images/big-mouth-tunicate-chatgpt-ecology-rear-stalk-v1-root.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "큰입멍게 · 자루와 작은 출수관을 보는 뒤쪽",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "옆바위벽에기저가붙은굵은자루가동일반투명주머니로연속되고,짧은상단출수관이붙어있다.입쪽두넓은rim은오른쪽원측에일부가려지고뒷몸외면이전경이다.눈/치아/보행다리/잎/촉수꽃/독립둘째몸은없다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for the predatory tunicate Megalodicopia hians (큰입멍게).\nPrimary request: create a realistic, anatomically cautious natural-history underwater illustration of one stationary deep-sea predatory tunicate attached to a rocky vertical wall.\nScene/backdrop: dim blue-grey deep sea, rock wall, sparse suspended particles, no other animal.\nSubject anatomy: a squat pale pink to cream sac-like tunicate with one large forward oral opening formed by two thick rounded lips; a much smaller short upward anterior-dorsal atrial outlet with about five tiny lobes; a single thick muscular stalk attached to the rock, slightly shorter than the body's height. It is an attached tunicate, not a fish, crab, clam, or walking creature.\nComposition/framing: high rear three-quarter angle. The thick stalk and small upper atrial outlet are clear, while the larger two-lipped oral opening is only partly seen around the far side. Show the full body, stalk base and both openings within the frame. This must be clearly different from a front-open portrait and a side closed-mouth view.\nStyle/medium: refined realistic natural-history digital illustration with soft deep-sea light, appropriate for a Korean children's marine atlas.\nConstraints: no text, watermark, bubbles demonstrating active pumping, eyes, teeth, tentacles, legs, joints, shell, coral colony, blood, injury, or prey capture. This is an evidence-based educational reconstruction, not proof of a specific live feeding moment."
+      ],
+      "generatedAt": "2026-10-12T09:05:35.865Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "f597aecc0c306941085fd1c903433c5c4c0359a400f182683e02ae32836f091a",
+      "width": 1312,
+      "height": 1199,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "고착성 개체의 형태를 관찰하는 교육 재구성이다. 먹이 포획·펌프 작동·특정 관찰 시점을 주장하지 않는다.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Megalodicopia hians",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/predatory-tunicate"
+        },
+        {
+          "title": "Sanamyan 2024 — Northwestern Pacific ascidians Part2, pp.29–30 Fig19",
+          "url": "https://sanamyan.com/publications/Sanamyan_2024.pdf"
+        },
+        {
+          "title": "NOAA Cordell Bank Taxonomic Guide — Megalodicopia hians, printed65",
+          "url": "https://cordellbank.noaa.gov/science/cb_taxo_guide_final.pdf"
         }
       ]
     }
