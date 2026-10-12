@@ -55,9 +55,8 @@ function init() {
     }).join("");
   }
   function card(animal) {
-    const image = primaryImage(animal);
     const saved = state.bookmarkIds.includes(animal.id);
-    return `<article class="animal-card"><button type="button" class="bookmark-button" data-bookmark="${animal.id}" aria-label="${escape(animal.name)} 책갈피" aria-pressed="${saved}">${bookmarkIcon}</button><button type="button" class="card-open" data-animal="${animal.id}" aria-label="${escape(animal.name)} 상세 보기"><div class="card-image ${["reference", "illustration"].includes(image?.role) ? "contain" : ""}">${image ? `<img src="${image.src}" alt="${escape(animal.name)} · ${escape(imageKind(image))}" loading="lazy" width="${image.width || 1280}" height="${image.height || 850}"><span class="image-kind">${escape(imageKind(image))}</span>` : '<span class="photo-placeholder">생물 그림을 준비하고 있어요</span>'}${animal.featured ? '<span class="featured-badge">첫 만남</span>' : ""}</div><div class="card-body"><p class="card-topline">${escape(animal.group)}</p><h3>${escape(animal.name)}</h3><p class="scientific-name" lang="la">${escape(animal.scientificName)}</p><p class="card-summary">${escape(animal.summary)}</p><div class="card-bottom">${animal.habitatIds.slice(0, 2).map((id) => `<span>${escape(habitats.find((h) => h.id === id).name)}</span>`).join("")}<span class="card-arrow" aria-hidden="true">↗</span></div></div></button></article>`;
+    return `<article class="animal-card animal-name-card"><button type="button" class="bookmark-button" data-bookmark="${animal.id}" aria-label="${escape(animal.name)} 책갈피" aria-pressed="${saved}">${bookmarkIcon}</button><button type="button" class="card-open" data-animal="${animal.id}" aria-label="${escape(animal.name)} 상세 보기"><span class="card-topline">${escape(animal.group)}</span><strong>${escape(animal.name)}</strong><span class="card-arrow" aria-hidden="true">↗</span></button></article>`;
   }
   function renderCatalog() {
     const visible = filterAnimals(animals, state);
