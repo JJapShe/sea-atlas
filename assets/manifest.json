@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-11",
-  "reviewNote": "57개 생물 각3장 이상, 179개 원본 이미지·183개 갤러리 항목. 반복 자세 15장 교체, 부모 및 독립 육안 점검, 전문가 감수 전.",
+  "checkedAt": "2026-10-12",
+  "reviewNote": "60개 생물 항목 각3장 이상, 191개 원본 이미지·195개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -5674,6 +5674,410 @@
       "pose": "곧은 주머니 몸의 입이 좁은 타원형으로 조금 벌어진 상태, 빗판 유영 재구성",
       "poseVariationCheck": "기존 시트12의 긴 옆몸과 넓은 먹이입/닫힌 입에서 입축 쪽 사선으로 입이 가까워지고 몸이 짧아지는 원근이 됨. 입은 작고 좁게 조금 열린 상태로 기존 두 입 상태와 구별.",
       "visualLimitations": "투명 몸의 겹침으로 여덟 빗판과 내부 관망 연결성은 전부 검증 못함 정확한 여덟 빗판 열은 투명 원근/겹침으로 모두 계수 못함. 미세 관망 연결성과 극판의 8자 유두는 전문 검증 불가. Naturalis32–33줄은 분지와 anastomoses를 명시하므로 이전 비연결관망 강제 조건을 확정 근거로 쓰지 않음. 프롬프트의 완전 입축 정면 대신 실제는 입쪽 사선."
+    },
+    {
+      "id": "twofin-flashlightfish",
+      "src": "assets/images/twofin-flashlightfish-chatgpt-portrait-side-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "발광금눈돔 · 눈 아래에 빛나는 작은 기관",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "전신의 압축된 방추형 몸, 서로 분리된 앞가시 등지느러미와 뒤연조 등지느러미, 몸통에 이어진 갈라진 꼬리가 보인다. 검은 동공과 반사광이 있는 눈은 발광하지 않으며 가까운 눈 아래 별도 콩 모양 청록색 기관이 볼에 묻혀 있다. 가까운 가슴지느러미와 아래쪽 지느러미가 몸에 연결되어 있다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE finished landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. A living Anomalops katoptron, splitfin/twofin flashlightfish: dark charcoal-brown moderately slender fusiform fish, laterally compressed but NOT an exaggerated deep round anglerfish. Large normal eyes with dark pupils. A separate kidney/bean-shaped luminous organ is embedded flush in a subocular cheek cavity immediately BELOW EACH EYE; eyes themselves never glow. The organ has no stalk, lure, bulb, antenna or forehead lamp. Light is restricted to those subocular organs, softly blue/cyan, not a laser beam or general glowing body. TWO SEPARATE dorsal-fin sections with a real short gap: smaller anterior spiny fin and larger posterior soft-rayed membrane fin, each continuously attached to the back. Normal paired pectoral and pelvic fins, a posterior ventral anal fin and a deeply forked tail continuously attached through its own caudal peduncle; no extra fins. Natural small scales, restrained thin blue fin edging. Shallow tropical coral-reef habitat, NOT an abyss. Soft fill light enough to read anatomy against the dark water. Complete fish and all visible fin/tail tips inside frame with generous ~12% water margin; no accidental cropping, floating body parts, copied/pasted fish, text, labels, arrows, grid, panels, measurements, logos or watermark. This is a source-based educational reconstruction, not a photograph or exact observed individual. Scene: ONE whole fish in a true LEFT lateral side profile, head left and complete forked tail right, body about 65% of frame width, calm straight swimming with mouth CLOSED and fins gently spread. Both distinct dorsal sections are visible in profile. Near-side bean organ glows softly; far-side organ is naturally occluded and MUST NOT be pasted on the visible cheek. Low distant reef silhouettes only, no prey."
+      ],
+      "generatedAt": "2026-10-11T14:54:27.226Z",
+      "checkedAt": "2026-10-11",
+      "sha256": "15868d0c3d6d694db408da3f5261434eb17308b1ac98e66fe6a372da9e5bd80b",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "twofin-flashlightfish",
+      "src": "assets/images/twofin-flashlightfish-chatgpt-feeding-front-rise-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "발광금눈돔 · 작은 새우 유생을 찾는 밤",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "주둥이에 가까운 앞아래 사선에서 두 정상 눈과 각각 아래의 분리된 콩 모양 발광기관이 읽힌다. 두 등지느러미와 연결된 갈라진 꼬리, 크게 편 두 가슴지느러미의 뿌리가 보인다. 기관은 볼 아래에 위치하고 눈 자체나 머리의 낚싯대가 빛나지 않는다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE finished landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. A living Anomalops katoptron, splitfin/twofin flashlightfish: dark charcoal-brown moderately slender fusiform fish, laterally compressed but NOT an exaggerated deep round anglerfish. Large normal eyes with dark pupils. A separate kidney/bean-shaped luminous organ is embedded flush in a subocular cheek cavity immediately BELOW EACH EYE; eyes themselves never glow. The organ has no stalk, lure, bulb, antenna or forehead lamp. Light is restricted to those subocular organs, softly blue/cyan, not a laser beam or general glowing body. TWO SEPARATE dorsal-fin sections with a real short gap: smaller anterior spiny fin and larger posterior soft-rayed membrane fin, each continuously attached to the back. Normal paired pectoral and pelvic fins, a posterior ventral anal fin and a deeply forked tail continuously attached through its own caudal peduncle; no extra fins. Natural small scales, restrained thin blue fin edging. Shallow tropical coral-reef habitat, NOT an abyss. Soft fill light enough to read anatomy against the dark water. Complete fish and all visible fin/tail tips inside frame with generous ~12% water margin; no accidental cropping, floating body parts, copied/pasted fish, text, labels, arrows, grid, panels, measurements, logos or watermark. This is a source-based educational reconstruction, not a photograph or exact observed individual. Scene: ONE whole fish in a true LEFT lateral side profile, head left and complete forked tail right, body about 65% of frame width, calm straight swimming with mouth CLOSED and fins gently spread. Both distinct dorsal sections are visible in profile. Near-side bean organ glows softly; far-side organ is naturally occluded and MUST NOT be pasted on the visible cheek. Low distant reef silhouettes only, no prey.",
+        "Use case: scientific-educational. Make ONE finished landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. A living Anomalops katoptron, splitfin/twofin flashlightfish: dark charcoal-brown moderately slender fusiform fish, laterally compressed but NOT an exaggerated deep round anglerfish. Large normal eyes with dark pupils. A separate kidney/bean-shaped luminous organ is embedded flush in a subocular cheek cavity immediately BELOW EACH EYE; eyes themselves never glow. The organ has no stalk, lure, bulb, antenna or forehead lamp. Light is restricted to those subocular organs, softly blue/cyan, not a laser beam or general glowing body. TWO SEPARATE dorsal-fin sections with a real short gap: smaller anterior spiny fin and larger posterior soft-rayed membrane fin, each continuously attached to the back. Normal paired pectoral and pelvic fins, a posterior ventral anal fin and a deeply forked tail continuously attached through its own caudal peduncle; no extra fins. Natural small scales, restrained thin blue fin edging. Shallow tropical coral-reef habitat, NOT an abyss. Soft fill light enough to read anatomy against the dark water. Complete fish and all visible fin/tail tips inside frame with generous ~12% water margin; no accidental cropping, floating body parts, copied/pasted fish, text, labels, arrows, grid, panels, measurements, logos or watermark. This is a source-based educational reconstruction, not a photograph or exact observed individual. Input image 1 is ONLY the species identity and painted style reference; invent a genuinely new three-dimensional view and fin/body action, do NOT preserve the reference pose, mirror it or rotate a flat side fish. Scene: ONE complete fish approaching a few drifting tiny transparent cleaner-shrimp ZOEA larvae in reef water at NIGHT. Camera is BELOW and IN FRONT of the fish at a strong front three-quarter angle: face and a little belly are nearer/larger, body and forked tail recede into depth. Fish turns gently upward with a slight real body bend, small mouth slightly OPEN, near pectoral fin fanned outward for control and far pectoral fin foreshortened. The subocular bean organs remain separate from the two eyes and near organ visibly luminous. Only 3–5 tiny transparent zoea larvae OUTSIDE the mouth, each roughly 1/35 of fish body length, not adult shrimps or giant prey. Fish about half the image width, tail fully in frame, prey not swallowed. This represents prey tested in the 2017 aquarium study, not an exact natural field capture; no capture-success claim.",
+        "Use case: precise-object-edit and scientific-educational. Edit this existing Anomalops katoptron illustration, saving a new educational 3:2 version. Correct the camera geometry and prey scale. Keep its species anatomy, separate bean light organs under normal eyes, TWO distinct attached dorsal fins, dark natural scales, soft painted style and tropical night reef setting. REDRAW the fish truly in depth, not a rotated or mirrored side profile: camera is directly IN FRONT and 30 degrees BELOW the face, face close and large near center-left, BOTH eyes and their separate BELOW-eye bean organs visible. Small mouth open toward the upper left, two pectoral fins spread with real foreshortening, pale underside visibly exposed. The fish's gently curved body recedes BEHIND the head toward far upper right with the full small connected forked tail in the distance. A short compressed body silhouette in screen projection due to the strong front perspective is essential; do not retain a long broad flat side outline. No detached fins, no extra fin branches, no giant anglerfish mouth. Reduce all five drifting translucent zoea larvae until each full larva is about 1/35 of the fish's actual length (just ~15–20 px in this composition), small barely legible plankton outside the mouth. They must not look like adult shrimp or large moths. No ingestion, no wounds, no beams or glowing eyes. Preserve complete fish/tail inside the frame with broad water margins. No text, labels or panels."
+      ],
+      "generatedAt": "2026-10-11T14:58:13.638Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "ade337a6913a9f50c12cb82b9935ae7d6312a82809f44b916c55d8bada3eb15f",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "PLOS ONE 2017은 밤 수조에서 Lysmata amboiensis 2.7–2.8 mm zoea 유생 포획을 시험함. 확인된 먹이에 접근하는 교육 재구성으로, 실제 자연 사냥 장면이나 섭식 성공을 주장하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Australian Museum — Twofin flashlightfish",
+          "url": "https://australian.museum/learn/animals/fishes/twofin-flashlightfish-anomalops-katoptronem/"
+        },
+        {
+          "title": "Hellinger et al. 2017 — The Flashlight Fish Anomalops katoptron Uses Bioluminescent Light to Detect Prey in the Dark",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170489"
+        },
+        {
+          "title": "FishBase — Anomalops katoptron",
+          "url": "https://www.fishbase.se/summary/7184"
+        }
+      ]
+    },
+    {
+      "id": "twofin-flashlightfish",
+      "src": "assets/images/twofin-flashlightfish-chatgpt-ecology-rear-school-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "발광금눈돔 · 밤에 무리를 이루어 헤엄쳐요",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "가까운 갈라진 꼬리에서 몸통과 멀어진 머리까지 끊김 없이 이어지고 두 등지느러미가 따로 붙는다. 읽히는 가까운 기관은 작은 정상 눈 아래 있으며 눈 전체 발광이나 독립 전구는 보이지 않는다. 배경 여덟 개체와 주개체 하나가 읽힌다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE finished landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. A living Anomalops katoptron, splitfin/twofin flashlightfish: dark charcoal-brown moderately slender fusiform fish, laterally compressed but NOT an exaggerated deep round anglerfish. Large normal eyes with dark pupils. A separate kidney/bean-shaped luminous organ is embedded flush in a subocular cheek cavity immediately BELOW EACH EYE; eyes themselves never glow. The organ has no stalk, lure, bulb, antenna or forehead lamp. Light is restricted to those subocular organs, softly blue/cyan, not a laser beam or general glowing body. TWO SEPARATE dorsal-fin sections with a real short gap: smaller anterior spiny fin and larger posterior soft-rayed membrane fin, each continuously attached to the back. Normal paired pectoral and pelvic fins, a posterior ventral anal fin and a deeply forked tail continuously attached through its own caudal peduncle; no extra fins. Natural small scales, restrained thin blue fin edging. Shallow tropical coral-reef habitat, NOT an abyss. Soft fill light enough to read anatomy against the dark water. Complete fish and all visible fin/tail tips inside frame with generous ~12% water margin; no accidental cropping, floating body parts, copied/pasted fish, text, labels, arrows, grid, panels, measurements, logos or watermark. This is a source-based educational reconstruction, not a photograph or exact observed individual. Scene: ONE whole fish in a true LEFT lateral side profile, head left and complete forked tail right, body about 65% of frame width, calm straight swimming with mouth CLOSED and fins gently spread. Both distinct dorsal sections are visible in profile. Near-side bean organ glows softly; far-side organ is naturally occluded and MUST NOT be pasted on the visible cheek. Low distant reef silhouettes only, no prey.",
+        "Use case: scientific-educational. Make ONE finished landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. A living Anomalops katoptron, splitfin/twofin flashlightfish: dark charcoal-brown moderately slender fusiform fish, laterally compressed but NOT an exaggerated deep round anglerfish. Large normal eyes with dark pupils. A separate kidney/bean-shaped luminous organ is embedded flush in a subocular cheek cavity immediately BELOW EACH EYE; eyes themselves never glow. The organ has no stalk, lure, bulb, antenna or forehead lamp. Light is restricted to those subocular organs, softly blue/cyan, not a laser beam or general glowing body. TWO SEPARATE dorsal-fin sections with a real short gap: smaller anterior spiny fin and larger posterior soft-rayed membrane fin, each continuously attached to the back. Normal paired pectoral and pelvic fins, a posterior ventral anal fin and a deeply forked tail continuously attached through its own caudal peduncle; no extra fins. Natural small scales, restrained thin blue fin edging. Shallow tropical coral-reef habitat, NOT an abyss. Soft fill light enough to read anatomy against the dark water. Complete fish and all visible fin/tail tips inside frame with generous ~12% water margin; no accidental cropping, floating body parts, copied/pasted fish, text, labels, arrows, grid, panels, measurements, logos or watermark. This is a source-based educational reconstruction, not a photograph or exact observed individual. Input image 1 is ONLY a species and painted-style reference, not a pose template. Scene: a source-based NIGHT schooling illustration just below the water surface over a tropical reef. One clear whole foreground fish and seven smaller COMPLETE conspecifics behind it, total EIGHT fish, loosely aligned in the same swimming direction, no multiplied glow dots masquerading as fish. Main fish viewed from ABOVE and BEHIND at a strong rear three-quarter angle: its connected forked tail is closest to camera at lower right, dark back visible, head recedes toward upper left. Body has a gentle real S-shaped bend while swimming; near pectoral kept closer to side and tail blade oblique during a natural sweep. This geometry must be clearly different from lateral portrait and the low front feeding view, not just a flipped fish. One subocular glowing patch may be visible on the oblique far-forward head only if the cheek is visible; do not put any lights on the back or tail. Main fish about 45% image width, all eight tails in frame, reef low below and a faint surface boundary high above. No prey, no predators. Field study documented 8–50 fish close to the surface; the small group is an illustrative portion of that behavior, not an exact recorded school.",
+        "Use case: precise-object-edit and scientific-educational. Edit this natural-history Anomalops katoptron school illustration. Keep the reef-school context, nine whole fish already present (one foreground plus eight small background fish), their species identity, dark fish with bean-shaped organs under normal eyes, two separate dorsal fins, continuous forked tails and realistic painted style. Change ONLY the foreground fish's 3D camera/body/fin geometry and reduce ambient surface glow to restrained nighttime fill; leave the smaller fish and reef arrangement stable. Redraw the foreground fish from strongly ABOVE AND DIRECTLY BEHIND, camera much closer to its FORKED TAIL than to its head. The broad forked tail is nearest/largest around lower center-right; a continuous caudal peduncle and visible back curve away toward a noticeably SMALLER head at far upper left. Show a clear gentle S-bend through the actual fish body, not a flat side silhouette rotated on the page. The rear soft dorsal membrane is nearer to camera; the small front spiny dorsal is farther away. Pectorals are tucked closer to the flank during forward swimming, unlike the broad open fins of the front feeding picture. Head and cheek are small and mostly turned away; show only a tiny subocular glow if the cheek is really visible, never paste a lamp onto the dorsal back. The primary geometry must read tail-near/head-far with strong depth foreshortening, not another full side-on fish. All fins attach continuously to the correct own body, no extra fins, no double tails, no unconnected school fish. Preserve comfortable water margins around the whole foreground forked tail and all nine fish. No text, no panels, no invented feeding or predator."
+      ],
+      "generatedAt": "2026-10-11T15:01:42.654Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "4d13284316843ad89b451da9dbf1315c4a68861ed7bd6c0bed701da29b3704ec",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "PLOS ONE 2017 Banda 현장 관찰은 8–50개체 무리, 수면 1 m 이내, 대부분 같은 진행방향을 기록함. 8개체를 대상으로 한 밤의 무리 활동 교육 재구성이며 정확한 관측 장면은 아님.",
+      "behaviorSources": [
+        {
+          "title": "Australian Museum — Twofin flashlightfish",
+          "url": "https://australian.museum/learn/animals/fishes/twofin-flashlightfish-anomalops-katoptronem/"
+        },
+        {
+          "title": "Hellinger et al. 2017 — The Flashlight Fish Anomalops katoptron Uses Bioluminescent Light to Detect Prey in the Dark",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170489"
+        },
+        {
+          "title": "FishBase — Anomalops katoptron",
+          "url": "https://www.fishbase.se/summary/7184"
+        }
+      ]
+    },
+    {
+      "id": "twofin-flashlightfish",
+      "src": "assets/images/twofin-flashlightfish-chatgpt-ecology-day-rest-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "발광금눈돔 · 낮에는 암초 틈에서 쉬어요",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "앞왼 사선에서 두 정상 눈이 보이고 가까운 눈 아래 콩 모양 기관은 검고 볼에 붙어 있으며 발광하는 눈으로 표현되지 않는다. 입은 닫혔고 두 등지느러미, 연결된 갈라진 꼬리와 작은 가슴지느러미가 보인다. 아래 짝지느러미는 일부 보이지만 전체 연조를 계수할 정도는 아니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE finished landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. A living Anomalops katoptron, splitfin/twofin flashlightfish: dark charcoal-brown moderately slender fusiform fish, laterally compressed but NOT an exaggerated deep round anglerfish. Large normal eyes with dark pupils. A separate kidney/bean-shaped luminous organ is embedded flush in a subocular cheek cavity immediately BELOW EACH EYE; eyes themselves never glow. The organ has no stalk, lure, bulb, antenna or forehead lamp. Light is restricted to those subocular organs, softly blue/cyan, not a laser beam or general glowing body. TWO SEPARATE dorsal-fin sections with a real short gap: smaller anterior spiny fin and larger posterior soft-rayed membrane fin, each continuously attached to the back. Normal paired pectoral and pelvic fins, a posterior ventral anal fin and a deeply forked tail continuously attached through its own caudal peduncle; no extra fins. Natural small scales, restrained thin blue fin edging. Shallow tropical coral-reef habitat, NOT an abyss. Soft fill light enough to read anatomy against the dark water. Complete fish and all visible fin/tail tips inside frame with generous ~12% water margin; no accidental cropping, floating body parts, copied/pasted fish, text, labels, arrows, grid, panels, measurements, logos or watermark. This is a source-based educational reconstruction, not a photograph or exact observed individual. Scene: ONE whole fish in a true LEFT lateral side profile, head left and complete forked tail right, body about 65% of frame width, calm straight swimming with mouth CLOSED and fins gently spread. Both distinct dorsal sections are visible in profile. Near-side bean organ glows softly; far-side organ is naturally occluded and MUST NOT be pasted on the visible cheek. Low distant reef silhouettes only, no prey.",
+        "Use case: scientific-educational. Make ONE finished landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. A living Anomalops katoptron, splitfin/twofin flashlightfish: dark charcoal-brown moderately slender fusiform fish, laterally compressed but NOT an exaggerated deep round anglerfish. Large normal eyes with dark pupils. A separate kidney/bean-shaped luminous organ is embedded flush in a subocular cheek cavity immediately BELOW EACH EYE; eyes themselves never glow. The organ has no stalk, lure, bulb, antenna or forehead lamp. Light is restricted to those subocular organs, softly blue/cyan, not a laser beam or general glowing body. TWO SEPARATE dorsal-fin sections with a real short gap: smaller anterior spiny fin and larger posterior soft-rayed membrane fin, each continuously attached to the back. Normal paired pectoral and pelvic fins, a posterior ventral anal fin and a deeply forked tail continuously attached through its own caudal peduncle; no extra fins. Natural small scales, restrained thin blue fin edging. Shallow tropical coral-reef habitat, NOT an abyss. Soft fill light enough to read anatomy against the dark water. Complete fish and all visible fin/tail tips inside frame with generous ~12% water margin; no accidental cropping, floating body parts, copied/pasted fish, text, labels, arrows, grid, panels, measurements, logos or watermark. This is a source-based educational reconstruction, not a photograph or exact observed individual. Input image 1 supplies only species identity and painted style; redraw a new pose and camera. Scene: ONE whole fish calmly HOVERING in a spacious rocky coral-reef crevice in DAYTIME, subdued daylight outside the opening. Camera is nearly HEAD-ON at eye level, with a tiny offset to let the entire foreshortened body and forked tail remain readable behind the head. Both large NORMAL eyes visible; the mouth is CLOSED. Fin motion restrained: paired pectorals slightly lifted for hovering, dorsal membranes less flared than portrait, body almost straight with no dramatic swimming curl. Both subocular light organs are rotated backward in their cheek cavities, showing DARK faces and hiding their luminous surfaces; do NOT erase the organs or eyes, and do not show glowing eyes or white bulbs. The near head is centered, small receding whole tail emerges behind to one side naturally, not an extra appendage. Entire fish within broad cave water space with margins, no fin clipped or hidden by a rock. This illustrates reduced daytime activity and rotated light organs reported under dim laboratory cave conditions; exact daytime wild organ-opening timing is not asserted. No prey, no sleep-expression eyelids, no sand burial, no abyss."
+      ],
+      "generatedAt": "2026-10-11T15:02:50.269Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "fd65aa921df3155bf7ec1aa3dc0a7bba2a832d8e89b8773c187b5539c6f00323",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "PLOS ONE 2017과 FishBase: 낮 동굴/틈 은신과 활동 감소. 논문은 어두운 기관 뒷면을 드러내는 뒤 회전과 낮 수조에서 긴 닫힘을 기록함. 야생의 모든 낮 시간에 완전히 꺼져 있다고 단정하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Australian Museum — Twofin flashlightfish",
+          "url": "https://australian.museum/learn/animals/fishes/twofin-flashlightfish-anomalops-katoptronem/"
+        },
+        {
+          "title": "Hellinger et al. 2017 — The Flashlight Fish Anomalops katoptron Uses Bioluminescent Light to Detect Prey in the Dark",
+          "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170489"
+        },
+        {
+          "title": "FishBase — Anomalops katoptron",
+          "url": "https://www.fishbase.se/summary/7184"
+        }
+      ]
+    },
+    {
+      "id": "sea-pig",
+      "src": "assets/images/sea-pig-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "바다돼지 · 긴 관발로 몸을 받친 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "옅은 분홍색 매끄러운 타원 몸, 관발의 몸 연결, 긴 등돌기 네 개와 작은 뒤 등돌기 두 개를 원본에서 확인. 입쪽 작은 촉수는 일부 겹침. 발굽·딱딱한 마디·눈·돼지코 없음.",
+      "generationPrompts": [
+        "Use case: scientific-educational.\nCreate ONE original Sea Atlas natural-history gallery illustration for children ages 5–12. Landscape 3:2, refined realistic painterly illustration with restrained soft brush texture, credible delicate animal anatomy, natural subdued colors. Calm deep-sea sediment setting, dark navy water, soft neutral illustrative fill light rather than sunlight; no text, labels, numbers, arrows, diagrams, frames, logos, watermarks, people, blood, wounds or horror. Entire main animal and ALL major appendage tips contained with at least 8% frame margin.\nSubject: ONE Scotoplanes globosa, a genuine deep-sea sea cucumber called a sea pig. A smooth pale pink-to-off-white slightly translucent soft oval body, width about 45% of body length, belly flattened, no separate vertebrate head. Twelve stilt-like cylindrical tube feet in SIX bilateral pairs attach continuously along the two ventrolateral body edges, with larger mid-body feet and smaller terminal feet; these are soft water-filled tapered tubes, not articulated legs or hooves. Natural far-side overlap is allowed, but no detached feet or implausible extra branches.\nDorsal identity: SIX papillae attached to the BACK, clearly separate from the walking feet: an anterior pair of long slender papillae; another pair of long papillae positioned about one-third of body length forward from the posterior end; and a much smaller rudimentary pair immediately behind that second long pair. FOUR long and TWO tiny dorsal papillae total, no antennae attached to a head. At the front slightly ventral end, a small mouth surrounded by TEN short equal-sized feeding tentacles with short digitate tips, mostly naturally tucked near the mud; these are much smaller than walking feet. No pig snout, ears, eyes, face, tail, fins, shell, claws, segmented joints, big octopus arms, warty bumps, dorsal sail or glowing organs. Only faint soft internal translucence, no anatomical cutaway.\nComposition and body state: a DISTINCT elevated front-left three-quarter view, approximately 30 degrees above the mud, anterior end towards lower-left and posterior end receding upper-right. Body lifted gently above the mud by mostly extended planted tube feet, with one near anterior foot mildly bent. Show the whole oval back and longitudinal arrangement of dorsal papillae clearly; mouth tentacles partly folded below the front. One animal only on a quiet uncluttered gray-brown abyssal mud plain with a few tiny organic flecks, no macro prey or companion animal. A natural identification observation posture, not a cartoon pig and not a flat top-down diagram."
+      ],
+      "generatedAt": "2026-10-11T14:55:32.951Z",
+      "checkedAt": "2026-10-11",
+      "sha256": "569672286a26095261ff34cd8ecd89ed12bd2be529f012926922bc18d178d5dc",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "sea-pig",
+      "src": "assets/images/sea-pig-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "바다돼지 · 입 주변 촉수로 바닥을 살피기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "닫힌 타원 몸 앞쪽 아래의 작은 촉수들과 근측 양앞 관발의 부드러운 연결, 등 네 긴+두 작은 돌기를 확인. 앞 촉수 몇 개는 바닥 가까이 내려가며 원측 촉수/관발은 겹침.",
+      "generationPrompts": [
+        "Use case: scientific-educational.\nCreate ONE original Sea Atlas natural-history gallery illustration for children ages 5–12. Landscape 3:2, refined realistic painterly illustration with restrained soft brush texture, credible delicate animal anatomy, natural subdued colors. Calm deep-sea sediment setting, dark navy water, soft neutral illustrative fill light rather than sunlight; no text, labels, numbers, arrows, diagrams, frames, logos, watermarks, people, blood, wounds or horror. Entire main animal and ALL major appendage tips contained with at least 8% frame margin.\nSubject: ONE Scotoplanes globosa, a genuine deep-sea sea cucumber called a sea pig. A smooth pale pink-to-off-white slightly translucent soft oval body, width about 45% of body length, belly flattened, no separate vertebrate head. Twelve stilt-like cylindrical tube feet in SIX bilateral pairs attach continuously along the two ventrolateral body edges, with larger mid-body feet and smaller terminal feet; these are soft water-filled tapered tubes, not articulated legs or hooves. Natural far-side overlap is allowed, but no detached feet or implausible extra branches.\nDorsal identity: SIX papillae attached to the BACK, clearly separate from the walking feet: an anterior pair of long slender papillae; another pair of long papillae positioned about one-third of body length forward from the posterior end; and a much smaller rudimentary pair immediately behind that second long pair. FOUR long and TWO tiny dorsal papillae total, no antennae attached to a head. At the front slightly ventral end, a small mouth surrounded by TEN short equal-sized feeding tentacles with short digitate tips, mostly naturally tucked near the mud; these are much smaller than walking feet. No pig snout, ears, eyes, face, tail, fins, shell, claws, segmented joints, big octopus arms, warty bumps, dorsal sail or glowing organs. Only faint soft internal translucence, no anatomical cutaway.\nComposition and body state: a radically DIFFERENT very low HEAD-ON frontal view at soft muddy seabed height. The front ventral mouth is the nearest part and the oval body recedes directly away from the camera, foreshortened; no broad side-profile animal. Show the WHOLE animal, including posterior end and all papilla tips inside generous margins. The front of the soft body is slightly lowered as it explores the sediment, while posterior planted tube feet keep the rear slightly raised. Six bilateral pairs of soft tube feet line the body; near anterior feet bend gently outward and naturally hide some farther roots. The TEN little equal-length feeding tentacles surround a small terminal-to-ventral mouth: show several short tentacles extended DOWN to touch minute brown organic sediment particles and several curled back near the small mouth, with small digitate tips. Mouth tentacles are much smaller than walking feet, not octopus arms or a radial starfish disk. Do NOT depict ingestion, captured animal prey, a huge pig snout or successful swallowing. Dorsal four long and two tiny papillae are naturally shortened in perspective with all roots attached to the back. This is a quiet deposit-feeding search posture based on documented feeding with mucous tentacles. One animal only, plain soft abyssal mud with a few minute organic flecks. Camera axis and planted/bent feet plus mouth-tentacle state must differ substantially from an elevated side identification view."
+      ],
+      "generatedAt": "2026-10-11T14:58:06.682Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "8f1a45d4d175f1839768e6f7eef018a699a827927ae3c7d3a4ae8afe3e060b3d",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "입 둘레의 작은 촉수로 진흙 표면에 쌓인 유기물 찌꺼기를 살펴요. 먹이를 입속으로 삼킨 순간은 보이지 않아요.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Scotoplanes globosa",
+          "url": "https://www.mbari.org/gallery/deep-sea-wallpapers/sea-pig/"
+        },
+        {
+          "title": "Museums Victoria — Scotoplanes globosa species account",
+          "url": "https://collections.museumsvictoria.com.au/species/16875"
+        },
+        {
+          "title": "Fisheries and Oceans Canada — Deep-water sea cucumbers, printed p.68",
+          "url": "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/343545.pdf"
+        }
+      ]
+    },
+    {
+      "id": "sea-pig",
+      "src": "assets/images/sea-pig-chatgpt-ecology-walking-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "바다돼지 · 관발을 굽히며 진흙 바닥 걷기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "뒤끝이 가까운 위뒤 원근에서 매끄러운 몸, 연결된 네 긴/두 작은 등돌기와 굽는 관발 확인. 근측 윤곽 관발은 일곱 개로 읽힘; DFO 본종 다섯·여섯 드물게 일곱 쌍 범위와 모순되지 않으나 원측 가림으로 전체 일곱 쌍을 확정하지 않음.",
+      "generationPrompts": [
+        "Use case: scientific-educational.\nCreate ONE original Sea Atlas natural-history gallery illustration for children ages 5–12. Landscape 3:2, refined realistic painterly illustration with restrained soft brush texture, credible delicate animal anatomy, natural subdued colors. Calm deep-sea sediment setting, dark navy water, soft neutral illustrative fill light rather than sunlight; no text, labels, numbers, arrows, diagrams, frames, logos, watermarks, people, blood, wounds or horror. Entire main animal and ALL major appendage tips contained with at least 8% frame margin.\nSubject: ONE Scotoplanes globosa, a genuine deep-sea sea cucumber called a sea pig. A smooth pale pink-to-off-white slightly translucent soft oval body, width about 45% of body length, belly flattened, no separate vertebrate head. Twelve stilt-like cylindrical tube feet in SIX bilateral pairs attach continuously along the two ventrolateral body edges, with larger mid-body feet and smaller terminal feet; these are soft water-filled tapered tubes, not articulated legs or hooves. Natural far-side overlap is allowed, but no detached feet or implausible extra branches.\nDorsal identity: SIX papillae attached to the BACK, clearly separate from the walking feet: an anterior pair of long slender papillae; another pair of long papillae positioned about one-third of body length forward from the posterior end; and a much smaller rudimentary pair immediately behind that second long pair. FOUR long and TWO tiny dorsal papillae total, no antennae attached to a head. At the front slightly ventral end, a small mouth surrounded by TEN short equal-sized feeding tentacles with short digitate tips, mostly naturally tucked near the mud; these are much smaller than walking feet. No pig snout, ears, eyes, face, tail, fins, shell, claws, segmented joints, big octopus arms, warty bumps, dorsal sail or glowing organs. Only faint soft internal translucence, no anatomical cutaway.\nComposition and body state: a DISTINCT high DORSAL-REAR view about 70 degrees above the soft muddy seafloor, looking down over the posterior end toward the far anterior end pointing upper-left. The long axis lies diagonally in the image; the observer sees the complete oval BACK, both ventrolateral edges and the paired arrangement of the six dorsal papillae, not the frontal mouth or a side-profile body. Keep the whole body and all walking-foot and papilla tips fully contained with generous margin. A calm WALKING STEP: support the body on several planted soft cylindrical tube feet at each side; ONE nearer mid-body tube foot lifts a little from the mud and gently curves forward toward the direction of travel, while other near feet remain planted. No rigid leg joints, bent elbows, mammalian knee or hoof. Mouth tentacles are small and mostly naturally concealed at the far anterior end rather than fanned toward the viewer. Four long dorsal papillae and two tiny posterior rudimentary papillae have separate attached roots on the back and naturally lie in a loose uneven arrangement, not identical upright spikes. Show only a few faint tiny sediment footprints/contact depressions, no measured track diagram. One animal on clean gray-brown deep abyssal mud, no sunbeams, companions or prey. The high rear camera and one lifted gently curving foot plus planted supports must be anatomically plausible and clearly unlike the identification and head-on feeding postures."
+      ],
+      "generatedAt": "2026-10-11T14:59:51.242Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "ca153f348460fd01f9d3d6a7f4d8e988238d8a96f6d7b456559a5ca8cd9d50ff",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "길쭉한 관발을 움직이며 부드러운 진흙 바닥을 걸어요. 한 관발을 굽힌 자세를 그렸으며 실제 걸음 순서나 속도를 잰 장면은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Scotoplanes globosa",
+          "url": "https://www.mbari.org/gallery/deep-sea-wallpapers/sea-pig/"
+        },
+        {
+          "title": "Museums Victoria — Scotoplanes globosa species account",
+          "url": "https://collections.museumsvictoria.com.au/species/16875"
+        },
+        {
+          "title": "Fisheries and Oceans Canada — Deep-water sea cucumbers, printed p.68",
+          "url": "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/343545.pdf"
+        }
+      ]
+    },
+    {
+      "id": "sea-pig",
+      "src": "assets/images/sea-pig-chatgpt-ecology-group-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "바다돼지 · 먹이가 쌓인 바닥에 모인 무리",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "주개체의 긴 몸 옆면과 연속 관발 연결, 등 네 긴+두 작은 돌기 확인. 근측 관발 일곱 개로 읽혀 DFO의 드문 일곱 쌍 가능 범위와 부합하나 원측 뿌리·짝은 자연 가림. 먼 두 동료는 작은 모습으로 세부 계수 불가.",
+      "generationPrompts": [
+        "Use case: scientific-educational.\nCreate ONE original Sea Atlas natural-history gallery illustration for children ages 5–12. Landscape 3:2, refined realistic painterly illustration with restrained soft brush texture, credible delicate animal anatomy, natural subdued colors. Calm deep-sea sediment setting, dark navy water, soft neutral illustrative fill light rather than sunlight; no text, labels, numbers, arrows, diagrams, frames, logos, watermarks, people, blood, wounds or horror. Entire main animal and ALL major appendage tips contained with at least 10% frame margin. The two smaller companions are also wholly inside the frame, no cut-off animals.\nSubject: one main complete Scotoplanes globosa with TWO much smaller distant individuals of the same species, a genuine deep-sea sea cucumber called a sea pig. A smooth pale pink-to-off-white slightly translucent soft oval body, width about 45% of body length, belly flattened, no separate vertebrate head. Twelve stilt-like cylindrical tube feet in SIX bilateral pairs attach continuously along the two ventrolateral body edges, with larger mid-body feet and smaller terminal feet; these are soft water-filled tapered tubes, not articulated legs or hooves. Natural far-side overlap is allowed, but no detached feet or implausible extra branches.\nDorsal identity: SIX papillae attached to the BACK, clearly separate from the walking feet: an anterior pair of long slender papillae; another pair of long papillae positioned about one-third of body length forward from the posterior end; and a much smaller rudimentary pair immediately behind that second long pair. FOUR long and TWO tiny dorsal papillae total, no antennae attached to a head. At the front slightly ventral end, a small mouth surrounded by TEN short equal-sized feeding tentacles with short digitate tips, mostly naturally tucked near the mud; these are much smaller than walking feet. No pig snout, ears, eyes, face, tail, fins, shell, claws, segmented joints, big octopus arms, warty bumps, dorsal sail or glowing organs. Only faint soft internal translucence, no anatomical cutaway.\nComposition and behavior: a genuine nearly LEVEL TRUE LATERAL view across a broad abyssal mud plain, main animal stretched horizontally and facing RIGHT, the observer seeing its long SIDE rather than the front opening or the back top. The whole main animal occupies about 55% of the image width with spacious margin, including papilla tips; leave even more sky above the back appendages. Its lower anterior body is slightly tipped down, a few anterior walking tube feet curve forward in a quiet step while other feet plant vertically, and some mouth tentacles extend down toward tiny organic sediment flecks. All feet attach to the ventrolateral body, no extra feet from the midline. Four long and two tiny papillae along the dorsal back stay individually attached, with gentle uneven backward flex rather than an identical rigid antler pattern. At a significant distance behind it, TWO smaller entire individuals face the SAME rightward direction, each with a plain pale pink oval body, soft walking tube feet below and dorsal papillae above; avoid clonal exact silhouettes or detached body parts. A sparse natural gathering at a nutrient-rich detritus patch based on recorded sea-pig aggregations, NOT a coordinated parade, family claim, or measured exact density. Do not show whale remains, crabs, other species, glow, carcasses or successful ingestion. Mildly textured deep-sea mud with only microscopic organic flecks, very dark calm water. This lateral body camera plus down-tipped anterior end and varied curved/planted foot positions must substantially differ from the elevated front identification, head-on feeding and dorsal-rear walking views."
+      ],
+      "generatedAt": "2026-10-11T15:02:08.712Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "45733e03f838cac98bbb592b1b2c12c128ab799b4f38e5cef296d04407eb63fd",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "바닥에 먹이가 풍부한 곳에서는 여러 바다돼지가 모이기도 해요. 무리 관찰을 바탕으로 그린 장면이며 실제 집단의 수나 가족 관계를 나타내지는 않아요.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Scotoplanes globosa",
+          "url": "https://www.mbari.org/gallery/deep-sea-wallpapers/sea-pig/"
+        },
+        {
+          "title": "Museums Victoria — Scotoplanes globosa species account",
+          "url": "https://collections.museumsvictoria.com.au/species/16875"
+        },
+        {
+          "title": "Fisheries and Oceans Canada — Deep-water sea cucumbers, printed p.68",
+          "url": "https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/343545.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mikado-comb-jelly",
+      "src": "assets/images/mikado-comb-jelly-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "감투빗해파리 · 두 엽과 투명한 몸",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "입쪽 앞면에서 연결된 두 큰 엽, 투명하고 긴 뒤몸, 몸을 따라가는 여러 빗판줄을 확인했다. 눈이나 자포 해파리 우산·입팔, 성체형에 긴 유생 주촉수가 없다. 두 길고 작은 구강 돌기는 선명하고 추가 짧은 돌기는 중앙에 겹친다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make one new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly texture, readable delicate transparent tissue, full subject with generous water margins, no writing, labels, arrows, inset, split panels, border, signature or watermark.\nSpecies: Bolinopsis mikado, the Japanese kabuto lobate comb jelly. A single nearly colorless transparent adult-form animal with a rounded aboral body that joins continuously to exactly TWO broad soft oral lobes, not detached wings. The lobes are substantial folds at the oral end, not two narrow long ribbons or jellyfish arms. FOUR much smaller narrow auricles attach in the oral region inside/between the broad lobes, and a modest mouth is at that central oral region. EIGHT longitudinal body comb rows made from many tiny transverse ciliary plates, with subdued far-side rows where tissue overlaps. Do not turn internal canals or the small auricular cilia into additional colored comb rows. Thin natural clear internal canals. This is the developed adult-like form after loss of larval fishing tentacles: NO two trailing long branched fishing tentacles. No invented eyes, teeth, red stomach, jellyfish umbrella, stingers, electric glow or opaque plastic. The few comb reflections come from external soft daylight, never neon rods. Do not curl the whole main body into a C or S. Keep both connected lobe tips and all auricle tips inside the frame.\nComposition: one upright whole animal in a clear near-frontal slight three-quarter view, aboral rounded end above, oral end below. Let one side be modestly nearer so the broad lobes and central auricles are not flattened into a symmetric diagram. The two broad oral lobes are moderately open in a compact loose V; they stay close to the main body and curve softly toward their rounded tips. Show the near auricles distinctly and the far ones only where transparency allows. The central oral region remains normal and small. Subject fills about 65 percent of image height. Plain calm Japanese coastal blue water, no other large animals or food, no seafloor or artificial tank. This scene introduces normal adult-form anatomy; it must not imply a particular feeding or escape event."
+      ],
+      "generatedAt": "2026-10-11T14:59:50.764Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "025fc8848e24acd68b9d4f6892bc535a6124c49ab315d8e8ea39fd4d2423f37d",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "mikado-comb-jelly",
+      "src": "assets/images/mikado-comb-jelly-chatgpt-feeding-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "감투빗해파리 · 입쪽에서 본 작은 먹이",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "두 큰 엽이 몸과 연속되고 내면이 넓게 보인다. 작은 구강 돌기는 엽 사이에 연결되어 있으며 일부가 중첩된다. 조직 밖의 작은 요각류 세 개를 확인했다. 거대한 눈·턱·성체형의 긴 낚시 촉수는 없다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make one new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly texture, readable delicate transparent tissue, full subject with generous water margins, no writing, labels, arrows, inset, split panels, border, signature or watermark.\nSpecies: Bolinopsis mikado, the Japanese kabuto lobate comb jelly. A single nearly colorless transparent adult-form animal with a rounded aboral body that joins continuously to exactly TWO broad soft oral lobes, not detached wings. The lobes are substantial folds at the oral end, not two narrow long ribbons or jellyfish arms. FOUR much smaller narrow auricles attach in the oral region inside/between the broad lobes, and a modest mouth is at that central oral region. EIGHT longitudinal body comb rows made from many tiny transverse ciliary plates, with subdued far-side rows where tissue overlaps. Do not turn internal canals or the small auricular cilia into additional colored comb rows. Thin natural clear internal canals. This is the developed adult-like form after loss of larval fishing tentacles: NO two trailing long branched fishing tentacles. No invented eyes, teeth, red stomach, jellyfish umbrella, stingers, electric glow or opaque plastic. The few comb reflections come from external soft daylight, never neon rods. Do not curl the whole main body into a C or S. Keep both connected lobe tips and all auricle tips inside the frame.\nComposition: one upright whole animal in a clear near-frontal slight three-quarter view, aboral rounded end above, oral end below. Let one side be modestly nearer so the broad lobes and central auricles are not flattened into a symmetric diagram. The two broad oral lobes are moderately open in a compact loose V; they stay close to the main body and curve softly toward their rounded tips. Show the near auricles distinctly and the far ones only where transparency allows. The central oral region remains normal and small. Subject fills about 65 percent of image height. Plain calm Japanese coastal blue water, no other large animals or food, no seafloor or artificial tank. This scene introduces normal adult-form anatomy; it must not imply a particular feeding or escape event.",
+        "Use case: scientific-educational. Make one new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly texture, readable delicate transparent tissue, full subject with generous water margins, no writing, labels, arrows, inset, split panels, border, signature or watermark.\nSpecies: Bolinopsis mikado, the Japanese kabuto lobate comb jelly. A single nearly colorless transparent adult-form animal with a rounded aboral body that joins continuously to exactly TWO broad soft oral lobes, not detached wings. The lobes are substantial folds at the oral end, not two narrow long ribbons or jellyfish arms. FOUR much smaller narrow auricles attach in the oral region inside/between the broad lobes, and a modest mouth is at that central oral region. EIGHT longitudinal body comb rows made from many tiny transverse ciliary plates, with subdued far-side rows where tissue overlaps. Do not turn internal canals or the small auricular cilia into additional colored comb rows. Thin natural clear internal canals. This is the developed adult-like form after loss of larval fishing tentacles: NO two trailing long branched fishing tentacles. No invented eyes, teeth, red stomach, jellyfish umbrella, stingers, electric glow or opaque plastic. The few comb reflections come from external soft daylight, never neon rods. Do not curl the whole main body into a C or S. Keep both connected lobe tips and all auricle tips inside the frame.\nThe supplied original is an IDENTITY AND PAINTING-STYLE reference only. Build a new three-dimensional pose and camera; do not rotate, mirror or re-frame the upright portrait. View this animal from its ORAL END, looking upward along its short foreshortened body axis: the near oral lobes must occupy the foreground, and the rounded aboral end must recede behind them. The view should show the actual inner oral surfaces between the lobes, not the tall outer body from the side. The two broad oral lobes are more widely open than in the portrait, with the nearer lobe larger in perspective and the farther one partly overlapping behind. Their curved rims are natural soft lobate folds, not a rigid scalloped jellyfish bell. Four much smaller connected auricles are tucked between the lobes; keep the central mouth normal and small, with no giant tube hanging down. EIGHT body comb rows follow the real depth and are dimmer on the far side; far rows can naturally overlap.\nFeeding context: add THREE VERY SMALL Acartia-type calanoid copepods swimming freely outside and just ahead of the opened oral lobes. Each copepod is less than 1/25 of the comb jelly body length; no giant shrimp. This reconstruction uses the prey tested in the species' published culture study. Do not show any prey swallowed, trapped in tissues, chewed or injured, and no thread stretching from prey to the lobes. Whole main animal, both lobe rims, auricle tips and tiny external prey fit comfortably with 12 percent water margins. Clear coastal blue water under soft external daylight. Two visible changes are essential: strong ORAL-AXIS foreshortened camera plus more widely opened oral lobes in depth.",
+        "Use case: scientific-educational. REDRAW the actual camera and body pose of the supplied Bolinopsis mikado feeding reconstruction while retaining the transparent species anatomy, subtle painterly realism, and the three very tiny Acartia-like copepods safely OUTSIDE the tissues. This is NOT a small in-plane tilt. The current tall frontal dome remains too similar to the portrait. Replace it with a strong actual ORAL-AXIS end view.\nCamera geometry: the long aboral-to-mouth body axis points AWAY FROM THE CAMERA into the water, almost perpendicular to the image plane. Put the camera directly in front of the oral end, seeing the INNER faces of the two broad oral lobes in the near foreground. The far rounded aboral cap is DIRECTLY BEHIND the central oral area on screen, much smaller and foreshortened through the tissue; it must NOT stick up above the lobes as a tall upright oval dome. The projected main body must be short in depth and almost round, not a tall body seen from its side. Wide, natural lobate folds surround the front oral region with a larger nearer lobe and a smaller farther lobe overlapping in depth. Neither is a detached wing. FOUR small slender connected auricles curl softly within the oral region, with real occlusion allowed. A modest small ordinary central mouth, no large funnel, hanging tube, lips, eyes or teeth.\nKeep TWO broad connected lobes, FOUR small oral auricles, EIGHT longitudinal body comb rows, clear internal canals and no long larval fishing tentacles. Colorless transparent tissue, subtle externally reflected comb colors, no neon outlines, no new colored rows on the auricles. Main body is not bent into a C or S, and no jellyfish umbrella or four long jellyfish arms. All lobe and auricle tips plus the three external minute copepods fit with generous 12 percent water margins. Single landscape 3:2 original image in calm natural coastal blue water. No labels, words, arrows, panels or watermark. Essential observable result: front INNER oral surfaces and strong depth-axis foreshortening instead of the old front OUTER tall dome, with the two lobes more widely opened toward the camera."
+      ],
+      "generatedAt": "2026-10-11T15:04:27.568Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "ccc246d1cf550cfab83fece09ba543e8092c85e3a79fbdd229ef9505a97b00c5",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "Kasuya2002가 실제 사용한 Acartia 먹이에 따른 교육 재구성. 포획·삼킴 성공이나 이 엽 각도의 행동 관찰 증거를 주장하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Kasuya, Ishimaru & Murano 2002 — Laboratory study of growth of Bolinopsis mikado",
+          "url": "https://plankton.jp/PBE/issue/vol49_2/vol49_2_081.pdf"
+        },
+        {
+          "title": "Sumida Aquarium / KURAGES — カブトクラゲ (Bolinopsis mikado)",
+          "url": "https://www.kurages.com/dictionary/bolinopsis-mikado/"
+        }
+      ]
+    },
+    {
+      "id": "mikado-comb-jelly",
+      "src": "assets/images/mikado-comb-jelly-chatgpt-ecology-aboral-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "감투빗해파리 · 뒤쪽에서 본 빗판",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "둥글고 닫힌 뒤몸 외면이 오른쪽 가까이에 오며 연결된 입쪽 두 엽은 왼쪽 먼 곳에서 구별된다. 여러 빗판줄이 뒤몸 표면을 따라 돌아가고, 뒤몸에 가짜 입이나 눈이 없다. 성체형의 긴 유생 촉수도 없다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make one new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly texture, readable delicate transparent tissue, full subject with generous water margins, no writing, labels, arrows, inset, split panels, border, signature or watermark.\nSpecies: Bolinopsis mikado, the Japanese kabuto lobate comb jelly. A single nearly colorless transparent adult-form animal with a rounded aboral body that joins continuously to exactly TWO broad soft oral lobes, not detached wings. The lobes are substantial folds at the oral end, not two narrow long ribbons or jellyfish arms. FOUR much smaller narrow auricles attach in the oral region inside/between the broad lobes, and a modest mouth is at that central oral region. EIGHT longitudinal body comb rows made from many tiny transverse ciliary plates, with subdued far-side rows where tissue overlaps. Do not turn internal canals or the small auricular cilia into additional colored comb rows. Thin natural clear internal canals. This is the developed adult-like form after loss of larval fishing tentacles: NO two trailing long branched fishing tentacles. No invented eyes, teeth, red stomach, jellyfish umbrella, stingers, electric glow or opaque plastic. The few comb reflections come from external soft daylight, never neon rods. Do not curl the whole main body into a C or S. Keep both connected lobe tips and all auricle tips inside the frame.\nComposition: one upright whole animal in a clear near-frontal slight three-quarter view, aboral rounded end above, oral end below. Let one side be modestly nearer so the broad lobes and central auricles are not flattened into a symmetric diagram. The two broad oral lobes are moderately open in a compact loose V; they stay close to the main body and curve softly toward their rounded tips. Show the near auricles distinctly and the far ones only where transparency allows. The central oral region remains normal and small. Subject fills about 65 percent of image height. Plain calm Japanese coastal blue water, no other large animals or food, no seafloor or artificial tank. This scene introduces normal adult-form anatomy; it must not imply a particular feeding or escape event.",
+        "Use case: scientific-educational. Make one new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly texture, readable delicate transparent tissue, full subject with generous water margins, no writing, labels, arrows, inset, split panels, border, signature or watermark.\nSpecies: Bolinopsis mikado, the Japanese kabuto lobate comb jelly. A single nearly colorless transparent adult-form animal with a rounded aboral body that joins continuously to exactly TWO broad soft oral lobes, not detached wings. The lobes are substantial folds at the oral end, not two narrow long ribbons or jellyfish arms. FOUR much smaller narrow auricles attach in the oral region inside/between the broad lobes, and a modest mouth is at that central oral region. EIGHT longitudinal body comb rows made from many tiny transverse ciliary plates, with subdued far-side rows where tissue overlaps. Do not turn internal canals or the small auricular cilia into additional colored comb rows. Thin natural clear internal canals. This is the developed adult-like form after loss of larval fishing tentacles: NO two trailing long branched fishing tentacles. No invented eyes, teeth, red stomach, jellyfish umbrella, stingers, electric glow or opaque plastic. The few comb reflections come from external soft daylight, never neon rods. Do not curl the whole main body into a C or S. Keep both connected lobe tips and all auricle tips inside the frame.\nInput is only species and painterly-style reference. Build a genuinely new three-dimensional view from the ABORAL REAR END; do not rotate or mirror its original frontal silhouette.\nCamera/composition: the camera is high and close to the aboral rear pole, slightly off axis, looking along the body toward the far oral end. The rounded CLOSED aboral body cap is nearest at the RIGHT foreground and is the dominant broad oval in perspective. The oral end and the TWO broad oral lobes recede toward the LEFT BACKGROUND, seen smaller and somewhat overlapped behind the near rounded body. The main axis runs away from the camera in depth, not as a tall upright frontal oval. Show the outer aboral body surface and converging comb-row perspective. Hide the central mouth naturally behind the body; do not invent an open mouth on the closed aboral cap.\nPose: the two soft oral lobes are held much closer together than the wide-open feeding version, almost parallel in depth. Show their TWO distinct smoothly attached contours and their separate rounded tips peeking out toward the far left, with a narrow natural space rather than fusing them. Tiny oral auricles may be partly occluded at the far oral end; do not pretend all are equally visible through opaque overlaps. The main gelatinous body is not curved or folded. This is calm floating in coastal water, not a documented escape contraction. The EIGHT comb rows are spaced around the body; small transverse plates become subdued in far-side depth and can overlap, never extra laser arcs. Clear natural canals, gentle pale-blue externally lit transparency. No prey or other animal, no coral or seabed. Whole body and two lobe tips remain fully inside the landscape 3:2 frame with 12 percent water margins. Required observable difference: near ABORAL exterior and small far oral end in true depth, combined with closer oral lobes, rather than the original front mouth/inner-lobe view."
+      ],
+      "generatedAt": "2026-10-11T15:10:21.174Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "fc9fe92dd5f6d944296bb28c70bbd82610a3c095ae7be9ae077d730acab363ae",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "기관의 연안 부유/빗판 추진 근거에 따른 시점 재구성. 이 특정 엽 모임을 도피·수축 행동으로 확정하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Kamo Aquarium — カブトクラゲ / Bolinopsis mikado",
+          "url": "https://kamo-kurage.jp/shonaikurage/kabutokurage/"
+        },
+        {
+          "title": "Niigata University — カブトクラゲ / Bolinopsis mikado",
+          "url": "https://www.sc.niigata-u.ac.jp/sc/sadomarine/marinelife/kabutokurage.html"
+        },
+        {
+          "title": "Kasuya, Ishimaru & Murano 2002 — Laboratory study of growth of Bolinopsis mikado",
+          "url": "https://plankton.jp/PBE/issue/vol49_2/vol49_2_081.pdf"
+        }
+      ]
+    },
+    {
+      "id": "mikado-comb-jelly",
+      "src": "assets/images/mikado-comb-jelly-chatgpt-life-cycle-larva-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "어린 감투빗해파리 · 아직 남아 있는 두 촉수",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "작은 투명한 몸에 작은 초기 입쪽 두 엽과 몸에 연결된 두 긴 주촉수가 있다. 가까운 촉수는 왼쪽 아래, 먼 촉수는 오른쪽 위로 다른 끝까지 이어진다. 완성된 성체 네 구강 돌기와 큰 엽을 합성하지 않았다. Kasuya Fig1A의6mm 초기 형태와 큰 특징을 대조했다.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create one landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Realistic, restrained painterly transparent-tissue style, clean pale-blue coastal seawater and soft external daylight. No words, numbers, ruler, arrows, labels, inset, split panel, border, logo or watermark.\nSubject is exactly ONE larval Bolinopsis mikado comb jelly at the approximately 6-mm total-length developmental form documented in Kasuya, Ishimaru and Murano 2002, Fig.1A. This is a young cydippid-like stage, NOT the fully developed large lobate adult. Rounded small transparent oval body, EIGHT longitudinal comb rows made of tiny transverse ciliary plates reflecting daylight. A PAIR of long thin fishing tentacles emerges from two opposed connected sheaths on the lateral body, with sparse very fine side tentilla. Each tentacle has one continuous main thread from visible root to its single end. TWO tiny oral-lobe buds are just beginning at the oral end; they are modest little rounded folds, not the adult's two enormous wings. Do not put four fully developed adult auricles into this early stage: the primary culture study says auricles generally begin around 10 mm, later than this depicted 6-mm form. No mature broad adult lobes, jellyfish umbrella, sting fringe, eyes, teeth, red stomach, opaque plastic or glowing neon.\nCamera: a genuinely lateral oblique macro view, slightly above one side. The body is oval rather than frontally symmetrical; the closed aboral end faces upper-left, the small oral end lower-right, and the far body surface recedes in depth. Main body remains unbent. Body occupies only about one third of the frame width to allow every fishing thread and branch to fit. Two fine tentacles extend in visibly different gentle sweeping paths: near-side one toward the lower-left then curling upward once; far-side one toward the upper-right then curling downward once. Show their different depth and their continuous body connections; keep both tips and all side tentilla comfortably inside the frame with generous 15 percent water margins. Do not split either main tentacle into several main roots or fuse the two together. No prey, feeding success or exact age/sex assertion. The meaningful new scene is developmental morphology with small lobe buds and two retained long tentacles, seen laterally, rather than a rotated adult portrait. Subtle internal clear canals, very restrained ciliary reflections, no invented colorful anatomy."
+      ],
+      "generatedAt": "2026-10-11T15:12:16.132Z",
+      "checkedAt": "2026-10-12",
+      "sha256": "7c1c8dfb0ace0ee522e8dfff646680c4f14dc5e93001d45ca3d31f9247172a6a",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "Kasuya2002의 약6mm 유생 Fig1A와 본문에 따른 성장 형태 재구성. 정확한 나이·성별·이 특정 촉수 곡선의 관찰 사례를 주장하지 않음. 10mm 전후 발달하는 귀 모양 기관과 성체의 큰 두 엽을 혼합하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Kasuya, Ishimaru & Murano 2002 — Laboratory study of growth of Bolinopsis mikado",
+          "url": "https://plankton.jp/PBE/issue/vol49_2/vol49_2_081.pdf"
+        }
+      ]
     }
   ]
 }
