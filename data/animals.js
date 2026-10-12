@@ -9034,5 +9034,599 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "pacific-blackdragon",
+    "name": "태평양블랙드래곤피시",
+    "scientificName": "Idiacanthus antrostomus",
+    "group": "어류",
+    "habitatIds": [
+      "deep",
+      "pelagic"
+    ],
+    "summary": "다 자란 암컷은 길고 검은 몸과 턱 아래 수염을 가져요. 어린 물고기는 투명하고 아주 가늘며, 긴 자루 끝에 눈이 달려 있어요.",
+    "identity": [
+      "목차의 성어와 치어는 같은 종이에요. 다 자란 암컷은 작은 머리, 긴 등지느러미와 턱수염을 가지며 가슴지느러미는 없어요.",
+      "어린 단계에는 납작한 머리, 긴 눈자루 끝의 타원형 눈과 몸에 연결된 늘어진 창자가 보여요. 자라면서 모습이 크게 바뀌어요."
+    ],
+    "ecology": "낮에는 깊은 물에 있다가 밤에 수면 쪽으로 올라와요. 알과 어린 물고기는 물속을 떠다녀요. 수컷과 암컷의 크기와 모습이 많이 달라요.",
+    "diet": "주로 작은 물고기와 갑각류를 먹어요.",
+    "range": "동태평양의 열대와 온대 바다에 살아요. MBARI는 몬터레이만에서도 이 종을 관찰했어요.",
+    "size": "암컷은 전체길이 최대38 cm 기록이 있어요. NOAA 초기생활사 자료의 어린 단계는 표준길이4.5–71 mm이며, 두 길이 기준은 달라요.",
+    "depth": "FishBase에0–1103 m 기록이 있어요. 여러 성장 단계와 밤낮 이동을 포함한 범위이며, 모든 개체가 이 범위 전체를 이용한다는 뜻은 아니에요.",
+    "depthZoneIds": [
+      "sunlight",
+      "twilight",
+      "midnight"
+    ],
+    "aliases": [
+      "Pacific blackdragon",
+      "ミツマタヤリウオ",
+      "태평양블랙드래곤피시 성어",
+      "태평양블랙드래곤피시 치어"
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-12",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "feedingUnconfirmed": false,
+    "sources": [
+      {
+        "title": "FishBase — Idiacanthus antrostomus (Pacific blackdragon)",
+        "url": "https://www.fishbase.se/summary/11585"
+      },
+      {
+        "title": "NOAA Technical Report NMFS80 — Idiacanthus antrostomus, printed120–121",
+        "url": "https://spo.nmfs.noaa.gov/sites/default/files/tr80opt_0_0.pdf"
+      },
+      {
+        "title": "NOAA Alaska Fisheries Science Center — Idiacanthus antrostomus meristics",
+        "url": "https://apps-afsc.fisheries.noaa.gov/ichthyo/LHDataMerGS.php?GSID=Idiacanthus%21antrostomus"
+      },
+      {
+        "title": "MBARI — Dragonfish",
+        "url": "https://www.mbari.org/animal/dragonfish/"
+      },
+      {
+        "title": "FAO — Idiacanthidae morphology, printed1914–1915",
+        "url": "https://www.fao.org/4/x2401e/x2401e39.pdf"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "pacific-blackdragon",
+        "src": "assets/images/pacific-blackdragon-chatgpt-portrait-female-side-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "태평양블랙드래곤피시 · 다 자란 암컷의 긴 몸",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한쪽 작은 정상 눈과 작은 머리에서 매우 긴 검은 몸이 이어지고 턱 아래 단일 수염의 뿌리와 끝이 연결된다. 가슴지느러미는 노출된 아가미 뒤에 보이지 않으며 중간 복부에는 배지느러미 두 윤곽이 있다. 등지느러미는 몸 중간보다 앞에서 시작해 꼬리자루 쪽으로 길게 이어지고, 아래의 뒷지느러미는 더 뒤에서 시작하는 짧은 기부다. 몸통/좁은 꼬리자루/갈라진 꼬리가 연속되며 규칙적 육각 비늘무늬나 이마 낚싯대는 없다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. Show a living adult FEMALE Pacific blackdragon, Idiacanthus antrostomus, reconstructed from species sources. Very elongate eel-like, slightly compressed slender black body with a SMALL head, short snout, normal small dark eyes and large jaw with thin fang-like teeth. Smooth scaleless black skin without regular hexagonal or diamond scale patterns. A SINGLE chin barbel continuously attached beneath the lower jaw, with a restrained tiny luminous terminal tip; no forehead lure, stalked adult eyes, protruding cheek lamp or laser. Adult has NO PECTORAL FINS, not even a tiny pair near the gill. A small pair of abdominal pelvic fins belongs farther back on the belly of this FEMALE. A single long soft-rayed dorsal fin begins well before the body's midpoint and continues toward the narrow caudal peduncle; anal fin begins farther back under the middle of the dorsal and has about half its base length. Numerous fine SOFT flexible rays with delicate attached basal webbing, not bony spikes, isolated needles or a short rear-only dorsal. A small forked tail joins its own tapering caudal peduncle continuously. Subtle ventrolateral photophore rows, not solid neon stripes; eye itself never glows. Fine rays need not be exaggerated into individually countable thick poles. Complete head, barbel tip, whole body and all visible pelvic/dorsal/anal/tail tips inside frame with broad12% water margins. Dark blue open water, restrained soft fill light enough to read the anatomy; no seabed or coral, no text, labels, scale bars, arrows, panels, grid, pasted duplicates, detached anatomy or watermark. An educational reconstruction, not an observed individual, measured specimen or photograph. Scene: ONE whole adult female in a true LEFT lateral profile, head left and forked tail right. The narrow whole fish occupies about65% of frame width. Almost straight quiet swimming body, mouth closed or only a very narrow jaw slit, single chin barbel hanging with a slight gentle curve. Pelvic fins modestly fanned, dorsal fin softly extended. Near-side eye visible; far-side eye naturally occluded, not duplicated on the cheek. Show the long dorsal's early origin and later shorter anal origin clearly. No prey."
+        ],
+        "generatedAt": "2026-10-12T01:30:58.467Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "9c1e8f082cd6abc97f3ecc4a3a57ac1c41c85766a2ec1c49e9b5bb718539ce30",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "pacific-blackdragon",
+        "src": "assets/images/pacific-blackdragon-chatgpt-feeding-front-turn-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "태평양블랙드래곤피시 · 작은 물고기를 향해 돌아요",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "가까운 앞머리에서 두 정상 눈과 열린 큰 입/턱밑에 부착된 단일 수염이 읽힌다. 작은 두 코구멍은 눈보다 훨씬 작고 정상 위치에 있어 추가 눈으로 판단하지 않았다. 몸은 뒤로 가늘어지며 계속 이어지고 긴 등기부/더 뒤의 짧은 뒷기부/갈라진 꼬리가 붙는다. 아가미 뒤 가슴지느러미는 보이지 않으며 복부의 작은 배지느러미 윤곽 두 개가 읽힌다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. Show a living adult FEMALE Pacific blackdragon, Idiacanthus antrostomus, reconstructed from species sources. Very elongate eel-like, slightly compressed slender black body with a SMALL head, short snout, normal small dark eyes and large jaw with thin fang-like teeth. Smooth scaleless black skin without regular hexagonal or diamond scale patterns. A SINGLE chin barbel continuously attached beneath the lower jaw, with a restrained tiny luminous terminal tip; no forehead lure, stalked adult eyes, protruding cheek lamp or laser. Adult has NO PECTORAL FINS, not even a tiny pair near the gill. A small pair of abdominal pelvic fins belongs farther back on the belly of this FEMALE. A single long soft-rayed dorsal fin begins well before the body's midpoint and continues toward the narrow caudal peduncle; anal fin begins farther back under the middle of the dorsal and has about half its base length. Numerous fine SOFT flexible rays with delicate attached basal webbing, not bony spikes, isolated needles or a short rear-only dorsal. A small forked tail joins its own tapering caudal peduncle continuously. Subtle ventrolateral photophore rows, not solid neon stripes; eye itself never glows. Fine rays need not be exaggerated into individually countable thick poles. Complete head, barbel tip, whole body and all visible pelvic/dorsal/anal/tail tips inside frame with broad12% water margins. Dark blue open water, restrained soft fill light enough to read the anatomy; no seabed or coral, no text, labels, scale bars, arrows, panels, grid, pasted duplicates, detached anatomy or watermark. An educational reconstruction, not an observed individual, measured specimen or photograph. Scene: ONE whole adult female in a true LEFT lateral profile, head left and forked tail right. The narrow whole fish occupies about65% of frame width. Almost straight quiet swimming body, mouth closed or only a very narrow jaw slit, single chin barbel hanging with a slight gentle curve. Pelvic fins modestly fanned, dorsal fin softly extended. Near-side eye visible; far-side eye naturally occluded, not duplicated on the cheek. Show the long dorsal's early origin and later shorter anal origin clearly. No prey.",
+          "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. Show a living adult FEMALE Pacific blackdragon, Idiacanthus antrostomus, reconstructed from species sources. Very elongate eel-like, slightly compressed slender black body with a SMALL head, short snout, normal small dark eyes and large jaw with thin fang-like teeth. Smooth scaleless black skin without regular hexagonal or diamond scale patterns. A SINGLE chin barbel continuously attached beneath the lower jaw, with a restrained tiny luminous terminal tip; no forehead lure, stalked adult eyes, protruding cheek lamp or laser. Adult has NO PECTORAL FINS, not even a tiny pair near the gill. A small pair of abdominal pelvic fins belongs farther back on the belly of this FEMALE. A single long soft-rayed dorsal fin begins well before the body's midpoint and continues toward the narrow caudal peduncle; anal fin begins farther back under the middle of the dorsal and has about half its base length. Numerous fine SOFT flexible rays with delicate attached basal webbing, not bony spikes, isolated needles or a short rear-only dorsal. A small forked tail joins its own tapering caudal peduncle continuously. Subtle ventrolateral photophore rows, not solid neon stripes; eye itself never glows. Fine rays need not be exaggerated into individually countable thick poles. Complete head, barbel tip, whole body and all visible pelvic/dorsal/anal/tail tips inside frame with broad12% water margins. Dark blue open water, restrained soft fill light enough to read the anatomy; no seabed or coral, no text, labels, scale bars, arrows, panels, grid, pasted duplicates, detached anatomy or watermark. An educational reconstruction, not an observed individual, measured specimen or photograph. The input portrait is ONLY a species identity and painted-style reference. Redraw a genuinely new three-dimensional camera and body/fin state; do not preserve its silhouette, mirror it, rotate it on the page or merely change background. Scene: ONE whole adult female and ONE much smaller generic silvery fish OUTSIDE its mouth. Strong LOW FRONT three-quarter camera: near head and open jaw are larger at center-left, some underside visible, the slender body recedes away toward upper right with its complete forked tail smaller in the distance. A gentle real C-turn in body as the jaw opens toward the little prey; single attached chin barbel curves down and aside, never impales the prey. The small abdominal pelvic pair farther back on the belly is slightly spread, but NEVER substitute pectoral fins under the head. Thin dorsal/anal soft membranes follow the actual depth curve. Keep enough side view to read the continuous long body, not a giant spherical anglerfish head. No swallowed prey, blood, attack wound, exact hunt-success claim or glowing beam.",
+          "Use case: precise-object-edit and scientific-educational. Edit this Idiacanthus antrostomus adult FEMALE natural-history illustration into a genuinely new LOW FRONT view, not the current flat left side view. Preserve its species identity and painterly style, long smooth scaleless black body, small actual skull relative to total anatomical length, long soft-rayed dorsal beginning before midbody, later anal fin, one attached chin barbel, small abdominal pelvic pair and continuous small forked tail. NO pectoral fins anywhere under the head or gills, no bony dorsal spines, hexagonal scales or glowing eyes. REDRAW all the foreground fish geometry from directly IN FRONT and slightly BELOW the jaws. The mouth's front opening faces camera at center-left with BOTH normal eyes visible on opposite sides of the head, far eye slightly smaller. The UNDER-JAW and belly surfaces must be clear, rather than the broad single lateral cheek. Head is nearest, narrow whole body passes BEHIND it and recedes up-right through a gentle C curve to a MUCH SMALLER distant forked tail; severe but biologically natural depth foreshortening must shorten the projected fish body. This is a small-head long-bodied fish viewed close to the head, not an anglerfish with a giant biological head. Both abdominal pelvic fins are far behind the gill on the belly and naturally foreshortened; dorsal and anal membranes follow the connected body's depth curve. Mouth open modestly toward ONE small silvery fish outside the mouth at left foreground. Thin teeth remain attached to jaw; a clear continuous mouth floor membrane, not loosejaw wire bones. Single chin barbel hangs from lower-jaw midpoint downward and sideways in a gentle curve; one terminal point, no extra lure. Keep all head/tail/fins/barbel/prey tips in frame with generous10% margins. No swallowed prey, wounds, beams, background changes as a substitute for new geometry, duplicated anatomy, text or panels."
+        ],
+        "generatedAt": "2026-10-12T01:34:31.230Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "e313e6e41c2c92aeb115889435691e1130143f727915dac83019c46f81e08a56",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "FishBase의 종별 작은 물고기 식단에 따른 먹이 접근 교육 재구성. 특정 먹이 종/크기비/실제 포획·삼킴이나 수염으로 이 먹이를 유인한 관찰 사례는 주장하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "FishBase — Idiacanthus antrostomus (Pacific blackdragon)",
+            "url": "https://www.fishbase.se/summary/11585"
+          },
+          {
+            "title": "NOAA Alaska Fisheries Science Center — Idiacanthus antrostomus meristics",
+            "url": "https://apps-afsc.fisheries.noaa.gov/ichthyo/LHDataMerGS.php?GSID=Idiacanthus%21antrostomus"
+          }
+        ]
+      },
+      {
+        "id": "pacific-blackdragon",
+        "src": "assets/images/pacific-blackdragon-chatgpt-ecology-rear-ascent-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "태평양블랙드래곤피시 · 밤에는 위쪽 물로 이동해요",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "큰 가까운 갈라진 꼬리에서 좁은 꼬리자루, S로 굽은 검은 몸과 위쪽 작은 먼 머리까지 연속된다. 긴 등지느러미가 굽은 등을 따라 붙고 아래쪽 더 짧은 뒷지느러미 일부가 보인다. 단일 턱수염은 먼 머리 아래와 연결되며 노출된 머리 뒤의 가슴지느러미는 보이지 않는다. 복부 핀 윤곽은 몸의 중간에 있으나 양쪽 뿌리는 일부 가려진다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. Show a living adult FEMALE Pacific blackdragon, Idiacanthus antrostomus, reconstructed from species sources. Very elongate eel-like, slightly compressed slender black body with a SMALL head, short snout, normal small dark eyes and large jaw with thin fang-like teeth. Smooth scaleless black skin without regular hexagonal or diamond scale patterns. A SINGLE chin barbel continuously attached beneath the lower jaw, with a restrained tiny luminous terminal tip; no forehead lure, stalked adult eyes, protruding cheek lamp or laser. Adult has NO PECTORAL FINS, not even a tiny pair near the gill. A small pair of abdominal pelvic fins belongs farther back on the belly of this FEMALE. A single long soft-rayed dorsal fin begins well before the body's midpoint and continues toward the narrow caudal peduncle; anal fin begins farther back under the middle of the dorsal and has about half its base length. Numerous fine SOFT flexible rays with delicate attached basal webbing, not bony spikes, isolated needles or a short rear-only dorsal. A small forked tail joins its own tapering caudal peduncle continuously. Subtle ventrolateral photophore rows, not solid neon stripes; eye itself never glows. Fine rays need not be exaggerated into individually countable thick poles. Complete head, barbel tip, whole body and all visible pelvic/dorsal/anal/tail tips inside frame with broad12% water margins. Dark blue open water, restrained soft fill light enough to read the anatomy; no seabed or coral, no text, labels, scale bars, arrows, panels, grid, pasted duplicates, detached anatomy or watermark. An educational reconstruction, not an observed individual, measured specimen or photograph. Scene: ONE whole adult female in a true LEFT lateral profile, head left and forked tail right. The narrow whole fish occupies about65% of frame width. Almost straight quiet swimming body, mouth closed or only a very narrow jaw slit, single chin barbel hanging with a slight gentle curve. Pelvic fins modestly fanned, dorsal fin softly extended. Near-side eye visible; far-side eye naturally occluded, not duplicated on the cheek. Show the long dorsal's early origin and later shorter anal origin clearly. No prey.",
+          "Use case: scientific-educational. Create ONE original landscape 3:2 realistic painted natural-history Sea Atlas illustration for children ages 5–12. Show a living adult FEMALE Pacific blackdragon, Idiacanthus antrostomus, reconstructed from species sources. Very elongate eel-like, slightly compressed slender black body with a SMALL head, short snout, normal small dark eyes and large jaw with thin fang-like teeth. Smooth scaleless black skin without regular hexagonal or diamond scale patterns. A SINGLE chin barbel continuously attached beneath the lower jaw, with a restrained tiny luminous terminal tip; no forehead lure, stalked adult eyes, protruding cheek lamp or laser. Adult has NO PECTORAL FINS, not even a tiny pair near the gill. A small pair of abdominal pelvic fins belongs farther back on the belly of this FEMALE. A single long soft-rayed dorsal fin begins well before the body's midpoint and continues toward the narrow caudal peduncle; anal fin begins farther back under the middle of the dorsal and has about half its base length. Numerous fine SOFT flexible rays with delicate attached basal webbing, not bony spikes, isolated needles or a short rear-only dorsal. A small forked tail joins its own tapering caudal peduncle continuously. Subtle ventrolateral photophore rows, not solid neon stripes; eye itself never glows. Fine rays need not be exaggerated into individually countable thick poles. Complete head, barbel tip, whole body and all visible pelvic/dorsal/anal/tail tips inside frame with broad12% water margins. Dark blue open water, restrained soft fill light enough to read the anatomy; no seabed or coral, no text, labels, scale bars, arrows, panels, grid, pasted duplicates, detached anatomy or watermark. An educational reconstruction, not an observed individual, measured specimen or photograph. The input portrait is ONLY a species identity and painted-style reference. Redraw a genuinely new three-dimensional camera and body/fin state; do not preserve its silhouette, mirror it, rotate it on the page or merely change background. Scene: ONE whole adult female ascending through open blue water at night, no prey. Strong HIGH REAR three-quarter view: the narrow connected forked tail is nearest/largest near lower right, back visible, the body gently S-curves AWAY into depth toward a smaller far head at upper left. Near-tail/far-head 3D perspective must be unambiguous, not a turned lateral silhouette. Mouth closed, paired abdominal pelvics held nearer the body rather than fanned as in feeding, long dorsal membrane seen edge-on partly along the curved back and anal fin naturally partly hidden by body. Keep the complete single chin barbel attached and within frame near the distant head. Softly lighter water above suggests ascent, but only the genuine camera/body/fin changes count as pose variation. All fin bases and forked tail remain continuous; no extra fish, pectoral fins or neon body.",
+          "Use case: precise-object-edit and scientific-educational. Redraw the adult FEMALE Pacific blackdragon Idiacanthus antrostomus in this image from a MUCH STRONGER truly HIGH REAR camera, looking FORWARD ALONG ITS BACK from near the tail toward a distant small head. The current image is too much a broad left flank rotated diagonally. Preserve species identity and painted style, but replace all camera/body/fin geometry; do NOT retain that lateral silhouette, mirror it or just tilt the frame. Compose the WHOLE single fish mostly vertically into depth: its connected FORKED TAIL is nearest at LOWER CENTER, large in perspective, narrow caudal peduncle recedes upward from this tail; back and long dorsal fin lead AWAY through a gentle real S-turn to a MUCH SMALLER HEAD at upper center. The projected whole body is dramatically shorter due to rear foreshortening, not a long flat diagonal fish. The distant head is facing AWAY, showing mostly the rear/top of the skull: do NOT show the large broad cheek or frontal face; normal eyes naturally hidden on the far sides, no false eyes on the back. Its single chin barbel may be a fine partly visible attached line far ahead, not a tail cord. Show top/back surfaces strongly, suppress most of the broad side and belly. A restrained tail sweep and natural S-curved body change fin angles in depth; small abdominal pelvic pair held CLOSER to the belly rather than the spread pair of feeding, anal fin naturally occluded beneath rear body. Retain smooth scaleless black skin, adult NO pectoral fins, long soft-rayed dorsal beginning before midbody and ending before the attached forked tail, later shorter anal, no short posterior-only dorsal, bony spines or regular hexagonal skin. Fine soft fin-ray membranes stay attached to the same own curved body; no extra fin branches or disconnected tail lobes. The near tail can look larger than the distant head only because of clearly coherent depth perspective. Whole tail, head, barbel and visible fin tips within12% water margins. Gentle open-water NIGHT ascent, restrained lighter water far above, no prey or predator, no claim of exact field swimming pose, text, arrows or panels."
+        ],
+        "generatedAt": "2026-10-12T01:41:22.058Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "4d12486a2de4d0e5131559fc0116afa136a54e8928ff2e9cc14811cb17cea60a",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "종 자료의 밤 수면 쪽 이동·새벽 하강에 근거한 교육 재구성. 정확한 수심·시간·수영 속도나 그 S자세의 현장 관찰을 확정하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "FishBase — Idiacanthus antrostomus (Pacific blackdragon)",
+            "url": "https://www.fishbase.se/summary/11585"
+          },
+          {
+            "title": "NOAA Alaska Fisheries Science Center — Idiacanthus antrostomus meristics",
+            "url": "https://apps-afsc.fisheries.noaa.gov/ichthyo/LHDataMerGS.php?GSID=Idiacanthus%21antrostomus"
+          }
+        ]
+      },
+      {
+        "id": "pacific-blackdragon",
+        "src": "assets/images/pacific-blackdragon-chatgpt-life-cycle-stalk-eyed-larva-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "태평양블랙드래곤피시 · 어린 물고기의 긴 눈자루",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "아주 가는 투명한 몸과 길고 납작한 머리가 이어진다. 머리에서 뒤/바깥으로 뻗는 두 가는 눈자루에 각각 타원형 검은 끝눈 하나가 붙어 있고 머리 표면에 추가 정상 눈은 없다. 작은 투명 앞핀 조직, 낮은 finfold/뒤 발달 핀과 연결된 꼬리, 몸 아래에서 뒤로 긴 창자가 읽힌다. 검은 성어 피부·큰 치아·성체 턱수염·성체 복부 배핀은 없다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Create ONE landscape 3:2 realistic painted natural-history illustration of the PRE-TRANSFORMATION stalk-eyed LARVA of Pacific blackdragon, Idiacanthus antrostomus, one species with the adult blackdragon. Source morphology is NOAA NMFS Technical Report80 printed120–121,55mm larval diagram. The reference is factual morphology, not a template for copied labels or black-and-white style. ONE extremely slender almost-transparent thread-like fish with an elongate FLAT small head and a modest gentle S-curve through the whole continuous body. Slightly elevated FRONT-SIDE three-quarter camera, head nearer at left and narrow body receding to the right; whole anatomy legible, not an extreme head-only macro. EXACTLY TWO elongated eye stalks attached to the sides of the flat head, each supported by a fine transparent cartilage ribbon/rod and each ending in ONE ELLIPTICAL dark eye. Stalks are very long, about a quarter of larval body length as a morphological guide, running BACKWARD and slightly OUTWARD alongside/above the front body, not short vertical snail horns or detached discs. Arrange the near stalk slightly outward-down and far stalk outward-up so both root-to-terminal-eye connections can be followed. The eyes exist ONLY at these two tips: no extra eye on the head, no extra third stalk, no spherical glowing lanterns or dark V-shaped antenna rods. A fine long TRAILING GUT exits continuously from the ventral body and extends past the tail as one delicate transparent tube with sparse tiny dark pigment marks; distinguish this from body/tail and eyes, do not make a detached worm, cable or second fish. Sparse tiny segment-associated dark melanophores, a small delicate finfold and modest developing posterior soft fins appropriate to the larva. Larval pectorals may be tiny transparent tissue near the front if visible; NO adult abdominal pelvic pair, female chin lure, black adult skin, huge adult fangs or neon photophores. The long body, attached stalks with both elliptical eye tips, posterior fins, single connected tail and trailing-gut tip all fully inside frame with at least12% water margins. Quiet planktonic blue open water, fine restrained fill illumination. This is a source-based life-stage reconstruction, not an exact measured55mm specimen, sexed individual, age determination or field observation. No prey, text, measurement marks, labels, arrows, grid, panels, watermark or copied diagram.",
+          "Use case: precise-object-edit and scientific-educational. Correct only the larval identity details and margins in this Pacific blackdragon Idiacanthus antrostomus illustration. Preserve the transparent very slender connected fish body, overall gentle curved swimming pose, TWO long backward/outward cartilage-supported stalks with ELLIPTICAL dark eyes at their tips, connected tail, and ONE long transparent trailing gut with sparse pigment marks. Critical correction: remove the EXTRA circular eye currently on the side of the fish's HEAD completely. The head has NO eyeball, pupil, iris, dark oval eye spot, eye ring or eye socket at all. There are exactly TWO eyes in this whole animal, only one at each distant stalk tip; do not add any others. Make the head visibly more ELONGATE and FLAT, a narrow transparent blade-like small head with a fine tiny closed jaw slit and sparse irregular pigment dots, not an ordinary fat baby-fish face; leave both eye-stalk roots continuously attached near its sides. Reduce the prominent long tall ray-like dorsal into a VERY LOW delicate larval finfold along the slender body, with only modest developing soft-rayed fin tissue localized in the POSTERIOR part near the tail. Likewise keep the small developing posterior anal fin, no adult abdominal pelvic pair. The larva may retain tiny transparent pectorals near its front; these are not adult fins. No adult chin lure, black skin, sharp huge adult fangs or glowing photophores. Keep the gut emerging continuously from the ventral body near the rear and trailing past the tail, with no break or detached extra worm. Shrink/recenter the complete composition slightly so EVERY eye tip, head, fin/tail tip and trailing-gut end has broad minimum10% water margin, especially the gut end at right. Match the source's pre-transformation morphology, not adult anatomy. No text, labels, measurement marks, diagram panels, extra animals or watermark."
+        ],
+        "generatedAt": "2026-10-12T01:38:51.600Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "35d48c464393a024768ebeeb8bab26aaa6a8682669681b72d8fb22615829360f",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "NOAA 인쇄120–121의 본종 초기생활사와55mm 도해에 근거한 성장 형태 재구성. 치어를 새 종으로 추가하지 않으며 생성 개체의 정확한 나이·길이·수심은 미확인. 6mm 등 다른 성장 기준/종과 섞지 않음.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Technical Report NMFS80 — Idiacanthus antrostomus, printed120–121",
+            "url": "https://spo.nmfs.noaa.gov/sites/default/files/tr80opt_0_0.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glass-octopus",
+    "name": "유리문어",
+    "scientificName": "Vitreledonella richardi",
+    "group": "연체동물",
+    "habitatIds": [
+      "deep"
+    ],
+    "summary": "몸과 여덟 팔이 거의 투명한 문어예요. 작은 눈과 길쭉한 소화기관은 몸 안에서 잘 보여요.",
+    "identity": [
+      "말랑한 몸과 팔 사이의 막이 거의 투명해요. 팔에는 작은 빨판이 한 줄씩 붙어 있어요.",
+      "눈은 옆을 바라보는 길쭉한 모양이에요. 몸 안에는 가느다란 소화기관과 눈에 이어진 긴 신경이 비쳐 보여요."
+    ],
+    "ecology": "바닥에 붙어 살기보다 바다의 물속에서 떠다니며 헤엄쳐요. 투명한 몸 안의 길쭉한 소화기관을 세운 채 움직이는 모습도 관찰됐어요.",
+    "diet": "구체적으로 어떤 먹이를 어떻게 잡는지는 이번에 확인한 기관 자료만으로 알기 어려워요. 더 많은 관찰이 필요해요.",
+    "range": "전 세계의 열대와 아열대 바다에 널리 기록됐어요. FAO 도감에는 온대 바다의 기록도 포함돼요.",
+    "size": "FAO 도감에 몸통 길이 최대 약 11 cm, 팔을 포함한 전체 길이 약 45 cm로 소개돼요.",
+    "depth": "FAO는 수면 가까운 곳부터 적어도 1,000 m 깊이까지 기록됐다고 소개해요. 2021년 탐사에서 본 한 개체의 680 m는 특정 관측의 수심이에요.",
+    "depthZoneIds": [
+      "sunlight",
+      "twilight",
+      "midnight"
+    ],
+    "aliases": [
+      "Glass octopus",
+      "Glass octopod",
+      "スカシダコ"
+    ],
+    "featured": false,
+    "checkedAt": "2026-10-12",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "feedingUnconfirmed": true,
+    "feedingUnconfirmedReason": "FAO 본종·과 계정은 생태와 행동 정보가 적다고 밝히며 Schmidt의 살아 있는 두 개체 탐사 기사도 먹이 종류·직접 포획 행동을 보고하지 않는다. 현재 실제 읽은 자료로 본종의 특정 먹이나 포식 장면을 뒷받침할 수 없으므로 feeding을 만들지 않고 대표 1장+관찰 ecology 3장으로 대체한다.",
+    "sources": [
+      {
+        "title": "FAO 2014 — Cephalopods of the World Vol.3, Vitreledonella richardi, printed pp.223–224 and Plate X/75",
+        "url": "https://www.fao.org/4/i3489e/i3489e.pdf"
+      },
+      {
+        "title": "Schmidt Ocean Institute 2021 — two live glass-octopus observations",
+        "url": "https://schmidtocean.org/scientists-explore-seamounts-in-phoenix-islands-archipelago-gaining-new-insights-into-deep-water-diversity-and-ecology/"
+      },
+      {
+        "title": "Schmidt Ocean Institute — first expedition observation at 680 m",
+        "url": "https://schmidtocean.org/cruise-log-post/244-coral-samples-14-seamounts-and-2-glass-octopuses/"
+      },
+      {
+        "title": "Tree of Life — Richard Young and cephalopod specialists, Vitreledonella richardi",
+        "url": "https://tolweb.org/Vitreledonella_richardi/149589"
+      },
+      {
+        "title": "Naturalis — Zooplankton of the South Atlantic Ocean, Vitreledonella richardi",
+        "url": "https://sat-zooplankton.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=26058"
+      }
+    ],
+    "gallery": [
+      {
+        "id": "glass-octopus",
+        "src": "assets/images/glass-octopus-chatgpt-portrait-front-oblique-v3.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "유리문어 · 몸이 거의 투명해요",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "거의투명한 외투막·머리·팔막, 작고세로로긴납작한눈몸과옆렌즈, 가느다란방추소화샘 확인. 근측다섯과원측세 끝이읽히며 팔관/막은연속. 읽히는팔의빨판은주로단일열이고원측뿌리는가림.",
+        "generationPrompts": [
+          "Scientific natural-history illustration of a REAL GLASS OCTOPUS, Vitreledonella richardi. A soft, almost colorless gelatinous pelagic octopus with transparent deep arm webs, long slender arms and SMALL BLACK RECTANGULAR EYES. The defining eyes are the first priority: TWO SMALL UPRIGHT BLACK RECTANGULAR EYE BODIES, laterally flattened like thin vertically oriented rectangular tissue columns on the SIDES of the narrow head. Their visible silhouettes are dark vertical RECTANGLES, height roughly twice width, with straight parallel sides and nearly flat top and bottom. They are opaque black tissue masses with restrained transparent small lateral lens detail, not golden eyes, not round eyes, not slit pupils surrounded by round irises, not tall external telescopes. Do not substitute ordinary octopus eyeballs. Keep the eye organs SMALL, roughly one-seventh of mantle length, physically joined to the lateral head with faint long internal optic nerves. This species' eye in lateral view is nearly rectangular, while the lateral optical lens is a minor feature and should not change that overall rectangular silhouette.\n\nNatural refined realistic painterly children's atlas style, landscape 3:2, dark navy open-ocean water, soft neutral observation illumination without neon halos, sparse marine snow. ONE WHOLE animal, no typography, inset, frame, label, vehicle, human, prey or egg. The entire animal occupies about 75–80% of image width/height with 8–12% clear frame margin around every arm end.\n\nSmall elongate-oval rounded mantle ABOVE the narrow head, transparent with just scattered tiny orange pigment dots. A thin spindle-shaped beige opaque digestive gland stands VERTICALLY inside the mantle, not a bulky orange gut. No fins. Exactly EIGHT long tapering soft arms are attached to ONE common arm crown, and their proximal halves are joined by a deep, continuous, clear web, about half the arm length. Each arm bears ONE sparse longitudinal sucker row; small proximal suckers and slightly larger, closer distal suckers. No second row or cirri. Arms around two mantle lengths so the mantle does not dwarf them. No detached roots or ninth appendage. Soft water-filled tissues, no hard glass facets.\n\nPOSE AND CAMERA FOR THE REPRESENTATIVE: front-oblique three-quarter view slightly above the animal, so the near side of head and near eye are clear and far rectangular eye partly turned away. Mantle upright in upper-right-back, arm crown in lower-left foreground. Deep web forms an asymmetrically open shallow cup; eight long arms fan loosely with different natural arcs, not a symmetric star. Two near arms gently bend toward the camera, three fan sideways, other three trail at different depths. Some narrow tips curl while others extend. This is a neutral free-water observation, not hunting, arm attack or exact motion phase. Internal gland stays vertically narrow. Body is almost transparent but opaque rectangular eyes and slender gland remain readable."
+        ],
+        "generatedAt": "2026-10-12T01:32:34.366Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "bdad6ac8b567d9b56db69bb7db1dc335e64d02f3952925218cf6d15245314dbc",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "glass-octopus",
+        "src": "assets/images/glass-octopus-chatgpt-ecology-side-swimming-v3.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "유리문어 · 긴 팔을 모아 헤엄쳐요",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한쪽납작세로눈과옆렌즈,위로선거의투명외투막과좁은세로샘,아래이어진깊은팔막과긴팔연결을확인. 읽히는빨판은단일열이며뒤쪽중첩은한계.",
+        "generationPrompts": [
+          "Scientific natural-history illustration of a REAL GLASS OCTOPUS, Vitreledonella richardi. A soft, almost colorless gelatinous pelagic octopus with transparent deep arm webs, long slender arms and SMALL BLACK RECTANGULAR EYES. The defining eyes are the first priority: TWO SMALL UPRIGHT BLACK RECTANGULAR EYE BODIES, laterally flattened like thin vertically oriented rectangular tissue columns on the SIDES of the narrow head. Their visible silhouettes are dark vertical RECTANGLES, height roughly twice width, with straight parallel sides and nearly flat top and bottom. They are opaque black tissue masses with restrained transparent small lateral lens detail, not golden eyes, not round eyes, not slit pupils surrounded by round irises, not tall external telescopes. Do not substitute ordinary octopus eyeballs. Keep the eye organs SMALL, roughly one-seventh of mantle length, physically joined to the lateral head with faint long internal optic nerves. This species' eye in lateral view is nearly rectangular, while the lateral optical lens is a minor feature and should not change that overall rectangular silhouette.\n\nNatural refined realistic painterly children's atlas style, landscape 3:2, dark navy open-ocean water, soft neutral observation illumination without neon halos, sparse marine snow. ONE WHOLE animal, no typography, inset, frame, label, vehicle, human, prey or egg. The entire animal occupies about 75–80% of image width/height with 8–12% clear frame margin around every arm end.\n\nSmall elongate-oval rounded mantle ABOVE the narrow head, transparent with just scattered tiny orange pigment dots. A thin spindle-shaped beige opaque digestive gland stands VERTICALLY inside the mantle, not a bulky orange gut. No fins. Exactly EIGHT long tapering soft arms are attached to ONE common arm crown, and their proximal halves are joined by a deep, continuous, clear web, about half the arm length. Each arm bears ONE sparse longitudinal sucker row; small proximal suckers and slightly larger, closer distal suckers. No second row or cirri. Arms around two mantle lengths so the mantle does not dwarf them. No detached roots or ninth appendage. Soft water-filled tissues, no hard glass facets.\n\n\nPOSE AND CAMERA FOR THIS SIDE-SWIMMING CUT: TRUE LATERAL SIDE camera at the head's height, one small BLACK RECTANGULAR eye exposed in profile, with the far eye hidden naturally. Unlike a wide frontal fan, view the TRANSPARENT WEB EDGE-ON, gathered into a distinctly NARROW asymmetrical soft cup. Small mantle upright at upper middle, narrow head immediately below and facing LEFT. The slender digestive gland is vertical in the water inside that upright mantle. Exactly EIGHT long tapering attached arms stream DOWNWARD and gently LEFT from the crown, making a long, narrow swimming silhouette rather than a wide star. Five nearer arms may be readable as separate graceful curves, and three farther arms appear softly through the clear web; every arm end stays within the frame. Most tips extend, only two or three make gentle small curls, not the large spreading curled fan of a representative front view. Distal arms about twice mantle length; do not make the mantle larger than its arm crown. No seafloor, hunting, prey, bubbles or wake. This is a free-water neutral swimming observation, not an exact claim about speed or propulsion cycle. Make the ENTIRE animal no more than 78% of the frame height to keep generous 8–10% top and bottom margins. The one side eye must remain a VERTICAL BLACK RECTANGULAR TISSUE MASS with a very small lateral lens, never a circular golden iris or slit pupil."
+        ],
+        "generatedAt": "2026-10-12T01:34:22.073Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "72c0037af6f548a9551d7af0f7c76231c7b0f2f2dcc5ad13a029930c99cc3a30",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "FAO 및 ToL의 투명 몸/단일 빨판/소화샘 수직 유영 관찰에 근거한 관찰 재구성. 생태 카메라/팔 움직임은 정지 삽화이며 속도나 추진 순서를 확정하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "FAO 2014 — Cephalopods of the World Vol.3, Vitreledonella richardi, printed pp.223–224 and Plate X/75",
+            "url": "https://www.fao.org/4/i3489e/i3489e.pdf"
+          },
+          {
+            "title": "Schmidt Ocean Institute 2021 — two live glass-octopus observations",
+            "url": "https://schmidtocean.org/scientists-explore-seamounts-in-phoenix-islands-archipelago-gaining-new-insights-into-deep-water-diversity-and-ecology/"
+          },
+          {
+            "title": "Schmidt Ocean Institute — first expedition observation at 680 m",
+            "url": "https://schmidtocean.org/cruise-log-post/244-coral-samples-14-seamounts-and-2-glass-octopuses/"
+          },
+          {
+            "title": "Tree of Life — Richard Young and cephalopod specialists, Vitreledonella richardi",
+            "url": "https://tolweb.org/Vitreledonella_richardi/149589"
+          },
+          {
+            "title": "Naturalis — Zooplankton of the South Atlantic Ocean, Vitreledonella richardi",
+            "url": "https://sat-zooplankton.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=26058"
+          }
+        ]
+      },
+      {
+        "id": "glass-octopus",
+        "src": "assets/images/glass-octopus-chatgpt-ecology-below-web-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "유리문어 · 아래에서 본 팔 사이 막",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "가까운작은입/빨판면,큰근측다섯굽은끝과먼뒤위둘·왼쪽중간하나의세끝이구별돼총여덟끝범위. 연결깊은팔막·납작한두옆눈·후퇴한외투막과길쭉한샘 확인. 막뒤추가팔이명백히보이지않음.",
+        "generationPrompts": [
+          "Scientific natural-history illustration of a REAL GLASS OCTOPUS, Vitreledonella richardi. A soft, almost colorless gelatinous pelagic octopus with transparent deep arm webs, long slender arms and SMALL BLACK RECTANGULAR EYES. The defining eyes are the first priority: TWO SMALL UPRIGHT BLACK RECTANGULAR EYE BODIES, laterally flattened like thin vertically oriented rectangular tissue columns on the SIDES of the narrow head. Their visible silhouettes are dark vertical RECTANGLES, height roughly twice width, with straight parallel sides and nearly flat top and bottom. They are opaque black tissue masses with restrained transparent small lateral lens detail, not golden eyes, not round eyes, not slit pupils surrounded by round irises, not tall external telescopes. Do not substitute ordinary octopus eyeballs. Keep the eye organs SMALL, roughly one-seventh of mantle length, physically joined to the lateral head with faint long internal optic nerves. This species' eye in lateral view is nearly rectangular, while the lateral optical lens is a minor feature and should not change that overall rectangular silhouette.\n\nNatural refined realistic painterly children's atlas style, landscape 3:2, dark navy open-ocean water, soft neutral observation illumination without neon halos, sparse marine snow. ONE WHOLE animal, no typography, inset, frame, label, vehicle, human, prey or egg. The entire animal occupies about 75–80% of image width/height with 8–12% clear frame margin around every arm end.\n\nSmall elongate-oval rounded mantle ABOVE the narrow head, transparent with just scattered tiny orange pigment dots. A thin spindle-shaped beige opaque digestive gland stands VERTICALLY inside the mantle, not a bulky orange gut. No fins. Exactly EIGHT long tapering soft arms are attached to ONE common arm crown, and their proximal halves are joined by a deep, continuous, clear web, about half the arm length. Each arm bears ONE sparse longitudinal sucker row; small proximal suckers and slightly larger, closer distal suckers. No second row or cirri. Arms around two mantle lengths so the mantle does not dwarf them. No detached roots or ninth appendage. Soft water-filled tissues, no hard glass facets.\n\n\nCAMERA AND BODY STATE FOR THIS CUT: look UPWARD from UNDER and slightly in front of the octopus toward the ARM CROWN, with genuine extreme front-underside foreshortening. The nearest three bent arms and their single sucker rows are BIG in the foreground; the small oval mantle lies farther BEHIND THE HEAD and is seen through the clear web, partly overlapping in depth. Do NOT use a lateral silhouette, a top view of the back, or the same widely spread front-oblique fan. The deeply joined web is opened as a WIDE SHALLOW ASYMMETRIC BOWL whose inner lower surface faces the camera. Exactly EIGHT arms attach to one common crown; three nearer arms bend towards the viewer, two lateral arms arc upward at the ends, and three far arms extend behind with softer perspective. Show a few continuous single sucker rows on the UNDERSIDES, widely separated near the root, not two rows. A very SMALL natural dark mouth at the center of the underside may be visible among soft folds; no large flower, star-shaped teeth, skull hole or invented suction organ. The mantle and slender opaque digestive gland stay small in the background and nearly upright in the water. The small black vertical rectangular eye bodies are at the lateral HEAD sides behind the inner arm crown, foreshortened and partly occluded as appropriate, NOT two giant round forward eyes facing the viewer. The transparent tissue and deep web let some internal connections be seen. This is an observational view of the underside and web with arms gently changing position, not prey-catching, a named display, mating or defensive behavior. No prey or other animal. Keep all EIGHT tips fully inside the image and make the entire body about 75% of image width so left/right margins are generous.",
+          "This generated Vitreledonella richardi underside observation has TEN arm ends instead of EIGHT. Correct ONLY that clear appendage error, and increase whole-animal empty margin to about 7–8% without cropping; preserve the actual front-underside foreshortening, the five large foreground bent arms, deep transparent continuous web, small black vertically RECTANGULAR side eye bodies, small central mouth, slender near-vertical gland, orange tissue dots and soft natural-history style.\n\nKeep the FIVE large near-side arms: upper-left broad curling arm, lower-left curling arm, central large foreground arm, lower-right large curling arm, and upper-right broad curling arm. Keep ONLY THREE far-side arms: the narrow upward arm at the upper-left behind the foreground left arm; the narrow upward arm at upper-right behind the right foreground arm; and the pale narrow arm on the middle-left behind the web. Thus FIVE near arms plus THREE far arms equals EIGHT, all organically attached to the one crown.\n\nCOMPLETELY REMOVE these two extra far arms including their sucker lines, tips and roots:\n1) the thin pale arm descending behind the central foreground arm and ending as a small curl near the bottom-middle, around 56% image width and 84% image height;\n2) the thin pale arm running behind the right web towards the middle-right and curling down near 90% image width and 75% image height.\nFill their vacated locations with the original dark water where outside the web, and restore uninterrupted TRANSPARENT SOFT WEB where they formerly joined the crown. Do not leave severed arm stumps, floating sucker lines or extra faint tentacles. Do not remove either main lower foreground arm, add any new tip, split an arm, branch the web into a fin, move the small black rectangular eyes, or introduce two rows of suckers. Eight total arm tips only. The complete animal must stay inside the frame, including all three remaining far-arm tips. No prey, mating, eggs, seafloor, text or neon glow."
+        ],
+        "generatedAt": "2026-10-12T01:38:05.688Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "7e10b4626ccd98cfe3cc4953d6a6dffe58ff571da5b93c8aeeb4a500b5112942",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "FAO 단일 빨판열·깊은 팔막과 Fig224 및 ToL 투명 몸/불투명 기관의 작은 아래 실루엣 관찰에 근거한 카메라 재구성. 아래 시점이 실제 SOI 특정 프레임이라는 주장은 하지 않고 유사종의 촉수·지느러미·발광을 넣지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "FAO 2014 — Cephalopods of the World Vol.3, Vitreledonella richardi, printed pp.223–224 and Plate X/75",
+            "url": "https://www.fao.org/4/i3489e/i3489e.pdf"
+          },
+          {
+            "title": "Schmidt Ocean Institute 2021 — two live glass-octopus observations",
+            "url": "https://schmidtocean.org/scientists-explore-seamounts-in-phoenix-islands-archipelago-gaining-new-insights-into-deep-water-diversity-and-ecology/"
+          },
+          {
+            "title": "Schmidt Ocean Institute — first expedition observation at 680 m",
+            "url": "https://schmidtocean.org/cruise-log-post/244-coral-samples-14-seamounts-and-2-glass-octopuses/"
+          },
+          {
+            "title": "Tree of Life — Richard Young and cephalopod specialists, Vitreledonella richardi",
+            "url": "https://tolweb.org/Vitreledonella_richardi/149589"
+          },
+          {
+            "title": "Naturalis — Zooplankton of the South Atlantic Ocean, Vitreledonella richardi",
+            "url": "https://sat-zooplankton.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=26058"
+          }
+        ]
+      },
+      {
+        "id": "glass-octopus",
+        "src": "assets/images/glass-octopus-chatgpt-ecology-rear-optic-view-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "유리문어 · 몸 안을 비쳐 보아요",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "둥근투명외투막이앞에크고두납작한세로눈및긴연결줄기와길쭉한샘이비쳐보임. 좁게모인깊은팔막과여섯명료끝확인;나머지두팔의대응은가림으로전수확정하지않음.",
+        "generationPrompts": [
+          "Scientific natural-history illustration of a REAL GLASS OCTOPUS, Vitreledonella richardi. A soft, almost colorless gelatinous pelagic octopus with transparent deep arm webs, long slender arms and SMALL BLACK RECTANGULAR EYES. The defining eyes are the first priority: TWO SMALL UPRIGHT BLACK RECTANGULAR EYE BODIES, laterally flattened like thin vertically oriented rectangular tissue columns on the SIDES of the narrow head. Their visible silhouettes are dark vertical RECTANGLES, height roughly twice width, with straight parallel sides and nearly flat top and bottom. They are opaque black tissue masses with restrained transparent small lateral lens detail, not golden eyes, not round eyes, not slit pupils surrounded by round irises, not tall external telescopes. Do not substitute ordinary octopus eyeballs. Keep the eye organs SMALL, roughly one-seventh of mantle length, physically joined to the lateral head with faint long internal optic nerves. This species' eye in lateral view is nearly rectangular, while the lateral optical lens is a minor feature and should not change that overall rectangular silhouette.\n\nNatural refined realistic painterly children's atlas style, landscape 3:2, dark navy open-ocean water, soft neutral observation illumination without neon halos, sparse marine snow. ONE WHOLE animal, no typography, inset, frame, label, vehicle, human, prey or egg. The entire animal occupies about 75–80% of image width/height with 8–12% clear frame margin around every arm end.\n\nSmall elongate-oval rounded mantle ABOVE the narrow head, transparent with just scattered tiny orange pigment dots. A thin spindle-shaped beige opaque digestive gland stands VERTICALLY inside the mantle, not a bulky orange gut. No fins. Exactly EIGHT long tapering soft arms are attached to ONE common arm crown, and their proximal halves are joined by a deep, continuous, clear web, about half the arm length. Each arm bears ONE sparse longitudinal sucker row; small proximal suckers and slightly larger, closer distal suckers. No second row or cirri. Arms around two mantle lengths so the mantle does not dwarf them. No detached roots or ninth appendage. Soft water-filled tissues, no hard glass facets.\n\n\nCAMERA FOR THIS VERY DISTINCT FOURTH OBSERVATIONAL CUT: from ABOVE and BEHIND the animal's rounded posterior mantle, about 55 degrees downwards toward the back of the head and the arms. The closest large object is the transparent rounded BACK of the mantle in the LOWER LEFT foreground, NOT the face and NOT the oral arm crown. The narrow head lies farther toward UPPER RIGHT, with the two small lateral BLACK RECTANGULAR eye tissues partly seen through the clear head on its LEFT and RIGHT sides. Look down from the back at the long internal optic-nerve connections; not a cutaway. The upright internal slender gland may look foreshortened because of the top-rear camera, but do not turn it into a wide opaque orange mass.\n\nBODY AND ARM STATE: the animal gently tilts its soft mantle, and its deep web is FOLDED NARROW and partially gathered toward the front, pointing away from the camera to upper right. The EIGHT arms form FOUR PAIRS, exactly FOUR nearer arm tips and FOUR farther tips, loosely gathered but still visually separate, with natural overlap through transparency. Two near distal tips make small inward curls while six tips extend or bend gently, giving a compact forward bundle, not the wide spread/curling cup of the front view and not long downward streaming arms from a lateral side view. Arms must not point radially in all directions. NO fifth pair or ninth/tenth end. All eight attach at the far head's one arm crown and retain the clear deep web with one longitudinal sucker row. The nearby posterior mantle should obscure some roots naturally without detaching any arm. Keep all mantle and eight tips inside a generous 8–12% margin. Animal occupies only about 75% of total image width. This is a rear-dorsal observation to explain transparent anatomy, not a named display, prey-catching, mating, egg brood or exact speed. No other animals or seafloor."
+        ],
+        "generatedAt": "2026-10-12T01:40:01.054Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "b29f97e6e81cc2b8a574c46aff31a65bc4a32b53f89079055476b7cbe6353ba7",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "FAO223–224의 투명 외투막/긴 시신경 줄기와 ToL의 실제 등쪽 머리 사진 설명에 근거한 관찰 삽화. 완전 해부도나 기관의 정확한 내부 미세구조·시신경 신호·빛 투과량으로 주장하지 않는다.",
+        "behaviorSources": [
+          {
+            "title": "FAO 2014 — Cephalopods of the World Vol.3, Vitreledonella richardi, printed pp.223–224 and Plate X/75",
+            "url": "https://www.fao.org/4/i3489e/i3489e.pdf"
+          },
+          {
+            "title": "Schmidt Ocean Institute 2021 — two live glass-octopus observations",
+            "url": "https://schmidtocean.org/scientists-explore-seamounts-in-phoenix-islands-archipelago-gaining-new-insights-into-deep-water-diversity-and-ecology/"
+          },
+          {
+            "title": "Schmidt Ocean Institute — first expedition observation at 680 m",
+            "url": "https://schmidtocean.org/cruise-log-post/244-coral-samples-14-seamounts-and-2-glass-octopuses/"
+          },
+          {
+            "title": "Tree of Life — Richard Young and cephalopod specialists, Vitreledonella richardi",
+            "url": "https://tolweb.org/Vitreledonella_richardi/149589"
+          },
+          {
+            "title": "Naturalis — Zooplankton of the South Atlantic Ocean, Vitreledonella richardi",
+            "url": "https://sat-zooplankton.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=26058"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "balloon-comb-jelly",
+    "name": "풍선빗해파리",
+    "scientificName": "Hormiphora palmata",
+    "group": "빗해파리류",
+    "habitatIds": [
+      "coast",
+      "pelagic"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "투명하고 길쭉한 풍선 같은 몸에서 가지가 달린 긴 촉수 두 개를 펼쳐요. 작은 빗판으로 물속을 움직여요.",
+    "identity": [
+      "몸은 길쭉한 방추 모양이고 입쪽 끝이 좁아져요. 작은 빗판이 여덟 줄로 나 있지만, 끝까지 가득 덮지는 않아요.",
+      "긴 촉수는 정확히 두 개이고, 몸 양쪽의 촉수집에서 이어져요. 각 촉수에는 먹이를 모으는 가는 가지들이 달려 있어요."
+    ],
+    "ecology": "일본 쇼나이 해안에서는 봄부터 가을까지 나타나요. 물속에 떠 있으면서 촉수와 그 가지를 펼쳐 작은 먹이를 찾아요.",
+    "diet": "작은 갑각류 등 동물성 플랑크톤을 먹어요. 촉수의 끈끈한 세포가 먹이를 붙잡는 데 쓰여요.",
+    "range": "일본 쇼나이 해안과 하와이 주변의 표층 바다 등에서 기록됐어요. 이번에 읽은 자료로 전 세계 분포를 모두 확정하지는 않아요.",
+    "size": "가모 수족관은 몸길이가 약4.5cm까지라고 소개해요. 하와이 박물관 자료에는 약4cm인 몸이 설명돼요.",
+    "depth": "연안과 표층 바다의 기록이 있어요. 이번 자료만으로 종 전체의 최대 수심을 확정하지 않아요.",
+    "aliases": [
+      "풍선빗해파리",
+      "Balloon comb jelly",
+      "フウセンクラゲ"
+    ],
+    "sources": [
+      {
+        "title": "Kamo Aquarium — フウセンクラゲ (Hormiphora palmata)",
+        "url": "https://kamo-kurage.jp/shonaikurage/fuusenkurage/"
+      },
+      {
+        "title": "Research Institute of Marine Invertebrates — フウセンクラゲ",
+        "url": "https://www.rimi.or.jp/dobutumenu/c/ctenophora/"
+      },
+      {
+        "title": "Bishop Museum Press — Reef and shore fauna of Hawaii (1977), Ctenophora pp266–267",
+        "url": "https://hbs.bpbmwebdata.org/pubs-online/pdf/sp64-1.pdf"
+      },
+      {
+        "title": "ITIS — Hormiphora palmata TSN682418",
+        "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=682418"
+      },
+      {
+        "title": "행정안전부 국민안전24 — 해파리 종류별 특징",
+        "url": "https://safekorea.go.kr/safekorea-kor/acts/nacts/action-guide.do?actsHeaderTitle=%ED%95%B4%ED%8C%8C%EB%A6%AC%ED%94%BC%ED%95%B4&category=jellyfishDamage&menuSn=4"
+      },
+      {
+        "title": "JODC TaxonomicCode2001 — Hormiphora palmata",
+        "url": "https://www.jodc.go.jp/jodcweb/JDOSS/pdf/TaxonomicCode2001.pdf"
+      }
+    ],
+    "checkedAt": "2026-10-12",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "balloon-comb-jelly",
+        "src": "assets/images/balloon-comb-jelly-chatgpt-portrait-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "풍선빗해파리 · 가지가 달린 두 촉수",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "길쭉한 투명 방추형 몸과 좁아지는 입쪽 끝, 양쪽 집에서 연결된 두 주요 가지촉수의 뿌리·끝을 실제 확인했다. 빗판은 몸 전장을 채우지 않고 입쪽에 매끈한 무빗판 영역이 남으며, 그 영역의 가는 투명 관을 빗판으로 세지 않았다. 성체 Bolinopsis의 두 넓은 엽/네 구강 돌기나 눈이 없다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nCamera and pose for the REPRESENTATIVE: a broad three-quarter lateral view, slightly above and from the oral/front side, with the smooth tapered oral end toward the lower-right and the closed aboral end toward upper-left. There must be real near/far depth of the lateral body, not a perfectly symmetrical frontal oval. Show the entire long spindle body, the two connected sheaths and the short comb-row termination clearly. Main body occupies only about 35 percent of the landscape width so both long tentacles can fit with generous water margins. Two main tentacles spread in DIFFERENT broad gentle paths: the near one sweeps to the lower-left then gently curves back inward; the far one extends toward upper-right with its delicate side branches visible through depth. All connections, each main thread's single end and every side branch remain inside with at least 12 percent margin. Do not use the adult or larval Bolinopsis model. Calm suspension in clear coastal water, no prey, no seabed. Clear tissue and fine canals without exaggerated complex internal branching.",
+          "Use case: scientific-educational. Edit this exact single Hormiphora palmata natural-history illustration with ONE minimal anatomical correction only. Preserve the transparent elongated spindle body shape, its orientation, both connected long branched tentacles, their roots and ends, the pale blue painterly water and all existing full framing.\nThe current near and outline comb rows visibly extend too far toward the narrow oral end at the lower right. Bishop Museum's 1977 species account printed p267 states the rows extend a little LESS THAN TWO THIRDS of the body, not to three-quarters or to the mouth. REMOVE the last oralward part of EVERY one of the eight comb rows, including the nearer lower-outline row, upper-outline row, middle rows and any visible far-side plates. All plate rows must end at approximately 60–63 percent of the axial distance from the closed aboral upper-left end to the narrow oral lower-right end, creating an unmistakably smooth final 37–40 percent oral section. Think of the correct end level as a cross-section before the body tapers into its long oral tip; do not remove plates from just one central row while leaving outline plates longer.\nErase only transverse ciliary plates and their iridescent comb highlights in this final oral region. Retain its transparent tissue, modest internal pharynx and faint clear longitudinal canals, which must stay thin and colorless, not look like comb teeth. Do not add or shorten tentacles, alter body proportions, change perspective, move the mouth, introduce a detached tail, or add eye/large red stomach/jellyfish arms. No writing, markings or split panel. Keep natural reflections over only the valid aboral comb-row region. One landscape 3:2 illustration."
+        ],
+        "generatedAt": "2026-10-12T01:35:07.646Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "79d6a33f03ab16a66d5f93f22e6daa81da66fab66f67f9735a4dd0e299f3f6d0",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "balloon-comb-jelly",
+        "src": "assets/images/balloon-comb-jelly-chatgpt-feeding-oral-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "풍선빗해파리 · 촉수 가지 앞의 작은 먹이",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "좁은 입쪽 끝/입면이 가까이에 나오고 둥근 뒤몸이 뒤에 단축된다. 입쪽에 무빗판 영역이 남고 두 촉수집과 연결된 두 주촉수는 각각 근측U/원측외측으로 이어진다. 작은 외부 갑각류 두 개는 조직 밖에 떨어져 있으며 추가 포획된 먹이형체는 보이지 않는다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nCamera and pose for the REPRESENTATIVE: a broad three-quarter lateral view, slightly above and from the oral/front side, with the smooth tapered oral end toward the lower-right and the closed aboral end toward upper-left. There must be real near/far depth of the lateral body, not a perfectly symmetrical frontal oval. Show the entire long spindle body, the two connected sheaths and the short comb-row termination clearly. Main body occupies only about 35 percent of the landscape width so both long tentacles can fit with generous water margins. Two main tentacles spread in DIFFERENT broad gentle paths: the near one sweeps to the lower-left then gently curves back inward; the far one extends toward upper-right with its delicate side branches visible through depth. All connections, each main thread's single end and every side branch remain inside with at least 12 percent margin. Do not use the adult or larval Bolinopsis model. Calm suspension in clear coastal water, no prey, no seabed. Clear tissue and fine canals without exaggerated complex internal branching.",
+          "Use case: scientific-educational. Edit this exact single Hormiphora palmata natural-history illustration with ONE minimal anatomical correction only. Preserve the transparent elongated spindle body shape, its orientation, both connected long branched tentacles, their roots and ends, the pale blue painterly water and all existing full framing.\nThe current near and outline comb rows visibly extend too far toward the narrow oral end at the lower right. Bishop Museum's 1977 species account printed p267 states the rows extend a little LESS THAN TWO THIRDS of the body, not to three-quarters or to the mouth. REMOVE the last oralward part of EVERY one of the eight comb rows, including the nearer lower-outline row, upper-outline row, middle rows and any visible far-side plates. All plate rows must end at approximately 60–63 percent of the axial distance from the closed aboral upper-left end to the narrow oral lower-right end, creating an unmistakably smooth final 37–40 percent oral section. Think of the correct end level as a cross-section before the body tapers into its long oral tip; do not remove plates from just one central row while leaving outline plates longer.\nErase only transverse ciliary plates and their iridescent comb highlights in this final oral region. Retain its transparent tissue, modest internal pharynx and faint clear longitudinal canals, which must stay thin and colorless, not look like comb teeth. Do not add or shorten tentacles, alter body proportions, change perspective, move the mouth, introduce a detached tail, or add eye/large red stomach/jellyfish arms. No writing, markings or split panel. Keep natural reflections over only the valid aboral comb-row region. One landscape 3:2 illustration.",
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nInput is ONLY the species and painterly style reference. Create a GENUINELY NEW ORAL-END depth view; do not rotate, mirror or reuse its diagonal lateral body silhouette. The camera is close to the narrow ORAL pole, slightly below it, looking up ALONG the body axis. The smooth oral third is nearest at lower-center foreground, and the broader aboral body recedes behind at upper-center background. The body must be strongly foreshortened in depth, not a long diagonal spindle lying sideways. Show the modest real mouth at the narrow oral tip, without a new tube or separate appendage. The two lateral sheaths recede behind this front oral section, their sides and body connections remain understandable. Preserve the species' EIGHT comb rows confined to the aboral LESS THAN TWO THIRDS; the nearest smooth oral region must have NO comb teeth or rainbow highlights, including every body contour.\nTentacle/activity state: near-side MAIN tentacle sweeps into a loose U toward the front/lower-left, then returns toward one side, exposing some fine side branches in the foreground. The far-side MAIN tentacle extends outward into depth toward upper-right; it is smaller/fainter and partly overlaps through the transparent body, not a third root. Their deployment and camera differ from the original's two widely spread lateral arcs. Keep their two ends and every branch inside with 12 percent margins. Add only TWO tiny unidentified crustacean-like zooplankton near but OUTSIDE the nearer side-branch tips, with bodies no bigger than a tiny speck relative to the comb jelly. They may resemble small calanoid copepods, but this scene does not establish a particular prey species. Both free animals are visibly separate from the tissue: no glued/caught/swallowed/chewed/injured prey and no thread joining them. Feeding context is based on the aquarium's species-specific small-crustacean prey description. No seabed or other decoration. Essential two-axis change: actual smooth oral surface/shortened depth-facing body, plus different near U-shaped versus far extended tentacle state.",
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nCorrection of the supplied feeding candidate: redraw its body in a truly NEW three-dimensional ORAL AXIAL view. The current long upright side silhouette is inadequate and must not be retained, merely rotated, scaled or mirrored. Camera is within about FIFTEEN DEGREES of the oral-to-aboral long axis, looking almost directly into the narrow oral tip. The oral tip is nearest the camera at the CENTER of the body projection; the closed aboral end is BEHIND it in depth, not many hundreds of pixels above it. The normal long spindle shape is strongly FORESHORTENED: its projected body is a short oval, about as wide as it is tall, because we view along its actual length. Do not turn the physical species into a sphere: show receding tissue surfaces and the long internal pharynx in depth behind the near small mouth. The mouth remains very small, with no new long tube. The near oral smooth third of the physical body is in the foreground with NO comb plates; the eight short aboral comb rows remain farther behind and partly hidden by the near taper, where natural occlusion prevents all eight being separately counted.\nKeep exactly TWO continuous connected main tentacles from the paired lateral sheaths. Put the near tentacle in a broad loose U at lower-left foreground with readable branches; the far tentacle recedes toward upper-right and is noticeably smaller/fainter, with its own uninterrupted end. Keep both full main ends and all branches inside with comfortable 12 percent margins. Retain only TWO very small free crustacean-like zooplankton well OUTSIDE the near side-branch tips with a visible small water gap. REMOVE any third copepod-like object touching a branch near the center-left, and do not place any captured animal on the tentacle. No prey in tissues or mouth, no injury or demonstrated capture success. Naturally lit coastal water and restrained painterly style. Required observable difference is actual END-ON shortened body and near oral surface, combined with near U/far trailing tentacle deployment, not a vertical side view with a mouth ring added."
+        ],
+        "generatedAt": "2026-10-12T01:38:45.871Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "9d57c4dfc3f15d99ec7d62e9ba38c8bfa93104afbf54b91df54aae1ea06213af",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "가모 수족관 본종의 작은갑각류 섭식/가지촉수 점착세포 근거. 특정먹이종이나포획·삼킴성공을 확정하지 않으며 작은 먹이2개는조직밖에만. v1대표와비슷한긴앞면/촉수접촉먹이를 교정.",
+        "behaviorSources": [
+          {
+            "title": "Kamo Aquarium — フウセンクラゲ (Hormiphora palmata)",
+            "url": "https://kamo-kurage.jp/shonaikurage/fuusenkurage/"
+          },
+          {
+            "title": "Bishop Museum Press — Reef and shore fauna of Hawaii (1977), Ctenophora pp266–267",
+            "url": "https://hbs.bpbmwebdata.org/pubs-online/pdf/sp64-1.pdf"
+          }
+        ]
+      },
+      {
+        "id": "balloon-comb-jelly",
+        "src": "assets/images/balloon-comb-jelly-chatgpt-ecology-aboral-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "풍선빗해파리 · 뒤쪽 끝에서 본 빗판",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "가까운 둥근 닫힌 뒤끝에 가짜 입이 없고, 좁은 입쪽 끝은 오른 위 먼 곳으로 후퇴한다. 두 주요촉수가 별도 몸 연결에서 이어지고 끝까지 보인다. 빗판은 부분길이로 끝나며 남은 입쪽 표면은 매끈하고 성체 엽/구강 돌기가 없다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nCamera and pose for the REPRESENTATIVE: a broad three-quarter lateral view, slightly above and from the oral/front side, with the smooth tapered oral end toward the lower-right and the closed aboral end toward upper-left. There must be real near/far depth of the lateral body, not a perfectly symmetrical frontal oval. Show the entire long spindle body, the two connected sheaths and the short comb-row termination clearly. Main body occupies only about 35 percent of the landscape width so both long tentacles can fit with generous water margins. Two main tentacles spread in DIFFERENT broad gentle paths: the near one sweeps to the lower-left then gently curves back inward; the far one extends toward upper-right with its delicate side branches visible through depth. All connections, each main thread's single end and every side branch remain inside with at least 12 percent margin. Do not use the adult or larval Bolinopsis model. Calm suspension in clear coastal water, no prey, no seabed. Clear tissue and fine canals without exaggerated complex internal branching.",
+          "Use case: scientific-educational. Edit this exact single Hormiphora palmata natural-history illustration with ONE minimal anatomical correction only. Preserve the transparent elongated spindle body shape, its orientation, both connected long branched tentacles, their roots and ends, the pale blue painterly water and all existing full framing.\nThe current near and outline comb rows visibly extend too far toward the narrow oral end at the lower right. Bishop Museum's 1977 species account printed p267 states the rows extend a little LESS THAN TWO THIRDS of the body, not to three-quarters or to the mouth. REMOVE the last oralward part of EVERY one of the eight comb rows, including the nearer lower-outline row, upper-outline row, middle rows and any visible far-side plates. All plate rows must end at approximately 60–63 percent of the axial distance from the closed aboral upper-left end to the narrow oral lower-right end, creating an unmistakably smooth final 37–40 percent oral section. Think of the correct end level as a cross-section before the body tapers into its long oral tip; do not remove plates from just one central row while leaving outline plates longer.\nErase only transverse ciliary plates and their iridescent comb highlights in this final oral region. Retain its transparent tissue, modest internal pharynx and faint clear longitudinal canals, which must stay thin and colorless, not look like comb teeth. Do not add or shorten tentacles, alter body proportions, change perspective, move the mouth, introduce a detached tail, or add eye/large red stomach/jellyfish arms. No writing, markings or split panel. Keep natural reflections over only the valid aboral comb-row region. One landscape 3:2 illustration.",
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nThe reference is for IDENTITY AND PAINTERLY STYLE only. Build a genuinely NEW ABORAL rear-depth camera, not a rotation or mirror of its side silhouette. Camera is high, very close to the closed ABORAL pole, a little off its axis, looking toward the narrow oral end FAR BEHIND. The nearest closed aboral cap is a broad curved oval occupying the left/central foreground; the physical spindle body recedes in depth to a SMALL SMOOTH oral tip in the far upper-right. The perspective must show near aboral exterior curvature and shortened long-axis depth, without putting a mouth on the closed near cap. Make the transparent body unbent. The comb rows visibly wrap along the aboral surface and STOP before the far oral section, never reaching the far mouth. No comb plates on the tapering oral third, including far contour rows. Normal clear tissue and pale canals are subdued.\nTentacle state is clearly different: exactly TWO connected slender main tentacles from the lateral sheaths, each trailing away rather than a broad front U. The near one comes from a readable near lateral sheath, extends downward-left, then drifts toward far lower-right; the far one extends upward-right in depth, visible smaller and somewhat overlapped, not a third root. Their thin branches move with the gentle water, not a documented escape contraction or exact behavioral event. All main ends and every side branch fit fully with 12 percent margins. Show the near rounded closed pole and the far tiny tapered oral end in real depth, two sheaths positioned on opposing lateral surfaces, no large lobe wings or spherical sea-gooseberry identity. Calm coastal suspension, no prey, no seabed or fish. Required differences from portrait and feeding are the near ABORAL exterior view, and the two long tentacles trailing away along different depth paths."
+        ],
+        "generatedAt": "2026-10-12T01:41:13.136Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "bbe21159ecc7cb95fb298c9e2b5f17ee95783619ff3601ce0bc6687fb4da07e5",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "본종의 형태/연안부유/두 가지촉수 구조 자료에 따른 뒤시점 재구성. 특정 도피·급격 수축이나 정확수심의 실관찰 장면을 주장하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "Kamo Aquarium — フウセンクラゲ (Hormiphora palmata)",
+            "url": "https://kamo-kurage.jp/shonaikurage/fuusenkurage/"
+          },
+          {
+            "title": "Bishop Museum Press — Reef and shore fauna of Hawaii (1977), Ctenophora pp266–267",
+            "url": "https://hbs.bpbmwebdata.org/pubs-online/pdf/sp64-1.pdf"
+          }
+        ]
+      },
+      {
+        "id": "balloon-comb-jelly",
+        "src": "assets/images/balloon-comb-jelly-chatgpt-ecology-tentacle-detail-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "풍선빗해파리 · 촉수집과 작은 가지 살펴보기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "가까운 길쭉한 내부 촉수집과 하나의 주실이 몸 밖으로 이어지는 접속을 확인했다. 다른 주촉수도 아래에서 이어져 별도 끝을 가진다. 약부분길이의 빗판 이후 입쪽에는 투명한 관만 보이며 두엽/네구강돌기·가짜눈은 없다.",
+        "generationPrompts": [
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nCamera and pose for the REPRESENTATIVE: a broad three-quarter lateral view, slightly above and from the oral/front side, with the smooth tapered oral end toward the lower-right and the closed aboral end toward upper-left. There must be real near/far depth of the lateral body, not a perfectly symmetrical frontal oval. Show the entire long spindle body, the two connected sheaths and the short comb-row termination clearly. Main body occupies only about 35 percent of the landscape width so both long tentacles can fit with generous water margins. Two main tentacles spread in DIFFERENT broad gentle paths: the near one sweeps to the lower-left then gently curves back inward; the far one extends toward upper-right with its delicate side branches visible through depth. All connections, each main thread's single end and every side branch remain inside with at least 12 percent margin. Do not use the adult or larval Bolinopsis model. Calm suspension in clear coastal water, no prey, no seabed. Clear tissue and fine canals without exaggerated complex internal branching.",
+          "Use case: scientific-educational. Edit this exact single Hormiphora palmata natural-history illustration with ONE minimal anatomical correction only. Preserve the transparent elongated spindle body shape, its orientation, both connected long branched tentacles, their roots and ends, the pale blue painterly water and all existing full framing.\nThe current near and outline comb rows visibly extend too far toward the narrow oral end at the lower right. Bishop Museum's 1977 species account printed p267 states the rows extend a little LESS THAN TWO THIRDS of the body, not to three-quarters or to the mouth. REMOVE the last oralward part of EVERY one of the eight comb rows, including the nearer lower-outline row, upper-outline row, middle rows and any visible far-side plates. All plate rows must end at approximately 60–63 percent of the axial distance from the closed aboral upper-left end to the narrow oral lower-right end, creating an unmistakably smooth final 37–40 percent oral section. Think of the correct end level as a cross-section before the body tapers into its long oral tip; do not remove plates from just one central row while leaving outline plates longer.\nErase only transverse ciliary plates and their iridescent comb highlights in this final oral region. Retain its transparent tissue, modest internal pharynx and faint clear longitudinal canals, which must stay thin and colorless, not look like comb teeth. Do not add or shorten tentacles, alter body proportions, change perspective, move the mouth, introduce a detached tail, or add eye/large red stomach/jellyfish arms. No writing, markings or split panel. Keep natural reflections over only the valid aboral comb-row region. One landscape 3:2 illustration.",
+          "Use case: scientific-educational. Make ONE new landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for children ages 5–12. Restrained realistic painterly translucent tissue with readable fine structures, naturally lit pale blue coastal seawater, no words, labels, arrows, ruler, inset, split panel, signature, border, logo or watermark.\nSpecies is Hormiphora palmata Chun, 1898, Japanese fuusen-kurage, following Bishop Museum's 1977 species account Fig.4 and printed pp266–267, NOT a Pleurobrachia sea gooseberry or unidentified spherical cydippid from adjacent Fig.5. One transparent elongated SPINDLE body tapering at both ends and particularly toward its modest narrow oral end. The body silhouette is approximately 2.5 times longer than its maximum width in an unforeshortened side view, without bending its main body. A simple clear pharynx/internal canals are modest. No broad Bolinopsis oral lobes, no four adult auricles, no jellyfish umbrella, no eyes, teeth, opaque red stomach, plastic, scales or electric glow.\nEIGHT longitudinal comb rows are spaced around the body and contain many tiny transverse ciliary plates. They run from near the closed aboral end over a little LESS THAN TWO THIRDS of the body length, then all end before the smooth tapered oral third. The ORAL approximately one-third has NO comb plates, even on the near or far outline. Faint clear canals may continue farther but they must never look like additional comb rows. Natural external daylight reflections are subtle, never eight neon rods or long full-body colored stripes. Far rows may be naturally overlapped; do not invent additional rows to make all eight equally visible.\nExactly TWO long slender MAIN fishing tentacles connect continuously through two opposed elongated lateral tentacle sheaths. Distinguish the internal long tentacle bulbs/sheaths from the actual external exits; don't attach tentacles to the mouth or as a ring around a bell. The paired sheaths are lateral, alongside the pharynx; the museum text describes them in the mid-body region. Each tentacle is a SINGLE continuous main thread with many fine small side tentilla, and a single visible end, not multiple main roots or giant opaque leaf appendages borrowed from another Hormiphora. Keep all body ends, BOTH main tentacle tips and all branch tips fully inside the frame. No microscopic cell diagram; do not claim exact age, sex, feeding success, full genetic/species authentication or a quantitative specimen measurement.\nThe supplied image is only identity/style reference. Make a meaningful FOURTH organ-observation view, not another copy of its lateral pose. Camera is above and close to ONE TENTACLE PLANE, approximately perpendicular to the oral-to-aboral long axis and on a different side around that axis than the representative. The long spindle body lies almost horizontal in the frame, closed aboral end toward left and smooth tapered oral end toward right, physically unbent. Show the actual near lateral surface and its elongated tentacle sheath prominently on the FRONT of the body. The near connection is not just at an outer silhouette edge: clear tissue lets the long sheath beside the pharynx and continuous transition into its one external main thread be understood. The opposite sheath is farther behind and more subdued, partly overlapped through the body. Do not flatten or dissect the animal; no cutaway, diagram, arrows, detached parts or labels.\nTentacle/branch state: the NEAR main tentacle leaves its readable connected sheath, travels forward/up into the foreground, then makes ONE LARGE OPEN LOOSE LOOP above the body before extending to its single tip at upper-left. It is a flexible natural thread, not a closed rigid hoop and not two main threads. Fine branches follow the curve without becoming enormous leaves. The FAR main tentacle from the opposite lateral sheath stretches farther into the lower-right background in a gently extended path, with its own tip, thinner and partly dimmed. This differs from the broad opposed arcs in the representative, the front U in feeding, and the trailing rear view. Make the nearer root and sparse branches easy for a child to study. Keep the whole body, both entire main ends and ALL branches comfortably inside with 12 percent water margins. Body occupies about 40 percent of image width so the loop fits. EIGHT short comb rows cover only the aboral less-than-two-thirds; the oral remaining third is entirely smooth, including all near/far contour rows. No prey, no asserted capture, withdrawal into sheath, exact developmental stage or escape response. This is a reconstruction of source-backed tentacle/sheath/branch morphology and a possible loose deployment, not a photographed individual event. Restrained translucent tissue and pale blue externally lit coastal water."
+        ],
+        "generatedAt": "2026-10-12T01:43:57.380Z",
+        "checkedAt": "2026-10-12",
+        "sha256": "1f1520b304b3464a5b9c65d9330cacaba8eca4215cd7ff85eabc68014883d087",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "본종의 길쭉한 촉수집/몸 연결과 작은 가지를 보는 기관 관찰 재구성. 촉수의 느슨한 loop는 교육적 배치이며 집안회수·포획성공·현미경 세포 동정을 주장하지 않음.",
+        "behaviorSources": [
+          {
+            "title": "Kamo Aquarium — フウセンクラゲ (Hormiphora palmata)",
+            "url": "https://kamo-kurage.jp/shonaikurage/fuusenkurage/"
+          },
+          {
+            "title": "Bishop Museum Press — Reef and shore fauna of Hawaii (1977), Ctenophora pp266–267",
+            "url": "https://hbs.bpbmwebdata.org/pubs-online/pdf/sp64-1.pdf"
+          }
+        ]
+      }
+    ]
   }
 ];
