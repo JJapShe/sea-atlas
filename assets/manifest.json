@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-12",
-  "reviewNote": "65개 생물 항목 각3장 이상, 211개 원본 이미지·215개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "checkedAt": "2026-10-14",
+  "reviewNote": "73개 생물 항목 각3장 이상, 235개 원본 이미지·239개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -6784,6 +6784,789 @@
         {
           "title": "NOAA Cordell Bank Taxonomic Guide — Megalodicopia hians, printed65",
           "url": "https://cordellbank.noaa.gov/science/cb_taxo_guide_final.pdf"
+        }
+      ]
+    },
+    {
+      "id": "atlantic-cranch-squid",
+      "src": "assets/images/atlantic-cranch-squid-chatgpt-portrait-adult-side-oblique-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "대서양크랜치오징어 · 큰 눈과 투명한 몸",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 투명한 원뿔 몸·큰 눈 둘·뒤쪽 긴 측면 핀·여덟 짧은 팔에 해당하는 끝들과 club 두 개가 보입니다. 몸/머리/팔이 연속되고 눈자루나 별도 가짜 꼬리가 없습니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE 3:2 landscape refined realistic natural-history illustration for a children's deep-sea atlas. ONE adult Teuthowenia megalops, Atlantic cranch squid, suspended in north Atlantic blue midwater. Natural thin translucent tissues, a few subtle pigment specks, readable soft connections, no cartoon smile, text, labels, panel, watermark or other animals.\nSpecies shape: elongated CONICAL transparent mantle tapering gradually to a narrow posterior tip. TWO long narrow terminal-lateral fins run along the REAR approximately one-half of mantle length, without anterior round fin lobes, tapering to modest posterior lobes. They are not the short round fins of Sandalops or the giant broad heart fins of Magnapinna. Head has TWO naturally HUGE adult eyes oriented forward, with THREE modest photophore structures per eye: a larger posterior crescent, a smaller narrow crescent nested within its concavity, and a small oval close to the inner front-upper lens margin. Do not make neon rings, extra eyes, eye stalks, horns or transparent glass bricks. No elongated juvenile eye tubes on this adult.\nEIGHT short connected arms plus TWO somewhat stouter short muscular tentacles, each tentacle ending in a slightly expanded sucker club. All TEN appendages originate at the head arm crown, natural far-side overlap allowed, no floating pieces, extra limbs or single snake tail pretending to be a tentacle. The mantle, head and funnel connect continuously. No prey or invented hunting because this species' specific diet is not confirmed in the selected source.\nCamera: FRONT-LEFT SIDE THREE-QUARTER of the intact ADULT. Head at LOWER LEFT, long tapering mantle extends toward UPPER RIGHT. The near eye and depth separation of far eye are clear, fins show two connected lateral sheets in depth. Body nearly horizontal with a gentle diagonal, arms loosely spread DOWN-FORWARD, tentacle clubs slightly separated among them. This is calm suspended observation, not an attack or proof of swimming direction. Entire mantle, both fin tips, eyes, every visible arm/tentacle end inside a frame with at least 12 percent clear margin. Animal about 65 percent frame width. An appealing yet strange glass-like silhouette from real morphology, not by inflating eyes beyond the natural body."
+      ],
+      "generatedAt": "2026-10-13T16:56:00.107Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "cc24f0a9664f8601d2c5304957579a9ac48994ff9687001590ea53d1175f3696",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "atlantic-cranch-squid",
+      "src": "assets/images/atlantic-cranch-squid-chatgpt-ecology-front-under-arms-gathered-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "대서양크랜치오징어 · 앞에서 살펴본 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 두 큰 눈과 투명 원뿔몸, 뒤 측면 핀2와 club2가 이어집니다. 근측 짧은 팔의 다수 끝이 보이며 별도 눈자루·팔막·가짜 꼬리는 없습니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE new 3:2 landscape natural-history illustration of ONE adult Teuthowenia megalops, Atlantic cranch squid. Realistic quiet transparent pale tissue with a few minute brown pigment dots in deep-blue midwater. No text, labels, arrows, panels, watermark or prey.\nCamera: TRUE FRONTAL VIEW FROM SLIGHTLY BELOW the head, not a lateral squid pose turned on the page. The TWO huge eyes are at comparable depth on left/right of the head. The head arm crown is closest to the viewer, the elongated tapering transparent mantle recedes UP and BACK behind it with strong foreshortening, and two LONG NARROW fins are visible as receding rear lateral sheets along roughly the rear half of mantle. Adult eyes have NO stalks. Three subtle eye photophores each: posterior larger crescent, smaller crescent in its concavity, and tiny inner-front-upper oval near lens, never three extra eyeballs or neon rings.\nEIGHT short arms and TWO short muscular tentacles with slightly expanded small sucker clubs emerge from ONE continuous crown in front of the eyes. Pose is arms gathered LOOSELY INWARD rather than spread into a flat fan; several short tips curl gently toward the centre but do not create one circle mouth. The two tentacle club ends remain distinguishable, one near lower-left and one farther on lower-right; no duplicate club arm. Maintain natural anatomical roots even where far appendages overlap. Small central mouth is hidden in the crown, no white teeth or human smile. The mantle, head and long funnel are joined.\nShow the full foreshortened squid including both rear fin tips and every visible appendage tip, with 15 percent quiet margin. Animal fills no more than 60 percent frame width. Source-backed anatomical observation only: no hunting, feeding, jet, speed or exact diel-migration claim. Different actual FRONTAL/LOW visible head face and INWARD arm disposition from an open side-oblique representative. Soft clear living tissues, not hard glass, jewels, rubber or octopus web."
+      ],
+      "generatedAt": "2026-10-13T16:58:16.810Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "d20a305e95a4beee6a8836ff53667a8b33fae6440a9c89f01ede41c29b5c8493",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "먹이·공격·팔을 모으는 특정 행동 가설을 붙이지 않음. 종별 자료에 따른 교육 재구성입니다. 실제 사진·섭식 성공·전문 동정을 뜻하지 않으며 생성 뒤 원본과 전체 갤러리에서 형태·두 축 차이를 검토합니다.",
+      "behaviorSources": [
+        {
+          "title": "FAO Cephalopods of the World Vol. 2, pp. 175–177",
+          "url": "https://www.fao.org/4/i1920e/i1920e04.pdf"
+        }
+      ]
+    },
+    {
+      "id": "atlantic-cranch-squid",
+      "src": "assets/images/atlantic-cranch-squid-chatgpt-ecology-rear-high-midwater-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "대서양크랜치오징어 · 어스름한 바다",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 원뿔몸·성체 큰 눈·머리와 팔의 연결이 이어집니다. 긴 두 측면 핀은 후방 몸의 곡면으로 읽히며 추가 심장형핀이나 눈자루는 없습니다. club 두 개가 보입니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE 3:2 landscape natural-history illustration of a single adult Teuthowenia megalops, Atlantic cranch squid. Same real species, new actual HIGH REAR-RIGHT camera. No input scene to preserve. Transparent pale thin tissue with modest fine brown pigment in deep-blue midwater, no words, panels, prey, arrows or effects.\nAnatomy: elongated conical mantle narrowing to a narrow posterior end, TWO LONG NARROW lateral fins attached along roughly rear 40–60 percent of mantle length, fins taper posteriorly to modest lobes. TWO huge adult eyes on front-facing head sides, no eye tubes/stalks. Three subtle eye photophores per eye where the real side is visible, but never move hidden eye structures to the rear. EIGHT connected short arms plus TWO short muscular tentacles with slightly expanded sucker clubs, attached at the head crown. Natural occlusion allowed, no extra appendages or rigid octopus web.\nCamera and depth are critical: look from BEHIND the POSTERIOR TIP and slightly ABOVE RIGHT, so the narrow tail and nearby fin surfaces are in the FOREGROUND at upper-left and the wider mantle extends down-away toward the smaller far head at LOWER RIGHT. See the real dorsal/back mantle face, while eyes belong only to the FAR anterior head and are much less prominent than in a front portrait. NOT the same side-long squid with head left and tail right, NOT a mirror or a rotated flat page silhouette. Make true foreshortened three-dimensional overlapping surfaces.\nPose: the body is steeply DIAGONAL, almost head-down vertical in the water column. Near lateral fin forms a shallow CURVED sheet angled toward viewer, far fin is partly folded away, both rooted continuously. Short arms hang on the far head with gently bent inward tips, while the two modest clubs recede at differing depths, one tucked closer to crown rather than stretched side by side. No sharply kinked mantle. It is a quiet anatomical midwater reconstruction, not a proved dive, attack, precise diel migration or jet stroke.\nFull body and all visible tips inside frame with 15 percent water margin, squid only 55 percent of width. Soft natural transparency, no hard glass or jewels, no giant heart-shaped Magnapinna fins. Background alone does not create variation: rear/dorsal camera depth plus fin/appendage configuration must change."
+      ],
+      "generatedAt": "2026-10-13T17:00:28.119Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "cbe2b54c257f0fffa8257f9b86b327b2a857744c848eb7484aa80225b87baa2f",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "정확한 일주 이동 방향·유영 속도·시간을 주장하지 않음. 종별 자료에 따른 교육 재구성입니다. 실제 사진·섭식 성공·전문 동정을 뜻하지 않으며 생성 뒤 원본과 전체 갤러리에서 형태·두 축 차이를 검토합니다.",
+      "behaviorSources": [
+        {
+          "title": "FAO Cephalopods of the World Vol. 2, pp. 175–177",
+          "url": "https://www.fao.org/4/i1920e/i1920e04.pdf"
+        }
+      ]
+    },
+    {
+      "id": "japanese-flapjack-octopus",
+      "src": "assets/images/japanese-flapjack-octopus-chatgpt-portrait-front-mud-rest-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "우무문어 · 작은 지느러미가 있는 문어",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 한 몸통에 두 지느러미·깊은 팔막·팔끝이 이어지고, 근측에는 작은 빨판과 짧은 촉모가 보입니다. 큰 수컷 빨판 패치·두 긴 촉수·분리 팔끝은 보이지 않습니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational.\nMake ONE 3:2 landscape natural-history digital illustration for Sea Atlas, an encyclopedia for children aged 5–12. Realistic restrained soft tissues, quietly mysterious deep blue water, no text, diagram, labels, signature or watermark.\nSpecies: Exsuperoteuthis depressa (old name Opisthoteuthis depressa), the Japanese flapjack octopus. ONE adult female-like intact octopus on fine grey mud. It has a low flattened gelatinous disc body, large real eyes on the head sides, TWO small softly oval fins attached on the mantle sides, and EIGHT similar arms connected by a very deep SIMPLE web. Web reaches near the arm tips along their dorsal margins, but its oral/ventral margins end farther back. Each arm underside has small rather uniform suckers in a single natural line with fine short cirri beside them. No male huge crowded sucker patches. No separate two squid tentacles, no squid clubs, no additional fins or arms, no external shell. Do not turn it into a generic long-legged octopus or a floating dumbo cartoon. Eyes have natural wet black lenses within their tissue, no human mouth or smile.\nCamera and pose: a LOW FRONT-LEFT THREE-QUARTER view at seabed height. The head/near eye and both connected side fins are readable in depth. It is resting as a LOW DISC directly on the mud, with web and eight soft arm ends spread gently around the base. Several far arm tips may overlap naturally, but every visible arm must join the same web/body; no detached tips. Keep the nearer fin slightly lifted, the far fin lower in perspective. Show this whole animal, both fins, web edges and all extended tips within the frame, with at least 10 percent water/mud margin around it. No prey, other animals, tools, cage, spotlight beam or gore. A subtle pale reddish-brown live-tissue color, not saturated orange plastic. This is a source-backed reconstruction of the mud-resting posture, not an observed photograph or proof of exact age, size or sex."
+      ],
+      "generatedAt": "2026-10-13T16:41:10.621Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "e748253884941111bf41a41484ef1ba8c440f3707d83c4f61461b4d525d7955f",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "japanese-flapjack-octopus",
+      "src": "assets/images/japanese-flapjack-octopus-chatgpt-feeding-low-ventral-lift-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "우무문어 · 팔로 먹이를 모아요",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 한 몸에 두 핀과 깊은 팔막이 이어지고 v1의 흰 이빨 모양 돌출은 제거됐습니다. 앞쪽 큰 틈은 몸 밑의 굽힌 팔막으로 읽히지만 큰 입처럼 오해될 위험은 별도 검토가 필요합니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create a completely NEW 3:2 landscape natural-history illustration, ONE intact female-like Exsuperoteuthis depressa, old name Opisthoteuthis depressa. Quiet deep-blue water and pale grey mud; soft natural pink-brown skin, no writing, panels or labels.\nA Japanese flapjack octopus: low gelatinous mantle, TWO small connected mantle fins, EIGHT approximately equal arms joined by very deep simple web. Small uniform arm suckers and short fine cirri. No two extra squid tentacles. No human face, white teeth, tusks, fangs, claws, exposed beak, external shell or walking feet.\nStrong camera instruction: STRICT PURE RIGHT SIDE PROFILE at MUD LEVEL, animal head points RIGHT, rear body LEFT. This is NOT a broad frontal disc with a visible symmetrical star edge. The near eye is at the RIGHT end of a narrow oval body; only the NEAR fin is fully visible, far fin partly concealed behind its real root. The near and far web margins overlap in depth. See the thin right-side edge of a lifted web, not the wide dorsal face. The body silhouette should be long and LOW in this side projection.\nPose: the FRONT underside at RIGHT is modestly lifted from the mud, the back web at LEFT still contacts mud. ONE near lateral arm curves inward UNDER the body, gathering one small pale shrimp-shaped PLACED food item. Some far arm tips may naturally overlap. Keep all visible arm roots connected to the one arm crown and web. The central mouth and beak stay HIDDEN in the folded web, do not open a front mouth or draw toothlike projections. Small suckers belong beneath the arm, not along an entire web curtain. The near fin is angled rearward, far fin a smaller partial glimpse.\nThis reconstructs aquarium observation of a placed shrimp-like food item being gathered under the body, not a wild chase or confirmed swallowing. Shrimp still and uninjured. Entire animal, fin tips, every extending arm tip and shrimp within the frame, animal only about 65 percent of frame width, at least 12 percent quiet margin. Anatomical natural tissue over cute cartoon exaggeration. New true lateral projection and raised/folded-arm posture must both differ from a front disc rest scene."
+      ],
+      "generatedAt": "2026-10-13T16:50:40.547Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "4ee1d5414ab74658e62aa99a167f0a8312d3224cd2b35ae64e507660360a6a43",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "제공 먹이의 교육 재구성. 야생 추격·섭식 성공 사진·정확한 팔 번호 인증 아님. 종별 자료에 따른 교육 재구성입니다. 실제 사진·섭식 성공·전문 동정을 뜻하지 않으며 생성 뒤 원본과 전체 갤러리에서 형태·두 축 차이를 검토합니다.",
+      "behaviorSources": [
+        {
+          "title": "Toba Aquarium メンダコ",
+          "url": "https://aquarium.co.jp/picturebook/opisthoteuthis-depressa.html"
+        },
+        {
+          "title": "Enoshima Aquarium, captive feeding observation 2013",
+          "url": "https://www.enosui.com/researchentry.php?eid=00253"
+        },
+        {
+          "title": "Tree of Life old-name species morphology",
+          "url": "https://tolweb.org/Opisthoteuthis_depressa/20157"
+        }
+      ]
+    },
+    {
+      "id": "japanese-flapjack-octopus",
+      "src": "assets/images/japanese-flapjack-octopus-chatgpt-ecology-side-web-pulse-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "우무문어 · 팔막을 움직이는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 두 핀 뿌리가 한 몸통에 붙고 깊은 팔막과 작은 빨판·촉모를 가진 팔끝이 이어집니다. 얼굴이 등면에 옮겨붙거나 분리 팔이 생기지 않았습니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE 3:2 landscape realistic natural-history illustration of ONE adult female-like Exsuperoteuthis depressa (Japanese flapjack octopus, old name Opisthoteuthis depressa). No supplied image; create a NEW rear/upper view, not a mirrored front or side scene. Muted soft pale reddish-brown translucent tissue in dark blue water above fine grey mud.\nCamera: ABOVE AND BEHIND the mantle, about 45 degrees down, seeing the rounded BACK of the low body and both real connected mantle-fin roots. The eyes and central mouth face AWAY on the far side and are naturally largely hidden; do not relocate an eye or mouth onto the back. TWO SMALL mantle fins are asymmetrically tilted as soft tissue: near fin in a downstroke-like angle, far fin raised, without inventing a measured movement.\nPose: the intact small octopus is just a short distance ABOVE the mud, rather than resting. Its EIGHT similar arms and very deep simple arm-web flare into a shallow hanging umbrella beneath and in front of the mantle, with individually connected soft arm tips curling differently, no straight symmetric star cutout. The web dorsal attachment reaches nearly to tips; its ventral oral edge ends farther back. Keep small uniform single-line suckers with fine short cirri on the actual arm undersides where visible, not giant teeth along a mouth, and do not force the entire underside into this rear camera. Far arm roots and some tips may overlap naturally; no severed or floating arm pieces.\nWhole animal and all extending tips visible with at least 15 percent water margin on every side, occupying about 55 percent of frame width. The compressed body and small fins distinguish it from a huge-eared dumbo cartoon. No extra squid tentacles, external shell, teeth, human face, prey, jets, beams, bubbles, labels or panels. Published aquarium observation documents web opening/closing and vertical swimming, but this is a calm educational reconstruction of a suspended form, not proof of panic, injury, a particular stroke or wild escape. Different actual REAR/UPPER body face, suspended umbrella shape and fin positions must distinguish this from a front low disc resting and a low lateral placed-food gathering scene."
+      ],
+      "generatedAt": "2026-10-13T16:53:09.519Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "82da58c0afd371fb039584f0701d3d09e558fe62297b2e32e003714e723af200",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "자극을 주는 실험이나 실제 도망 장면으로 설명하지 않음. 종별 자료에 따른 교육 재구성입니다. 실제 사진·섭식 성공·전문 동정을 뜻하지 않으며 생성 뒤 원본과 전체 갤러리에서 형태·두 축 차이를 검토합니다.",
+      "behaviorSources": [
+        {
+          "title": "Toba Aquarium メンダコ",
+          "url": "https://aquarium.co.jp/picturebook/opisthoteuthis-depressa.html"
+        },
+        {
+          "title": "Enoshima Aquarium, captive feeding observation 2013",
+          "url": "https://www.enosui.com/researchentry.php?eid=00253"
+        },
+        {
+          "title": "Tree of Life old-name species morphology",
+          "url": "https://tolweb.org/Opisthoteuthis_depressa/20157"
+        }
+      ]
+    },
+    {
+      "id": "seven-arm-octopus",
+      "src": "assets/images/seven-arm-octopus-chatgpt-portrait-female-front-oblique-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "일곱다리문어 · 실제 팔은 여덟 개",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 한 몸에 눈·깊은 팔막·여러 굽은 팔과 빨판이 이어지며 fin/촉모/club촉수는 없습니다. 근측 빨판두줄이 보이고 입 근처 세부는 가립니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE 3:2 landscape natural-history illustration for children aged 5–12, ONE intact adult FEMALE Haliphron atlanticus, seven-arm octopus. Although the common name is seven-arm, a FEMALE HAS EIGHT ARMS. No male hidden-arm sac for this female. Quiet mysterious deep-blue midwater, restrained realistic soft living tissue, no text, diagram, labels, watermark, monster face or other animals.\nSpecies: a SHORT BROAD gelatinous mantle and wide head with two large real eyes; EIGHT substantial tapering arms connected by a VERY DEEP simple fleshy web. Arms are not long thin squid tentacles and there are no two club tentacles. Each visible oral arm face has mostly TWO rows of moderate suckers grading to a SINGLE row near mouth. Do not put sucker dots on the mantle or entire web membrane. NO fins, ears, cirri, spikes, shell, beak sticking outside, fang teeth or anthropomorphic smile. This is NOT a cirrate dumbo/flapjack octopus.\nCamera: a true FRONT-LEFT THREE-QUARTER full-body view. A wide oval gelatinous mantle is above the head, near eye is clear on the head side, far eye smaller in depth. Below the head the connected eight-arm crown hangs toward lower-right with a deep web. Keep four near arm tips readable in the foreground and other four partly separated or naturally overlapped in the far depth, all eight attached to their real arm bases, no bonus ninth arm. Natural occlusion better than disconnected extra limbs.\nPose: relaxed midwater suspension. The arm web is open loosely like a deep bowl, and arms hang in gentle different curves with two nearer ends softly curled outward. It is not a flat symmetric eight-point star, a jellyfish bell, or a tail-jet event. The body itself remains short and broad, not a long squid mantle.\nFull animal, every visible extending tip, eyes and web inside frame, 12 percent clear margin each side, subject about 60 percent frame width. Subtle pale bluish-rose/brown translucent live tissue, understated internal shadows, soft fine texture. Source-backed anatomical observation, not certification of age, maximum size or exact sex of a wild encounter. No prey or feeding in this representative."
+      ],
+      "generatedAt": "2026-10-13T17:03:07.426Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "a2a8675d85457feb83382aa81d47f98c425ab63c6ea1dd7ef3cbf99a43d56caa",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "seven-arm-octopus",
+      "src": "assets/images/seven-arm-octopus-chatgpt-feeding-low-oral-jelly-hold-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "일곱다리문어 · 해파리를 붙잡는 팔",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 넓은 몸·두 눈·깊은 팔막과 굽은 팔들이 이어지고 fin/촉모/club은 없습니다. 작은 해파리는 별도 우산과 실 같은 부속지로 구분되며 상처나 공격무기 표현은 없습니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE 3:2 landscape realistic natural-history illustration of ONE intact adult female-like Haliphron atlanticus in deep blue midwater, softly holding ONE small pale cream-yellow gelatinous medusa in its arm crown. Reconstruct source-backed jelly holding, not a photographed kill or proof of swallowing. Do not claim it uses the jelly as a weapon. No blood, torn flesh, injury, human face, captions, arrows, watermark or panels.\nHaliphron shape: SHORT BROAD gelatinous oval mantle, wide head with TWO real eyes, EIGHT substantial tapering arms linked by a DEEP SIMPLE web. No fins, ears, cirri, spikes, external shell, two squid tentacles or club ends. Arm undersides mostly TWO moderate sucker rows grading toward SINGLE near mouth, never sucker dots on web itself. All eight arms connected to one real crown, no detached extra limb. This female-like body must not have a male hidden-arm sac or deliberately missing eighth arm.\nCamera: TRUE FRONTAL ORAL VIEW FROM BELOW looking upward into the arm crown, unlike a three-quarter side view with one large near eye. The near arms and their undersides are closest; two eyes are seen at similar depths above and behind the crown; the broad mantle recedes upward BEHIND head in foreshortening. This must expose a different body face, not rotate or mirror a prior silhouette.\nPose: several arms bend INWARD and overlap to form a loose cupped holder around the medusa BELOW the hidden small central mouth, and the remaining arms softly curl behind. Web contracts into a bowl, rather than hanging wide open in a star. The medusa is a separate small thin translucent smooth umbrella with pale-yellow inner tissue, a few fine trailing tentacle threads, not another octopus head or a giant solid ball. Held against arm suckers gently, not shown stabbed, ripped, swallowed or glowing. Do not make stinging tentacles into spikes or an attacking weapon.\nShow entire intact octopus body and every visible curled/extending tip, medusa and its fine trails inside frame with 15 percent quiet margin. Octopus about 55 percent width. Muted soft rose-brown translucent tissue, faint natural internal shadows, no glass plastic or angry monster. Source-backed female holding a gelatinous medusa (the reported egg-yolk-jelly association), but this is a generic educational medusa and does not certify its exact species, age or exact encounter date."
+      ],
+      "generatedAt": "2026-10-13T17:06:01.235Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "a57f527969c9fc570cdca1dc7827e77fa3058baf3dfff0320a22f56b85280326",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "해파리를 무기로 사용한다거나 실제 포획 성공 사진으로 설명하지 않음. 상처·혈액·먹이 조직 절단은 생략. 종별 자료에 따른 교육 재구성입니다. 실제 사진·섭식 성공·전문 동정을 뜻하지 않으며 생성 뒤 원본과 전체 갤러리에서 형태·두 축 차이를 검토합니다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI Seven-arm octopus",
+          "url": "https://www.mbari.org/animal/seven-arm-octopus/"
+        },
+        {
+          "title": "MBARI 2025 observation",
+          "url": "https://www.mbari.org/news/mbari-researchers-encounter-rarely-seen-deep-sea-seven-arm-octopus/"
+        },
+        {
+          "title": "Tree of Life Haliphron atlanticus, specialist species account",
+          "url": "https://tolweb.org/Haliphron_atlanticus/20200"
+        }
+      ]
+    },
+    {
+      "id": "seven-arm-octopus",
+      "src": "assets/images/seven-arm-octopus-chatgpt-ecology-rear-mantle-drift-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "일곱다리문어 · 깊은 바다의 옆뒤 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 큰 주머니 몸통·머리·팔막과 굽힌 팔들의 연결이 보이고, 등면 눈·fin·촉모·club을 추가하지 않았습니다. 가려진 팔을 잘라낸 것으로 단정하지 않습니다.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. ONE 3:2 landscape natural-history illustration of ONE intact adult female-like Haliphron atlanticus, seven-arm octopus with EIGHT actual arms. Realistic soft pale muted rose-grey translucent living tissues in dark blue midwater, no prey, labels, panels, arrows or watermark.\nCamera: TRUE HIGH REAR-RIGHT VIEW down at the broad oval BACK of the short gelatinous mantle, not a frontal octopus rotated on the page. The large mantle sac is the NEAREST part, head and arm crown extend downward and AWAY behind its lower far edge. Two eyes belong on the head SIDES, so here at most a small SIDE glimpse of one eye is appropriate, not two eyes pasted onto the back or a human face. No mantle fins, dumbo ears, cirri or tentacle clubs.\nPose: the EIGHT muscular tapering arms are gathered into a LOOSE COMPACT BUNDLE below the far head, and the deep simple web is folded among their natural roots. Four nearer arm tips can show separate soft curls around the lower silhouette; four far arms naturally recede and overlap behind, but all belong to eight true crown roots. Do not reduce the animal to a literal seven-arm body, a four-arm comet, or add bonus arms for decoration. Any visible oral arm surface has two moderate sucker rows grading near the hidden mouth toward single; don't place suckers on dorsal arm backs, mantle or plain web.\nThe mantle body is short/broad, not a long squid torpedo. It drifts in a near-VERTICAL arrangement with body high and arms below, in calm midwater observation rather than a claimed jet dive or precise movement. No mouth, white teeth, battle, eggs or breeding scene. Soft shadows and subdued pigmentation, no hard glass or gleaming toy skin.\nEntire mantle, all extending visible arm tips and head inside frame, subject only 55 percent width with at least 15 percent surrounding water. The genuine rear body face and compact folded arm-web state must differ from a front-oblique open web representative and a frontal oral cupped-jelly scene."
+      ],
+      "generatedAt": "2026-10-13T17:07:54.315Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "463a3eddf02190e37d711ae7c9158e8f698e18c0c27bbb54f290c95a47f2954f",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "정확한 이동 속도·방향·젯 추진을 새로 만들어내지 않음. 종별 자료에 따른 교육 재구성입니다. 실제 사진·섭식 성공·전문 동정을 뜻하지 않으며 생성 뒤 원본과 전체 갤러리에서 형태·두 축 차이를 검토합니다.",
+      "behaviorSources": [
+        {
+          "title": "MBARI Seven-arm octopus",
+          "url": "https://www.mbari.org/animal/seven-arm-octopus/"
+        },
+        {
+          "title": "MBARI 2025 observation",
+          "url": "https://www.mbari.org/news/mbari-researchers-encounter-rarely-seen-deep-sea-seven-arm-octopus/"
+        },
+        {
+          "title": "Tree of Life Haliphron atlanticus, specialist species account",
+          "url": "https://tolweb.org/Haliphron_atlanticus/20200"
+        }
+      ]
+    },
+    {
+      "id": "barrel-amphipod",
+      "src": "assets/images/barrel-amphipod-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "입주영리옆새우 · 투명한 몸과 두 쌍의 눈",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 큰 투명 상단 렌즈 면과 낮은 망막, 뒤 가슴에 연결된 큰 집게가 보임. 원측 눈/다리 뿌리 일부가 겹쳐 전체 눈4/다리14 전수는 확인하지 못함.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Phronima sedentaria, a transparent female-like adult hyperiid amphipod, not a shrimp, lobster, isopod or alien. An elongated clear head joins SEVEN thoracic segments with SEVEN pairs of thoracic legs, then an abdomen with THREE pairs of small abdominal swimming appendages and fine tail uropods. The first antennal pair is VERY SHORT and the female second antennae are absent; no long shrimp whiskers or male long hairy antennae.\nCritical EYES: two broad TRANSPARENT curved medial corneal lens fields form two shallow upper dorsal bulges continuous with the clear head. Long clear optical light guides descend INSIDE the head to small dark reddish retinal bases LOWER near the sides. Two smaller lateral eyes lie beside the lower head. The top bulges are not opaque round purple/black eyeballs, not gold-rimmed eyes, not mounted on eyestalks. Do not count every internal retina as a new external eyeball. Follow the true optical organization in reference Fig1C; Fig1D is only an explanatory model, so do not copy its blue/red shading.\nCritical LEGS: P1–P2 are SMALL subchelate limbs near the mouth; P3–P4 are fine simple legs; P5 alone is the pair of LARGE articulated grasping claws attached to the FIFTH thoracic segment in the MIDDLE-REAR body, well BEHIND several small anterior leg roots, not the neck directly behind the head. P6–P7 are smaller simple limbs behind those large roots. Show the near P5 shaft continuously from its mid-rear thoracic root to its bent two-finger terminal claw. A far P5 may overlap naturally, never add a third huge claw. Distinguish abdominal swimmerets from thoracic walking limbs. Favor clear attachments over false exposure of all far legs. Sparse tiny rusty flecks, no opaque armor.\nAny barrel must be thin soft gelatinous salp tunic, a slightly irregular organic cylinder with TWO natural open ends, not a hard glass bottle, thick shiny hoop, shell or spaceship.\nInput image is a scientific anatomical REFERENCE only: use Fig1A side body and Fig1C true eyes. Make one natural intact whole animal, with none of the page text, A/B/C/D labels, colored model regions or panel composition. No barrel or other animals in this portrait. Camera is a slightly high FRONT-SIDE three-quarter view, with the transparent head at the left foreground and thorax receding right into the abdomen. Near lateral head, dorsal lens surfaces and several near thoracic leg roots remain readable. Body occupies only about 65 percent of frame width. Small anterior limbs hang loosely. Near P5 hangs from its TRUE mid-rear FIFTH thoracic root in a bent arc toward lower-center, claw fingers slightly separated; far P5 is naturally partly behind. Near simple P3/P4 are visibly anterior to that big root. P6/P7 remain behind it. The abdomen flexes gently downward at the rear, its small swimmerets visible below. All tail and every leg/claw tip within margins. Clear subtle optical domes above and small retinas lower within the head; never black spherical top eyes."
+      ],
+      "generatedAt": "2026-10-13T16:41:58.504Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "97c642475cbb3a00442453efd66f97466453d1b392c174ce246edb9452c98012",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "referenceSources": [
+        {
+          "title": "Bagheri etal2022 — A new computational model illuminates the extraordinary eyes of Phronima",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010545",
+          "referenceSha256": "11fa5caddfed3db2aab2213c6eb9682b65e96f651ec6349cf79f7c58ff28ea58"
+        }
+      ]
+    },
+    {
+      "id": "barrel-amphipod",
+      "src": "assets/images/barrel-amphipod-chatgpt-feeding-barrel-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "입주영리옆새우 · 먹이가 집이 되기도 해요",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 투명상단렌즈/낮은망막과근측P5 중후부 연결이 읽히고 앞면/통벽그립 자세가 대표와구별. 원측P5기저는 렌즈/몸 겹침으로 정확전수검증불가.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Phronima sedentaria, a transparent female-like adult hyperiid amphipod, not a shrimp, lobster, isopod or alien. An elongated clear head joins SEVEN thoracic segments with SEVEN pairs of thoracic legs, then an abdomen with THREE pairs of small abdominal swimming appendages and fine tail uropods. The first antennal pair is VERY SHORT and the female second antennae are absent; no long shrimp whiskers or male long hairy antennae.\nCritical EYES: two broad TRANSPARENT curved medial corneal lens fields form two shallow upper dorsal bulges continuous with the clear head. Long clear optical light guides descend INSIDE the head to small dark reddish retinal bases LOWER near the sides. Two smaller lateral eyes lie beside the lower head. The top bulges are not opaque round purple/black eyeballs, not gold-rimmed eyes, not mounted on eyestalks. Do not count every internal retina as a new external eyeball. Follow the true optical organization in reference Fig1C; Fig1D is only an explanatory model, so do not copy its blue/red shading.\nCritical LEGS: P1–P2 are SMALL subchelate limbs near the mouth; P3–P4 are fine simple legs; P5 alone is the pair of LARGE articulated grasping claws attached to the FIFTH thoracic segment in the MIDDLE-REAR body, well BEHIND several small anterior leg roots, not the neck directly behind the head. P6–P7 are smaller simple limbs behind those large roots. Show the near P5 shaft continuously from its mid-rear thoracic root to its bent two-finger terminal claw. A far P5 may overlap naturally, never add a third huge claw. Distinguish abdominal swimmerets from thoracic walking limbs. Favor clear attachments over false exposure of all far legs. Sparse tiny rusty flecks, no opaque armor.\nAny barrel must be thin soft gelatinous salp tunic, a slightly irregular organic cylinder with TWO natural open ends, not a hard glass bottle, thick shiny hoop, shell or spaceship.\nInput image is a scientific anatomical REFERENCE only: use Fig1A side body and Fig1C true eyes. Make one natural intact whole animal, with none of the page text, A/B/C/D labels, colored model regions or panel composition. No barrel or other animals in this portrait. Camera is a slightly high FRONT-SIDE three-quarter view, with the transparent head at the left foreground and thorax receding right into the abdomen. Near lateral head, dorsal lens surfaces and several near thoracic leg roots remain readable. Body occupies only about 65 percent of frame width. Small anterior limbs hang loosely. Near P5 hangs from its TRUE mid-rear FIFTH thoracic root in a bent arc toward lower-center, claw fingers slightly separated; far P5 is naturally partly behind. Near simple P3/P4 are visibly anterior to that big root. P6/P7 remain behind it. The abdomen flexes gently downward at the rear, its small swimmerets visible below. All tail and every leg/claw tip within margins. Clear subtle optical domes above and small retinas lower within the head; never black spherical top eyes.",
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Phronima sedentaria, a transparent female-like adult hyperiid amphipod, not a shrimp, lobster, isopod or alien. An elongated clear head joins SEVEN thoracic segments with SEVEN pairs of thoracic legs, then an abdomen with THREE pairs of small abdominal swimming appendages and fine tail uropods. The first antennal pair is VERY SHORT and the female second antennae are absent; no long shrimp whiskers or male long hairy antennae.\nCritical EYES: two broad TRANSPARENT curved medial corneal lens fields form two shallow upper dorsal bulges continuous with the clear head. Long clear optical light guides descend INSIDE the head to small dark reddish retinal bases LOWER near the sides. Two smaller lateral eyes lie beside the lower head. The top bulges are not opaque round purple/black eyeballs, not gold-rimmed eyes, not mounted on eyestalks. Do not count every internal retina as a new external eyeball. Follow the true optical organization in reference Fig1C; Fig1D is only an explanatory model, so do not copy its blue/red shading.\nCritical LEGS: P1–P2 are SMALL subchelate limbs near the mouth; P3–P4 are fine simple legs; P5 alone is the pair of LARGE articulated grasping claws attached to the FIFTH thoracic segment in the MIDDLE-REAR body, well BEHIND several small anterior leg roots, not the neck directly behind the head. P6–P7 are smaller simple limbs behind those large roots. Show the near P5 shaft continuously from its mid-rear thoracic root to its bent two-finger terminal claw. A far P5 may overlap naturally, never add a third huge claw. Distinguish abdominal swimmerets from thoracic walking limbs. Favor clear attachments over false exposure of all far legs. Sparse tiny rusty flecks, no opaque armor.\nAny barrel must be thin soft gelatinous salp tunic, a slightly irregular organic cylinder with TWO natural open ends, not a hard glass bottle, thick shiny hoop, shell or spaceship.\nInput is ONLY our own accurate species/style portrait. Generate a new LOW FRONTAL-VENTRAL three-quarter camera through the near open end of a soft salp-tunic barrel. Do NOT preserve, mirror or flat-rotate the long sideways portrait. The head is nearest in the lower-center foreground, thorax and flexed abdomen recede behind it in depth through the barrel. Both lower side retinal regions and the underside small mouth-limbs are emphasized; the upper paired optical domes remain CLEAR TRANSPARENT lenses, never black eyeballs. The head is not enlarged to cover the entire body. Show enough sideways depth on the nearer thorax to read the P5 ROOT at its mid-rear fifth segment WELL BEHIND the head: its long shaft then reaches FORWARD to the near side wall. Far P5 begins farther behind on the opposite mid-rear thorax and reaches the opposite wall, naturally partly hidden. Do not attach either huge claw directly behind the head or in front of P3/P4 roots.\nONE completed soft salp-tunic barrel around the one adult, organic thin subtly wrinkled translucent wall and TWO open ends. Near rim is a gentle irregular oval, far opening smaller in depth; no thick polished glass rim, opaque bottle wall, cap or metal band. The near P5 and far P5 lightly grasp the side walls. The first small gnathopods gather near a SINGLE SMALL pale gelatinous scrap just OUTSIDE the mouth; no injured salp, ripping action, blood or successful swallowing. Small rear thoracic legs fold near the body; the abdomen and fine swimmerets flex inward in the rear of the barrel, different from freely hanging portrait. No brood in this cut. Camera/visible lower surface and wall-grip limb state are both truly different. Whole animal, all attached tips and whole barrel inside 10–12 percent margins. Species-specific salp food/housing relation is educational, not a measured feeding event."
+      ],
+      "generatedAt": "2026-10-13T16:50:12.039Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "e0e811246da05d5330572aee1c7f01a435da8ef2f49782e14cd5a33ebb9d2c9e",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "referenceSources": [
+        {
+          "title": "Bagheri etal2022 — A new computational model illuminates the extraordinary eyes of Phronima",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010545",
+          "referenceSha256": "11fa5caddfed3db2aab2213c6eb9682b65e96f651ec6349cf79f7c58ff28ea58"
+        }
+      ],
+      "sceneType": "feeding",
+      "behaviorCheck": "기존 통과 원본 우선 유지. 찢는 과정·피·섭식 성공 없이 먹이와 집 관계만 재구성.",
+      "behaviorSources": [
+        {
+          "title": "추라우미 수족관 — 입주영리옆새우",
+          "url": "https://churaumi.okinawa/kr/fishbook/00000608/"
+        },
+        {
+          "title": "MBARI — Barrel amphipod",
+          "url": "https://www.mbari.org/animal/barrel-amphipod/"
+        }
+      ]
+    },
+    {
+      "id": "barrel-amphipod",
+      "src": "assets/images/barrel-amphipod-chatgpt-ecology-brood-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "입주영리옆새우 · 통 안에서 새끼와 함께",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 높은등면에서P5두뿌리가중후부가슴에연결되어이전앞기저오인우려가줄었음. 투명렌즈·짧은더듬이와새끼띠확인.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Phronima sedentaria, a transparent female-like adult hyperiid amphipod, not a shrimp, lobster, isopod or alien. An elongated clear head joins SEVEN thoracic segments with SEVEN pairs of thoracic legs, then an abdomen with THREE pairs of small abdominal swimming appendages and fine tail uropods. The first antennal pair is VERY SHORT and the female second antennae are absent; no long shrimp whiskers or male long hairy antennae.\nCritical EYES: two broad TRANSPARENT curved medial corneal lens fields form two shallow upper dorsal bulges continuous with the clear head. Long clear optical light guides descend INSIDE the head to small dark reddish retinal bases LOWER near the sides. Two smaller lateral eyes lie beside the lower head. The top bulges are not opaque round purple/black eyeballs, not gold-rimmed eyes, not mounted on eyestalks. Do not count every internal retina as a new external eyeball. Follow the true optical organization in reference Fig1C; Fig1D is only an explanatory model, so do not copy its blue/red shading.\nCritical LEGS: P1–P2 are SMALL subchelate limbs near the mouth; P3–P4 are fine simple legs; P5 alone is the pair of LARGE articulated grasping claws attached to the FIFTH thoracic segment in the MIDDLE-REAR body, well BEHIND several small anterior leg roots, not the neck directly behind the head. P6–P7 are smaller simple limbs behind those large roots. Show the near P5 shaft continuously from its mid-rear thoracic root to its bent two-finger terminal claw. A far P5 may overlap naturally, never add a third huge claw. Distinguish abdominal swimmerets from thoracic walking limbs. Favor clear attachments over false exposure of all far legs. Sparse tiny rusty flecks, no opaque armor.\nAny barrel must be thin soft gelatinous salp tunic, a slightly irregular organic cylinder with TWO natural open ends, not a hard glass bottle, thick shiny hoop, shell or spaceship.\nInput image is a scientific anatomical REFERENCE only: use Fig1A side body and Fig1C true eyes. Make one natural intact whole animal, with none of the page text, A/B/C/D labels, colored model regions or panel composition. No barrel or other animals in this portrait. Camera is a slightly high FRONT-SIDE three-quarter view, with the transparent head at the left foreground and thorax receding right into the abdomen. Near lateral head, dorsal lens surfaces and several near thoracic leg roots remain readable. Body occupies only about 65 percent of frame width. Small anterior limbs hang loosely. Near P5 hangs from its TRUE mid-rear FIFTH thoracic root in a bent arc toward lower-center, claw fingers slightly separated; far P5 is naturally partly behind. Near simple P3/P4 are visibly anterior to that big root. P6/P7 remain behind it. The abdomen flexes gently downward at the rear, its small swimmerets visible below. All tail and every leg/claw tip within margins. Clear subtle optical domes above and small retinas lower within the head; never black spherical top eyes.",
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Phronima sedentaria, a transparent female-like adult hyperiid amphipod, not a shrimp, lobster, isopod or alien. An elongated clear head joins SEVEN thoracic segments with SEVEN pairs of thoracic legs, then an abdomen with THREE pairs of small abdominal swimming appendages and fine tail uropods. The first antennal pair is VERY SHORT and the female second antennae are absent; no long shrimp whiskers or male long hairy antennae.\nCritical EYES: two broad TRANSPARENT curved medial corneal lens fields form two shallow upper dorsal bulges continuous with the clear head. Long clear optical light guides descend INSIDE the head to small dark reddish retinal bases LOWER near the sides. Two smaller lateral eyes lie beside the lower head. The top bulges are not opaque round purple/black eyeballs, not gold-rimmed eyes, not mounted on eyestalks. Do not count every internal retina as a new external eyeball. Follow the true optical organization in reference Fig1C; Fig1D is only an explanatory model, so do not copy its blue/red shading.\nCritical LEGS: P1–P2 are SMALL subchelate limbs near the mouth; P3–P4 are fine simple legs; P5 alone is the pair of LARGE articulated grasping claws attached to the FIFTH thoracic segment in the MIDDLE-REAR body, well BEHIND several small anterior leg roots, not the neck directly behind the head. P6–P7 are smaller simple limbs behind those large roots. Show the near P5 shaft continuously from its mid-rear thoracic root to its bent two-finger terminal claw. A far P5 may overlap naturally, never add a third huge claw. Distinguish abdominal swimmerets from thoracic walking limbs. Favor clear attachments over false exposure of all far legs. Sparse tiny rusty flecks, no opaque armor.\nAny barrel must be thin soft gelatinous salp tunic, a slightly irregular organic cylinder with TWO natural open ends, not a hard glass bottle, thick shiny hoop, shell or spaceship.\nInput is our anatomical/style portrait only. Draw a genuinely new DIRECT FRONTAL AXIAL camera through the near oval mouth of the soft salp barrel, slightly ABOVE the adult's head; do not reuse the feeding image's front-left long receding silhouette. The animal's long body points AWAY almost along the camera axis, head centered in foreground, thorax/abdomen SHORTENED in depth behind it. Upper transparent medial lens surfaces are foreground domes; tiny retinal bases sit LOWER INSIDE the head and the smaller lateral eyes beside them. No opaque large black/purple top spheres or gold rims. Very short female antennal stubs only.\nThere is ONE adult female-like Phronima inside a whole soft transparent barrel with both open ends, no thick polished glass. A loose narrow BELT of MUCH SMALLER similar-sized transparent young lies along the INNER MIDWALL of the tunic, following the source's female-young association, not rows of pearls, eggs, glowing berries or mini adult clones with fully certified anatomy. Keep their individual subtle segmented outlines tiny; no exact number or age claim. No feeding scrap and no predator in this cut.\nAdult's P5 claw bases are at the FIFTH thoracic segment well behind the head, receding near the far INNER side wall; both long arm-shafts travel from those mid-rear origins to the barrel sides. If roots naturally overlap behind the head, do not fake a visible NECK attachment; leave the nearer continuous shaft readable around the SIDE of the head. P1–P4 small anterior leg roots remain in front of those P5 roots. Both big terminal claws lightly grip the farther sides, not thrust toward viewer. The small mouth-limbs fold inwards beneath the head; abdomen is flexed farther back, with small abdominal swimmerets gathered, differing from feeding wall-grip approach. Whole barrel, whole adult and all attached tips within at least ten percent margins. Strong true end-on camera and gathered/receded limbs make this a third distinct cut, not merely a brood added to the feeding pose. The scene reconstructs supported cohabitation, not live birth, exact maternal behaviour or measured brood stage.",
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Phronima sedentaria, a transparent female-like adult hyperiid amphipod, not a shrimp, lobster, isopod or alien. An elongated clear head joins SEVEN thoracic segments with SEVEN pairs of thoracic legs, then an abdomen with THREE pairs of small abdominal swimming appendages and fine tail uropods. The first antennal pair is VERY SHORT and the female second antennae are absent; no long shrimp whiskers or male long hairy antennae.\nCritical EYES: two broad TRANSPARENT curved medial corneal lens fields form two shallow upper dorsal bulges continuous with the clear head. Long clear optical light guides descend INSIDE the head to small dark reddish retinal bases LOWER near the sides. Two smaller lateral eyes lie beside the lower head. The top bulges are not opaque round purple/black eyeballs, not gold-rimmed eyes, not mounted on eyestalks. Do not count every internal retina as a new external eyeball. Follow the true optical organization in reference Fig1C; Fig1D is only an explanatory model, so do not copy its blue/red shading.\nCritical LEGS: P1–P2 are SMALL subchelate limbs near the mouth; P3–P4 are fine simple legs; P5 alone is the pair of LARGE articulated grasping claws attached to the FIFTH thoracic segment in the MIDDLE-REAR body, well BEHIND several small anterior leg roots, not the neck directly behind the head. P6–P7 are smaller simple limbs behind those large roots. Show the near P5 shaft continuously from its mid-rear thoracic root to its bent two-finger terminal claw. A far P5 may overlap naturally, never add a third huge claw. Distinguish abdominal swimmerets from thoracic walking limbs. Favor clear attachments over false exposure of all far legs. Sparse tiny rusty flecks, no opaque armor.\nAny barrel must be thin soft gelatinous salp tunic, a slightly irregular organic cylinder with TWO natural open ends, not a hard glass bottle, thick shiny hoop, shell or spaceship.\nReconstruct this brood scene with a genuinely NEW STRICT HIGH DORSAL/TOP-DOWN camera, looking almost perpendicular DOWN onto the adult thorax through the transparent upper wall of its soft salp barrel. The previous direct front view hides the large claw roots and resembles a neck-claw attachment. Do not preserve that frontal head or its large outward claw display. Show the adult's FULL thoracic LENGTH from head at upper-left to flexed abdomen lower-right, dorsal surfaces and leg bases seen from ABOVE, as a natural underwater whole animal, not a labeled diagram.\nCritical visible arrangement: place FOUR SMALL ANTERIOR LEG-PAIR ROOTS along the thorax between the head and the BIG P5 pair. The TWO large P5 roots connect to the fifth segment in the MIDDLE-REAR thorax, not the front neck; their shafts reach sideways and backwards to the far side walls of the soft barrel. Those two root-to-shaft connections must remain readable through the transparent tissue from this dorsal camera. P6/P7 small roots lie farther posterior behind P5. The small anterior limbs are tucked under the head, their bases visible but tips may overlap naturally. Abdomen flexes inward at rear; abdominal swimmerets gathered rather than straight big antennae. Do not add adult limbs to create false exposed far parts.\nThe upper eye structures remain a PAIR of broad CLEAR corneal lens fields attached to the head, with dark small retinal bases LOWER INSIDE rather than black round top pupils. From above the lower lateral retinas may be naturally partly occluded: do not force four giant black spheres into this camera. First antennal pair extremely short, no long female whiskers. The barrel is thin, wrinkled, organic tunic with TWO open ends, whole housing inside frame with twelve percent margins, not a thick glass bottle. It may lie diagonally below the camera, but there is TRUE dorsal body geometry, not flat rotation of the old frontal picture. Retain one modest BELT of very small transparent similarly developed young along INNER MIDWALL, much smaller than the adult and not pearls/eggs. No food scrap, live birth or exact brood-stage claim. New dorsal visible surface AND rearward wall-grip/gathered front appendages must differ from side portrait and low-front feeding cut."
+      ],
+      "generatedAt": "2026-10-13T17:03:31.027Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "ede32ad5ab53828e2018c7e1280a36817f95d0201b66747d1d715ac5e9fc6999",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "referenceSources": [
+        {
+          "title": "Bagheri etal2022 — A new computational model illuminates the extraordinary eyes of Phronima",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010545",
+          "referenceSha256": "11fa5caddfed3db2aab2213c6eb9682b65e96f651ec6349cf79f7c58ff28ea58"
+        }
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "큰 집게 P5와 광학계 연결을 우선 교정. 새끼 수/정확 나이/친자·출산 순간은 미인증.",
+      "behaviorSources": [
+        {
+          "title": "추라우미 수족관 — 입주영리옆새우",
+          "url": "https://churaumi.okinawa/kr/fishbook/00000608/"
+        },
+        {
+          "title": "MBARI — Barrel amphipod",
+          "url": "https://www.mbari.org/animal/barrel-amphipod/"
+        },
+        {
+          "title": "Bagheri et al. 2022 — Phronima eyes Fig.1",
+          "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010545"
+        }
+      ]
+    },
+    {
+      "id": "jellyfish-amphipod",
+      "src": "assets/images/jellyfish-amphipod-chatgpt-portrait-female-side-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "바다벼룩 · 통통한 몸과 큰 눈",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 짧아진 네 더듬이·콩팥모양 눈 색소·굽은 짧은 몸과 작은 앞집게다리 확인. 꼬리 가지/원측 마디는 겹쳐 미세전수 동정불가.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Hyperia galba, the specific jellyfish-associated hyperiid AMPHIPOD in Naturalis, not Phronima, a shelled ostracod, true shrimp or isopod. Female-like adult has a SHORT COMPACT body, a high head much shorter than tall with truncated front, and a broad HUMPED thoracic pereion. Side-compressed segmented body is translucent yellow-amber to pale red-yellow, never a shell enclosing everything. Eyes have dark RENIFORM/kidney-shaped pigment areas within normal broad compound-eye surfaces on either head side, not stalked round googly pupils. BOTH short antennal pairs are VERY SHORT, no long whiskers. TWO pairs of small anterior gnathopods have modest subchelate tips, smaller than the other legs, not giant Phronima fifth claws or crab pincers. PEREIOPODS 3–7 are short, firm and similar, mostly without dense hairs. Seven thoracic leg pairs total, all correctly connected to seven thoracic segments; far legs may be naturally occluded. Abdomen is shorter and flexed, with small abdominal swimming appendages and broad branched tail UROPODS and a large TELSON; no fish tailfin, paddle, rigid closed ball or duplicated tails. Do not transform the fixed head into a neck that rotates independently. Primary animal entirely inside frame, no forced display of hidden roots. No false captured prey or successful ingestion.\nPortrait only, no host or other animal. Camera is modestly ABOVE the FRONT-SIDE, one broad lateral eye and near curved thoracic back readable, showing the short body in a calm relaxed stance. Head at upper-left, short broad humped thorax behind to right, short abdomen curves downward at the rear. Small anterior gnathopods loosely gathered below the mouth. Near P3–P7 are slightly separated beneath body, all short firm, not immensely long thin legs. Broad small uropods trail slightly apart behind the flexed abdomen. Near-side joints and correct roots clear; far-side naturally smaller and partly hidden. Fine translucent cuticle and a few modest reddish pigment flecks, no segmented robot exoskeleton or extreme spiny armor. Whole animal uses about 60 percent frame width, gentle diffuse blue midwater with sparse particles.",
+        "Use case: precise-object-edit. Edit ONLY the antenna lengths in this Hyperia galba portrait; preserve the same correct compact humped female-like body, kidney-shaped eye pigment, seven thoracic leg pairs with small gnathopods, connected abdomen and branched uropods, painting style, camera, full-frame composition and blue background.\nThe four antennae are too long for the very short female antennal pairs in Naturalis. SHORTEN BOTH antennal pairs, near and far, to tiny articulated stubs projecting from the same correct head roots, each no longer than about ONE SIXTH of the head height. Preserve a few fine terminal setae but remove the long sweeping pointed threads. Do not change them into horns, increase their number, remove the connected bases, or lengthen mouthparts into substitute antennae. No new limbs, food, host, text or panels. Entire tips remain visible within the existing generous margins. This is a targeted morphology correction, not a new camera variation."
+      ],
+      "generatedAt": "2026-10-13T16:48:41.469Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "3b446878686e235809fe2b3aa2b4a36a2235b44b1fb733cc33295dcf33e14c5c",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "jellyfish-amphipod",
+      "src": "assets/images/jellyfish-amphipod-chatgpt-ecology-host-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "바다벼룩 · 해파리와 함께 지내요",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 짧은두더듬이쌍과눈의콩팥색소·앞단축/젤리표면그립을읽음. 숙주종과정확부착부위/먹이접촉은미인증.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Hyperia galba, the specific jellyfish-associated hyperiid AMPHIPOD in Naturalis, not Phronima, a shelled ostracod, true shrimp or isopod. Female-like adult has a SHORT COMPACT body, a high head much shorter than tall with truncated front, and a broad HUMPED thoracic pereion. Side-compressed segmented body is translucent yellow-amber to pale red-yellow, never a shell enclosing everything. Eyes have dark RENIFORM/kidney-shaped pigment areas within normal broad compound-eye surfaces on either head side, not stalked round googly pupils. BOTH short antennal pairs are VERY SHORT, no long whiskers. TWO pairs of small anterior gnathopods have modest subchelate tips, smaller than the other legs, not giant Phronima fifth claws or crab pincers. PEREIOPODS 3–7 are short, firm and similar, mostly without dense hairs. Seven thoracic leg pairs total, all correctly connected to seven thoracic segments; far legs may be naturally occluded. Abdomen is shorter and flexed, with small abdominal swimming appendages and broad branched tail UROPODS and a large TELSON; no fish tailfin, paddle, rigid closed ball or duplicated tails. Do not transform the fixed head into a neck that rotates independently. Primary animal entirely inside frame, no forced display of hidden roots. No false captured prey or successful ingestion.\nPortrait only, no host or other animal. Camera is modestly ABOVE the FRONT-SIDE, one broad lateral eye and near curved thoracic back readable, showing the short body in a calm relaxed stance. Head at upper-left, short broad humped thorax behind to right, short abdomen curves downward at the rear. Small anterior gnathopods loosely gathered below the mouth. Near P3–P7 are slightly separated beneath body, all short firm, not immensely long thin legs. Broad small uropods trail slightly apart behind the flexed abdomen. Near-side joints and correct roots clear; far-side naturally smaller and partly hidden. Fine translucent cuticle and a few modest reddish pigment flecks, no segmented robot exoskeleton or extreme spiny armor. Whole animal uses about 60 percent frame width, gentle diffuse blue midwater with sparse particles.",
+        "Use case: precise-object-edit. Edit ONLY the antenna lengths in this Hyperia galba portrait; preserve the same correct compact humped female-like body, kidney-shaped eye pigment, seven thoracic leg pairs with small gnathopods, connected abdomen and branched uropods, painting style, camera, full-frame composition and blue background.\nThe four antennae are too long for the very short female antennal pairs in Naturalis. SHORTEN BOTH antennal pairs, near and far, to tiny articulated stubs projecting from the same correct head roots, each no longer than about ONE SIXTH of the head height. Preserve a few fine terminal setae but remove the long sweeping pointed threads. Do not change them into horns, increase their number, remove the connected bases, or lengthen mouthparts into substitute antennae. No new limbs, food, host, text or panels. Entire tips remain visible within the existing generous margins. This is a targeted morphology correction, not a new camera variation.",
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Hyperia galba, the specific jellyfish-associated hyperiid AMPHIPOD in Naturalis, not Phronima, a shelled ostracod, true shrimp or isopod. Female-like adult has a SHORT COMPACT body, a high head much shorter than tall with truncated front, and a broad HUMPED thoracic pereion. Side-compressed segmented body is translucent yellow-amber to pale red-yellow, never a shell enclosing everything. Eyes have dark RENIFORM/kidney-shaped pigment areas within normal broad compound-eye surfaces on either head side, not stalked round googly pupils. BOTH short antennal pairs are VERY SHORT, no long whiskers. TWO pairs of small anterior gnathopods have modest subchelate tips, smaller than the other legs, not giant Phronima fifth claws or crab pincers. PEREIOPODS 3–7 are short, firm and similar, mostly without dense hairs. Seven thoracic leg pairs total, all correctly connected to seven thoracic segments; far legs may be naturally occluded. Abdomen is shorter and flexed, with small abdominal swimming appendages and broad branched tail UROPODS and a large TELSON; no fish tailfin, paddle, rigid closed ball or duplicated tails. Do not transform the fixed head into a neck that rotates independently. Primary animal entirely inside frame, no forced display of hidden roots. No false captured prey or successful ingestion.\nInput is our species/style portrait with CORRECT VERY SHORT antennas. Redraw from a genuinely LOW DIRECT FRONTAL-VENTRAL camera, about ten degrees below the head-to-tail axis: nearest high truncated head looks toward the viewer, short humped thorax and abdomen recede DIRECTLY BEHIND it in strong depth rather than appearing as a long sideways shrimp. Both side eyes are partly readable around the head, no independent rotating neck. Keep all four female antennae as tiny stubs, each under one sixth head height. Small gnathopods are tucked inward below the mouth. Short P3–P7 flex toward one side and lightly grip the gentle surface of a cropped small patch of translucent JELLYFISH TISSUE at lower-right, natural occlusion acceptable; short abdomen hugs inward and the broad uropods remain close behind, different from hanging portrait legs.\nPrimary amphipod whole body and ALL leg/antenna/tail tips fully contained, about 60 percent image width. The host is just a PARTIAL SURFACE CLOSE-UP along the lower/right edge of the frame, pale amber gelatinous tissue from a documented jellyfish association, not a complete miniature jellyfish the same size as the amphipod. The partial host cannot establish an identified host species, attachment location or measured scale; do not invent a detailed giant tentacle-bundle/mouth or graft the animal into host tissue. No prey, tissue injury, torn gonad, scraping, biting or successful feeding. The exact visible grip is an educational relation scene, not certified behaviour. Camera exposes a NEW lower-front body plane and surface-gripping flexed limbs; no mirror, flat rotation or old side silhouette. Gentle diffuse blue seawater, no seafloor."
+      ],
+      "generatedAt": "2026-10-13T16:55:41.172Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "a1e9338c75669f6964d9362bd63e8a7b31fc77ae830900fbebf04c71e14f4e9b",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "숙주 후보 Cyanea capillata는 자료에 있는 종만 사용. 해파리 전체가 아닌 표면 부분 확대이며 정확 부착 부위/섭식·조직 손상은 주장하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Naturalis — Hyperia galba",
+          "url": "https://ns-zooplankton.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?epi=210&id=132106"
+        },
+        {
+          "title": "Dittrich 1988 — Life cycle and reproduction in the North Sea",
+          "url": "https://link.springer.com/article/10.1007/BF02364205"
+        }
+      ]
+    },
+    {
+      "id": "jellyfish-amphipod",
+      "src": "assets/images/jellyfish-amphipod-chatgpt-ecology-free-swim-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "바다벼룩 · 물속에서 헤엄치기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 높은뒤등면과가까운뒤꼬리/작은먼머리를확인. 가슴다리가몸가까이접히고후단부속지전개.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Hyperia galba, the specific jellyfish-associated hyperiid AMPHIPOD in Naturalis, not Phronima, a shelled ostracod, true shrimp or isopod. Female-like adult has a SHORT COMPACT body, a high head much shorter than tall with truncated front, and a broad HUMPED thoracic pereion. Side-compressed segmented body is translucent yellow-amber to pale red-yellow, never a shell enclosing everything. Eyes have dark RENIFORM/kidney-shaped pigment areas within normal broad compound-eye surfaces on either head side, not stalked round googly pupils. BOTH short antennal pairs are VERY SHORT, no long whiskers. TWO pairs of small anterior gnathopods have modest subchelate tips, smaller than the other legs, not giant Phronima fifth claws or crab pincers. PEREIOPODS 3–7 are short, firm and similar, mostly without dense hairs. Seven thoracic leg pairs total, all correctly connected to seven thoracic segments; far legs may be naturally occluded. Abdomen is shorter and flexed, with small abdominal swimming appendages and broad branched tail UROPODS and a large TELSON; no fish tailfin, paddle, rigid closed ball or duplicated tails. Do not transform the fixed head into a neck that rotates independently. Primary animal entirely inside frame, no forced display of hidden roots. No false captured prey or successful ingestion.\nPortrait only, no host or other animal. Camera is modestly ABOVE the FRONT-SIDE, one broad lateral eye and near curved thoracic back readable, showing the short body in a calm relaxed stance. Head at upper-left, short broad humped thorax behind to right, short abdomen curves downward at the rear. Small anterior gnathopods loosely gathered below the mouth. Near P3–P7 are slightly separated beneath body, all short firm, not immensely long thin legs. Broad small uropods trail slightly apart behind the flexed abdomen. Near-side joints and correct roots clear; far-side naturally smaller and partly hidden. Fine translucent cuticle and a few modest reddish pigment flecks, no segmented robot exoskeleton or extreme spiny armor. Whole animal uses about 60 percent frame width, gentle diffuse blue midwater with sparse particles.",
+        "Use case: precise-object-edit. Edit ONLY the antenna lengths in this Hyperia galba portrait; preserve the same correct compact humped female-like body, kidney-shaped eye pigment, seven thoracic leg pairs with small gnathopods, connected abdomen and branched uropods, painting style, camera, full-frame composition and blue background.\nThe four antennae are too long for the very short female antennal pairs in Naturalis. SHORTEN BOTH antennal pairs, near and far, to tiny articulated stubs projecting from the same correct head roots, each no longer than about ONE SIXTH of the head height. Preserve a few fine terminal setae but remove the long sweeping pointed threads. Do not change them into horns, increase their number, remove the connected bases, or lengthen mouthparts into substitute antennae. No new limbs, food, host, text or panels. Entire tips remain visible within the existing generous margins. This is a targeted morphology correction, not a new camera variation.",
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Hyperia galba, the specific jellyfish-associated hyperiid AMPHIPOD in Naturalis, not Phronima, a shelled ostracod, true shrimp or isopod. Female-like adult has a SHORT COMPACT body, a high head much shorter than tall with truncated front, and a broad HUMPED thoracic pereion. Side-compressed segmented body is translucent yellow-amber to pale red-yellow, never a shell enclosing everything. Eyes have dark RENIFORM/kidney-shaped pigment areas within normal broad compound-eye surfaces on either head side, not stalked round googly pupils. BOTH short antennal pairs are VERY SHORT, no long whiskers. TWO pairs of small anterior gnathopods have modest subchelate tips, smaller than the other legs, not giant Phronima fifth claws or crab pincers. PEREIOPODS 3–7 are short, firm and similar, mostly without dense hairs. Seven thoracic leg pairs total, all correctly connected to seven thoracic segments; far legs may be naturally occluded. Abdomen is shorter and flexed, with small abdominal swimming appendages and broad branched tail UROPODS and a large TELSON; no fish tailfin, paddle, rigid closed ball or duplicated tails. Do not transform the fixed head into a neck that rotates independently. Primary animal entirely inside frame, no forced display of hidden roots. No false captured prey or successful ingestion.\nInput is only our accurate species/style portrait with VERY SHORT female antennas. Create a genuinely HIGH REAR AXIAL three-quarter view, camera close to the posterior abdomen/uropods, within about fifteen degrees of the rear-to-front body axis. The broad BRANCHED UROPODS and small abdominal swimmerets are closest in foreground at lower-right/center, short humped thoracic BACK recedes through center, high truncated head is farther and noticeably smaller toward upper-left. Most of the head front is hidden in true depth; do not just rotate the existing long side silhouette or keep the same big nearest eye. One small far eye edge may be partially visible, not a forced fully exposed frontal head. Fixed thorax remains compact and humped.\nPose: abdomen is less tightly flexed than portrait, only a modest natural unfolding at abdomen joints. The abdominal swimming appendages are open, broad tail branches spread; thoracic P3–P7 are flexed nearer the body, small gnathopods gathered rather than touching host. Distinguish small swimming appendages from the seven thoracic leg pairs. Exactly one complete amphipod in open midwater, NO host, prey or brood. Entire broad branch tips, every visible leg and tiny antennal stub are inside frame with comfortable margins, body about 60 percent width. This depicts a sufficiently developed free-swimming stage, not the non-swimming newly hatched larva; exact age, stroke speed or successful migration is not claimed. Required differences are actual upper/rear body surface and shortened head-depth plus folded thoracic/open abdominal limb state, not a flipped portrait.",
+        "Use case: scientific-educational. Make ONE original landscape 3:2 natural-history illustration for Sea Atlas, a Korean marine encyclopedia for ages 5–12. Refined realistic painterly anatomy, gentle natural colors and readable thin structures; calm blue seawater. ONE continuous intact primary animal, with every attached appendage tip and any whole housing inside the frame, 10–12 percent comfortable margins. No text, labels, arrows, scale bars, inset, panel, collage, watermark, border, blood, injury, cartoon smile or fantasy monster. This is an educational reconstruction, not an exact observed event, expert species certification, measured size, exact age or sex proof.\nSubject: Hyperia galba, the specific jellyfish-associated hyperiid AMPHIPOD in Naturalis, not Phronima, a shelled ostracod, true shrimp or isopod. Female-like adult has a SHORT COMPACT body, a high head much shorter than tall with truncated front, and a broad HUMPED thoracic pereion. Side-compressed segmented body is translucent yellow-amber to pale red-yellow, never a shell enclosing everything. Eyes have dark RENIFORM/kidney-shaped pigment areas within normal broad compound-eye surfaces on either head side, not stalked round googly pupils. BOTH short antennal pairs are VERY SHORT, no long whiskers. TWO pairs of small anterior gnathopods have modest subchelate tips, smaller than the other legs, not giant Phronima fifth claws or crab pincers. PEREIOPODS 3–7 are short, firm and similar, mostly without dense hairs. Seven thoracic leg pairs total, all correctly connected to seven thoracic segments; far legs may be naturally occluded. Abdomen is shorter and flexed, with small abdominal swimming appendages and broad branched tail UROPODS and a large TELSON; no fish tailfin, paddle, rigid closed ball or duplicated tails. Do not transform the fixed head into a neck that rotates independently. Primary animal entirely inside frame, no forced display of hidden roots. No false captured prey or successful ingestion.\nCorrect the camera and leg pose of this proposed free-swimming picture. Existing result is still an elongated SIDE/diagonal view with a full near eye and walking legs hanging like the portrait. Completely redraw in a strong HIGH REAR AXIAL view: camera is within TEN DEGREES of the posterior-to-anterior long axis, tilted only slightly above the back. The nearest posterior abdomen and broad branched UROPODS occupy foreground at LOWER-CENTER. The actual compact humped thorax is strongly FORESHORTENED as a broad oval behind them, not a long curved side silhouette across the image. The head is far away, MOSTLY HIDDEN behind the nearer thoracic dome; at most a small distant head rim and tiny antenna stubs can peek beyond the far end. No full side eye facing the viewer or false head rotated backwards.\nFold the seven thoracic leg pairs toward the ventral body, tips naturally partly hidden below, so they DO NOT all dangle in long rows. Small anterior gnathopods are gathered far away beneath head. The short rear abdomen unfolds only modestly and its three small abdominal swimming pairs are open/feathered; the broad real uropod branches are nearest and spread, telson remains small-large in species proportion, not a giant fish tail. Do not add extra independent leaf appendages or make a huge dense six-fin fan. Keep connections from true posterior segments readable, no detached tail. Natural occlusion is necessary: do not force all near/far legs into the frame as extra roots. One whole sufficiently-developed Hyperia galba in blue open midwater, no host or prey; very short antennas, yellow-red transparent cuticle as reference. All attached tips fully inside with generous margins. This must show real END-ON DEPTH plus FOLDED walking versus OPEN swimming limb state. A rotated/mirrored long side body fails. No exact age, stroke speed, newly hatched stage or successful host migration claim."
+      ],
+      "generatedAt": "2026-10-13T17:03:59.553Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "2261154bb8c0573f4cef169508b09b55ba3eaa387735b114f598e1c23ec99206",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "헤엄칠 수 있는 발달 단계의 교육 재구성. 갓 나온 유생을 성체 축소판으로 그리거나 정확 이동/속도·주야 이동을 확정하지 않음.",
+      "behaviorSources": [
+        {
+          "title": "Naturalis — Hyperia galba",
+          "url": "https://ns-zooplankton.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?epi=210&id=132106"
+        },
+        {
+          "title": "Dittrich 1988 — Life cycle and reproduction in the North Sea",
+          "url": "https://link.springer.com/article/10.1007/BF02364205"
+        }
+      ]
+    },
+    {
+      "id": "tadpole-whiptail",
+      "src": "assets/images/tadpole-whiptail-chatgpt-portrait-side-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "올챙이꼬리대구 · 부푼 머리와 띠처럼 가는 꼬리",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 부푼 비늘머리·극소눈·작은 아래 입, 작은 가슴/배핀, 하나의 낮은 연속 등막과 긴 낮은 뒷막 및 띠꼬리 몸연결 확인. 턱수염·발광기 없음.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living Squalogadus modificatus (tadpole whiptail). Dark brown fully scaled massive inflated rounded head, blackish at gill openings; extremely tiny eyes, about one tenth of head length. A very small short downward/inferior mouth low on the head, black inside; not a broad monster gape. The balloon head tapers into a long, very narrow STRAP-LIKE whiptail. ONE low continuous dorsal fin, with no elevated first section, and a very low long anal-fin membrane continue along the tapering tail. Thin transparent fin membranes have connected delicate rays, not disconnected bare spikes. Small natural pectorals and tiny pelvic fins attached to the trunk. NO chin barbel, no lure, no glowing organ, no bulb or forked tail, no second high dorsal sail. Keep the head massive but eye and mouth minute; tail and fin membranes continuous.\n\nCamera exact LEFT lateral profile, eye-level, whole animal head left and tail right in open water. Body nearly straight, small pectorals relaxed and spread slightly, mouth closed. No prey or seafloor."
+      ],
+      "generatedAt": "2026-10-13T16:44:50.067Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "fbb939c48e71bb404f7dd08840111419163af1a1c5b94f075df998cb2017a758",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "tadpole-whiptail",
+      "src": "assets/images/tadpole-whiptail-chatgpt-feeding-front-bend-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "올챙이꼬리대구 · 작은 입 앞의 요각류",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 양쪽 극소눈·작은아래입·부푼머리·연속 낮은핀막/띠꼬리, 가슴핀 몸연결 확인. 요각류 두 개체 입앞접근이며 실제포획 없음.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living Squalogadus modificatus (tadpole whiptail). Dark brown fully scaled massive inflated rounded head, blackish at gill openings; extremely tiny eyes, about one tenth of head length. A very small short downward/inferior mouth low on the head, black inside; not a broad monster gape. The balloon head tapers into a long, very narrow STRAP-LIKE whiptail. ONE low continuous dorsal fin, with no elevated first section, and a very low long anal-fin membrane continue along the tapering tail. Thin transparent fin membranes have connected delicate rays, not disconnected bare spikes. Small natural pectorals and tiny pelvic fins attached to the trunk. NO chin barbel, no lure, no glowing organ, no bulb or forked tail, no second high dorsal sail. Keep the head massive but eye and mouth minute; tail and fin membranes continuous.\n\nCamera LOW in front at a three-quarter angle looking toward the underside of the inflated head. The big head is nearest foreground with both tiny eyes partly visible, and the narrow trunk and entire tail recede into depth, making a genuine gentle C-bend to the left. Mouth VERY slightly open; pectorals spread for a turn. Show only two tiny copepods in water immediately before the small inferior mouth, natural plankton scale, no contact or swallowing, no other prey. The anatomy and perspective must differ strongly from a side-profile fish. This is source-supported feeding-approach reconstruction, not witnessed capture."
+      ],
+      "generatedAt": "2026-10-13T16:46:21.132Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "a933e786da68f47cb0e751c642d427adf929d293b3d519d605bb60da58810e81",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "확인된 종별 식단에 근거한 접근 재구성; 실제 포획/섭식 성공으로 주장하지 않음",
+      "behaviorSources": [
+        {
+          "title": "Museums Victoria — Squalogadus modificatus",
+          "url": "https://fishesofaustralia.net.au/Home/species/1704"
+        },
+        {
+          "title": "Museums Victoria — 표본 A9610",
+          "url": "https://collections.museumsvictoria.com.au/specimens/97564"
+        }
+      ]
+    },
+    {
+      "id": "tadpole-whiptail",
+      "src": "assets/images/tadpole-whiptail-chatgpt-ecology-rear-ridge-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "올챙이꼬리대구 · 해저 산등성이 위를 지나가는 뒷모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 머리뒤면·가슴핀/작은배핀·가늘어지는 꼬리의 연결과 연속핀막 확인. 비늘머리와 발광기/수염없음 유지.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living Squalogadus modificatus (tadpole whiptail). Dark brown fully scaled massive inflated rounded head, blackish at gill openings; extremely tiny eyes, about one tenth of head length. A very small short downward/inferior mouth low on the head, black inside; not a broad monster gape. The balloon head tapers into a long, very narrow STRAP-LIKE whiptail. ONE low continuous dorsal fin, with no elevated first section, and a very low long anal-fin membrane continue along the tapering tail. Thin transparent fin membranes have connected delicate rays, not disconnected bare spikes. Small natural pectorals and tiny pelvic fins attached to the trunk. NO chin barbel, no lure, no glowing organ, no bulb or forked tail, no second high dorsal sail. Keep the head massive but eye and mouth minute; tail and fin membranes continuous.\n\nCamera HIGH BEHIND the fish over a distant deep seamount/ridge slope. The continuous strap-tail is closest foreground near lower right, with a true broad S-curve through trunk; the massive rounded head is farther away near upper middle, seen from its back rather than its side. Far eye and mouth are occluded honestly. Pectorals swept gently backward, mouth closed. Dorsal membrane visible from above along its continuous root. Entire fish including tail tip must remain in frame. No prey, no coral reef, no sunlight shafts; natural near-bottom water, not sitting on sediment."
+      ],
+      "generatedAt": "2026-10-13T16:47:16.994Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "1eab5af3de07c69975bde714eb622fe7c6031c3ad36f38f5b12af3f9457af4c9",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "종 형태와 서식 기록을 바탕으로 한 관찰 재구성; 실제 특정 운동/장면의 현장 관측으로 주장하지 않음",
+      "behaviorSources": [
+        {
+          "title": "Museums Victoria — Squalogadus modificatus",
+          "url": "https://fishesofaustralia.net.au/Home/species/1704"
+        },
+        {
+          "title": "Museums Victoria — 표본 A9610",
+          "url": "https://collections.museumsvictoria.com.au/specimens/97564"
+        }
+      ]
+    },
+    {
+      "id": "longbarbel-dragonfish",
+      "src": "assets/images/longbarbel-dragonfish-chatgpt-portrait-side-barbel-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "그람마토스토미아스 · 긴 턱수염과 지그재그 빛 고리",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 单일 턱수염이 아래턱에서 끝까지 연속, 닫힌 길쭉한 발광고리의 아래앞 지그재그, 입바닥막·뒤 등/뒷핀·가슴/배핀·연결 갈라진꼬리 확인. 전체몸 피부는 어두운반점으로 읽히며 명료한 반복비늘경계 없음.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living Grammatostomias flagellibarba (zigzag dragonfish), NOT Idiacanthus or Malacosteus. Smooth scaleless dark charcoal/brown elongated body, moderate short head, toothed jaws whose mouth floor is connected by membrane. One extremely long, thin unbranched chin barbel rooted underneath the lower jaw, several body lengths long, loosely curved in smooth broad meanders in the water, with a simple fine terminal end. NO forehead fishing rod, giant round lure bulb or additional whiskers. Pectorals behind the gill cover, pelvic fins halfway back on the ventral midline, moderately sized dorsal and anal fins directly opposite each other just before a small forked caudal fin. Dorsal and anal fins have connected membranes and fine rays; no adipose fin. On EACH flank one elongated CLOSED LOOP of pale luminous tissue from just behind the operculum back toward the pelvic-fin base; lower anterior segment is thickened and irregularly zigzagged, upper part faintly curved. Lower photophore series remain subtle and natural. No body scales or hexagonal pockets, no red spotlight under the eye, no absent mouth floor, no hairlike barbel attached to tail. The entire SINGLE chin filament from its root through all curves to its tip must be visible and continuously connected.\n\nCamera exact LEFT lateral profile at fish eye level. Head left, body straight to right, mouth nearly closed, pectorals relaxed, opposite rear dorsal/anal fins spread. Fish occupies upper half; its ONE long thin chin barbel makes four broad loose back-and-forth curves in the lower half with a clearly visible root and simple terminal tip, never touching the fish or crossing over itself. Both full fish and full filament are within comfortable margins. The flank zigzag LOOP is readable. No prey, no mate, no invented hunting."
+      ],
+      "generatedAt": "2026-10-13T16:49:44.613Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "17f6b0599443170fe820e1a9536973b3b3c06dfd1c9b327cf8d69e35b195269a",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "longbarbel-dragonfish",
+      "src": "assets/images/longbarbel-dragonfish-chatgpt-ecology-front-turn-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "그람마토스토미아스 · 앞 사선에서 본 입과 긴 턱수염",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 앞양눈·연결된입바닥막·치아·단일턱수염뿌리와전체끝, 양가슴핀 및 뒤핀/갈라진꼬리 연결 확인. 특정먹이 없음.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living Grammatostomias flagellibarba (zigzag dragonfish), NOT Idiacanthus or Malacosteus. Smooth scaleless dark charcoal/brown elongated body, moderate short head, toothed jaws whose mouth floor is connected by membrane. One extremely long, thin unbranched chin barbel rooted underneath the lower jaw, several body lengths long, loosely curved in smooth broad meanders in the water, with a simple fine terminal end. NO forehead fishing rod, giant round lure bulb or additional whiskers. Pectorals behind the gill cover, pelvic fins halfway back on the ventral midline, moderately sized dorsal and anal fins directly opposite each other just before a small forked caudal fin. Dorsal and anal fins have connected membranes and fine rays; no adipose fin. On EACH flank one elongated CLOSED LOOP of pale luminous tissue from just behind the operculum back toward the pelvic-fin base; lower anterior segment is thickened and irregularly zigzagged, upper part faintly curved. Lower photophore series remain subtle and natural. No body scales or hexagonal pockets, no red spotlight under the eye, no absent mouth floor, no hairlike barbel attached to tail. The entire SINGLE chin filament from its root through all curves to its tip must be visible and continuously connected.\n\nCamera LOW FRONT three-quarter angle, head closest and slightly above us; both eyes are partly visible and connected mouth floor can be read as the mouth opens modestly, without prey. Whole body curves into a gentle C and the forked tail recedes far back toward upper right. BOTH pectorals fan out; pelvic fins are attached farther back. The ONE long connected chin barbel falls toward lower left and makes large U-meanders in depth; full tip remains comfortably in frame. The near flank luminous loop foreshortens correctly, far flank partially occluded. This must be real 3D frontal foreshortening and a changed body bend/fins, not a rotated or mirrored side profile. No food or capture."
+      ],
+      "generatedAt": "2026-10-13T16:50:38.905Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "03fef8d1cb21ff276afc2c5c6e0db3b2c91a7d1ae38c489497e92fe287734a58",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "종 형태와 서식 기록을 바탕으로 한 관찰 재구성; 실제 특정 운동/장면의 현장 관측으로 주장하지 않음",
+      "behaviorSources": [
+        {
+          "title": "FishBase — Grammatostomias flagellibarba",
+          "url": "https://www.fishbase.se/summary/11768"
+        },
+        {
+          "title": "NCFishes — 연구자 종 식별 기술·FAO2020 인용",
+          "url": "https://ncfishes.com/marine-fishes-of-north-carolina/grammatostomias-flagellibarba/"
+        },
+        {
+          "title": "FAO2020 — Mesopelagic fishes, species key p112–113 and original illustration",
+          "url": "https://www.fao.org/4/cb0365en/cb0365en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "longbarbel-dragonfish",
+      "src": "assets/images/longbarbel-dragonfish-chatgpt-ecology-rear-bend-v3.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "그람마토스토미아스 · 뒤 위에서 본 굽은 몸과 이어진 수염",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 v3에서 규칙 비늘망 제거되어 매끈한 어두운피부 확인. 하나의긴수염·폐곡선발광고리·뒤등/뒷핀·몸연결갈라진꼬리 유지.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living Grammatostomias flagellibarba (zigzag dragonfish), NOT Idiacanthus or Malacosteus. Smooth scaleless dark charcoal/brown elongated body, moderate short head, toothed jaws whose mouth floor is connected by membrane. One extremely long, thin unbranched chin barbel rooted underneath the lower jaw, several body lengths long, loosely curved in smooth broad meanders in the water, with a simple fine terminal end. NO forehead fishing rod, giant round lure bulb or additional whiskers. Pectorals behind the gill cover, pelvic fins halfway back on the ventral midline, moderately sized dorsal and anal fins directly opposite each other just before a small forked caudal fin. Dorsal and anal fins have connected membranes and fine rays; no adipose fin. On EACH flank one elongated CLOSED LOOP of pale luminous tissue from just behind the operculum back toward the pelvic-fin base; lower anterior segment is thickened and irregularly zigzagged, upper part faintly curved. Lower photophore series remain subtle and natural. No body scales or hexagonal pockets, no red spotlight under the eye, no absent mouth floor, no hairlike barbel attached to tail. The entire SINGLE chin filament from its root through all curves to its tip must be visible and continuously connected.\n\nCamera HIGH REAR three-quarter looking forward over the small forked tail in near foreground and the fish dorsal surface. The whole trunk genuinely curves in a shallow S; head is smaller and farther away at upper left, its far eye and mouth partly hidden. Dorsal/anal rear fins flex differently from the representative and pectorals sweep backward. The SINGLE barbel begins at the underside of the distant jaw and hangs down in loose long curves through middle/lower background; keep its root, full continuity and fine tip readable without touching the body. Full fish and full filament in frame. Clear near-tail/far-head depth and changed S-bend, not merely diagonally rotated side view. No prey, food, seabed or mating claim.",
+        "Use case: scientific-educational. EDIT the supplied private Grammatostomias flagellibarba candidate. Rebuild the camera and skin anatomy while keeping the species, single long continuous chin barbel, connected fins and luminous flank loop, realistic painted atlas style and dark water. Make a genuinely HIGH REAR VIEW: the forked tail is LARGE and closest in the lower middle foreground, its continuous peduncle and a gently S-bent trunk recede AWAY toward a MUCH SMALLER far head at upper middle. Show dorsal/back surfaces. ONLY the back/top of the head is seen; the mouth, pupils and far eye are occluded, not a side face angled diagonally. Pectoral fins gently swept backward, dorsal/anal fins supported by fine rays and membrane near the connected tail; retain ventral pelvic fins on the trunk, not on the tail. The luminous flank loop is elongated and closed, with the anterior lower zigzag segment, foreshortened on the near flank. Critical identity correction: REMOVE ALL polygon, diamond, hexagonal or overlapping-scale boundaries from the whole trunk and head. Use smooth SCALELESS charcoal skin with only faint irregular short wrinkles and mottling, no regular lattice anywhere. The ONE long unbranched thin barbel starts visibly on the underside of the distant lower jaw, hangs away below the fish in several broad smooth bends and has a fine simple tip; no fork, side twig, decorative fringe or bulb. The complete fish and ENTIRE connected barbel must remain in frame with comfortable margins. No prey, no food, no capture, no lure pole, no additional animals. Do not merely rotate, flip or warp the supplied side-view silhouette: actually redraw the rear perspective and changed body/fins in 3D. No text, labels, collage or watermark.",
+        "Use case: precise-object-edit. EDIT ONLY THE SKIN SURFACE on the fish in this image. Keep the exact rear/top camera, S-bent body, large connected forked tail, every fin membrane and ray, SINGLE continuous long chin filament and its thin root/terminal tip, background, framing and the pale closed zigzag luminous flank loop exactly as they are. The species Grammatostomias flagellibarba has NAKED SCALELESS SKIN. Completely PAINT OVER and DELETE the obvious repeated diamond/hexagon scale outlines and polygon network on the ENTIRE torso, tail peduncle and head. Replace those regions with a simple continuous smoothly shaded dark charcoal-brown surface: satin matte bare skin, a broad smooth soft highlight and at most a few very faint non-repeating short irregular wrinkles. NO remaining polygon edges, lattice seams, crosshatch, diagonal rows, fish scales or plate segmentation anywhere on the body. The existing luminous loop and lower luminous dots are organs to KEEP; fin rays are anatomy to KEEP; all body scale-like lattice markings are artifacts to REMOVE. Make the corrected smooth skin clearly visible under soft observation light, without changing the pose, silhouette or connected appendages. No text, no new creatures, no food."
+      ],
+      "generatedAt": "2026-10-13T16:59:16.667Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "8d6ab8bcfcf0a96c1bb002c81608e23422bbeb47f88fe1bf50f007d7d49f46d2",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "종 형태와 서식 기록을 바탕으로 한 관찰 재구성; 실제 특정 운동/장면의 현장 관측으로 주장하지 않음",
+      "behaviorSources": [
+        {
+          "title": "FishBase — Grammatostomias flagellibarba",
+          "url": "https://www.fishbase.se/summary/11768"
+        },
+        {
+          "title": "NCFishes — 연구자 종 식별 기술·FAO2020 인용",
+          "url": "https://ncfishes.com/marine-fishes-of-north-carolina/grammatostomias-flagellibarba/"
+        },
+        {
+          "title": "FAO2020 — Mesopelagic fishes, species key p112–113 and original illustration",
+          "url": "https://www.fao.org/4/cb0365en/cb0365en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "spurred-hatchetfish",
+      "src": "assets/images/spurred-hatchetfish-chatgpt-portrait-side-silver-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "대서양도끼고기 · 은빛 도끼 몸과 위를 보는 눈",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 v2큰눈이 안와안 낮은구형으로개선, 높고얇은도끼몸·상향입·작아진가시·배빛기관·연결핀/갈라진꼬리 및 아래꼬리기부검정 확인.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living adult Argyropelecus aculeatus (spurred hatchetfish), NOT Sternoptyx or Argyropelecus hemigymnus. Very deep hatchet-shaped trunk compressed into a thin silver plate, blackish back, huge tubular upward-directed eyes and steep upturned mouth. Two enlarged lower-jaw canine teeth are modest and physically rooted. Gill cover has a short upper outward spine and lower downward/outward-curving spine. Posterior abdominal spur points back/down and is visibly larger than anterior spur; small subcaudal spines. Nine soft dorsal rays in one small connected soft fin on the upper rear trunk behind a low anterior bony ridge; no tall continuous spiny sail. Small pectoral and pelvic fins, low anal-fin membrane and small FORKED tail joined to a narrow peduncle; black pigment triangle at base of lower caudal lobe. Under the deep abdomen and along belly are small pinkish pale photophores, in groups, softly emitting downward. No severed tail, no spherical puffer body, no ordinary broadside-facing flat eye, no huge fangs or lure.\n\nCamera exact LEFT side profile at fish eye-level, head left and forked tail right. Fish hangs horizontally, mouth nearly closed, small pectorals relaxed, soft dorsal and anal membranes open. Show deep thin silver hatchet outline, upward eyes, connected short tail and large backward/downward abdominal spur clearly. No prey, no seabed.",
+        "Use case: precise-object-edit. Edit the supplied Argyropelecus aculeatus marine atlas candidate to correct only the eye and overly exaggerated spurs. Preserve the exact full side-profile camera, deep thin silver hatchet trunk, connected small forked tail/peduncle and lower-tail black pigment, small attached fins, soft belly photophores, pose and dark water. Reconstruct the very large upward-directed EYE as a natural globular eye seated INSIDE the upper skull/orbit, with only a LOW smooth rounded ocular dome; the black pupil tilts upward. REMOVE the tall protruding cylindrical tube, exposed tower sides, chrome rim or stalk: hatchetfish tubular optical structure is not an external periscope tube. Surround the eye with natural soft tissue, no metallic spectacle ring. The mouth remains steep and upturned with TWO small rooted lower-jaw canines, not giant saber teeth. Keep the short upper outward and lower downward/outward opercular spines, but reduce them to slender modest bony spurs, not large blades. Keep the posterior abdominal spur backward/downward and larger than the anterior one, also modest and slender. Preserve the other source species cues and all body connections. Soft dorsal fin has nine rooted primary rays with continuous membrane, anal fin twelve primary rays, no huge dorsal sail. Fit the whole fish and tail with comfortable margins. No prey, new animal, gore, labels or watermark. Educational natural-history reconstruction."
+      ],
+      "generatedAt": "2026-10-13T17:00:34.781Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "aaafe37e8bd7ee307a24a075370801f4195308611a33ad28450bd067bf686203",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "spurred-hatchetfish",
+      "src": "assets/images/spurred-hatchetfish-chatgpt-feeding-front-rise-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "대서양도끼고기 · 해질 무렵 패충류 쪽으로 향하는 작은 입",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 외부원통눈 제거되어 머리안와에서 낮은구형양상향눈 확인. 작은열린입·두패충류 접근·연결도끼몸/꼬리/핀·그룹배빛기관 확인.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living adult Argyropelecus aculeatus (spurred hatchetfish), NOT Sternoptyx or Argyropelecus hemigymnus. Very deep hatchet-shaped trunk compressed into a thin silver plate, blackish back, huge tubular upward-directed eyes and steep upturned mouth. Two enlarged lower-jaw canine teeth are modest and physically rooted. Gill cover has a short upper outward spine and lower downward/outward-curving spine. Posterior abdominal spur points back/down and is visibly larger than anterior spur; small subcaudal spines. Nine soft dorsal rays in one small connected soft fin on the upper rear trunk behind a low anterior bony ridge; no tall continuous spiny sail. Small pectoral and pelvic fins, low anal-fin membrane and small FORKED tail joined to a narrow peduncle; black pigment triangle at base of lower caudal lobe. Under the deep abdomen and along belly are small pinkish pale photophores, in groups, softly emitting downward. No severed tail, no spherical puffer body, no ordinary broadside-facing flat eye, no huge fangs or lure.\n\nCamera LOW FRONT three-quarter, looking upward toward the mouth and BOTH upward tubular eyes; thin compressed body is seen in true foreshortening with its edge width visible. Fish nose angles modestly up, small mouth partly open toward two tiny oval conchoecid ostracods floating just ahead and above it. Small pectorals spread, caudal peduncle and attached forked tail flex gently to the right in a real turn. Dim dusk mesopelagic water, no direct sunbeams. Tiny ostracods have an oval two-valved shell, not jumbo shrimp. No mouth contact or successful swallowing. This is an educational feeding-approach reconstruction from recorded diet, not a photographed attack. Full tail remains visible.",
+        "Use case: precise-object-edit. Edit ONLY eye anatomy and oversized bony spurs in the supplied Argyropelecus aculeatus feeding-approach illustration. Preserve its genuine low-front three-quarter perspective, BOTH eyes, modestly upturned small open mouth with two rooted lower-jaw canines, small spread pectorals, whole thin silver deep hatchet body and attached forked tail, two tiny oval shell-bearing ostracods ahead of the mouth, dark water, full framing and softly downward glowing belly organs. Rebuild BOTH large upward-directed eyes as NATURAL GLOBULAR EYEBALLS housed low IN THE FOREHEAD/SKULL, with a smooth rounded dome and pupils looking up. Completely REMOVE the tall exposed cylindrical tower sides and metallic rim so the orbital eye tissue is integrated with the head. These are not eyestalks, snail horns, barrels or periscopes. Do not change their upward direction or remove the far eye. The protruding opercular/abdominal bony spurs should be modest thin spurs, not long blades; posterior abdominal spur still longer than anterior and points backward/downward. No added food, prey contact or swallowing; this is an educational approach reconstruction from species diet, not observed capture. Keep fins, tail and skin identity with all appendages connected. No text or watermark."
+      ],
+      "generatedAt": "2026-10-13T17:02:06.326Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "63613c6e7cf9f465035fc9dc09a6994445bc82be56b471672c397bbb4a792311",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "확인된 종별 식단에 근거한 접근 재구성; 실제 포획/섭식 성공으로 주장하지 않음",
+      "behaviorSources": [
+        {
+          "title": "도쿄도 수산센터 — トガリムネエソ 표본",
+          "url": "https://www.ifarc.metro.tokyo.lg.jp/archive/27,15184,55,228.html"
+        },
+        {
+          "title": "FishBase — Argyropelecus aculeatus",
+          "url": "https://www.fishbase.se/summary/Argyropelecus-aculeatus.html"
+        },
+        {
+          "title": "FAO2020 — Argyropelecus aculeatus key and illustration p73",
+          "url": "https://www.fao.org/4/cb0365en/cb0365en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "spurred-hatchetfish",
+      "src": "assets/images/spurred-hatchetfish-chatgpt-ecology-rear-migration-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "대서양도끼고기 · 밤에 위로 이동하는 뒤 사선 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "원본을 직접 대조해 높은얇은몸의등/뒤면, 머리와핀/페던클/갈라진꼬리 연결 및 검은꼬리뿌리 확인.눈은뒤에서낮은돔으로보이며앞입가림.; 미세 구조와 전문가 종동정은 보류.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create ONE single landscape 3:2 natural-history marine atlas illustration for children aged 5–12, realistically painted with clear observable anatomy, restrained natural colours, soft observation light and dark deep-ocean water. Educational reconstruction, not a documentary observation. The complete animal including ALL connected fins, full tail tip and every appendage must fit with at least 8 percent image margin. No text, labels, arrows, panels, grid, frame or watermark. No gore, monster exaggeration, detached body parts, mirrored/collaged duplicate animal or artificial neon.\n\nSubject: a living adult Argyropelecus aculeatus (spurred hatchetfish), NOT Sternoptyx or Argyropelecus hemigymnus. Very deep hatchet-shaped trunk compressed into a thin silver plate, blackish back, huge tubular upward-directed eyes and steep upturned mouth. Two enlarged lower-jaw canine teeth are modest and physically rooted. Gill cover has a short upper outward spine and lower downward/outward-curving spine. Posterior abdominal spur points back/down and is visibly larger than anterior spur; small subcaudal spines. Nine soft dorsal rays in one small connected soft fin on the upper rear trunk behind a low anterior bony ridge; no tall continuous spiny sail. Small pectoral and pelvic fins, low anal-fin membrane and small FORKED tail joined to a narrow peduncle; black pigment triangle at base of lower caudal lobe. Under the deep abdomen and along belly are small pinkish pale photophores, in groups, softly emitting downward. No severed tail, no spherical puffer body, no ordinary broadside-facing flat eye, no huge fangs or lure.\n\nCamera HIGH REAR three-quarter, with forked tail closest lower foreground and the deep hatchet trunk and upward eyes farther away toward upper left. Show a gentle real caudal/body bend in a swimming ascent, pectorals sweep back and rear fin membranes flex; head is seen chiefly from behind/above, far eye partially hidden. This is the species recorded night-time upward migration in open midwater. Small belly photophores cast a soft downward pale glow; do not make whole body neon. No prey, surface breach, sunrise or seabed. Must read as dorsal/back face and near-tail/far-head depth, not a side-profile rotated diagonally. Entire fish and all fins inside frame.\n\nCritical anatomical restraint: The huge upward-directed eyes are natural globes integrated into the fish skull, with a low ocular dome and dark pupil tilted upward. They are NOT separate cylindrical towers, tubes outside the skull, snail eye stalks or chrome periscopes. Keep gill and abdominal spurs small, slender and natural, not huge blades.",
+        "Use case: scientific-educational. EDIT the supplied Argyropelecus aculeatus candidate by ACTUALLY REDRAWING a distinct HIGH REAR camera and swimming pose. Retain species identity: a deep very thin silver hatchet-shaped trunk, blackish dorsal edge, small natural soft fins, modest backward/downward posterior abdominal spur bigger than anterior, subtle grouped pinkish belly photophores, small continuous forked tail with a black triangular mark at lower-lobe base, dark midwater and child-friendly natural-history painted style. The forked tail is closest in the LOWER CENTRAL FOREGROUND, relatively large from perspective, connected via the narrow peduncle to a gently bent trunk that recedes AWAY to a smaller far head toward upper middle. Show the TOP/BACK EDGE and narrow side thickness, not another broad side-view plate. The head is viewed FROM BEHIND: mouth and pupils must be naturally hidden; upward eyes are low natural domes embedded IN the far skull with no cylindrical external towers or stalks. One far eye may be occluded. Pectorals sweep back, tail flexes into a real shallow swimming turn, soft dorsal and anal membranes flex in different angles, all attached. A genuine near-tail/far-head foreshortened rear view plus changed tail/fins are required; merely diagonally rotating the existing silhouette is insufficient. Species-recorded night-time upward migration in open water, not a surface breach or exact observed posture. Fit the entire fish and every fin with at least 8 percent margins; no food, new animal, visible sunrise, coral reef, text or watermark."
+      ],
+      "generatedAt": "2026-10-13T17:03:25.671Z",
+      "checkedAt": "2026-10-14",
+      "sha256": "52e553b0214ea88fe5f1a460dc0c5512cf70fbf0393ebf53d2bdf3e93f5c931a",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "종 형태와 서식 기록을 바탕으로 한 관찰 재구성; 실제 특정 운동/장면의 현장 관측으로 주장하지 않음",
+      "behaviorSources": [
+        {
+          "title": "도쿄도 수산센터 — トガリムネエソ 표본",
+          "url": "https://www.ifarc.metro.tokyo.lg.jp/archive/27,15184,55,228.html"
+        },
+        {
+          "title": "FishBase — Argyropelecus aculeatus",
+          "url": "https://www.fishbase.se/summary/Argyropelecus-aculeatus.html"
+        },
+        {
+          "title": "FAO2020 — Argyropelecus aculeatus key and illustration p73",
+          "url": "https://www.fao.org/4/cb0365en/cb0365en.pdf"
         }
       ]
     }
