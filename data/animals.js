@@ -11222,5 +11222,144 @@ export const animals = [
       }
     ],
     "expertReviewed": false
+  },
+  {
+    "depthZoneIds": [
+      "twilight",
+      "midnight"
+    ],
+    "group": "연체동물",
+    "sources": [
+      {
+        "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/octopods-squids-and-other-cephalopods",
+        "title": "Smithsonian National Museum of Natural History - Octopods, Squids, and Other Cephalopods"
+      },
+      {
+        "url": "https://ocean.si.edu/ocean-life/invertebrates/octopuses-squids-and-relatives",
+        "title": "Smithsonian Ocean - Octopuses, Squids, and Relatives"
+      },
+      {
+        "url": "https://www.fao.org/4/i3489e/i3489e.pdf",
+        "title": "FAO - Cephalopods of the World"
+      }
+    ],
+    "identity": [
+      "몸통 양옆에 귀처럼 보이는 지느러미 두 개가 있어요.",
+      "여덟 팔 사이에는 넓은 막이 있고, 팔에는 짧은 촉모가 있어요."
+    ],
+    "reviewStatus": "source-checked-expert-review-pending",
+    "diet": "Grimpoteuthis에서 직접 관찰한 먹이활동 자료는 이번 도감 자료에서 확인하지 못했어요.",
+    "featured": false,
+    "feedingUnconfirmedReason": "이 도감이 확인한 자료에는 Grimpoteuthis의 직접 먹이활동 관찰 근거가 부족해요. 먹이 장면 대신 서로 다른 두 관찰 구도를 보여 줘요.",
+    "size": "종마다 크기가 달라요. 이번 항목은 특정 한 종의 최대 크기를 뜻하지 않아요.",
+    "summary": "귀처럼 보이는 두 지느러미를 움직이며 깊은 바다를 헤엄치는 문어예요.",
+    "depth": "Grimpoteuthis류는 깊은 바다에서 알려져 있어요. FAO 자료의 한 표본 기록은 약 1,550-2,056 m예요.",
+    "aliases": [
+      "Dumbo octopus",
+      "Grimpoteuthis",
+      "덤보 옥토퍼스"
+    ],
+    "range": "여러 대양의 깊은 바다에서 보고돼요. 덤보문어는 한 종이 아니라 Grimpoteuthis 속의 여러 종을 부르는 이름이에요.",
+    "checkedAt": "2026-10-14",
+    "feedingUnconfirmed": true,
+    "scientificName": "Grimpoteuthis sp.",
+    "name": "덤보문어",
+    "habitatIds": [
+      "deep"
+    ],
+    "ecology": "깊은 바다 물속에서 지느러미와 팔 사이의 막을 이용해 천천히 움직여요.",
+    "gallery": [
+      {
+        "id": "dumbo-octopus",
+        "src": "assets/images/dumbo-octopus-chatgpt-portrait-front-left-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "덤보문어 · 귀처럼 보이는 두 지느러미",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 직접 대조해 하나의 둥근 몸통 양옆에 두 지느러미가 붙어 있고, 여덟 팔 사이의 넓은 막과 짧은 촉모가 이어집니다. 몸과 지느러미·팔이 분리되어 보이는 가짜 꼬리나 추가 지느러미는 없습니다.; 미세 구조와 전문가 종동정은 보류.",
+        "generationPrompts": [
+          "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. A Dumbo octopus (Grimpoteuthis genus) floating in dark blue open water, front-left three-quarter portrait. Correct anatomy: small rounded mantle, exactly two large ear-like fins attached directly to the mantle, eight short arms joined by a broad web, delicate short cirri along the arms. The full animal must be visible, fins clearly connected, gentle curious posture, soft natural bioluminescent ambience, accurate but friendly, detailed painted digital illustration, wide landscape composition."
+        ],
+        "generatedAt": "2026-10-14T12:43:19.218Z",
+        "checkedAt": "2026-10-14",
+        "sha256": "ddb976f45d3e220603d8b520676c1b643567702993ee152765ecb8941536235b",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "dumbo-octopus",
+        "src": "assets/images/dumbo-octopus-chatgpt-ecology-rear-glide-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "덤보문어 · 넓은 물속을 미끄러지듯",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 직접 대조해 하나의 둥근 몸통 양옆에 두 지느러미가 붙어 있고, 여덟 팔 사이의 넓은 막과 짧은 촉모가 이어집니다. 몸과 지느러미·팔이 분리되어 보이는 가짜 꼬리나 추가 지느러미는 없습니다.; 미세 구조와 전문가 종동정은 보류.",
+        "generationPrompts": [
+          "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. A Dumbo octopus (Grimpoteuthis genus) seen from above and behind as it glides through the water column. Correct anatomy: one small rounded mantle with exactly two ear-like fins attached to its sides, eight arms joined by a wide umbrella-like web with tiny cirri. Fins are actively sweeping, the web forms a graceful curved arc, entire animal is small in a wide vertical open-ocean scene, no prey, no other animal, accurate anatomy, detailed painted digital illustration, very different viewpoint from a close portrait."
+        ],
+        "generatedAt": "2026-10-14T12:44:02.994Z",
+        "checkedAt": "2026-10-14",
+        "sha256": "5fe5331111e704ae6f4b0866c3c5af1073ecd390ed413f7c6ca56f5a0846f5f8",
+        "width": 1024,
+        "height": 1536,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "지느러미와 팔막으로 움직이는 모습을 설명한 교육 재구성입니다. 정확한 이동 속도·방향·수심을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Smithsonian National Museum of Natural History - Octopods, Squids, and Other Cephalopods",
+            "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/octopods-squids-and-other-cephalopods"
+          },
+          {
+            "title": "Smithsonian Ocean - Octopuses, Squids, and Relatives",
+            "url": "https://ocean.si.edu/ocean-life/invertebrates/octopuses-squids-and-relatives"
+          }
+        ]
+      },
+      {
+        "id": "dumbo-octopus",
+        "src": "assets/images/dumbo-octopus-chatgpt-ecology-seafloor-hover-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "덤보문어 · 바닥 가까이 떠 있는 옆모습",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 직접 대조해 하나의 둥근 몸통 양옆에 두 지느러미가 붙어 있고, 여덟 팔 사이의 넓은 막과 짧은 촉모가 이어집니다. 몸과 지느러미·팔이 분리되어 보이는 가짜 꼬리나 추가 지느러미는 없습니다.; 미세 구조와 전문가 종동정은 보류.",
+        "generationPrompts": [
+          "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. A Dumbo octopus (Grimpoteuthis genus) hovering just above a silty deep-sea plain with a few small rocks and sea pens far away. Side view, animal facing right, gently descending with its two ear-like fins attached directly to the rounded mantle, eight short arms joined by an umbrella web and tiny cirri. Show a clearly different low side profile and an elegant curled-arm resting motion. No prey, no bite, no other animal. Correct anatomy, muted deep-ocean colors, detailed painted digital illustration, wide landscape composition."
+        ],
+        "generatedAt": "2026-10-14T12:44:52.787Z",
+        "checkedAt": "2026-10-14",
+        "sha256": "58e2a31472df802d6b23a5c020fef498eb1254fd1ec4db5c8f2cb0e29e1899c5",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "해저 가까이 떠 있는 일반적인 관찰 구도 재구성입니다. 먹이·공격·섭식 성공을 주장하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Smithsonian National Museum of Natural History - Octopods, Squids, and Other Cephalopods",
+            "url": "https://naturalhistory.si.edu/education/teaching-resources/life-science/octopods-squids-and-other-cephalopods"
+          },
+          {
+            "title": "Smithsonian Ocean - Octopuses, Squids, and Relatives",
+            "url": "https://ocean.si.edu/ocean-life/invertebrates/octopuses-squids-and-relatives"
+          }
+        ]
+      }
+    ],
+    "id": "dumbo-octopus"
   }
 ];
