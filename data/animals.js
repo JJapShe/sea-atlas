@@ -11361,5 +11361,156 @@ export const animals = [
       }
     ],
     "id": "dumbo-octopus"
+  },
+  {
+    "featured": false,
+    "feedingUnconfirmed": true,
+    "name": "도플라인보석오징어",
+    "checkedAt": "2026-10-22",
+    "summary": "한쪽 눈이 더 큰 깊은 바다의 보석오징어예요.",
+    "sources": [
+      {
+        "title": "WoRMS - Stigmatoteuthis dofleini",
+        "url": "https://www.marinespecies.org/aphia.php?id=410402&p=taxdetails"
+      },
+      {
+        "title": "NOAA Ocean Exploration - Cock-Eye Squid",
+        "url": "https://oceanexplorer.noaa.gov/multimedia/okeanos-explorations-express-ex2301-gallery-media-ex2301-dive01-squid/"
+      },
+      {
+        "title": "MBARI - The curious eyes of the cockeyed squid",
+        "url": "https://www.mbari.org/news/the-curious-eyes-of-the-cockeyed-squid/"
+      },
+      {
+        "title": "NOAA - Northeast Pacific Invertebrates",
+        "url": "https://repository.library.noaa.gov/view/noaa/56171/noaa_56171_DS1.pdf"
+      }
+    ],
+    "aliases": [
+      "Doflein's jewel squid",
+      "cock-eye squid",
+      "Histioteuthis dofleini"
+    ],
+    "diet": "이 도감이 확인한 기관 자료에는 이 종의 직접 먹이활동 장면 근거가 충분하지 않아요.",
+    "identity": [
+      "왼쪽 눈은 오른쪽 눈보다 훨씬 커서 위쪽을 살피는 데 도움을 줘요.",
+      "몸과 팔에는 점처럼 보이는 발광기관이 있어요."
+    ],
+    "gallery": [
+      {
+        "id": "dofleins-jewel-squid",
+        "src": "assets/images/dofleins-jewel-squid-chatgpt-portrait-left-front-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "도플라인보석오징어 · 크기가 다른 두 눈",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 직접 대조해 짧고 두꺼운 원뿔형 외투막, 뒤쪽 둥근 지느러미 두 개, 팔과 두 긴 촉수의 연속, 몸 표면의 점状 발광점이 보입니다. 왼쪽 눈이 오른쪽 눈보다 매우 크게 그려져 있어 비대칭 눈 특징을 읽을 수 있습니다.",
+        "generationPrompts": [
+          "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. One Stigmatoteuthis dofleini (Doflein's jewel squid), a deep-sea cockeyed jewel squid, close left-front three-quarter portrait in dark midwater. Accurate body: short stout cone-shaped mantle with low tiny papillae, two broad rounded fins at the rear, eight arms plus two longer feeding tentacles all connected naturally, mantle and arms dotted with small subtle blue photophores. The left eye must be clearly much larger than the right eye, with the larger left eye facing upward. Entire animal visible, no prey, no other animals, calm readable natural-history digital painting, wide landscape composition."
+        ],
+        "generatedAt": "2026-10-22T12:35:29.720Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "7c357c74aa9f75d922f2eb30305f5e8fd296b2eda8dd34b8bfa1c0b63c7c24b2",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "dofleins-jewel-squid",
+        "src": "assets/images/dofleins-jewel-squid-chatgpt-ecology-seafloor-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "도플라인보석오징어 · 바닥 가까이 움직이는 모습",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 직접 대조해 바닥 위에서 팔끝을 지지하는 전혀 다른 장면, 짧은 외투막과 두 둥근 지느러미, 크기가 다른 두 눈, 팔 사이 연결을 확인했습니다. 먹이·상처·다른 동물은 없습니다.",
+        "generationPrompts": [
+          "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words or labels. One Stigmatoteuthis dofleini, Doflein's jewel squid, viewed from high rear-right as it lightly touches a deep seafloor with the tips of its arms, a gentle tiptoeing posture. The small squat conical mantle faces away, two rounded rear fins sweep to keep balance, eight arms are compact below the head with two longer tentacles tucked safely, small dim photophores are visible on its underside. Show that its left eye is much larger than its right eye only in partial side silhouette, without exaggerating. No prey, no bite, no other animals. Dark seafloor with sparse small rocks, clear anatomical separation, natural-history painted illustration, wide composition."
+        ],
+        "generatedAt": "2026-10-22T12:36:40.345Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "f2e0ef1e7e9ae7774b461a0d25da714edc6d7ecb598cbe55d2aeae7168ba2ef8",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "기관 자료에 근거한 교육 재구성입니다. 실제 관찰 사진, 정확한 수심·속도, 섭식 성공을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Exploration - Cock-Eye Squid",
+            "url": "https://oceanexplorer.noaa.gov/multimedia/okeanos-explorations-express-ex2301-gallery-media-ex2301-dive01-squid/"
+          },
+          {
+            "title": "WoRMS - Stigmatoteuthis dofleini",
+            "url": "https://www.marinespecies.org/aphia.php?id=410402&p=taxdetails"
+          },
+          {
+            "title": "MBARI - The curious eyes of the cockeyed squid",
+            "url": "https://www.mbari.org/news/the-curious-eyes-of-the-cockeyed-squid/"
+          }
+        ]
+      },
+      {
+        "id": "dofleins-jewel-squid",
+        "src": "assets/images/dofleins-jewel-squid-chatgpt-ecology-upward-swim-v3.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "도플라인보석오징어 · 위쪽 빛을 향해 헤엄치기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 직접 대조해 짧고 두꺼운 외투막, 거친 낮은 돌기, 넓은 둥근 지느러미, 뒤로 흐르는 팔과 두 긴 촉수가 한 몸에 이어집니다. 넓은 수괴를 향해 기울어진 전신 구도라 대표·해저 컷과 실제 시점과 거리 차이가 분명합니다.",
+        "generationPrompts": [
+          "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. One Stigmatoteuthis dofleini, Doflein's jewel squid, very small in a spacious open midwater scene, viewed from its LEFT side while it slowly rises toward dim sunlight. It MUST have a SHORT, STURDY, THICK CONICAL MANTLE only about twice the head length, never a long arrow-shaped squid body. Exactly two broad round fins attach at the rear third. Eight short arms and two longer tentacles trail behind but do not make the body look long. Its large LEFT eye points upward and is at least twice the diameter of the small right eye. Dark purplish mantle with low papillae and very faint blue photophores on the belly. Entire animal visible, no prey or other animals, soft blue shafts far above, natural-history painted digital illustration, vertical composition."
+        ],
+        "generatedAt": "2026-10-22T12:40:29.827Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "1e1dc4d5ea794d994d35d960f0d156f5f8ce5052ca828489eac314dfb760def4",
+        "width": 1024,
+        "height": 1536,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "기관 자료에 근거한 교육 재구성입니다. 실제 관찰 사진, 정확한 수심·속도, 섭식 성공을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Exploration - Cock-Eye Squid",
+            "url": "https://oceanexplorer.noaa.gov/multimedia/okeanos-explorations-express-ex2301-gallery-media-ex2301-dive01-squid/"
+          },
+          {
+            "title": "WoRMS - Stigmatoteuthis dofleini",
+            "url": "https://www.marinespecies.org/aphia.php?id=410402&p=taxdetails"
+          },
+          {
+            "title": "MBARI - The curious eyes of the cockeyed squid",
+            "url": "https://www.mbari.org/news/the-curious-eyes-of-the-cockeyed-squid/"
+          }
+        ]
+      }
+    ],
+    "ecology": "깊은 바다 물속과 바닥 가까이에서 관찰돼요. 둥근 지느러미로 자세를 조절해요.",
+    "depthZoneIds": [
+      "twilight",
+      "midnight"
+    ],
+    "id": "dofleins-jewel-squid",
+    "habitatIds": [
+      "deep"
+    ],
+    "depth": "NOAA는 수심 약 561 m 해저에서 이 종을 관찰했어요. 다른 기록의 수심은 장소와 생애 단계에 따라 달라질 수 있어요.",
+    "scientificName": "Stigmatoteuthis dofleini",
+    "feedingUnconfirmedReason": "이 도감이 확인한 기관 자료에는 이 종의 직접 먹이활동 관찰 근거가 충분하지 않아요. 먹이 장면 대신 서로 다른 두 관찰 구도를 보여 줘요.",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "group": "연체동물",
+    "size": "기관 자료에서는 외투막 길이가 약 24 cm까지 알려져 있어요.",
+    "range": "태평양을 포함한 여러 깊은 바다에서 기록돼요."
   }
 ];
