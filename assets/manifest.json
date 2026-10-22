@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-22",
-  "reviewNote": "77개 생물 항목 각3장 이상, 247개 원본 이미지·251개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "reviewNote": "78개 생물 항목 각3장 이상, 250개 원본 이미지·254개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -7943,6 +7943,104 @@
         {
           "title": "Smithsonian Q?rius — Sponges",
           "url": "https://qrius.si.edu/browse/invertebrate-zoology/sponges"
+        }
+      ]
+    },
+    {
+      "id": "long-tailed-sea-cucumber",
+      "src": "assets/images/long-tailed-sea-cucumber-chatgpt-portrait-side-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "심해돛해삼 · 긴 꼬리와 부드러운 돛",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "한 개의 부드러운 길쭉한 몸에서 앞쪽 붉은 먹이팔, 복면의 짧은 관족, 뒤쪽의 넓고 유연한 등쪽 돛, 가늘어지는 긴 꼬리가 모두 연결되어 보입니다. 다른 동물은 없습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: One long-tailed deep-sea sea cucumber, Psychropotes longicauda, shown as an educational natural-history reconstruction.\nScene/backdrop: dark abyssal sediment plain at great depth, sparse soft particles, blue-black water, no coral and no other animals.\nSubject: one complete soft-bodied deep-sea sea cucumber crawling slowly across sediment from left to right. It has a plump oblong, gently wrinkled body in muted rosy violet, multiple small pale tube feet underneath, a ring of short reddish feeding palps at the front, and a single broad flexible sail-like dorsal appendage rising gently from the rear half of the body. Include a long narrow tail-like rear extension, visibly continuous with the body. The animal is an echinoderm sea cucumber, not a fish, slug, jellyfish, or octopus. Keep the sail natural, low and soft, never a rigid shark fin or flying wing.\nStyle/medium: refined realistic painterly natural-history illustration, calm and friendly.\nComposition/framing: landscape 3:2, full animal, all palps, tube feet, sail and tail inside generous margins; clear side three-quarter view.\nLighting/mood: soft neutral deep-sea illustration light, no biological glow.\nConstraints: no text, labels, watermark, humans, vehicle, fish, shrimp, prey, eggs, gore, horror expression, fantasy tentacles, wings, or detached tail. This is a cautious reconstruction because species boundaries within the long-tailed Psychropotes group need specialist confirmation."
+      ],
+      "generatedAt": "2026-10-22T13:55:50.973Z",
+      "checkedAt": "2026-10-22",
+      "sha256": "f4b67c6683e2ece9c97565d036d070c486e9e593ae2aac1408a1ce3a7613d098",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "long-tailed-sea-cucumber",
+      "src": "assets/images/long-tailed-sea-cucumber-chatgpt-feeding-front-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "심해돛해삼 · 퇴적물 가까이 먹이팔 펴기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "낮은 앞사선 구도에서 붉은 먹이팔이 퇴적물의 옅은 입자 패치 가까이에 펼쳐지고, 부드러운 몸·복면 관족·등쪽 돛·긴 꼬리가 한 개체로 이어집니다. 다른 동물이나 포획된 먹이는 보이지 않습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A different feeding illustration of one long-tailed deep-sea sea cucumber, Psychropotes longicauda, in a cautious educational reconstruction.\nScene/backdrop: a wide dark abyssal sediment field, no rocks, no other animals.\nSubject: one full muted purple-pink Psychropotes sea cucumber viewed from low front-left, its head and red feeding palps closest to the camera. The soft oblong body stays low over sediment; many small tube feet underneath leave gentle tracks. Show a low soft sail-like dorsal appendage on the rear half and one long thin rear tail fully connected to the body. The front palps are spread near a light patch of fine sediment and tiny organic specks, illustrating deposit feeding. Do not show prey, swallowing, or a mouthful; all organic specks stay separate from the palps.\nStyle/medium: refined realistic painterly natural-history illustration.\nComposition/framing: landscape 3:2, whole animal, every palp, sail, tube foot and tail tip inside margins; a genuine low front-side view unlike a profile.\nLighting/mood: gentle neutral deep-sea fill light, no bioluminescent glow.\nConstraints: no text, labels, watermark, fish, crab, shrimp, coral, humans, submarine, giant tentacles, wings, blood, injury, or successful eating. The scene is an evidence-based explanation of deep-sea sea-cucumber deposit feeding and does not identify every particle or prove a particular feeding event."
+      ],
+      "generatedAt": "2026-10-22T13:56:54.247Z",
+      "checkedAt": "2026-10-22",
+      "sha256": "4d97c139a0f871006f388cd4e713ad850a3aa9ac7aa7fc0130d25a35fe98d5b0",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "심해 해삼의 퇴적물 먹이활동을 설명한 교육 재구성입니다. 실제 한 개체의 섭식 성공 장면은 아닙니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Exploration — Sea cucumber (Psychropotes longicauda)",
+          "url": "https://oceanexplorer.noaa.gov/multimedia/daily-image-media-20210201/"
+        },
+        {
+          "title": "JAMSTEC BISMaL — Psychropotes",
+          "url": "https://www.godac.jamstec.go.jp/bismal/e/view/0001095"
+        },
+        {
+          "title": "Museum Victoria — Psychropotes longicauda",
+          "url": "https://collections.museumsvictoria.com.au/species/16876"
+        }
+      ]
+    },
+    {
+      "id": "long-tailed-sea-cucumber",
+      "src": "assets/images/long-tailed-sea-cucumber-chatgpt-ecology-drift-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "심해돛해삼 · 바닥 위에서 조용히 떠 있기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "낮은 뒤사선 아래쪽 시점에서 바닥과 떨어진 한 개체의 부드러운 몸, 위로 휘는 긴 꼬리, 넓고 부드러운 등쪽 돛, 아래로 향한 관족과 먼쪽 먹이팔을 확인했습니다. 꼬리와 돛은 몸에 이어져 보이며 다른 생물은 없습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: One long-tailed deep-sea sea cucumber, Psychropotes longicauda, in a distinctly different near-bottom drifting ecology scene.\nScene/backdrop: dark open water just above a distant abyssal plain. No other animal, no fish, no submarine, and no surface.\nSubject: one complete muted violet Psychropotes sea cucumber viewed from below and behind, floating a short distance above the seafloor. Its long thin rear tail trails gently upward-left, continuous with the body. Its single broad sail-like dorsal appendage is visible in profile, soft and folded rather than a rigid fin. The body is modestly curved; pale tube feet are tucked or spread at different natural angles, and a small cluster of red feeding palps is visible far at the forward end. The animal is floating/drifting, not flying; leave a clear gap between tube feet and sediment.\nStyle/medium: refined realistic painterly natural-history illustration, calm and child-friendly.\nComposition/framing: wide landscape 3:2, complete body, dorsal sail, palps and tail tip inside generous margins. Use a low rear three-quarter camera, clearly different from a side-on crawling and low front feeding scene.\nLighting/mood: dark blue-black deep water with soft neutral illustration light; no glow.\nConstraints: no text, labels, watermark, coral, fish, shrimp, prey, eggs, humans, winglike flight, giant tentacles, blood, injury, fantasy or horror. This is an educational reconstruction drawing on records of sail-bearing Psychropotes drifting; exact species identity and the function of the sail remain subject to specialist review."
+      ],
+      "generatedAt": "2026-10-22T13:57:52.739Z",
+      "checkedAt": "2026-10-22",
+      "sha256": "cdf2e4148c33ff2c2d9636a573afebc97f199d08d8cb8a521c48fcd97272fb91",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "돛 모양 부속지와 드리프트 가능성에 관한 연구를 바탕으로 한 교육 재구성입니다. P. longicauda의 기능을 확정하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Exploration — Sea cucumber (Psychropotes longicauda)",
+          "url": "https://oceanexplorer.noaa.gov/multimedia/daily-image-media-20210201/"
+        },
+        {
+          "title": "JAMSTEC BISMaL — Psychropotes",
+          "url": "https://www.godac.jamstec.go.jp/bismal/e/view/0001095"
+        },
+        {
+          "title": "Museum Victoria — Psychropotes longicauda",
+          "url": "https://collections.museumsvictoria.com.au/species/16876"
         }
       ]
     }
