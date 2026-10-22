@@ -11512,5 +11512,151 @@ export const animals = [
     "group": "연체동물",
     "size": "기관 자료에서는 외투막 길이가 약 24 cm까지 알려져 있어요.",
     "range": "태평양을 포함한 여러 깊은 바다에서 기록돼요."
+  },
+  {
+    "aliases": [
+      "Giant sea spider",
+      "ベニオオウミグモ"
+    ],
+    "scientificName": "Colossendeis colossea",
+    "feedingUnconfirmedReason": "직접 먹이활동의 종별 근거를 충분히 확인하지 못했어요. 먹이 장면 대신 서로 다른 두 관찰 구도를 보여 줘요.",
+    "sources": [
+      {
+        "url": "https://www.marinespecies.org/aphia.php?id=134663&p=taxdetails",
+        "title": "WoRMS - Colossendeis colossea"
+      },
+      {
+        "url": "https://www.mbari.org/animal/giant-sea-spider/",
+        "title": "MBARI - Giant sea spider"
+      },
+      {
+        "url": "https://museumsvictoria.com.au/media/4108/64-staples-1.pdf",
+        "title": "Staples 2007 - Colossendeis records"
+      }
+    ],
+    "range": "여러 바다의 깊은 곳과 남극 주변에서 기록돼요.",
+    "gallery": [
+      {
+        "id": "giant-sea-spider",
+        "src": "assets/images/giant-sea-spider-chatgpt-portrait-high-front-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "큰바다거미 · 작은 몸통과 여덟 긴 다리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 독립 대조해 매우 작은 몸통 양쪽에서 네 쌍의 가는 보행다리가 이어지고, 앞쪽에 굵어진 병 모양 입과 짧은 palps·말린 ovigers가 보입니다. 각 다리 끝은 프레임 안에 있고 몸과 다리가 분리된 가짜 꼬리는 없습니다.; 전문가 종동정과 미세 구조 전수 판정은 보류.",
+        "generationPrompts": [
+          "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No words, labels, scale bars, collage, blood, or cartoon face. One giant sea spider Colossendeis colossea, a pycnogonid and NOT a crab or tarantula. Show a high front-dorsal three-quarter portrait above a plain gray-brown deep seafloor. Anatomy is essential: ONE very small narrow smooth trunk with EXACTLY FOUR bilateral pairs of leg bases and EXACTLY EIGHT very long slender jointed walking legs, each leg attached continuously to the trunk and ending in one tiny claw. The body must not be a large round spider abdomen. At the front, attach ONE straight bottle-shaped orange-red proboscis, thicker in the middle, plus two short fine palps and two small curled ovigers below it. No large pincers, no ninth leg, no web. Pale long legs and restrained orange joints. Every leg tip fits inside the landscape frame with margins. Realistic gentle painted illustration."
+        ],
+        "generatedAt": "2026-10-22T12:48:30.145Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "dfb925b2b0bed596867a2aa79cb458b79680df6b7d188ebba44578a7ac8538a2",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "giant-sea-spider",
+        "src": "assets/images/giant-sea-spider-chatgpt-ecology-side-walk-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "큰바다거미 · 해저를 걷는 옆모습",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 독립 대조해 낮은 옆면 구도에서 작은 몸통·앞쪽 병 모양 입·짧은 부속지와 여덟 가는 보행다리의 연속을 확인했습니다. 큰 집게·갑각·아홉째 보행다리는 보이지 않습니다.; 전문가 종동정과 미세 구조 전수 판정은 보류.",
+        "generationPrompts": [
+          "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No words, labels, blood, prey, or other animals. One giant sea spider Colossendeis colossea walking slowly left-to-right across a quiet deep-sea floor, low SIDE VIEW. It is a pycnogonid, not a crab: tiny narrow smooth trunk, exactly EIGHT very long thin jointed walking legs arising in four paired attachment points, all legs continuously attached, no extra legs and no pincers. The animal must have one straight bottle-shaped orange-red proboscis pointing forward and short fine palps beneath it. Its legs have a different stepping arrangement from a front portrait: four legs bear weight while the other four have natural bent angles, with every tip inside the frame. Pale cream legs, modest orange joints, realistic painted illustration, wide landscape composition."
+        ],
+        "generatedAt": "2026-10-22T12:49:27.121Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "0a115d48b2d3f825efb45c0eb4b6aeda08916b1495162c6fedf6292297b09976",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "기관·연구 자료에 근거한 교육 재구성입니다. 실제 관찰 사진, 정확한 속도·수심·먹이활동을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS - Colossendeis colossea",
+            "url": "https://www.marinespecies.org/aphia.php?id=134663&p=taxdetails"
+          },
+          {
+            "title": "MBARI - Giant sea spider",
+            "url": "https://www.mbari.org/animal/giant-sea-spider/"
+          },
+          {
+            "title": "Staples 2007 - Colossendeis records",
+            "url": "https://museumsvictoria.com.au/media/4108/64-staples-1.pdf"
+          }
+        ]
+      },
+      {
+        "id": "giant-sea-spider",
+        "src": "assets/images/giant-sea-spider-chatgpt-ecology-low-front-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "큰바다거미 · 병 모양 입을 앞에서 보기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "원본을 독립 대조해 앞쪽 병 모양 입, 양옆의 짧은 palps와 아래의 말린 ovigers, 뒤쪽으로 이어지는 네 쌍의 긴 보행다리를 확인했습니다. 몸통이 큰 거미 배처럼 과장되지 않았고 여분 집게나 분리 부속지는 없습니다.; 전문가 종동정과 미세 구조 전수 판정은 보류.",
+        "generationPrompts": [
+          "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No words, labels, blood, prey, or other animals. One giant sea spider Colossendeis colossea viewed from low front-left in open deep water just above a sandy seabed. The focus is its distinctive FRONT: a small narrow trunk, one intact straight bottle-shaped orange-red proboscis with swollen middle and rounded end, one pair of short fine palps alongside, and one pair of much smaller curled ovigers beneath. Behind the front, show exactly eight long slender jointed walking legs connected in four pairs to the same tiny trunk; legs recede into depth and remain complete, no extra legs, no pincers, no crab shell, no furry spider body. The animal is calmly suspended, with a wide different camera angle from top and side views. Pale legs with orange joints, detailed friendly natural-history painting, landscape composition."
+        ],
+        "generatedAt": "2026-10-22T12:50:19.637Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "8490ce9f76b6cf09fe518af078e5aa9cd2eb9d8957a5eb961e8c0c4964606467",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "기관·연구 자료에 근거한 교육 재구성입니다. 실제 관찰 사진, 정확한 속도·수심·먹이활동을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS - Colossendeis colossea",
+            "url": "https://www.marinespecies.org/aphia.php?id=134663&p=taxdetails"
+          },
+          {
+            "title": "MBARI - Giant sea spider",
+            "url": "https://www.mbari.org/animal/giant-sea-spider/"
+          },
+          {
+            "title": "Staples 2007 - Colossendeis records",
+            "url": "https://museumsvictoria.com.au/media/4108/64-staples-1.pdf"
+          }
+        ]
+      }
+    ],
+    "depthZoneIds": [
+      "twilight",
+      "midnight"
+    ],
+    "checkedAt": "2026-10-22",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "summary": "작은 몸통에서 아주 긴 다리 여덟 개가 뻗는 심해 바다거미예요.",
+    "id": "giant-sea-spider",
+    "depth": "WoRMS는 이 종을 목욕해대부터 심해까지 기록해요.",
+    "size": "다리 끝에서 반대쪽 다리 끝까지 약 70 cm에 이를 수 있어요.",
+    "ecology": "바다거미는 거미와 닮았지만 바다에 사는 절지동물이에요. 해저를 천천히 걸어요.",
+    "group": "절지동물",
+    "name": "큰바다거미",
+    "feedingUnconfirmed": true,
+    "diet": "이 도감 항목은 직접 먹이 장면의 종별 근거를 충분히 확인하지 못했어요.",
+    "habitatIds": [
+      "deep"
+    ],
+    "identity": [
+      "보행다리는 네 쌍, 모두 여덟 개예요.",
+      "병처럼 길쭉한 입으로 먹이를 빨아들여요."
+    ]
   }
 ];
