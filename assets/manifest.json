@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-22",
-  "reviewNote": "76개 생물 항목 각3장 이상, 244개 원본 이미지·248개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "reviewNote": "77개 생물 항목 각3장 이상, 247개 원본 이미지·251개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -7853,6 +7853,96 @@
         {
           "title": "Staples 2007 - Colossendeis records",
           "url": "https://museumsvictoria.com.au/media/4108/64-staples-1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "venus-flower-basket",
+      "src": "assets/images/venus-flower-basket-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "꽃바구니해면 · 하얀 유리 격자 바구니",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "넓은 열린 윗부분, 흰색 격자형 규산질 골격, 아래의 가는 뿌리 다발이 한 몸으로 연결된 꽃바구니해면 형태를 확인했습니다.",
+      "generationPrompts": [
+        "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No text, labels, or watermark. One Venus flower basket glass sponge, Euplectella aspergillum, attached upright to a small deep-sea rock. Full organism in portrait view: tall delicate cylindrical vase with a rounded open top, white translucent silica lattice made of crisscrossing thin spicules, and a wispy root tuft anchored below. It is an animal sponge, not a plant or a lantern. Calm dark-blue deep seafloor, no shrimp or other animal, soft readable natural lighting, detailed but friendly digital painting, vertical composition."
+      ],
+      "generatedAt": "2026-10-22T13:05:01.808Z",
+      "checkedAt": "2026-10-22",
+      "sha256": "29ddeaf68c4455b5f0a45fc48fbe8a270dee5af402c30f76ec61cacf167dd595",
+      "width": 1024,
+      "height": 1536,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "venus-flower-basket",
+      "src": "assets/images/venus-flower-basket-chatgpt-ecology-filter-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "꽃바구니해면 · 물속 작은 입자 거르기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "한 개의 고정된 격자형 바구니 구조와 열린 상단, 암석에 닿는 뿌리 다발이 보입니다. 다른 동물은 보이지 않습니다.",
+      "generationPrompts": [
+        "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No text, labels, food, shrimp, fish, corals, or any other animal. One Venus flower basket glass sponge, Euplectella aspergillum, attached upright to a dark deep-sea rock. Side-back view showing its tall white woven silica lattice, the wide open top and fine basal root tuft. Tiny pale particles drift through the water around and through the lattice to illustrate gentle filter feeding without showing prey or a mouth. The sponge remains fixed to the rock; use a spacious dark blue underwater background and a very different low side view from a front portrait and a top-looking-inside interaction scene. Detailed friendly natural-history digital painting, wide landscape composition."
+      ],
+      "generatedAt": "2026-10-22T13:07:07.296Z",
+      "checkedAt": "2026-10-22",
+      "sha256": "62234f68e5a8fe404325b5284bc533b87f9651425fbd601d394748d24e9cb3c4",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "NOAA가 설명한 유리해면의 물 여과와 작은 입자 섭취를 바탕으로 한 교육 재구성입니다. 실제 한 개체의 포식·섭식 성공 장면은 아닙니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Service — Glass sponge",
+          "url": "https://oceanservice.noaa.gov/facts/glass-sponge.html"
+        },
+        {
+          "title": "Smithsonian Q?rius — Sponges",
+          "url": "https://qrius.si.edu/browse/invertebrate-zoology/sponges"
+        }
+      ]
+    },
+    {
+      "id": "venus-flower-basket",
+      "src": "assets/images/venus-flower-basket-chatgpt-interaction-shrimp-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "꽃바구니해면 · 안에서 함께 사는 새우 두 마리",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "한 개의 열린 격자형 바구니 몸과 암석에 이어지는 뿌리 다발이 보입니다. 내부에는 서로 분리된 새우 모양 동물 두 마리만 있고, 추가 동물이나 배경 생물은 보이지 않습니다.",
+      "generationPrompts": [
+        "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No text, labels, watermark, coral, fish, seaweed, rock animals, or any other animals except the stated shrimp. One Venus flower basket glass sponge Euplectella aspergillum on a plain dark bare rock against empty deep-blue water. High three-quarter view into its complete white silica lattice vase and open top. Inside are exactly TWO tiny shrimp-like Stenopodidea, a male and female, visibly separate and calm. No eggs, no prey, no trapping injury, no other living thing. The sponge is much bigger than both shrimp and has a fine root tuft attached to the rock. Accurate friendly natural-history digital painting, landscape composition."
+      ],
+      "generatedAt": "2026-10-22T13:28:29.295Z",
+      "checkedAt": "2026-10-22",
+      "sha256": "ba253b5679bbddc2989ee12fd8ae04db9825c34d4a53aadd9e1b57b9ffac54f8",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "NOAA가 소개한 꽃바구니해면 안의 작은 새우 한 쌍 관계를 바탕으로 한 교육 재구성입니다. 새우의 정확한 종·성별·생활 단계는 그림만으로 확정하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Service — Glass sponge",
+          "url": "https://oceanservice.noaa.gov/facts/glass-sponge.html"
+        },
+        {
+          "title": "Smithsonian Q?rius — Sponges",
+          "url": "https://qrius.si.edu/browse/invertebrate-zoology/sponges"
         }
       ]
     }

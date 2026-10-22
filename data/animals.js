@@ -10,7 +10,8 @@ export const groups = [
   "빗해파리류",
   "조류",
   "환형동물",
-  "피낭동물"
+  "피낭동물",
+  "해면동물"
 ];
 
 export const habitats = [
@@ -11657,6 +11658,138 @@ export const animals = [
     "identity": [
       "보행다리는 네 쌍, 모두 여덟 개예요.",
       "병처럼 길쭉한 입으로 먹이를 빨아들여요."
+    ]
+  },
+  {
+    "id": "venus-flower-basket",
+    "name": "꽃바구니해면",
+    "scientificName": "Euplectella aspergillum",
+    "group": "해면동물",
+    "habitatIds": [
+      "deep"
+    ],
+    "depthZoneIds": [
+      "midnight"
+    ],
+    "summary": "하얀 유리 격자처럼 보이는 뼈대를 가진 깊은 바다 해면동물이에요.",
+    "identity": [
+      "길쭉한 바구니 모양 몸에 규산질 가시뼈가 그물처럼 이어져요.",
+      "몸 아래의 가는 뿌리 다발로 단단한 바닥에 붙어 있어요."
+    ],
+    "ecology": "대개 깊은 바다의 단단한 바닥에 붙어 물을 거르며 살아요. 어떤 꽃바구니해면 안에서는 작은 새우 두 마리가 함께 사는 모습도 알려져 있어요.",
+    "diet": "물속의 아주 작은 세균과 플랑크톤 같은 입자를 걸러 먹어요.",
+    "range": "태평양을 포함한 여러 깊은 바다에서 기록돼요.",
+    "size": "긴 바구니 모양의 몸이 자라요. 크기는 종과 관찰 기록에 따라 달라요.",
+    "depth": "빛이 거의 닿지 않는 깊은 바다에서 알려져 있어요.",
+    "aliases": [
+      "Venus flower basket",
+      "Euplectella aspergillum",
+      "비너스 꽃바구니해면"
+    ],
+    "sources": [
+      {
+        "title": "NOAA Ocean Service — Glass sponge",
+        "url": "https://oceanservice.noaa.gov/facts/glass-sponge.html"
+      },
+      {
+        "title": "Smithsonian Q?rius — Sponges",
+        "url": "https://qrius.si.edu/browse/invertebrate-zoology/sponges"
+      }
+    ],
+    "checkedAt": "2026-10-22",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "venus-flower-basket",
+        "src": "assets/images/venus-flower-basket-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "꽃바구니해면 · 하얀 유리 격자 바구니",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "넓은 열린 윗부분, 흰색 격자형 규산질 골격, 아래의 가는 뿌리 다발이 한 몸으로 연결된 꽃바구니해면 형태를 확인했습니다.",
+        "generationPrompts": [
+          "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No text, labels, or watermark. One Venus flower basket glass sponge, Euplectella aspergillum, attached upright to a small deep-sea rock. Full organism in portrait view: tall delicate cylindrical vase with a rounded open top, white translucent silica lattice made of crisscrossing thin spicules, and a wispy root tuft anchored below. It is an animal sponge, not a plant or a lantern. Calm dark-blue deep seafloor, no shrimp or other animal, soft readable natural lighting, detailed but friendly digital painting, vertical composition."
+        ],
+        "generatedAt": "2026-10-22T13:05:01.808Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "29ddeaf68c4455b5f0a45fc48fbe8a270dee5af402c30f76ec61cacf167dd595",
+        "width": 1024,
+        "height": 1536,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "venus-flower-basket",
+        "src": "assets/images/venus-flower-basket-chatgpt-ecology-filter-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "꽃바구니해면 · 물속 작은 입자 거르기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 개의 고정된 격자형 바구니 구조와 열린 상단, 암석에 닿는 뿌리 다발이 보입니다. 다른 동물은 보이지 않습니다.",
+        "generationPrompts": [
+          "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No text, labels, food, shrimp, fish, corals, or any other animal. One Venus flower basket glass sponge, Euplectella aspergillum, attached upright to a dark deep-sea rock. Side-back view showing its tall white woven silica lattice, the wide open top and fine basal root tuft. Tiny pale particles drift through the water around and through the lattice to illustrate gentle filter feeding without showing prey or a mouth. The sponge remains fixed to the rock; use a spacious dark blue underwater background and a very different low side view from a front portrait and a top-looking-inside interaction scene. Detailed friendly natural-history digital painting, wide landscape composition."
+        ],
+        "generatedAt": "2026-10-22T13:07:07.296Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "62234f68e5a8fe404325b5284bc533b87f9651425fbd601d394748d24e9cb3c4",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "NOAA가 설명한 유리해면의 물 여과와 작은 입자 섭취를 바탕으로 한 교육 재구성입니다. 실제 한 개체의 포식·섭식 성공 장면은 아닙니다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Service — Glass sponge",
+            "url": "https://oceanservice.noaa.gov/facts/glass-sponge.html"
+          },
+          {
+            "title": "Smithsonian Q?rius — Sponges",
+            "url": "https://qrius.si.edu/browse/invertebrate-zoology/sponges"
+          }
+        ]
+      },
+      {
+        "id": "venus-flower-basket",
+        "src": "assets/images/venus-flower-basket-chatgpt-interaction-shrimp-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "꽃바구니해면 · 안에서 함께 사는 새우 두 마리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 개의 열린 격자형 바구니 몸과 암석에 이어지는 뿌리 다발이 보입니다. 내부에는 서로 분리된 새우 모양 동물 두 마리만 있고, 추가 동물이나 배경 생물은 보이지 않습니다.",
+        "generationPrompts": [
+          "Scientific natural-history illustration for a Korean deep-sea atlas for children ages 5-12. No text, labels, watermark, coral, fish, seaweed, rock animals, or any other animals except the stated shrimp. One Venus flower basket glass sponge Euplectella aspergillum on a plain dark bare rock against empty deep-blue water. High three-quarter view into its complete white silica lattice vase and open top. Inside are exactly TWO tiny shrimp-like Stenopodidea, a male and female, visibly separate and calm. No eggs, no prey, no trapping injury, no other living thing. The sponge is much bigger than both shrimp and has a fine root tuft attached to the rock. Accurate friendly natural-history digital painting, landscape composition."
+        ],
+        "generatedAt": "2026-10-22T13:28:29.295Z",
+        "checkedAt": "2026-10-22",
+        "sha256": "ba253b5679bbddc2989ee12fd8ae04db9825c34d4a53aadd9e1b57b9ffac54f8",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "NOAA가 소개한 꽃바구니해면 안의 작은 새우 한 쌍 관계를 바탕으로 한 교육 재구성입니다. 새우의 정확한 종·성별·생활 단계는 그림만으로 확정하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Service — Glass sponge",
+            "url": "https://oceanservice.noaa.gov/facts/glass-sponge.html"
+          },
+          {
+            "title": "Smithsonian Q?rius — Sponges",
+            "url": "https://qrius.si.edu/browse/invertebrate-zoology/sponges"
+          }
+        ]
+      }
     ]
   }
 ];
