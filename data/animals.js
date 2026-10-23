@@ -12041,5 +12041,163 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "hairy-sea-toad",
+    "name": "털복숭이관상아귀",
+    "scientificName": "Chaunax endeavouri",
+    "group": "어류",
+    "habitatIds": [
+      "deep"
+    ],
+    "depthZoneIds": [
+      "twilight",
+      "midnight"
+    ],
+    "summary": "둥근 몸과 짧은 낚싯대를 가진, 진흙 바닥의 작은 심해아귀예요.",
+    "identity": [
+      "둥글고 납작한 분홍빛 몸에 작은 돌기가 오돌토돌 있어요.",
+      "눈 사이에는 아주 짧은 낚싯대와 미끼가 있어요.",
+      "짧은 지느러미를 바닥에 대고 쉬는 모습을 볼 수 있어요."
+    ],
+    "ecology": "오스트레일리아 근처의 깊은 바다 진흙 바닥에서 기록돼요. 조용히 바닥에 머무르며 주변을 살펴봐요.",
+    "diet": "작은 동물이 가까이 오는 장면으로 먹이 활동을 살펴봐요. 이 도감 그림은 실제 포획을 뜻하지 않아요.",
+    "range": "오스트레일리아 주변 바다에서 기록돼요.",
+    "size": "기관 자료에는 이 종의 몸길이가 약 10 cm 안팎으로 소개돼요. 개체마다 달라요.",
+    "depth": "IUCN 자료에는 약 46–1,006 m에서 기록돼요.",
+    "aliases": [
+      "Chaunax endeavouri",
+      "Hairy sea toad",
+      "Endeavour sea toad"
+    ],
+    "sources": [
+      {
+        "title": "WoRMS — Chaunax endeavouri Whitley, 1929",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=272550"
+      },
+      {
+        "title": "Fishes of Australia — Chaunax endeavouri",
+        "url": "https://fishesofaustralia.net.au/home/species/3578"
+      },
+      {
+        "title": "IUCN Red List — Chaunax endeavouri",
+        "url": "https://doi.org/10.2305/IUCN.UK.2020-1.RLTS.T139927865A140322541.en"
+      },
+      {
+        "title": "Long et al. 2019 — Chaunacidae inflation and locomotion",
+        "url": "https://doi.org/10.1111/jfb.14003"
+      }
+    ],
+    "checkedAt": "2026-10-23",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "hairy-sea-toad",
+        "src": "assets/images/hairy-sea-toad-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "털복숭이관상아귀 · 진흙 바닥의 둥근 몸",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "진흙 바닥에 닿은 둥근 물고기 몸, 연결된 꼬리·등지느러미·가슴지느러미, 높은 눈과 눈 사이의 짧은 낚싯대 및 작은 미끼를 확인했습니다. 두 번째 몸이나 분리된 지느러미는 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful natural-history portrait of one hairy sea toad, Chaunax endeavouri.\nScene/backdrop: quiet deep-sea muddy seafloor, dark blue-grey open water behind, a few harmless suspended particles; no other animal.\nSubject: exactly one small round-bodied pink to peach anglerfish resting on the mud, shown in a true side three-quarter view. It has a squat globular body, a broad mouth closed softly, small eyes set high on the head, short soft fins that touch the seafloor, and many tiny soft wart-like skin bumps. Include one very short illicium with a small lure between the eyes, naturally folded low and clearly part of the same fish. It is a fish, not a frog, pufferfish, toy, jellyfish, crab or monster.\nStyle/medium: refined realistic painterly natural-history illustration, calm and friendly.\nComposition/framing: landscape 3:2, whole fish and its shadow inside generous margins, fish about 55% of frame width.\nLighting/mood: restrained deep-water light, no glow.\nConstraints: no text, labels, watermark, human, vehicle, other fish, prey, blood, teeth, dramatic attack, detached lure, false limbs, glowing bait, or extra animal. Anatomically cautious educational reconstruction."
+        ],
+        "generatedAt": "2026-10-23T02:11:58.794Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "b933d4ca8baa3a447c8e73dc140f28a9ac6e5b5bc22ffba603680ccc46087f87",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "hairy-sea-toad",
+        "src": "assets/images/hairy-sea-toad-chatgpt-feeding-approach-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "털복숭이관상아귀 · 작은 갑각류가 가까이 오기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 마리의 둥근 아귀 물고기에서 꼬리·지느러미·짧은 낚싯대가 한 몸으로 이어지고, 작은 새우 모양 동물 한 마리가 입과 떨어진 채 앞쪽 물에 있는 것을 확인했습니다. 피, 물림, 삼킴이나 분리된 부속기관은 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A restrained feeding-approach scene of one hairy sea toad, Chaunax endeavouri, on a muddy deep-sea bottom.\nScene/backdrop: quiet grey-brown mud with dark blue water; exactly one tiny intact shrimp-like crustacean in the open water.\nSubject: exactly one round peach-pink Chaunax endeavouri, seen from a low front-left angle very different from a side portrait. The fish rests on small pectoral fins; it has a small folded short lure between its high eyes, soft wart-like bumps, and a broad mouth gently closed. One tiny shrimp-like crustacean drifts well in front of the fish, with a wide clear gap. The shrimp is not touched, hurt, swallowed or trapped. No second fish.\nStyle/medium: refined realistic painterly natural-history illustration, calm and friendly.\nComposition/framing: landscape 3:2, entire fish and tiny shrimp both fully within generous margins.\nLighting/mood: low, calm deep-water light, no dramatic beam or glow.\nConstraints: no text, labels, watermark, hands, vehicle, other animals, attack, open jaws, teeth, blood, captured prey, fishing hook, long glowing lure, detached fins or false limbs. The scene is an educational possibility based on anglerfish prey attraction, not proof of a capture or exact feeding behavior for this individual."
+        ],
+        "generatedAt": "2026-10-23T02:13:01.171Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "23f850d9e168e78a19ae0a2e69eedd5b7a0aefce672595656ee5f34936a2603f",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "작은 갑각류가 가까이 오는 교육용 재구성입니다. 실제 포획·접촉·섭식 성공, 먹이의 정확한 종은 그림이 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Chaunax endeavouri Whitley, 1929",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=272550"
+          },
+          {
+            "title": "Fishes of Australia — Chaunax endeavouri",
+            "url": "https://fishesofaustralia.net.au/home/species/3578"
+          },
+          {
+            "title": "IUCN Red List — Chaunax endeavouri",
+            "url": "https://doi.org/10.2305/IUCN.UK.2020-1.RLTS.T139927865A140322541.en"
+          },
+          {
+            "title": "Long et al. 2019 — Chaunacidae inflation and locomotion",
+            "url": "https://doi.org/10.1111/jfb.14003"
+          }
+        ]
+      },
+      {
+        "id": "hairy-sea-toad",
+        "src": "assets/images/hairy-sea-toad-chatgpt-ecology-rear-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "털복숭이관상아귀 · 바닥에서 보는 둥근 등",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "위뒤 사선 구도에서 한 마리 물고기의 둥근 몸통, 연속된 꼬리, 짧은 가슴지느러미와 눈 사이의 짧은 낚싯대가 보입니다. 진흙 바닥과 맞닿은 몸은 풍선·장난감·분리된 생물로 읽히지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: An anatomically cautious ecology scene of one hairy sea toad, Chaunax endeavouri, using a clearly different overhead rear three-quarter view.\nScene/backdrop: a broad quiet muddy deep-sea slope with dim blue-grey water and sparse particles; no other animal.\nSubject: exactly one small peach-pink round Chaunax endeavouri resting alone on the mud. Show its compact inflated-looking round body, many very small soft wart-like bumps, short pectoral fins touching mud, tail fin, high-set eyes, and the very short lure between the eyes folded down. Its mouth stays gently closed. The fish is visibly a true fish with one continuous body, not a balloon, frog, pufferfish, toy, coral or monster.\nStyle/medium: refined realistic painterly natural-history illustration, calm and friendly.\nComposition/framing: landscape 3:2, high rear three-quarter camera, full animal inside wide margins with textured mud visible around it; strongly different from a low front feeding view and side portrait.\nLighting/mood: soft low deep-water light, no glow.\nConstraints: no text, labels, watermark, human, vehicle, other animals, prey, attack, open mouth, blood, teeth, flashy lure, false legs, detached fins, or bubbles. This is a general educational posture reconstruction; do not imply a measured inflation event or an exact timed behavior."
+        ],
+        "generatedAt": "2026-10-23T02:13:45.131Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "450e7590e6e8f257b070f1f621cf20420709384bb5bcebc8151b15cb70d416f3",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "관상아귀과의 부풀기·움직임 연구를 참고한 일반 자세 교육용 재구성입니다. 이 종의 개별 부풀기 사건이나 정확한 지속 시간을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Chaunax endeavouri Whitley, 1929",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=272550"
+          },
+          {
+            "title": "Fishes of Australia — Chaunax endeavouri",
+            "url": "https://fishesofaustralia.net.au/home/species/3578"
+          },
+          {
+            "title": "IUCN Red List — Chaunax endeavouri",
+            "url": "https://doi.org/10.2305/IUCN.UK.2020-1.RLTS.T139927865A140322541.en"
+          },
+          {
+            "title": "Long et al. 2019 — Chaunacidae inflation and locomotion",
+            "url": "https://doi.org/10.1111/jfb.14003"
+          }
+        ]
+      }
+    ]
   }
 ];
