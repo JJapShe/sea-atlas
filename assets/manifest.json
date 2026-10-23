@@ -7837,15 +7837,15 @@
       "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
       "provenanceUrl": "https://openai.com/policies/terms-of-use/",
       "expertReviewed": false,
-      "identityCheck": "원본을 직접 대조해 짧고 두꺼운 외투막, 거친 낮은 돌기, 넓은 둥근 지느러미, 뒤로 흐르는 팔과 두 긴 촉수가 한 몸에 이어집니다. 넓은 수괴를 향해 기울어진 전신 구도라 대표·해저 컷과 실제 시점과 거리 차이가 분명합니다.",
+      "identityCheck": "원본을 직접 대조해 머리 앞에서 여덟 팔과 두 긴 촉수가 한 몸으로 이어지고, 큰 왼쪽 눈은 위쪽 빛을 향합니다. 짧고 넓은 외투막의 뒤끝에는 중앙 홈을 둔 둥근 두 지느러미가 있어 물고기 꼬리나 옆지느러미로 읽히지 않습니다.",
       "generationPrompts": [
-        "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. One Stigmatoteuthis dofleini, Doflein's jewel squid, very small in a spacious open midwater scene, viewed from its LEFT side while it slowly rises toward dim sunlight. It MUST have a SHORT, STURDY, THICK CONICAL MANTLE only about twice the head length, never a long arrow-shaped squid body. Exactly two broad round fins attach at the rear third. Eight short arms and two longer tentacles trail behind but do not make the body look long. Its large LEFT eye points upward and is at least twice the diameter of the small right eye. Dark purplish mantle with low papillae and very faint blue photophores on the belly. Entire animal visible, no prey or other animals, soft blue shafts far above, natural-history painted digital illustration, vertical composition."
+        "Create ONE original 3:2 landscape scientific-natural-history illustration for a Korean children's sea-life atlas, ages 5–12: Doflein's jewel squid, Stigmatoteuthis dofleini, swimming tail-up obliquely in deep twilight water. Make it unmistakably a SQUID, never a fish: the clearly defined HEAD is at the upper-front end, a single very large LEFT eye points upward toward faint distant surface light; the much smaller right eye is partly visible below it. From the front of the head, show exactly EIGHT thick, flexible ARMS in a gentle loose umbrella, plus TWO longer slender feeding tentacles with small clubs, all clearly attached. Behind the head is a short broad dark purplish-brown CONICAL MANTLE with scattered small blue-white photophore dots and low texture. At the far posterior end of the mantle, place TWO small rounded terminal fins joined only at their rear edge with a clear central notch; fins must look like squid fins, not a vertical fish tail or side pectoral fins. The animal rises diagonally from lower right toward upper left through dark blue midwater. Realistic painterly educational style, whole animal visible, generous margins. No fish-like face, no gills, no mouth with teeth, no fish tail, no dorsal fin, no scales, no arms emerging from the rear, no detached tentacles, no duplicate animals, text, labels, logos, boat, or human."
       ],
-      "generatedAt": "2026-10-22T12:40:29.827Z",
-      "checkedAt": "2026-10-22",
-      "sha256": "1e1dc4d5ea794d994d35d960f0d156f5f8ce5052ca828489eac314dfb760def4",
-      "width": 1024,
-      "height": 1536,
+      "generatedAt": "2026-10-23T12:48:00+09:00",
+      "checkedAt": "2026-10-23",
+      "sha256": "295de6f304892792b00c36f34fe9eb42fe39afaa70b0f492b110fb4ac8709036",
+      "width": 1536,
+      "height": 1024,
       "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
       "sceneType": "ecology",
       "behaviorCheck": "기관 자료에 근거한 교육 재구성입니다. 실제 관찰 사진, 정확한 수심·속도, 섭식 성공을 뜻하지 않습니다.",
