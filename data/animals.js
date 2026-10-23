@@ -10032,6 +10032,112 @@ export const animals = [
             "url": "https://cordellbank.noaa.gov/science/cb_taxo_guide_final.pdf"
           }
         ]
+      },
+      {
+        "id": "big-mouth-tunicate",
+        "src": "assets/images/big-mouth-tunicate-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "큰입멍게 · 두꺼운 두 입술 구강 후드",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "암석에 닿는 긴 자루, 투명한 부드러운 몸, 서로 이어진 두 개의 두꺼운 구강 후드 입술과 등쪽의 작은 원통형 출수구를 확인했습니다. 별도 동물이나 분리 자루는 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: One predatory tunicate, Megalodicopia hians, as a careful natural-history reconstruction.\nScene/backdrop: a dark deep-sea rocky wall with open blue-black water behind; no other animal.\nSubject: one solitary translucent pink-orange stalked tunicate anchored to bare rock by its long narrow posterior stalk. The round soft body faces outward into the water. At the front is one enormous wide-open oral hood made of TWO thick rounded lobes, clearly part of the same animal; the two lobes frame a dark spacious opening. A much smaller second atrial opening sits high on the back edge. It is a tunicate/sea squirt, not a jellyfish, clam, fish, flower, or Venus flytrap. Preserve a clear continuous connection among rock, stalk, soft body and oral hood.\nStyle/medium: refined realistic painterly natural-history illustration, calm and friendly.\nComposition/framing: landscape 3:2, entire animal and attached stalk inside generous margins, front-side three-quarter portrait.\nLighting/mood: restrained neutral deep-water light, no glow.\nConstraints: no text, labels, watermark, humans, ROV, fish, shrimp, prey, eggs, blood, trapped animal, teeth, monster expression, detached stalk, or extra animal. This is an educational form reconstruction, not documentary footage or proof of a capture."
+        ],
+        "generatedAt": "2026-10-22T14:07:46.008Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "aa5360ad9747647e02f4928163f1b4dcffcd2146e82560f49698a8d2795d6ed0",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "big-mouth-tunicate",
+        "src": "assets/images/big-mouth-tunicate-chatgpt-feeding-shrimp-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "큰입멍게 · 작은 갑각류가 가까이 오기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "암석 고정 자루와 한 몸의 큰 두 입술 후드, 등쪽 출수구를 확인했습니다. 입 앞에는 손상되지 않은 작은 새우 모양 동물 한 마리만 있고 입술과 명확한 물 간격이 남아 있습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A feeding-approach scene with one predatory tunicate Megalodicopia hians.\nScene/backdrop: dim deep-sea rocky wall and open water, empty except for exactly ONE tiny intact shrimp-like crustacean stated below.\nSubject: one translucent pink-orange Megalodicopia hians fixed to the rock by one long narrow stalk. Its huge oral hood has exactly two thick rounded lips opened toward the current. Exactly ONE very small intact shrimp-like crustacean drifts in open water just outside the hood, with a clear gap from both lips. It is approaching, not caught or injured. Include the much smaller rear dorsal atrial opening and keep stalk, soft body and oral hood fully connected.\nStyle/medium: refined realistic painterly natural-history illustration.\nComposition/framing: landscape 3:2, low side-front view, whole tunicate including anchor and stalk inside margins; strong change from a close portrait.\nLighting/mood: soft deep-water light, no glow.\nConstraints: no text, labels, watermark, other organisms, extra crustaceans, contact, swallowing, blood, teeth, giant monster mouth, flower petals, jellyfish bells, clam shell, detached stalk, humans or vehicle. This is an educational reconstruction based on reported small-crustacean feeding and is not documentary proof of a capture."
+        ],
+        "generatedAt": "2026-10-22T14:09:20.982Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "96fddcf892ae1541194d8989af9e1aa860de19e7b25deed155281a989106a503",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "문헌의 작은 갑각류 먹이 기록을 설명한 접근 장면입니다. 새우 모양 동물의 정확한 종과 실제 포식 성공·접촉은 그림이 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "MBARI — Predatory tunicate (Megalodicopia spp.)",
+            "url": "https://www.mbari.org/animal/predatory-tunicate/"
+          },
+          {
+            "title": "WoRMS — Megalodicopia hians (Oka, 1918)",
+            "url": "https://www.marinespecies.org/aphia.php?id=250823&p=taxdetails"
+          },
+          {
+            "title": "JAMSTEC BISMaL — Megalodicopia hians",
+            "url": "https://www.godac.jamstec.go.jp/bismal/e/view/9000273"
+          },
+          {
+            "title": "Okuyama et al. 2002 — Morphological studies on the bathyal ascidian Megalodicopia hians",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12426481/"
+          }
+        ]
+      },
+      {
+        "id": "big-mouth-tunicate",
+        "src": "assets/images/big-mouth-tunicate-chatgpt-ecology-current-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "큰입멍게 · 물살을 향해 입구 열기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "암석에 단단히 이어진 하나의 긴 자루, 한 개의 투명하고 부드러운 몸, 상단의 작은 원통형 출수구와 앞쪽의 둥글고 두꺼운 두 입술 구강 후드를 확인했습니다. 구강 테두리가 몸과 연속되어 있고 꽃잎·날개·별도 동물처럼 분리되어 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A corrected, anatomically restrained ecology illustration of one predatory tunicate Megalodicopia hians oriented to a current.\nScene/backdrop: bare deep-sea rock wall and empty dark-blue water with a few small particles; no other living thing.\nSubject: one translucent orange-pink tunicate attached to rock by a continuous long narrow stalk. Camera is high rear three-quarter, but the body must still clearly read as a soft rounded sac, not a fish or flying creature. At the forward end show ONE broad circular-to-oval oral hood opening with exactly TWO smooth THICK ROUNDED LIPS forming a continuous rim. The lips are close together and seen obliquely, never pointed, never separated as wings, petals, fins, or two flat flags. The small atrial opening is a short simple tube on the upper back. The entire rim, soft body, and stalk must visibly connect. Hood faces into open water; no prey.\nStyle/medium: refined realistic painterly natural-history illustration, calm, child-friendly.\nComposition/framing: landscape 3:2, whole animal from rock anchor to hood inside generous margins, clearly different high rear angle but anatomy still readable.\nLighting/mood: soft neutral deep-water light, no glow.\nConstraints: no text, labels, watermark, fish, coral, shrimp, food, giant teeth, flower petals, jellyfish bell, clam shell, wings, separate flags, detached stalk, humans, ROV, blood, injury, or fantasy. This is an educational orientation reconstruction, not a measured current observation."
+        ],
+        "generatedAt": "2026-10-22T14:14:55.307Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "86b8b2c3d2145f82ab12c1cc6e7963c99abdb8e309a3d3eaa22f6e8d2ab1e580",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "JAMSTEC의 물살을 향한 자세 기록을 바탕으로 한 교육 재구성입니다. 특정 순간의 실제 유속이나 입술 닫힘 속도는 그림으로 확정하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "MBARI — Predatory tunicate (Megalodicopia spp.)",
+            "url": "https://www.mbari.org/animal/predatory-tunicate/"
+          },
+          {
+            "title": "WoRMS — Megalodicopia hians (Oka, 1918)",
+            "url": "https://www.marinespecies.org/aphia.php?id=250823&p=taxdetails"
+          },
+          {
+            "title": "JAMSTEC BISMaL — Megalodicopia hians",
+            "url": "https://www.godac.jamstec.go.jp/bismal/e/view/9000273"
+          },
+          {
+            "title": "Okuyama et al. 2002 — Morphological studies on the bathyal ascidian Megalodicopia hians",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12426481/"
+          }
+        ]
       }
     ]
   },
