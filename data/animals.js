@@ -12368,7 +12368,7 @@ export const animals = [
       "deep"
     ],
     "depthZoneIds": [
-      "surface",
+      "sunlight",
       "twilight",
       "midnight"
     ],
