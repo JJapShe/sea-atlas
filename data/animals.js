@@ -12357,5 +12357,152 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "leatherback-turtle",
+    "name": "장수거북",
+    "scientificName": "Dermochelys coriacea",
+    "group": "파충류",
+    "habitatIds": [
+      "pelagic",
+      "deep"
+    ],
+    "depthZoneIds": [
+      "surface",
+      "twilight",
+      "midnight"
+    ],
+    "summary": "가죽 같은 검은 등판과 아주 긴 앞지느러미를 가진 가장 큰 바다거북이에요.",
+    "identity": [
+      "단단한 비늘판 대신 가죽처럼 유연한 검은 등판을 가져요.",
+      "등판에는 머리에서 꼬리까지 이어지는 일곱 줄의 능선이 있어요.",
+      "앞지느러미가 아주 길어서 넓은 바다를 멀리 헤엄칠 수 있어요."
+    ],
+    "ecology": "넓은 외해를 이동하며 먹이 장소와 산란 해변을 오가요. 깊은 바다로 잠수한 기록도 있어요.",
+    "diet": "해파리와 살프처럼 부드러운 외양성 동물을 주로 먹어요.",
+    "range": "대서양·태평양·인도양의 따뜻하고 온화한 바다에 넓게 분포해요.",
+    "size": "기관 자료는 몸길이를 약 1.2–1.8 m로 소개해요. 개체마다 달라요.",
+    "depth": "NOAA는 약 1,200 m까지 잠수한 기록을 소개해요.",
+    "aliases": [
+      "Dermochelys coriacea",
+      "Leatherback sea turtle"
+    ],
+    "sources": [
+      {
+        "title": "WoRMS — Dermochelys coriacea (Vandelli, 1761)",
+        "url": "https://marinespecies.org/deepsea/aphia.php?id=137209&p=taxdetails"
+      },
+      {
+        "title": "NOAA Fisheries — Leatherback Turtle",
+        "url": "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+      },
+      {
+        "title": "NOAA Fisheries — Where Leatherbacks Roam",
+        "url": "https://www.fisheries.noaa.gov/feature-story/where-leatherbacks-roam"
+      }
+    ],
+    "checkedAt": "2026-10-23",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "leatherback-turtle",
+        "src": "assets/images/leatherback-turtle-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "장수거북 · 일곱 줄 능선의 등판",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "검은 유연한 등판의 일곱 긴 능선, 길쭉한 앞지느러미와 작은 뒤지느러미 네 개가 한 마리 거북의 몸에 자연스럽게 이어집니다. 딱딱한 비늘판이나 분리된 지느러미는 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful natural-history portrait of one adult leatherback sea turtle, Dermochelys coriacea.\nScene/backdrop: calm open ocean with deep clear blue water, no other animal.\nSubject: exactly one very large dark leatherback sea turtle swimming slowly in a true elevated side three-quarter view. Its flexible dark charcoal shell has exactly SEVEN long subtle raised ridges running from neck toward tail, not hard separate scutes. Show very long smooth front flippers, smaller rear flippers, a gently pointed head and a single continuous body. No external teeth or scary open mouth. It must read as a sea turtle, not a whale, dolphin, tortoise, plastic toy or fish.\nStyle/medium: refined realistic painterly natural-history illustration, calm and friendly.\nComposition/framing: landscape 3:2, complete turtle and all flipper tips inside wide margins, animal uses about 65% width.\nLighting/mood: soft natural blue ocean light, no beams or glow.\nConstraints: no text, labels, watermark, people, boat, net, plastic, fish, jellyfish, prey, blood, injury, eggs, hatchlings, open mouth, teeth, extra flippers or multiple turtles. Educational anatomy reconstruction, not documentary footage."
+        ],
+        "generatedAt": "2026-10-23T02:33:07.863Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "fcecb69913eb76533f0626303b81fd28b7422d4584f7b50a69d0f264dd2e78b6",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "leatherback-turtle",
+        "src": "assets/images/leatherback-turtle-chatgpt-feeding-approach-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "장수거북 · 작은 해파리에 가까이 가기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "장수거북 한 마리의 일곱 능선 등판과 네 지느러미가 이어져 보이고, 작은 해파리 한 마리가 닫힌 부리 앞의 물속에 분명한 간격을 두고 있습니다. 접촉·물기·포획 흔적은 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful feeding-approach scene of one adult leatherback sea turtle, Dermochelys coriacea, and one small jellyfish.\nScene/backdrop: quiet blue open ocean, no other animal.\nSubject: exactly one dark leatherback turtle approaching exactly one small translucent jellyfish in open water. Camera is low front-side, a real different view from an elevated portrait. The turtle has a soft CLOSED beak, flexible dark shell with seven long ridges, and long front flippers in a gliding pose. The jellyfish floats well ahead of the beak with a clear wide water gap, intact and unhurt. It is not in the mouth, not touching, not bitten or swallowed. Keep all body parts fully connected and present.\nStyle/medium: refined realistic painterly natural-history illustration, calm and kind.\nComposition/framing: landscape 3:2, whole turtle and jellyfish inside comfortable margins.\nLighting/mood: gentle blue ocean light, no glow or dramatic action.\nConstraints: no text, labels, watermark, people, boat, plastic, net, other animals, attack, open mouth, teeth, blood, torn jellyfish, capture, extra flippers, hatchlings, eggs. This is an educational reconstruction of an approach to a documented food type, not evidence of a successful meal."
+        ],
+        "generatedAt": "2026-10-23T02:34:01.881Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "413f75d81081f0830dee0c0702b73a0d9b980d37332ce3452886eadd3f8ad1cb",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "NOAA가 소개한 해파리·살프류 먹이를 바탕으로 한 접근 장면입니다. 실제 접촉·포식 성공, 해파리의 정확한 종은 이 그림이 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Dermochelys coriacea (Vandelli, 1761)",
+            "url": "https://marinespecies.org/deepsea/aphia.php?id=137209&p=taxdetails"
+          },
+          {
+            "title": "NOAA Fisheries — Leatherback Turtle",
+            "url": "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+          },
+          {
+            "title": "NOAA Fisheries — Where Leatherbacks Roam",
+            "url": "https://www.fisheries.noaa.gov/feature-story/where-leatherbacks-roam"
+          }
+        ]
+      },
+      {
+        "id": "leatherback-turtle",
+        "src": "assets/images/leatherback-turtle-chatgpt-ecology-dive-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "장수거북 · 넓은 바다로 잠수하기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "위뒤 사선 구도에서도 검은 일곱 능선 등판, 긴 앞지느러미와 작은 뒤지느러미가 하나의 장수거북 몸으로 계속 이어집니다. 깊은 물로 향하는 구도가 분명히 다릅니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: An ecology scene of one leatherback sea turtle, Dermochelys coriacea, gliding deeper through open ocean.\nScene/backdrop: deepening blue water with only faint pale surface light far above; no seafloor and no other animal.\nSubject: exactly one adult leatherback turtle seen from high behind and above as it descends diagonally into darker water. The rear shell and long front flippers create a clearly different silhouette from a side portrait. Its continuous flexible dark shell shows seven long ridges; rear flippers and tail end remain fully visible. The turtle is calm, not trapped, sick or fleeing.\nStyle/medium: refined realistic painterly natural-history illustration, gentle and calm.\nComposition/framing: landscape 3:2, full turtle including every flipper tip inside generous margins, much open water around it.\nLighting/mood: subtle fading natural light, no glow, no scary darkness.\nConstraints: no text, labels, watermark, people, boat, net, plastic, fish, jellyfish, prey, blood, attack, open mouth, teeth, extra flippers, eggs or hatchlings. This is a general illustration of a deep dive, not a claim of an exact depth, duration or observed moment."
+        ],
+        "generatedAt": "2026-10-23T02:34:49.788Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "93cb338b81594906fad6a23d1b78f8a86d9cf41291ae1c127f8504f7489bce50",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "NOAA가 소개한 깊은 잠수 능력을 설명하는 일반 생태 장면입니다. 실제 수심·잠수 시간·관찰 시점은 그림만으로 확정하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Dermochelys coriacea (Vandelli, 1761)",
+            "url": "https://marinespecies.org/deepsea/aphia.php?id=137209&p=taxdetails"
+          },
+          {
+            "title": "NOAA Fisheries — Leatherback Turtle",
+            "url": "https://www.fisheries.noaa.gov/species/leatherback-turtle"
+          },
+          {
+            "title": "NOAA Fisheries — Where Leatherbacks Roam",
+            "url": "https://www.fisheries.noaa.gov/feature-story/where-leatherbacks-roam"
+          }
+        ]
+      }
+    ]
   }
 ];
