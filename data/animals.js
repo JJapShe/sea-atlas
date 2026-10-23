@@ -12504,5 +12504,149 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "black-footed-albatross",
+    "name": "검은발알바트로스",
+    "scientificName": "Phoebastria nigripes",
+    "group": "조류",
+    "habitatIds": [
+      "pelagic"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "아주 긴 날개로 넓은 바다의 바람을 타는 검은 갈색 알바트로스예요.",
+    "identity": [
+      "길고 좁은 날개를 넓게 펴고 바다 위를 오래 활공해요.",
+      "온몸은 짙은 갈색이고, 눈 뒤에는 작은 흰 부분이 보여요.",
+      "부리와 발은 어두운 색이에요."
+    ],
+    "ecology": "북태평양의 넓은 외해를 오가며 바람을 타고 날아요. 하와이 북서부 섬과 일본 도리시마에서 번식 기록이 있어요.",
+    "diet": "해수면 가까이에서 작은 물고기, 오징어, 갑각류 등을 찾아요.",
+    "range": "북태평양의 넓은 바다에서 기록돼요.",
+    "size": "NOAA 식별 안내는 날개가 매우 길고 좁은 바닷새로 소개해요. 개체마다 크기가 달라요.",
+    "depth": "바다 표면 가까이에서 먹이를 찾고 날아요.",
+    "aliases": [
+      "Phoebastria nigripes",
+      "Black-footed albatross"
+    ],
+    "sources": [
+      {
+        "title": "WoRMS — Phoebastria nigripes (Audubon, 1839)",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=344103"
+      },
+      {
+        "title": "NOAA Fisheries — North Pacific albatross identification guide",
+        "url": "https://media.fisheries.noaa.gov/dam-migration/albatross-id-guide0317.pdf"
+      },
+      {
+        "title": "NOAA Fisheries — Groundfish FSEIS: Black-footed albatross",
+        "url": "https://media.fisheries.noaa.gov/2021-11/groundfish-feis-2004.pdf"
+      }
+    ],
+    "checkedAt": "2026-10-23",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "black-footed-albatross",
+        "src": "assets/images/black-footed-albatross-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "검은발알바트로스 · 긴 날개로 외해 활공",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "짙은 갈색 한 마리의 새에서 좌우 한 쌍의 매우 긴 날개, 꼬리와 부리가 몸통에 자연스럽게 이어지고, 눈 뒤의 작은 흰 무늬가 보입니다. 분리된 깃털이나 여분의 날개는 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful natural-history portrait of one black-footed albatross, Phoebastria nigripes, gliding low over the open Pacific.\nScene/backdrop: calm blue ocean with a low horizon and soft sky, no boat and no other animal.\nSubject: exactly one adult black-footed albatross in true elevated side three-quarter flight. It has extremely long narrow wings, overall dark chocolate-brown plumage, a small pale patch behind the eye, a dark bill, and dark feet tucked naturally beneath the body. Keep every feathered wing as one continuous pair, no extra wings and no gull-like short wings. The bird is gliding above, not standing on water.\nStyle/medium: refined realistic painterly natural-history illustration, friendly but not cartoonish.\nComposition/framing: landscape 3:2, whole bird including wing tips inside generous margins, full wide wingspan.\nLighting/mood: clean soft daylight, calm ocean wind.\nConstraints: no text, labels, watermark, people, boat, fishing line, nest, chicks, eggs, other birds, fish, squid, prey, blood, open mouth, invented markings, detached feathers, or fantasy wings. Educational species reconstruction."
+        ],
+        "generatedAt": "2026-10-23T02:46:00.302Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "04b045528c1f97ea115bd4e70e001355bbeebe7c83fb4217994e5aa523c1a5a9",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "black-footed-albatross",
+        "src": "assets/images/black-footed-albatross-chatgpt-feeding-approach-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "검은발알바트로스 · 작은 오징어에 가까이 가기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "물 위에 뜬 한 마리의 갈색 알바트로스에서 접힌 두 날개·부리·몸이 연결되어 있고, 작은 오징어 한 마리가 부리와 충분한 물 간격을 두고 있습니다. 물기·포획·상처는 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A cautious foraging-approach scene of one black-footed albatross, Phoebastria nigripes, and one small squid.\nScene/backdrop: calm open Pacific water, no boat, no fishing gear and no other animal.\nSubject: exactly one dark brown black-footed albatross floating lightly on the sea surface, viewed from low front-side. Its long wings are folded naturally along its sides, dark webbed feet are partly underwater, and its dark bill remains closed. Exactly one small intact squid floats in nearby open water with a clear wide gap from the bill. The squid is not caught, injured, bitten, swallowed or touched. The bird has a small pale mark behind the eye and one continuous pair of folded wings.\nStyle/medium: refined realistic painterly natural-history illustration, calm and child-friendly.\nComposition/framing: landscape 3:2, whole bird and whole squid fully within margins, a genuine different posture from flight.\nLighting/mood: soft daylight and small calm waves.\nConstraints: no text, labels, watermark, people, boat, net, hooks, fishing line, other birds, fish, extra squid, attack, open bill, blood, capture, nest, eggs, chicks or detached wings. This is a reconstruction of approach to a known food type, not proof of capture."
+        ],
+        "generatedAt": "2026-10-23T02:46:43.799Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "198cecefe94a6857837c34e7724daf15824ec4c611894c8e95fcdd9d500b758a",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "먹이 목록에 보고된 오징어를 향한 접근 교육 재구성입니다. 오징어의 정확한 종과 실제 접촉·포식 성공은 그림이 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Phoebastria nigripes (Audubon, 1839)",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=344103"
+          },
+          {
+            "title": "NOAA Fisheries — North Pacific albatross identification guide",
+            "url": "https://media.fisheries.noaa.gov/dam-migration/albatross-id-guide0317.pdf"
+          },
+          {
+            "title": "NOAA Fisheries — Groundfish FSEIS: Black-footed albatross",
+            "url": "https://media.fisheries.noaa.gov/2021-11/groundfish-feis-2004.pdf"
+          }
+        ]
+      },
+      {
+        "id": "black-footed-albatross",
+        "src": "assets/images/black-footed-albatross-chatgpt-ecology-rear-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "검은발알바트로스 · 바람을 타고 먼 바다 건너기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "위뒤 사선 구도에서도 한 마리 알바트로스의 길고 좁은 두 날개와 등·꼬리·부리가 계속 이어지며, 물 위 활공 장면이 대표·수면 장면과 구별됩니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A wide ecology scene of one black-footed albatross, Phoebastria nigripes, using wind over the open Pacific.\nScene/backdrop: broad empty ocean and distant horizon under soft pale sky, no boat and no other animals.\nSubject: exactly one dark brown black-footed albatross from a true high rear three-quarter view, wings stretched exceptionally long and narrow. Show both wings fully connected to one body, dark tail, tucked dark feet, dark bill seen in profile only, and a small pale patch behind the visible eye. The bird banks gently above a small wave, so its back and different wing planes are readable. It must be clearly distinct from a side portrait or bird floating on water.\nStyle/medium: refined realistic painterly natural-history illustration, calm and child-friendly.\nComposition/framing: landscape 3:2, complete wing tips inside wide margins with much ocean space.\nLighting/mood: quiet cloudy-bright daylight, no dramatic storm.\nConstraints: no text, labels, watermark, people, boat, fishing gear, nest, chicks, eggs, prey, fish, squid, other birds, blood, open bill, extra wings, detached feathers or fantasy markings. This illustrates general soaring ecology, not an exact flight route or speed."
+        ],
+        "generatedAt": "2026-10-23T02:47:29.288Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "31759802ed9740dc46e587ca1a9657a5949eaf624ce9689ab44bd9dc4ca1c702",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "넓은 외해 활공을 설명하는 교육 재구성입니다. 그림은 정확한 항로·풍속·비행 속도나 특정 관찰 순간을 확정하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Phoebastria nigripes (Audubon, 1839)",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=344103"
+          },
+          {
+            "title": "NOAA Fisheries — North Pacific albatross identification guide",
+            "url": "https://media.fisheries.noaa.gov/dam-migration/albatross-id-guide0317.pdf"
+          },
+          {
+            "title": "NOAA Fisheries — Groundfish FSEIS: Black-footed albatross",
+            "url": "https://media.fisheries.noaa.gov/2021-11/groundfish-feis-2004.pdf"
+          }
+        ]
+      }
+    ]
   }
 ];
