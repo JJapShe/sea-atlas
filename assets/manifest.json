@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-23",
-  "reviewNote": "83개 생물 항목 각3장 이상, 268개 원본 이미지·272개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "reviewNote": "84개 생물 항목 각3장 이상, 271개 원본 이미지·275개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -8645,6 +8645,96 @@
         {
           "title": "NOAA Fisheries — Cuvier's Beaked Whale",
           "url": "https://www.fisheries.noaa.gov/species/cuviers-beaked-whale"
+        }
+      ]
+    },
+    {
+      "id": "narwhal",
+      "src": "assets/images/narwhal-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "일각고래 · 한 개의 나선형 엄니",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "얼룩무늬의 둥근 머리·짧은 가슴지느러미·등지느러미 없는 등선·한 몸으로 이어진 두 갈래 꼬리를 확인했습니다. 왼쪽 윗턱에서 시작한 나선형 엄니 한 개가 머리에 자연스럽게 이어지고 분리되지 않습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful natural-history portrait of one adult male narwhal, Monodon monoceros, swimming below Arctic sea ice.\nScene/backdrop: cold clear blue water beneath a broad pale ice ceiling, no other animal.\nSubject: exactly one mottled grey-and-cream narwhal, viewed elevated side three-quarter. It has a rounded small head, very short rounded flippers, NO dorsal fin, and ONE long straight subtly spiral ivory tusk emerging from the LEFT side of the upper jaw and fully inside the frame. The tusk is continuous with the head, not a horn floating separately. Show a broad two-lobed tail fluke attached at the tail stock. Closed mouth, one connected whale.\nStyle/medium: refined realistic painterly natural-history illustration, calm and friendly.\nComposition/framing: landscape 3:2, whole animal and full tusk inside generous margins.\nLighting/mood: soft cold filtered polar light, no glow.\nConstraints: no text, labels, watermark, people, boat, fishing gear, other whales, prey, squid, blood, injury, open mouth, dorsal fin, second tusk, detached tusk, fantasy unicorn features. Educational male-form reconstruction, not a statement that every narwhal has one tusk."
+      ],
+      "generatedAt": "2026-10-23T03:07:43.048Z",
+      "checkedAt": "2026-10-23",
+      "sha256": "93374a663082ad941bddb57d3da002850db4c74cdc044c088db343c927ebdf2b",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "narwhal",
+      "src": "assets/images/narwhal-chatgpt-feeding-approach-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "일각고래 · 작은 오징어에 가까이 가기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "등지느러미가 없는 한 마리 일각고래의 연결된 몸·짧은 지느러미·두 갈래 꼬리와 한 개의 부착된 나선형 엄니를 확인했습니다. 작은 오징어는 엄니 끝과 입에서 떨어져 있으며 접촉·상처·포획 표현이 없습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A cautious feeding-approach scene of one adult male narwhal, Monodon monoceros, and one small squid in Arctic blue water.\nScene/backdrop: dim cold blue water below sea ice, no other animal.\nSubject: exactly one mottled grey male narwhal with no dorsal fin, very short flippers, and one long straight spiral ivory tusk fully inside the frame. The mouth is closed. Exactly one small intact squid floats well ahead of the closed mouth with a clear broad water gap; it is not touched, caught, hurt or swallowed. The whale is a continuous body with one attached two-lobed tail fluke, and the tusk stays attached to the head.\nStyle/medium: refined realistic painterly natural-history illustration, calm and age-appropriate.\nComposition/framing: landscape 3:2, low side-front angle, complete narwhal and squid inside margins, different from a side portrait.\nLighting/mood: quiet polar blue light, no glow.\nConstraints: no text, labels, watermark, people, boat, gear, other whales, fish, extra squid, open mouth, blood, capture, dorsal fin, second tusk, detached tusk, injury or fantasy unicorn features. Approach to a documented food type only, not proof of feeding."
+      ],
+      "generatedAt": "2026-10-23T03:08:28.578Z",
+      "checkedAt": "2026-10-23",
+      "sha256": "1cc39a9d9c5b2d3c57976a119ad45627e0feeaa39ecadcbbe335a32feae7243c",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "NOAA가 소개한 오징어 먹이를 향한 접근 교육 재구성입니다. 오징어 종·실제 포획·삼킴 성공은 그림으로 증명하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "WoRMS — Monodon monoceros Linnaeus, 1758",
+          "url": "https://www.marinespecies.org/aphia.php?id=137116&p=taxdetails"
+        },
+        {
+          "title": "NOAA Fisheries — Narwhal",
+          "url": "https://www.fisheries.noaa.gov/species/narwhal"
+        }
+      ]
+    },
+    {
+      "id": "narwhal",
+      "src": "assets/images/narwhal-chatgpt-ecology-icelead-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "일각고래 · 해빙 사이로 이동하기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "위뒤 사선에서도 등지느러미 없는 얼룩무늬 몸과 짧은 지느러미, 넓은 두 꼬리엽, 머리에 연결된 한 개의 엄니가 이어집니다. 해빙 틈을 향한 구도가 다른 두 장면과 분명히 다릅니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A wide ecology scene of one adult male narwhal, Monodon monoceros, moving toward a natural opening between Arctic sea-ice floes.\nScene/backdrop: clear cold blue polar water seen from high behind, a broad opening between thick pale ice overhead, no other animal.\nSubject: exactly one mottled grey narwhal from high rear three-quarter view. It has no dorsal fin, very short flippers, broad connected two-lobed fluke, and one spiral ivory tusk attached to the far-front of the head and angled safely away from the camera. It glides calmly toward the ice opening; no prey. The animal must remain one continuous whale, with no second tusk or dorsal fin.\nStyle/medium: refined realistic painterly natural-history illustration, quiet and friendly.\nComposition/framing: landscape 3:2, whole whale with full fluke and tusk inside margins, true high rear depth different from both prior scenes.\nLighting/mood: diffuse icy daylight, no glow or scary darkness.\nConstraints: no text, labels, watermark, people, boat, gear, other whales, fish, squid, blood, injury, open mouth, second tusk, detached tusk, dorsal fin or fantasy unicorn features. This is a general sea-ice habitat scene, not an exact migration route, depth or observation time."
+      ],
+      "generatedAt": "2026-10-23T03:09:13.100Z",
+      "checkedAt": "2026-10-23",
+      "sha256": "471caceb639fd17af0f0e5ac69816c80f5c1d9313579311fbf2c491e959824aa",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "해빙 틈을 향해 이동하는 서식지 교육 재구성입니다. 실제 이동 경로·수심·시간을 뜻하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "WoRMS — Monodon monoceros Linnaeus, 1758",
+          "url": "https://www.marinespecies.org/aphia.php?id=137116&p=taxdetails"
+        },
+        {
+          "title": "NOAA Fisheries — Narwhal",
+          "url": "https://www.fisheries.noaa.gov/species/narwhal"
         }
       ]
     }
