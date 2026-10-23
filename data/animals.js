@@ -12648,5 +12648,140 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "cuviers-beaked-whale",
+    "name": "쿠비에부리고래",
+    "scientificName": "Ziphius cavirostris",
+    "group": "포유류",
+    "habitatIds": [
+      "pelagic",
+      "deep"
+    ],
+    "depthZoneIds": [
+      "sunlight",
+      "twilight",
+      "midnight"
+    ],
+    "summary": "짧은 부리와 작은 등지느러미를 가진, 깊은 바다를 잠수하는 고래예요.",
+    "identity": [
+      "짧고 둥근 부리와 부드럽게 기울어진 이마가 있어요.",
+      "등지느러미는 몸 뒤쪽에 작게 있어요.",
+      "꼬리 끝에는 넓은 두 갈래 꼬리지느러미가 이어져 있어요."
+    ],
+    "ecology": "깊은 외해와 대륙사면·해저산 주변에서 살며, 깊은 바다로 잠수한 기록이 있어요.",
+    "diet": "깊은 물의 오징어·문어 같은 두족류와 때로는 물고기·갑각류를 먹어요.",
+    "range": "전 세계의 따뜻하고 온화한 깊은 바다에서 기록돼요.",
+    "size": "NOAA는 성체 몸길이를 약 5~7m로 소개해요. 개체마다 달라요.",
+    "depth": "NOAA는 약 1,000m 이상 잠수한 기록을 소개해요.",
+    "aliases": [
+      "Ziphius cavirostris",
+      "Cuvier's beaked whale"
+    ],
+    "sources": [
+      {
+        "url": "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Ziphius+cavirostris",
+        "title": "WoRMS — Ziphius cavirostris G. Cuvier, 1823"
+      },
+      {
+        "url": "https://www.fisheries.noaa.gov/species/cuviers-beaked-whale",
+        "title": "NOAA Fisheries — Cuvier's Beaked Whale"
+      }
+    ],
+    "checkedAt": "2026-10-23",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "cuviers-beaked-whale",
+        "src": "assets/images/cuviers-beaked-whale-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "쿠비에부리고래 · 짧은 부리와 작은 등지느러미",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "짧고 둥근 부리, 매끈한 방추형 몸, 좁은 가슴지느러미, 뒤쪽 등지느러미와 두 갈래 꼬리지느러미가 한 마리 몸에 계속 이어집니다. 분리된 꼬리·여분 지느러미·상처는 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful natural-history portrait of one adult Cuvier's beaked whale, Ziphius cavirostris.\nScene/backdrop: calm deep blue open ocean just below the surface, no other animal.\nSubject: exactly one dark grey-brown compact beaked whale swimming in elevated side three-quarter view. It has a short blunt pale-grey beak, a gently sloping melon, a small curved dorsal fin set far back on the body, narrow pointed flippers, and a broad tail fluke attached continuously at the tail stock. Its mouth is closed and it has no dramatic teeth or scars. It is a beaked whale, not a dolphin, sperm whale, shark or submarine.\nStyle/medium: refined realistic painterly natural-history illustration, gentle and calm.\nComposition/framing: landscape 3:2, complete whale and both fluke lobes inside generous margins, animal about 65% width.\nLighting/mood: soft blue daylight, no glow.\nConstraints: no text, labels, watermark, humans, boat, sonar, fish, squid, prey, blood, injury, open mouth, separated tail, extra fins, fantasy features or other whales. Educational reconstruction, not documentation of an individual."
+        ],
+        "generatedAt": "2026-10-23T02:56:15.815Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "c46be3dc82fb9396ab8fd884c53c374dfb4eb333d51a9881b8a57ec277b0db58",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "cuviers-beaked-whale",
+        "src": "assets/images/cuviers-beaked-whale-chatgpt-feeding-approach-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "쿠비에부리고래 · 작은 오징어에 가까이 가기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 마리 부리고래의 짧은 부리·가슴지느러미·작은 뒤쪽 등지느러미·연속된 꼬리자루와 두 갈래 꼬리를 확인했습니다. 작은 오징어 한 마리는 닫힌 입 앞의 물속에 떨어져 있고 접촉·포획·상처가 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A restrained feeding-approach scene of one adult Cuvier's beaked whale, Ziphius cavirostris, and one small squid.\nScene/backdrop: quiet dim blue deep water, no seafloor, no other animal.\nSubject: exactly one dark compact beaked whale seen from low front-side, with a short pale-grey blunt beak, closed mouth, a small far-back curved dorsal fin and narrow flippers. Exactly one small intact squid drifts well ahead of the whale with a broad clear water gap. It is not touched, chased, injured, swallowed or in the mouth. Keep a fully continuous tail stock and broad two-lobed fluke visible.\nStyle/medium: refined realistic painterly natural-history illustration, calm and child-friendly.\nComposition/framing: landscape 3:2, whale and squid fully within margins, clearly different from a near-surface side portrait.\nLighting/mood: deep quiet blue, no glow, no scary darkness.\nConstraints: no text, labels, watermark, people, boat, sonar, fish, other whales, extra squid, open mouth, teeth, blood, capture, attack, detached tail, extra flippers or fantasy features. This is an approach to documented prey, not proof of successful feeding."
+        ],
+        "generatedAt": "2026-10-23T02:57:17.108Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "6f6524633bf8f04f8f0840e575f1d82200f28b3d9d9e497b4ce4ac9c37f8e6a3",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "NOAA가 소개하는 두족류 먹이를 바탕으로 한 접근 교육 재구성입니다. 오징어의 정확한 종, 실제 추적·포식 성공이나 빨아들이기 행동은 그림이 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Ziphius cavirostris G. Cuvier, 1823",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Ziphius+cavirostris"
+          },
+          {
+            "title": "NOAA Fisheries — Cuvier's Beaked Whale",
+            "url": "https://www.fisheries.noaa.gov/species/cuviers-beaked-whale"
+          }
+        ]
+      },
+      {
+        "id": "cuviers-beaked-whale",
+        "src": "assets/images/cuviers-beaked-whale-chatgpt-ecology-dive-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "쿠비에부리고래 · 깊은 바다로 잠수하기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "위뒤 사선 구도에서도 한 마리 부리고래의 넓은 두 꼬리엽, 꼬리자루, 뒤쪽 작은 등지느러미와 좁은 가슴지느러미가 한 몸으로 이어집니다. 하강 방향이 대표·먹이 접근 장면과 분명히 다릅니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A calm ecology scene of one Cuvier's beaked whale, Ziphius cavirostris, beginning a deep open-ocean descent.\nScene/backdrop: blue water fading darker downward, a faint suggestion of distant continental-slope water but no seafloor, no other animal.\nSubject: exactly one compact dark Cuvier's beaked whale viewed from high behind and above, descending diagonally. The broad two-lobed tail fluke, narrow flippers and very small rear dorsal fin are all part of one continuous body. Its short pale beak is only partly visible at the far front. This must be distinctly different from a side portrait and a low front feeding approach.\nStyle/medium: refined realistic painterly natural-history illustration, calm and child-friendly.\nComposition/framing: landscape 3:2, complete whale within generous empty-water margins.\nLighting/mood: soft fading deep-blue natural light, no glow or horror.\nConstraints: no text, labels, watermark, people, boat, sonar, fish, squid, prey, blood, injury, open mouth, extra fins, detached fluke, other whales or fantasy features. This is a general deep-dive illustration, not a claim of exact depth, duration, route or observed event."
+        ],
+        "generatedAt": "2026-10-23T02:58:04.678Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "2153af745dc075925693e84dcf8cc74de22728375d2c783b41c6f27e074147e9",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "NOAA가 소개하는 깊은 바다 잠수 성향을 바탕으로 한 교육 재구성입니다. 실제 수심·잠수 시간·이동 경로나 특정 관찰 시점은 그림이 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "WoRMS — Ziphius cavirostris G. Cuvier, 1823",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxlist&tName=Ziphius+cavirostris"
+          },
+          {
+            "title": "NOAA Fisheries — Cuvier's Beaked Whale",
+            "url": "https://www.fisheries.noaa.gov/species/cuviers-beaked-whale"
+          }
+        ]
+      }
+    ]
   }
 ];
