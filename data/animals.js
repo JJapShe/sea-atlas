@@ -12199,5 +12199,163 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "blue-tailed-giant-larvacean",
+    "name": "파란꼬리대형유생멍게",
+    "scientificName": "Bathochordaeus mcnutti",
+    "group": "피낭동물",
+    "habitatIds": [
+      "deep"
+    ],
+    "depthZoneIds": [
+      "twilight",
+      "midnight"
+    ],
+    "summary": "파란 테두리 꼬리로 큰 투명한 점액 집 안의 물을 거르는 깊은 바다 유생멍게예요.",
+    "identity": [
+      "올챙이처럼 생긴 작은 투명한 몸과 하나로 이어진 긴 꼬리가 있어요.",
+      "몸보다 훨씬 큰 투명한 점액 집을 직접 만들어요.",
+      "꼬리 가장자리가 파랗게 보일 수 있어요."
+    ],
+    "ecology": "깊은 바다의 물속에서 혼자 떠다니며 큰 점액 집 안에 머물러요. 필터가 막히면 집을 버리고 새 집을 만들 수 있어요.",
+    "diet": "점액 집의 필터로 물속의 아주 작은 유기물 입자를 걸러요.",
+    "range": "북태평양의 깊은 바다에서 기록돼요.",
+    "size": "몸길이는 약 3–10 cm로 소개되며, 점액 집은 몸보다 훨씬 커질 수 있어요.",
+    "depth": "Monterey Bay Aquarium은 약 80–1,400 m에서 산다고 소개해요.",
+    "aliases": [
+      "Bathochordaeus mcnutti",
+      "Blue-tailed giant larvacean",
+      "giant larvacean"
+    ],
+    "sources": [
+      {
+        "title": "Haddock et al. 2017 — Bathochordaeus mcnutti",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28042175/"
+      },
+      {
+        "title": "Monterey Bay Aquarium — Blue-tailed giant larvacean",
+        "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/blue-tailed-giant-larvacean"
+      },
+      {
+        "title": "MBARI — Giant larvacean filtering house",
+        "url": "https://www.mbari.org/news/lasers-shed-light-on-the-inner-workings-of-the-giant-larvacean/"
+      },
+      {
+        "title": "Katija et al. 2017 — The giant larvacean house",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5415331/"
+      }
+    ],
+    "checkedAt": "2026-10-23",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "blue-tailed-giant-larvacean",
+        "src": "assets/images/blue-tailed-giant-larvacean-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "파란꼬리대형유생멍게 · 투명한 점액 집",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "하나의 투명한 몸통과 파란 테두리의 긴 꼬리가 끊어지지 않고 이어지며, 한 개체가 하나의 큰 반투명 점액 집 안에 있습니다. 집은 해파리나 별도 동물처럼 보이지 않고 얇은 막과 넓은 필터 면으로 읽힙니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful natural-history portrait of one blue-tailed giant larvacean, Bathochordaeus mcnutti, inside its single giant mucus house.\nScene/backdrop: quiet deep blue midwater, sparse tiny particles, no seafloor and no other animal.\nSubject: exactly ONE tiny transparent tadpole-like larvacean centered inside ONE much larger delicate clear mucus house. The animal has a compact clear rounded trunk with a single long slender tail extending back; the tail edge has a subtle blue rim. It is fully connected as one continuous animal, with no fish head, no paired fins, no eyes that look like a cartoon face. The surrounding house is a fragile balloon-like transparent filtering structure much larger than the animal, with faint smooth outer boundary and a few broad delicate internal filter sheets, not a jellyfish bell, fishing net, bubble cloud, plastic bag, spacecraft or solid glass sphere.\nStyle/medium: refined realistic painterly natural-history illustration with clear anatomy and gentle colors.\nComposition/framing: landscape 3:2, entire transparent house within generous margins, animal readable at center, use restrained edge highlights only.\nLighting/mood: calm dim ocean light, no glow.\nConstraints: no text, labels, watermark, human, vehicle, fish, jellyfish, prey, blood, eggs, tentacles, detached blue tail, multiple houses, sharp geometric panels, or unrealistic sparkle. Educational reconstruction, not documentary footage."
+        ],
+        "generatedAt": "2026-10-23T02:23:02.262Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "2c1323820788322cf3b838acf057d22957525a50c211b4dffadb31c39e5bbfa6",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "blue-tailed-giant-larvacean",
+        "src": "assets/images/blue-tailed-giant-larvacean-chatgpt-filtering-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "파란꼬리대형유생멍게 · 점액 집으로 작은 입자 거르기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 마리의 투명한 유생멍게 몸과 파란 꼬리가 연결되어 있고, 한 개의 큰 점액 집과 여러 부드러운 내부 필터 면이 보입니다. 작은 입자는 몸이나 집에 붙은 먹이가 아니라 떨어져 있는 입자로 그려졌습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: An educational filtering scene of one blue-tailed giant larvacean, Bathochordaeus mcnutti, in one mucus house.\nScene/backdrop: dim open blue midwater with a few tiny neutral organic particles; no seafloor and no other animal.\nSubject: exactly ONE transparent tadpole-like larvacean inside ONE very large clear mucus house. View from low side-front, clearly different from a centered portrait. A compact translucent trunk connects continuously to one long blue-edged tail. The tail makes a gentle curved stroke within the house. Small harmless specks are shown drifting toward a broad internal filter sheet but remain separate particles; do not show swallowing, a mouth close-up, captured prey, or arrows. The outer house has one soft transparent oval boundary and several sparse curved filter sheets, much larger than the animal, never a jellyfish, net, bag, glass dome, plastic bubble or rigid machine.\nStyle/medium: refined realistic painterly natural-history illustration, calm and readable.\nComposition/framing: landscape 3:2, whole house visible with generous empty water margin, animal about one quarter of house width.\nLighting/mood: gentle dark-blue ocean light, no glow.\nConstraints: no text, labels, watermark, people, ROV, fish, jellyfish, extra larvaceans, multiple houses, hands, blood, teeth, food chunks, active arrows, or detached tail. This is a cautious reconstruction of particle filtering, not a measured water-flow diagram or proof of an exact feeding moment."
+        ],
+        "generatedAt": "2026-10-23T02:23:49.833Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "52004411d45119f380649dfda86918a6fd134b420a0a39a1a393423c621cc197",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "점액 집이 작은 유기물 입자를 거르는 원리를 설명한 교육용 재구성입니다. 그림은 실제 물 흐름의 속도·경로, 섭식 성공이나 입자의 정확한 정체를 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Haddock et al. 2017 — Bathochordaeus mcnutti",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28042175/"
+          },
+          {
+            "title": "Monterey Bay Aquarium — Blue-tailed giant larvacean",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/blue-tailed-giant-larvacean"
+          },
+          {
+            "title": "MBARI — Giant larvacean filtering house",
+            "url": "https://www.mbari.org/news/lasers-shed-light-on-the-inner-workings-of-the-giant-larvacean/"
+          },
+          {
+            "title": "Katija et al. 2017 — The giant larvacean house",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5415331/"
+          }
+        ]
+      },
+      {
+        "id": "blue-tailed-giant-larvacean",
+        "src": "assets/images/blue-tailed-giant-larvacean-chatgpt-ecology-rear-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "파란꼬리대형유생멍게 · 큰 집 안의 파란 꼬리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "위뒤 사선에서도 하나의 작은 투명 몸통과 한 줄의 긴 파란 꼬리가 같은 개체로 이어지며, 그 주위를 하나의 큰 점액 집이 감쌉니다. 별도 동물·비닐봉지·단단한 구체로 분리되어 읽히지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A high rear three-quarter ecology view of one blue-tailed giant larvacean, Bathochordaeus mcnutti, inside its huge mucus house.\nScene/backdrop: quiet deep open ocean, dark blue water and only a few faint particles; no seafloor and no other animal.\nSubject: exactly ONE transparent tadpole-like larvacean, seen smaller and from behind above, inside ONE much larger faintly oval mucus house. Its compact clear trunk and one long continuous tail are both visible; the tail has a subtle blue edge and curves away into the house. The house outer wall and broad sparse internal filtering sheets are visible as very delicate translucent layers. Keep a realistic soft organic structure, not a jellyfish, bubble, balloon, hard glass orb, bag, net, spacecraft, or a separate colony.\nStyle/medium: refined realistic painterly natural-history illustration, gentle calm colors.\nComposition/framing: landscape 3:2, whole house fully framed with empty water around it; true top/rear depth so this scene looks clearly different from a side filtering view.\nLighting/mood: dim neutral deep-water light, no glow.\nConstraints: no text, labels, watermark, person, vehicle, fish, jellyfish, prey, mouth close-up, arrows, blood, multiple animals, multiple houses, detached tail, rigid polygon panels, or decorative sparkle. This is an educational ecosystem reconstruction; do not claim measured house shape, actual current speed, or a particular observation moment."
+        ],
+        "generatedAt": "2026-10-23T02:24:42.233Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "793ff17dae94155cd7244f685a4962def6eab10e5ed79b261a6979d5a73b6376",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "큰 점액 집과 꼬리를 함께 보여 주는 생태 교육용 재구성입니다. 집의 정확한 모양·물살·개체 크기와 특정 관찰 시점은 그림만으로 확정하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Haddock et al. 2017 — Bathochordaeus mcnutti",
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28042175/"
+          },
+          {
+            "title": "Monterey Bay Aquarium — Blue-tailed giant larvacean",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/blue-tailed-giant-larvacean"
+          },
+          {
+            "title": "MBARI — Giant larvacean filtering house",
+            "url": "https://www.mbari.org/news/lasers-shed-light-on-the-inner-workings-of-the-giant-larvacean/"
+          },
+          {
+            "title": "Katija et al. 2017 — The giant larvacean house",
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5415331/"
+          }
+        ]
+      }
+    ]
   }
 ];
