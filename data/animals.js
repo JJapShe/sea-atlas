@@ -12919,5 +12919,137 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "california-sea-hare",
+    "name": "캘리포니아바다토끼",
+    "scientificName": "Aplysia californica",
+    "group": "연체동물",
+    "habitatIds": [
+      "coast"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "긴 감각기관과 부드러운 옆날개막을 가진, 해조류를 먹는 큰 바다민달팽이예요.",
+    "identity": [
+      "머리에는 토끼 귀처럼 보이는 두 개의 긴 감각기관이 있어요.",
+      "몸 옆에는 부드러운 옆날개막이 접혀 있어요.",
+      "딱딱한 겉껍데기는 보이지 않아요."
+    ],
+    "ecology": "캘리포니아 주변의 바위 해안과 해초밭에서 지내요.",
+    "diet": "붉은 해조류와 잘피, 바닷속 해조류를 먹어요.",
+    "range": "미국 캘리포니아 북부부터 캘리포니아만 주변 바다에서 기록돼요.",
+    "size": "기관 자료는 큰 바다토끼가 손바닥보다 훨씬 크게 자랄 수 있다고 소개해요. 개체마다 달라요.",
+    "depth": "햇빛이 닿는 얕은 연안의 바위와 해초밭에서 볼 수 있어요.",
+    "aliases": [
+      "Aplysia californica",
+      "California sea hare"
+    ],
+    "sources": [
+      {
+        "title": "Monterey Bay Aquarium — Sea hare",
+        "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-hare"
+      },
+      {
+        "title": "WoRMS — Aplysia californica J. G. Cooper, 1863",
+        "url": "https://www.marinespecies.org/aphia.php?p=taxlist&pid=1058953&rComp=%3E%3D&tRank=220"
+      }
+    ],
+    "checkedAt": "2026-10-23",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "california-sea-hare",
+        "src": "assets/images/california-sea-hare-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "캘리포니아바다토끼 · 긴 감각기관과 접힌 옆날개막",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 마리의 부드러운 바다토끼 몸에서 두 개의 긴 촉각뿔과 두 개의 짧은 입 촉수가 머리에 이어지고, 넓은 옆날개막이 몸 옆에 연속되어 있습니다. 분리된 귀·털·단단한 껍데기·다른 동물은 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A careful natural-history portrait of one California sea hare, Aplysia californica, crawling on a rocky kelp-forest floor.\nScene/backdrop: shallow temperate coastal water with a few soft kelp fronds and bare rock, no other animal.\nSubject: exactly one large soft brown-purple sea hare in side three-quarter view. It has ONE continuous plump slug-like body, TWO long upright ear-like rhinophores at the head, TWO short oral tentacles below them, broad folded side parapodia along the body, and no external shell. It is a sea slug, not a rabbit, octopus, shellfish, fish or toy. All appendages connect naturally.\nStyle/medium: refined realistic painterly natural-history illustration, gentle and child-friendly.\nComposition/framing: landscape 3:2, complete animal within wide margins, clear view of head and folded parapodia.\nLighting/mood: soft green-blue coastal underwater light.\nConstraints: no text, labels, watermark, people, hand, fish, other sea hares, eggs, predator, ink cloud, blood, detached ears, fur, eyes like a cartoon mammal, hard shell, or fantasy features. Educational anatomy reconstruction."
+        ],
+        "generatedAt": "2026-10-23T03:21:15.974Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "dfb14ab1a3d073fd5d08e23937f4d036d2617e10f136180eb2b96061228c20d7",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "california-sea-hare",
+        "src": "assets/images/california-sea-hare-chatgpt-feeding-red-algae-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "캘리포니아바다토끼 · 붉은 해조류 가까이에서 먹기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 마리 바다토끼의 두 촉각뿔·두 짧은 입 촉수·넓은 옆날개막이 같은 몸으로 이어져 있고, 붉은 해조류는 입 가장자리 가까이에 온전하게 남아 있습니다. 찢김·상처·삼킴은 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: A calm feeding scene of one California sea hare, Aplysia californica, near red seaweed.\nScene/backdrop: shallow coastal rocky floor with exactly one small patch of red seaweed and soft kelp in distance; no other animal.\nSubject: exactly one brown-purple California sea hare in low front-side view. Its two tall rhinophores and two short oral tentacles are clearly connected to the same head; broad parapodia stay folded along the body. The mouth edge rests near the intact red seaweed but no tearing, bite marks or swallowed food are shown. It is a soft sea slug, not a rabbit or fish.\nStyle/medium: refined realistic painterly natural-history illustration, friendly and calm.\nComposition/framing: landscape 3:2, entire animal and red seaweed patch within margins, camera visibly different from side portrait.\nLighting/mood: gentle sunlit green-blue coastal water.\nConstraints: no text, labels, watermark, people, other sea hares, fish, eggs, predator, purple ink cloud, blood, injury, detached tentacles, fur, hard shell, or cartoon mammal face. Educational reconstruction of herbivory, not proof of a particular bite."
+        ],
+        "generatedAt": "2026-10-23T03:22:09.620Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "481112c564162f7e29350a94e80c0f2a86b2dd922428c8e85235b494aa70ffeb",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "해조류를 먹는 기록에 근거한 가까운 장면입니다. 특정 해조류 종, 실제 물기나 섭식 성공은 그림이 증명하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Monterey Bay Aquarium — Sea hare",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-hare"
+          },
+          {
+            "title": "WoRMS — Aplysia californica J. G. Cooper, 1863",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxlist&pid=1058953&rComp=%3E%3D&tRank=220"
+          }
+        ]
+      },
+      {
+        "id": "california-sea-hare",
+        "src": "assets/images/california-sea-hare-chatgpt-ecology-parapodia-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "캘리포니아바다토끼 · 켈프숲에서 옆날개막 펼치기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "위뒤 사선 구도에서도 한 마리 바다토끼의 부드러운 몸, 두 촉각뿔과 몸 옆에서 이어지는 넓은 두 옆날개막을 확인했습니다. 옆날개막은 분리된 날개나 다른 생물로 읽히지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: An ecology illustration of one California sea hare, Aplysia californica, using its broad parapodia in a kelp forest.\nScene/backdrop: shallow green-blue kelp forest with distant rock and seaweed, no other animal.\nSubject: exactly one soft brown-purple sea hare in a high rear three-quarter view, just above a rock. Its TWO rhinophores remain on the head and its TWO broad side parapodia are lifted open in one continuous soft body, forming gentle folded flaps rather than wings. The whole animal stays clearly a sea slug, not a flying rabbit, manta ray, octopus, fish or separate leaves.\nStyle/medium: refined realistic painterly natural-history illustration, calm and child-friendly.\nComposition/framing: landscape 3:2, all body edges and raised parapodia inside wide margins; true high rear view distinct from crawling and feeding scenes.\nLighting/mood: sunlit but gentle coastal underwater light.\nConstraints: no text, labels, watermark, people, other sea hares, fish, eggs, predator, ink cloud, blood, injury, detached flaps, fur, hard shell, cartoon face, or magical flight. Educational posture reconstruction, not a claim of measured movement speed or exact moment."
+        ],
+        "generatedAt": "2026-10-23T03:23:09.161Z",
+        "checkedAt": "2026-10-23",
+        "sha256": "08fd9d617c85b3f2223dbae1a5e0121963ce8fe0af66ff053b17132e7e72523e",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "켈프숲에서 옆날개막을 펼친 자세를 설명하는 교육용 재구성입니다. 실제 이동 속도·부양 여부나 방어액 분비 상황은 주장하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Monterey Bay Aquarium — Sea hare",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-hare"
+          },
+          {
+            "title": "WoRMS — Aplysia californica J. G. Cooper, 1863",
+            "url": "https://www.marinespecies.org/aphia.php?p=taxlist&pid=1058953&rComp=%3E%3D&tRank=220"
+          }
+        ]
+      }
+    ]
   }
 ];
