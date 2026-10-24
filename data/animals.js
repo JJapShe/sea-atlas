@@ -13787,5 +13787,149 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "sea-angel",
+    "name": "바다천사",
+    "scientificName": "Clione limacina",
+    "group": "연체동물",
+    "habitatIds": [
+      "pelagic"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "투명한 몸과 날개처럼 퍼덕이는 두 옆발로 바다를 떠다니는 작은 바다달팽이예요.",
+    "identity": [
+      "투명하거나 희뿌연 길쭉한 몸을 가졌어요.",
+      "몸 옆의 두 넓은 옆발을 날개처럼 움직여요.",
+      "딱딱한 껍데기가 보이지 않는 날개발류예요."
+    ],
+    "ecology": "차가운 바다의 표층 물속을 떠다니며 지내는 플랑크톤성 연체동물이에요.",
+    "diet": "다른 날개발류 바다달팽이를 먹는 포식자로 알려져 있어요.",
+    "range": "북극해와 북태평양·북대서양의 차가운 바다에서 기록돼요.",
+    "size": "작은 종류지만 크기는 지역과 개체에 따라 달라요.",
+    "depth": "표층의 햇빛이 닿는 바다에서 볼 수 있어요.",
+    "aliases": [
+      "Clione limacina",
+      "Sea angel"
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian Ocean — Angels of the Sea",
+        "url": "https://ocean.si.edu/ocean-life/invertebrates/angels-sea"
+      },
+      {
+        "title": "Monterey Bay Aquarium — Sea angel",
+        "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-angel"
+      },
+      {
+        "title": "Scripps Oceanography — Clione limacina",
+        "url": "https://sio-legacy.ucsd.edu/zooplanktonguide/species/clione-limacina"
+      }
+    ],
+    "checkedAt": "2026-10-24",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "sea-angel",
+        "src": "assets/images/sea-angel-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "바다천사 · 날개처럼 보이는 두 옆발",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "투명하고 껍데기 없는 한 몸이 머리부터 가는 꼬리 끝까지 이어지며, 몸 양옆에는 정확히 두 장의 넓은 날개막이 연결되어 있습니다. 해파리 촉수·물고기 지느러미·분리된 부속물이나 두 번째 개체는 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm cold open-ocean blue water. Landscape 3:2. No text, labels, watermark, people, boat, blood, injury, horror, fantasy glow or anthropomorphic face. Keep the whole animal inside generous margins.\nSubject: ONE sea angel, Clione limacina, a shell-less pelagic gastropod, not a jellyfish, fish, squid or fairy. It has one small translucent elongated body and exactly TWO broad wing-like parapodia attached continuously to its sides for swimming. Soft internal shapes may be faintly visible, but no face, large eyes, feathers, halo, insect wings or detached fins.\nComposition: eye-level front three-quarter portrait hanging in open blue water, with both parapodia gently outspread. No other organism or prey."
+        ],
+        "generatedAt": "2026-10-24T14:34:29.864Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "e074bee5ac8efd067db6bfdd232f5c8058a4ad8cf29585a12a4774a1961bec72",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "sea-angel",
+        "src": "assets/images/sea-angel-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "바다천사 · 작은 바다달팽이 먹이 찾기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "투명한 한 개체의 꼬리와 몸, 양옆의 두 날개막이 연속되어 있고, 앞쪽에 보이는 여러 짧은 돌기는 먹이 포획 장면의 입 주변 구조로 읽힙니다. 오른쪽의 작은 껍데기 달린 동물은 별도 개체이며, 바다천사 몸에는 껍데기·해파리 촉수·물고기 지느러미가 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm cold open-ocean blue water. Landscape 3:2. No text, labels, watermark, people, boat, blood, injury, horror, fantasy glow or anthropomorphic face. Keep the whole animal inside generous margins.\nSubject: ONE sea angel, Clione limacina, a shell-less pelagic gastropod, not a jellyfish, fish, squid or fairy. It has one small translucent elongated body and exactly TWO broad wing-like parapodia attached continuously to its sides for swimming. Soft internal shapes may be faintly visible, but no face, large eyes, feathers, halo, insect wings or detached fins.\nComposition: distinct close side view of one sea angel slowly approaching ONE tiny shell-bearing sea butterfly in open water, with a clear gap and no contact. No feeding arms, bite, capture, swallowing or successful hunt. Educational prey-search reconstruction only."
+        ],
+        "generatedAt": "2026-10-24T14:35:04.898Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "fce867d530883101e86e596d08e2e5690d73f036a76b14d0a4d92e9a1fb56238",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "다른 날개발류를 찾을 수 있음을 설명한 교육용 재구성입니다. 특정 먹이·사냥 성공·섭취 과정을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Smithsonian Ocean — Angels of the Sea",
+            "url": "https://ocean.si.edu/ocean-life/invertebrates/angels-sea"
+          },
+          {
+            "title": "Monterey Bay Aquarium — Sea angel",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-angel"
+          },
+          {
+            "title": "Scripps Oceanography — Clione limacina",
+            "url": "https://sio-legacy.ucsd.edu/zooplanktonguide/species/clione-limacina"
+          }
+        ]
+      },
+      {
+        "id": "sea-angel",
+        "src": "assets/images/sea-angel-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "바다천사 · 차가운 외해 표층 유영하기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "넓은 물기둥 속 한 개체가 투명한 머리·몸·꼬리로 이어지고, 양옆의 두 날개막만 보입니다. 해파리·물고기로 오인될 촉수·지느러미·껍데기나 복제된 꼬리는 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm cold open-ocean blue water. Landscape 3:2. No text, labels, watermark, people, boat, blood, injury, horror, fantasy glow or anthropomorphic face. Keep the whole animal inside generous margins.\nSubject: ONE sea angel, Clione limacina, a shell-less pelagic gastropod, not a jellyfish, fish, squid or fairy. It has one small translucent elongated body and exactly TWO broad wing-like parapodia attached continuously to its sides for swimming. Soft internal shapes may be faintly visible, but no face, large eyes, feathers, halo, insect wings or detached fins.\nComposition: distinct high rear three-quarter full-body view of one sea angel moving diagonally through cool open surface water. One parapodium is raised and the other lowered in a gentle swimming stroke; no arrows, school, seafloor, prey or migration claim."
+        ],
+        "generatedAt": "2026-10-24T14:35:44.875Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "b41309edd639fb8ee227e711e0161b7ca3ff1561b3fba774896b09a111669b5d",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "외해 표층을 유영하는 모습을 설명한 교육용 장면입니다. 실제 이동 방향·깊이·속도를 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Smithsonian Ocean — Angels of the Sea",
+            "url": "https://ocean.si.edu/ocean-life/invertebrates/angels-sea"
+          },
+          {
+            "title": "Monterey Bay Aquarium — Sea angel",
+            "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sea-angel"
+          },
+          {
+            "title": "Scripps Oceanography — Clione limacina",
+            "url": "https://sio-legacy.ucsd.edu/zooplanktonguide/species/clione-limacina"
+          }
+        ]
+      }
+    ]
   }
 ];
