@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-24",
-  "reviewNote": "88개 생물 항목 각3장 이상, 283개 원본 이미지·287개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "reviewNote": "89개 생물 항목 각3장 이상, 286개 원본 이미지·290개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -9119,6 +9119,112 @@
         {
           "title": "Norwegian Polar Institute — Atlantic puffin",
           "url": "https://npolar.no/en/species/atlantic-puffin/"
+        }
+      ]
+    },
+    {
+      "id": "sunflower-sea-star",
+      "src": "assets/images/sunflower-sea-star-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "해바라기불가사리 · 넓게 퍼진 많은 팔",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "대표 장면에서 팔 18개가 하나의 넓은 중심원반으로 이어진 한 마리 해바라기불가사리를 확인했습니다. 팔은 각각 분리되거나 다른 개체와 섞이지 않았고, 켈프가 보이는 바닥 환경도 어린이가 보기 안전합니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, cool Pacific coastal kelp-forest seafloor. Landscape 3:2, soft natural light, no text, labels, watermark, divers, boats, blood, injury, disease imagery, horror or fantasy features. Keep one whole animal and every arm tip inside wide margins.\nSubject: ONE sunflower sea star, Pycnopodia helianthoides, a large sea star, not an octopus, spider, flower or many separate animals. Show a broad flexible central disc with approximately 18–24 continuous tapering arms, natural irregular spacing, and many small tube feet only on its underside where visible. Muted purple-brown to orange surface, no eyes, face, shell, tentacles or detached arms.\nComposition: high three-quarter full-body portrait resting on kelp-forest rock, wide view to show the complete many-armed star with generous negative space. No prey or other sea star."
+      ],
+      "generatedAt": "2026-10-24T14:08:36.815Z",
+      "checkedAt": "2026-10-24",
+      "sha256": "333e59f5945f8e58328e7d66768fe3cc094327e14e4b0d1be70eda52ba8d943d",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "sunflower-sea-star",
+      "src": "assets/images/sunflower-sea-star-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "해바라기불가사리 · 바닷바닥 먹이에 다가가기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "한 마리의 여러 팔이 하나의 중심원반으로 이어지고, 오른쪽의 성게는 온전한 가시를 지닌 채 불가사리와 떨어져 있습니다. 직접 접촉·물어뜯김·상처는 보이지 않아 과격하지 않은 먹이 관계 소개 장면으로 읽힙니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, cool Pacific coastal kelp-forest seafloor. Landscape 3:2, soft natural light, no text, labels, watermark, divers, boats, blood, injury, disease imagery, horror or fantasy features. Keep one whole animal and every arm tip inside wide margins.\nSubject: ONE sunflower sea star, Pycnopodia helianthoides, a large sea star, not an octopus, spider, flower or many separate animals. Show a broad flexible central disc with approximately 18–24 continuous tapering arms, natural irregular spacing, and many small tube feet only on its underside where visible. Muted purple-brown to orange surface, no eyes, face, shell, tentacles or detached arms.\nComposition: distinct low side-oblique full-body view of one sea star slowly approaching one intact sea urchin on a rocky bottom. A clear gap remains between them; no contact, capture, swallowing, injury or proof of a successful hunt. Educational prey-approach reconstruction only."
+      ],
+      "generatedAt": "2026-10-24T14:09:03.204Z",
+      "checkedAt": "2026-10-24",
+      "sha256": "8b3fd9af973f3fdc8d37c872b908bf71d8b879885b0a78d56287fd4927c3bbbd",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "성게 같은 바닥 동물에 다가가는 모습을 설명한 교육용 재구성입니다. 특정 먹이 선택이나 포식 성공을 뜻하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Fisheries — Sunflower Sea Star",
+          "url": "https://www.fisheries.noaa.gov/species/sunflower-sea-star"
+        },
+        {
+          "title": "COSEWIC — Sunflower Sea Star assessment and status report 2025",
+          "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/sunflower-sea-star-2025.html"
+        },
+        {
+          "title": "Monterey Bay Aquarium — Sunflower star",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sunflower-star"
+        },
+        {
+          "title": "National Park Service — Sunflower Star",
+          "url": "https://www.nps.gov/chis/learn/nature/sunflower-star.htm"
+        }
+      ]
+    },
+    {
+      "id": "sunflower-sea-star",
+      "src": "assets/images/sunflower-sea-star-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "해바라기불가사리 · 켈프숲 바닥을 움직이기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "주황색의 여러 팔은 한 중심원반에서 이어진 한 개체이고, 주변에는 길게 자라는 켈프와 해저 바닥이 보입니다. 다른 불가사리나 분리된 팔은 보이지 않아 대표·먹이 장면과 구도가 구분됩니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, cool Pacific coastal kelp-forest seafloor. Landscape 3:2, soft natural light, no text, labels, watermark, divers, boats, blood, injury, disease imagery, horror or fantasy features. Keep one whole animal and every arm tip inside wide margins.\nSubject: ONE sunflower sea star, Pycnopodia helianthoides, a large sea star, not an octopus, spider, flower or many separate animals. Show a broad flexible central disc with approximately 18–24 continuous tapering arms, natural irregular spacing, and many small tube feet only on its underside where visible. Muted purple-brown to orange surface, no eyes, face, shell, tentacles or detached arms.\nComposition: distinct true dorsal wide view of one sea star moving across a mottled rocky kelp-forest floor. Only a few distant kelp fronds, no prey or companions. Show a gentle active posture without arrows or measured speed claim."
+      ],
+      "generatedAt": "2026-10-24T14:09:33.166Z",
+      "checkedAt": "2026-10-24",
+      "sha256": "7c726e08c46551182f7a5671fa971356ff7296c911469684c2a10574b1a23eac",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "켈프숲 바닥을 움직이는 환경을 보여 주는 교육용 장면입니다. 실제 이동 속도·거리·개체군 상태를 뜻하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Fisheries — Sunflower Sea Star",
+          "url": "https://www.fisheries.noaa.gov/species/sunflower-sea-star"
+        },
+        {
+          "title": "COSEWIC — Sunflower Sea Star assessment and status report 2025",
+          "url": "https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry/cosewic-assessments-status-reports/sunflower-sea-star-2025.html"
+        },
+        {
+          "title": "Monterey Bay Aquarium — Sunflower star",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/sunflower-star"
+        },
+        {
+          "title": "National Park Service — Sunflower Star",
+          "url": "https://www.nps.gov/chis/learn/nature/sunflower-star.htm"
         }
       ]
     }
