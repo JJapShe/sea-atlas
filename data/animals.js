@@ -13931,5 +13931,152 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "sea-mouse",
+    "name": "바다쥐갯지렁이",
+    "scientificName": "Aphrodita aculeata",
+    "group": "환형동물",
+    "habitatIds": [
+      "coast",
+      "deep"
+    ],
+    "depthZoneIds": [
+      "sunlight",
+      "twilight",
+      "midnight"
+    ],
+    "summary": "부드러운 털처럼 보이는 강모로 덮인, 모래와 진흙 바닥의 넓적한 갯지렁이예요.",
+    "identity": [
+      "타원형 몸은 가는 강모가 빽빽해 벨벳 천처럼 보여요.",
+      "옆의 긴 강모는 파랑·초록·금빛으로 반짝일 수 있어요.",
+      "머리는 대부분 털 아래에 숨고 앞쪽에 짧은 감각기관이 나와요."
+    ],
+    "ecology": "모래·진흙 바닥의 퇴적물 속이나 표면에서 지내요.",
+    "diet": "다른 갯지렁이 같은 바닥 동물을 주로 먹는 포식자로 기록돼요.",
+    "range": "북대서양과 북해·발트해·지중해에서 기록돼요.",
+    "size": "몸길이는 약 10~20cm로 기록되지만 개체마다 달라요.",
+    "depth": "얕은 바다 바닥부터 1,000m 이상 깊은 곳까지 기록돼 세 수심 구분을 함께 표시해요.",
+    "aliases": [
+      "Aphrodita aculeata",
+      "Sea mouse"
+    ],
+    "sources": [
+      {
+        "title": "MarLIN — Sea mouse (Aphrodita aculeata)",
+        "url": "https://www.marlin.ac.uk/species/detail/1697/1000"
+      },
+      {
+        "title": "Naturalis — Aphrodita aculeata",
+        "url": "https://ns-polychaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=78061"
+      },
+      {
+        "title": "Journal of Zoology — Iridescence in Aphrodita aculeata",
+        "url": "https://doi.org/10.1111/azo.12395"
+      }
+    ],
+    "checkedAt": "2026-10-24",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "sea-mouse",
+        "src": "assets/images/sea-mouse-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "바다쥐갯지렁이 · 벨벳처럼 보이는 강모",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "모래 위의 한 개체는 넓고 납작한 마디 몸 위를 갈색 펠트 같은 강모가 덮고, 몸 가장자리에는 무지갯빛의 긴 옆 강모가 이어집니다. 눈·귀·발톱 같은 포유류 특징이나 갑각·곤충 몸통, 분리된 부속물은 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm muted sandy-mud seafloor. Landscape 3:2. No text, labels, watermark, people, tools, blood, injury, horror or fantasy features. Keep the complete animal and all visible bristle tips inside generous margins.\nSubject: ONE sea mouse, Aphrodita aculeata, a flattened oval polychaete worm, not a mammal, slug, fish or furry toy. It has one continuous broad segmented body covered across the back by a dense felt-like mat of fine pale bristles. Longer lateral bristles create restrained blue-green-gold iridescence only as reflected light, not glow. The underside is a flatter yellow-brown sole. No ears, eyes, whiskers, paws, fur clumps, shell or detached bristles.\nComposition: close elevated side three-quarter full-body portrait resting on fine muddy sand. Favor the continuous oval outline, felt-like dorsal cover and subtle lateral iridescence; no prey or other animal."
+        ],
+        "generatedAt": "2026-10-24T14:45:11.701Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "2b2dc4a4f09dad1e439ef0cd498f0153cca7d3a14c23e22c1da98355072aedbe",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "sea-mouse",
+        "src": "assets/images/sea-mouse-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "바다쥐갯지렁이 · 작은 갯지렁이를 향해 천천히 움직이기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 마리 바다쥐갯지렁이의 납작한 마디몸, 갈색 펠트 강모와 무지갯빛 옆 강모가 이어집니다. 앞쪽 모래 위에는 다리·갑각·촉수가 없는 민무늬 갯지렁이 한 마리만 별도 개체로 보이고, 곤충이나 갑각류처럼 보이는 추가 동물·부속물은 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm muted sandy-mud seafloor. Landscape 3:2. No text, labels, watermark, people, tools, blood, injury, horror or fantasy features. Keep the complete animal and all visible bristle tips inside generous margins.\nSubject: ONE sea mouse, Aphrodita aculeata, a flattened oval polychaete worm, not a mammal, slug, fish or furry toy. One continuous broad segmented body is covered across the back by a dense felt-like mat of fine pale chaetae. Longer lateral chaetae create restrained blue-green-gold iridescence only as reflected light, not glow. The underside is a flatter yellow-brown sole. No ears, eyes, whiskers, paws, fur clumps, shell or detached bristles.\nComposition: DISTINCT low lateral full-body view. One sea mouse advances across fine mud toward ONE much smaller ordinary bristle worm at the far edge, with a large clear gap; both animals entire and separate. Do not show a bite, contact, swallowing, injury, tangled bristles or feeding success. This is only an educational approach reconstruction."
+        ],
+        "generatedAt": "2026-10-24T14:53:38.738Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "d974ef53f7e4d2dc4216ce2179467f8db6154b6362f17c5496a227f5ece601dd",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "작은 갯지렁이를 향해 움직이는 교육용 접근 장면입니다. 접촉·포획·섭취나 특정 먹이의 성공을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "MarLIN — Sea mouse (Aphrodita aculeata)",
+            "url": "https://www.marlin.ac.uk/species/detail/1697/1000"
+          },
+          {
+            "title": "Naturalis — Aphrodita aculeata",
+            "url": "https://ns-polychaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=78061"
+          },
+          {
+            "title": "Journal of Zoology — Iridescence in Aphrodita aculeata",
+            "url": "https://doi.org/10.1111/azo.12395"
+          }
+        ]
+      },
+      {
+        "id": "sea-mouse",
+        "src": "assets/images/sea-mouse-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "바다쥐갯지렁이 · 모래와 진흙 바닥을 기어가기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "모래에 몸을 낮춘 한 개체에서 넓고 납작한 마디 몸과 펠트 같은 갈색 강모, 가장자리의 무지갯빛 옆 강모가 연속되어 보입니다. 옆발은 길게 반복되는 다리로 드러나지 않아 곤충·갑각류·포유류로 오인될 요소가 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm muted sandy-mud seafloor. Landscape 3:2. No text, labels, watermark, people, tools, blood, injury, horror or fantasy features. Keep the complete animal and all visible bristle tips inside generous margins.\nSubject: ONE sea mouse, Aphrodita aculeata, a flattened oval polychaete worm, not a mammal, slug, fish or furry toy. One continuous broad segmented body is covered across the back by a dense felt-like mat of fine pale chaetae. Longer lateral chaetae create restrained blue-green-gold iridescence only as reflected light, not glow. The underside is a flatter yellow-brown sole. No ears, eyes, whiskers, paws, fur clumps, shell or detached bristles.\nComposition: DISTINCT elevated near-dorsal full-body view of one sea mouse gliding over a broad gently rippled muddy-sand bottom. The animal sits fully ABOVE the sediment, with a few parapodia naturally hidden at its lower edge; no partly buried body, no prey, no dramatic trail or measured depth claim. Show its oval silhouette and continuous bristle covering clearly."
+        ],
+        "generatedAt": "2026-10-24T14:54:33.725Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "8051690aadc5880d5ae38f04c654120f0df80d06193564c60a595d6a8bef5408",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "모래·진흙 바닥 위를 움직이는 환경을 설명한 교육용 장면입니다. 실제 잠복 깊이·수심·속도·이동 거리를 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "MarLIN — Sea mouse (Aphrodita aculeata)",
+            "url": "https://www.marlin.ac.uk/species/detail/1697/1000"
+          },
+          {
+            "title": "Naturalis — Aphrodita aculeata",
+            "url": "https://ns-polychaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=78061"
+          },
+          {
+            "title": "Journal of Zoology — Iridescence in Aphrodita aculeata",
+            "url": "https://doi.org/10.1111/azo.12395"
+          }
+        ]
+      }
+    ]
   }
 ];
