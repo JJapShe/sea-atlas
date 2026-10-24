@@ -13641,5 +13641,151 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "yellow-lipped-sea-krait",
+    "name": "노랑입바다뱀",
+    "scientificName": "Laticauda colubrina",
+    "group": "파충류",
+    "habitatIds": [
+      "reef",
+      "coast"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "검은 띠와 노란 윗입술, 노처럼 납작한 꼬리를 가진 바다뱀이에요.",
+    "identity": [
+      "푸른빛 몸에 넓은 검은 띠가 반복돼요.",
+      "윗입술은 노랗고 머리는 검은빛으로 보여요.",
+      "꼬리는 옆으로 납작해 물을 젓기에 좋아요."
+    ],
+    "ecology": "따뜻한 바다의 산호초와 얕은 연안에서 헤엄치고, 공기를 쉬러 육지나 물가에 올라가기도 해요.",
+    "diet": "주로 바위틈과 산호초의 뱀장어류를 찾아 먹어요.",
+    "range": "인도양과 서태평양의 열대·아열대 바다에서 기록돼요.",
+    "size": "성체는 대체로 1m 안팎 이상 자랄 수 있으나 개체마다 달라요.",
+    "depth": "햇빛이 드는 얕은 산호초와 연안에서 관찰돼요.",
+    "aliases": [
+      "Laticauda colubrina",
+      "Yellow-lipped sea krait",
+      "Banded sea krait"
+    ],
+    "sources": [
+      {
+        "title": "NParks Flora & Fauna Web — Laticauda colubrina",
+        "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/4/247"
+      },
+      {
+        "title": "New Zealand Herpetofauna — Laticauda colubrina",
+        "url": "https://www.reptiles.org.nz/herpetofauna/native/laticauda-colubrina"
+      },
+      {
+        "title": "Aquarium of the Pacific — Banded Sea Krait",
+        "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/banded_sea_krait"
+      }
+    ],
+    "checkedAt": "2026-10-24",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "yellow-lipped-sea-krait",
+        "src": "assets/images/yellow-lipped-sea-krait-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "노랑입바다뱀 · 노란 윗입술과 납작한 꼬리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "검은색과 푸른 회색의 줄무늬 몸이 머리부터 노 모양 꼬리까지 한 마리로 끊김 없이 이어집니다. 노란 입술·주둥이와 옆으로 납작하게 퍼진 꼬리가 보이며, 다른 동물 부속물·복제된 몸·분리된 꼬리는 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm tropical shallow reef water in daylight. Landscape 3:2. No text, labels, watermark, people, divers, blood, injury, attack spectacle or fantasy features. Keep one complete animal including tail tip inside generous margins.\nSubject: ONE yellow-lipped sea krait, Laticauda colubrina, a marine reptile, not an eel, terrestrial cobra, fish or striped rope. Long cylindrical bluish-gray body with broad black bands, a dark head with distinct yellow upper lip, and one continuous laterally flattened paddle-shaped tail. No gills, fins, frill, hood, detached tail or exaggerated open mouth.\nComposition: calm side three-quarter full-body portrait swimming above a pale coral reef. Clearly show the yellow upper lip and laterally flattened paddle tail, with open water around the animal. No prey or second snake."
+        ],
+        "generatedAt": "2026-10-24T14:21:24.766Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "a089de98fb3b569211d35b461f65acdbb355a2a812add3dab77f3d0e5786a05a",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "yellow-lipped-sea-krait",
+        "src": "assets/images/yellow-lipped-sea-krait-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "노랑입바다뱀 · 바위틈의 작은 먹이 찾기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "산호 틈을 향한 한 마리의 줄무늬 몸이 노란 입·주둥이에서 노 모양 꼬리까지 이어집니다. 몸 옆에 별도 다리·지느러미·두 번째 머리나 분리된 꼬리는 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm tropical shallow reef water in daylight. Landscape 3:2. No text, labels, watermark, people, divers, blood, injury, attack spectacle or fantasy features. Keep one complete animal including tail tip inside generous margins.\nSubject: ONE yellow-lipped sea krait, Laticauda colubrina, a marine reptile, not an eel, terrestrial cobra, fish or striped rope. Long cylindrical bluish-gray body with broad black bands, a dark head with distinct yellow upper lip, and one continuous laterally flattened paddle-shaped tail. No gills, fins, frill, hood, detached tail or exaggerated open mouth.\nComposition: distinct low oblique reef-crevice scene. The krait peers toward ONE small unidentified eel-like fish partly hidden in a rock gap, with a clear gap and no contact. Educational feeding-search reconstruction only: no strike, bite, venom use, swallowing or successful capture."
+        ],
+        "generatedAt": "2026-10-24T14:22:00.763Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "ebaf7f386a79e077cb6bb700dc607df120733893b59551b8f9932f92ae092461",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "뱀장어류를 찾는 모습을 설명한 교육용 재구성입니다. 특정 종·독 사용·포식 성공을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "NParks Flora & Fauna Web — Laticauda colubrina",
+            "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/4/247"
+          },
+          {
+            "title": "New Zealand Herpetofauna — Laticauda colubrina",
+            "url": "https://www.reptiles.org.nz/herpetofauna/native/laticauda-colubrina"
+          },
+          {
+            "title": "Aquarium of the Pacific — Banded Sea Krait",
+            "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/banded_sea_krait"
+          }
+        ]
+      },
+      {
+        "id": "yellow-lipped-sea-krait",
+        "src": "assets/images/yellow-lipped-sea-krait-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "노랑입바다뱀 · 바닷가 바위틈에서 쉬기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "바닷가 바위 위에 쉬는 한 마리의 줄무늬 몸이 노란 주둥이와 넓고 납작한 노꼬리로 이어집니다. 몸은 한 개체로 완결되어 있고, 뱀이 아닌 부속물·복제된 머리·분리된 꼬리는 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, humid tropical rocky shore in daylight. Landscape 3:2. No text, labels, watermark, people, divers, blood, injury, attack spectacle or fantasy features. Keep one complete animal including tail tip inside generous margins.\nSubject: ONE yellow-lipped sea krait, Laticauda colubrina, a marine reptile, not an eel, terrestrial cobra, fish or striped rope. Long cylindrical bluish-gray body with broad black bands, a dark head with distinct yellow upper lip, and one continuous laterally flattened paddle-shaped tail. No gills, fins, frill, hood, detached tail or exaggerated open mouth.\nComposition: one complete krait resting loosely on wet rocks at a small coastal crevice beside calm sea water. No eggs, nesting, mate, prey, threatening pose or claim about a particular air-breathing event."
+        ],
+        "generatedAt": "2026-10-24T14:22:37.871Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "34dcc0e1db7af90ad50bf7b9f8ffaa4cf68eefb93a08b766d1abb90bb46e9520",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "바닷가 바위틈을 이용하는 모습을 보여 주는 교육용 장면입니다. 휴식 시간·번식 행동·이동 거리를 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "NParks Flora & Fauna Web — Laticauda colubrina",
+            "url": "https://www.nparks.gov.sg/florafaunaweb/fauna/2/4/247"
+          },
+          {
+            "title": "New Zealand Herpetofauna — Laticauda colubrina",
+            "url": "https://www.reptiles.org.nz/herpetofauna/native/laticauda-colubrina"
+          },
+          {
+            "title": "Aquarium of the Pacific — Banded Sea Krait",
+            "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/banded_sea_krait"
+          }
+        ]
+      }
+    ]
   }
 ];
