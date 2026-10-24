@@ -13339,7 +13339,150 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "atlantic-puffin",
+    "name": "대서양퍼핀",
+    "scientificName": "Fratercula arctica",
+    "group": "조류",
+    "habitatIds": [
+      "pelagic",
+      "coast"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "번식기에 알록달록한 큰 부리를 쓰는, 북대서양의 바다새예요.",
+    "identity": [
+      "번식기 성조는 검은 등과 흰 배, 옅은 뺨을 가졌어요.",
+      "크고 납작한 삼각형 부리는 주황·노랑·파랑빛이 함께 보여요.",
+      "짧은 주황색 발과 물갈퀴가 있어요."
+    ],
+    "ecology": "번식기에는 바위 섬과 해안 절벽의 굴에서 새끼를 기르고, 나머지 시간은 주로 바다에서 지내요.",
+    "diet": "작은 물고기를 잠수해서 잡아 먹어요. 계절과 지역에 따라 갑각류·오징어·갯지렁이도 먹어요.",
+    "range": "북아메리카 동북부와 그린란드, 아이슬란드, 영국·아일랜드, 노르웨이 등 북대서양 양쪽에서 번식해요.",
+    "size": "성조 몸길이는 약 30cm로 소개되며, 개체마다 달라요.",
+    "depth": "바다 표면 가까이와 햇빛이 드는 얕은 물에서 잠수해 먹이를 찾아요.",
+    "aliases": [
+      "Fratercula arctica",
+      "Atlantic puffin"
+    ],
+    "sources": [
+      {
+        "title": "Cornell Lab of Ornithology — Atlantic Puffin Life History",
+        "url": "https://www.allaboutbirds.org/guide/Atlantic_Puffin/lifehistory"
+      },
+      {
+        "title": "U.S. Fish & Wildlife Service — Atlantic Puffin conservation resources",
+        "url": "https://www.fws.gov/"
+      },
+      {
+        "title": "Norwegian Polar Institute — Atlantic puffin",
+        "url": "https://npolar.no/en/species/atlantic-puffin/"
+      }
+    ],
+    "checkedAt": "2026-10-24",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "atlantic-puffin",
+        "src": "assets/images/atlantic-puffin-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대서양퍼핀 · 번식기 성조의 알록달록한 부리",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "절벽 위 한 마리에서 검은 등, 흰 배, 옅은 회색빛 뺨, 옆으로 납작한 삼각형 주황 부리와 주황 물갈퀴발이 함께 보입니다. 어린이가 보기에도 상처·위협 요소가 없고 다른 새와 섞이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm North Atlantic daylight scene. Landscape 3:2. No text, labels, watermark, people, boats, nets, blood, injury, cartoon face or fantasy features. One complete adult bird inside wide margins.\nSubject: ONE Atlantic puffin, Fratercula arctica, in breeding-season adult plumage throughout. It has a black crown and upperparts, white underside, pale gray cheek, red-orange feet and a tall laterally flattened colorful bill with orange, yellow and blue-gray detail. It is a seabird, not a penguin, parrot or toy. Keep both wings, legs, webbed feet and tail naturally connected.\nComposition: upright side three-quarter portrait of one breeding adult resting on a grassy rocky North Atlantic island ledge. Quiet sea and cliff background, no nest, egg, chick, partner or fish."
+        ],
+        "generatedAt": "2026-10-24T13:56:34.913Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "49a31833e25db59ffc08e55097612fac82bdf5e44aea524ab0e0336827dc4fed",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "atlantic-puffin",
+        "src": "assets/images/atlantic-puffin-chatgpt-feeding-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대서양퍼핀 · 작은 물고기 한 마리 먹기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "물속의 한 마리 퍼핀이 검은 등·흰 배·회색빛 뺨·옆으로 납작한 주황 부리·주황 물갈퀴발을 보이고, 양쪽 날개를 젓는 자세입니다. 부리에는 다치지 않은 물고기 한 마리만 보이며, 추가 물고기나 상처 표현은 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm North Atlantic daylight scene. Landscape 3:2. No text, labels, watermark, people, boats, nets, blood, injury, cartoon face or fantasy features. One complete adult bird inside wide margins.\nSubject: ONE Atlantic puffin, Fratercula arctica, in breeding-season adult plumage throughout. It has a black crown and upperparts, white underside, pale gray cheek, red-orange feet and a tall laterally flattened colorful bill with orange, yellow and blue-gray detail. It is a seabird, not a penguin, parrot or toy. Keep both wings, legs, webbed feet and tail naturally connected.\nComposition: distinct low water-level side view of the same adult just surfacing with ONE small silvery unidentified fish held crosswise in the bill. No chick, nest, fish pile, swallowing, fight or proof of a successful specific dive. This is an educational reconstruction of small-fish feeding."
+        ],
+        "generatedAt": "2026-10-24T13:57:12.425Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "4399acb95d117ad24bee222a67e199a7998980e36c2fc45b1578f1c71a8ade32",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "작은 물고기 한 마리를 문 먹이 활동의 교육용 재구성입니다. 특정 종·한 번의 사냥 성공·새끼 먹이 주기를 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Cornell Lab of Ornithology — Atlantic Puffin Life History",
+            "url": "https://www.allaboutbirds.org/guide/Atlantic_Puffin/lifehistory"
+          },
+          {
+            "title": "U.S. Fish & Wildlife Service — Atlantic Puffin conservation resources",
+            "url": "https://www.fws.gov/"
+          },
+          {
+            "title": "Norwegian Polar Institute — Atlantic puffin",
+            "url": "https://npolar.no/en/species/atlantic-puffin/"
+          }
+        ]
+      },
+      {
+        "id": "atlantic-puffin",
+        "src": "assets/images/atlantic-puffin-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대서양퍼핀 · 바다와 번식 해안 사이 날기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "파도 위를 나는 한 마리 퍼핀에서 검은 등·흰 배·옅은 회색빛 뺨·삼각형 주황 부리·주황 물갈퀴발이 보입니다. 두 날개는 비교적 짧고 넓게 굽은 퍼핀형으로, 알바트로스처럼 매우 길고 가늘게 뻗은 활공날개로 읽히지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm North Atlantic daylight scene. Landscape 3:2. No text, labels, watermark, people, boats, nets, blood, injury, cartoon face or fantasy features. One complete adult bird inside wide margins.\nSubject: ONE Atlantic puffin, Fratercula arctica, in breeding-season adult plumage throughout. It has a black crown and upperparts, white underside, pale gray cheek, red-orange feet and a tall laterally flattened colorful bill with orange, yellow and blue-gray detail. It is a seabird, not a penguin, parrot or toy. Keep both wings, legs, webbed feet and tail naturally connected.\nComposition: distinct high rear three-quarter view of one breeding adult flying low over calm open North Atlantic water toward a distant rocky coast. Wings spread in an ordinary flight posture, no flock, nest, exact migration route or long-distance claim."
+        ],
+        "generatedAt": "2026-10-24T13:57:34.556Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "e6f9ec6d593eef6d801632c6658cd7b13845a5e4ef7bc082b69a411421d152a0",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "외해와 번식 해안을 오가는 생활을 설명하는 교육용 장면입니다. 실제 이동 경로·거리·번식 성공을 뜻하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "Cornell Lab of Ornithology — Atlantic Puffin Life History",
+            "url": "https://www.allaboutbirds.org/guide/Atlantic_Puffin/lifehistory"
+          },
+          {
+            "title": "U.S. Fish & Wildlife Service — Atlantic Puffin conservation resources",
+            "url": "https://www.fws.gov/"
+          },
+          {
+            "title": "Norwegian Polar Institute — Atlantic puffin",
+            "url": "https://npolar.no/en/species/atlantic-puffin/"
+          }
+        ]
+      }
+    ]
   }
 ];
-
-
