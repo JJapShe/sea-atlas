@@ -13051,5 +13051,151 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "giant-barrel-sponge",
+    "name": "대왕통해면",
+    "scientificName": "Xestospongia muta",
+    "group": "해면동물",
+    "habitatIds": [
+      "reef"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "커다란 통 모양 몸으로 바닷물을 천천히 거르는 산호초의 해면이에요.",
+    "identity": [
+      "넓게 열린 윗부분과 두꺼운 통 모양 벽을 가졌어요.",
+      "표면은 붉은갈색부터 회갈색까지 여러 빛깔로 보일 수 있어요.",
+      "식물처럼 보이지만 동물 분류인 해면동물이에요."
+    ],
+    "ecology": "카리브해와 플로리다 주변의 산호초에 붙어서 오래 지내요.",
+    "diet": "물속의 아주 작은 유기물과 미생물을 걸러 먹어요.",
+    "range": "플로리다 남부와 카리브해 산호초에서 널리 기록돼요.",
+    "size": "큰 개체는 사람 키에 가까운 높이까지 자랄 수 있지만, 개체마다 달라요.",
+    "depth": "약 10~60m 산호초 경사면에서 기록돼요. 더 깊은 기록도 있어요.",
+    "aliases": [
+      "Xestospongia muta",
+      "Giant barrel sponge"
+    ],
+    "sources": [
+      {
+        "title": "NOAA Ocean Exploration — Giant Barrel Sponge",
+        "url": "https://oceanexplorer.noaa.gov/multimedia/explorations-24pr-usvi-biotech-media-barrel-sponge/"
+      },
+      {
+        "title": "Smithsonian Q?rius — Tube Sponge / Barrel sponge (Xestospongia muta)",
+        "url": "https://qrius.si.edu/browse/object/10795023"
+      },
+      {
+        "title": "Porifera Tree of Life — Xestospongia muta",
+        "url": "https://guide.poriferatreeoflife.org/sp_10.html"
+      }
+    ],
+    "checkedAt": "2026-10-24",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "giant-barrel-sponge",
+        "src": "assets/images/giant-barrel-sponge-chatgpt-portrait-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대왕통해면 · 넓은 통 모양 몸과 윗부분 물길",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "산호초 바닥에 붙은 한 개체의 두껍고 넓은 통형 몸과 하나의 큰 상단 출수구가 보입니다. 표면 주름은 같은 벽에서 이어지고, 식물 줄기·얼굴·여러 개의 분리된 관으로 읽히지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm and child-friendly. Clear tropical Caribbean coral-reef water around 10–60 m deep, with soft underwater light. Landscape 3:2, no text, labels, watermark, people, divers, boats, damage, blood or fantasy features. Keep the whole specimen inside generous margins.\nSubject: ONE giant barrel sponge, Xestospongia muta, a sessile ANIMAL sponge, not a plant, coral, vase, pot, tube worm or mouth-bearing animal. It has one continuous very large upright barrel to tub-shaped body anchored naturally to reef rock, red-brown to muted gray-brown externally and pale tan inside. A single wide terminal osculum is an opening for water flow, not a mouth, eye, face or tunnel with teeth. Show thick irregular walls and a subtly ridged porous surface; no leaves, roots, tentacles, limbs or photosynthetic glow.\nComposition: eye-level side three-quarter portrait of the complete upright barrel sponge on a low reef ledge, its open top visible from above. Sparse indistinct reef background, no companion animals. The osculum remains clearly a simple opening, not a mouth."
+        ],
+        "generatedAt": "2026-10-24T13:32:12.238Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "9f3d0d01fa0fc61ab9211097fb19d839d72cc3e7ff3b67828f8ddb0af82c39d3",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "giant-barrel-sponge",
+        "src": "assets/images/giant-barrel-sponge-chatgpt-filter-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대왕통해면 · 바닷물을 거르는 커다란 통",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "한 개체의 큰 통형 몸, 넓은 상단 출수구, 두꺼운 주름진 벽과 산호초 부착부가 연결되어 보입니다. 주변의 작은 입자는 여과 활동을 떠올리게 하는 장면 요소이며, 추가 관이나 얼굴·식물 형태는 없습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm and child-friendly. Clear tropical Caribbean coral-reef water around 10–60 m deep, with soft underwater light. Landscape 3:2, no text, labels, watermark, people, divers, boats, damage, blood or fantasy features. Keep the whole specimen inside generous margins.\nSubject: ONE giant barrel sponge, Xestospongia muta, a sessile ANIMAL sponge, not a plant, coral, vase, pot, tube worm or mouth-bearing animal. It has one continuous very large upright barrel to tub-shaped body anchored naturally to reef rock, red-brown to muted gray-brown externally and pale tan inside. A single wide terminal osculum is an opening for water flow, not a mouth, eye, face or tunnel with teeth. Show thick irregular walls and a subtly ridged porous surface; no leaves, roots, tentacles, limbs or photosynthetic glow.\nComposition: distinct high oblique view into the open top, showing only a few tiny non-identifiable water particles drifting nearby and a calm clear opening. Explain water filtering by the sponge's form only: no arrows, diagram, suction vortex, swallowed prey, mouth-like action or proof of a particular feeding event."
+        ],
+        "generatedAt": "2026-10-24T13:32:53.362Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "2dd338d81f53df56ab7e66659592cf7cd281830840651a6a9260b1fc92e0d7b4",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "해면의 여과 섭식을 설명하는 장면입니다. 특정 입자가 실제로 먹혔거나 물 흐름 속도가 이와 같았다는 뜻은 아닙니다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Exploration — Giant Barrel Sponge",
+            "url": "https://oceanexplorer.noaa.gov/multimedia/explorations-24pr-usvi-biotech-media-barrel-sponge/"
+          },
+          {
+            "title": "Smithsonian Q?rius — Tube Sponge / Barrel sponge (Xestospongia muta)",
+            "url": "https://qrius.si.edu/browse/object/10795023"
+          },
+          {
+            "title": "Porifera Tree of Life — Xestospongia muta",
+            "url": "https://guide.poriferatreeoflife.org/sp_10.html"
+          }
+        ]
+      },
+      {
+        "id": "giant-barrel-sponge",
+        "src": "assets/images/giant-barrel-sponge-chatgpt-ecology-reef-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "대왕통해면 · 산호초 경사면에 붙어 살기",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "넓은 산호초 사면을 배경으로, 바닥에 고정된 한 개체의 통형 몸·두꺼운 벽·하나의 넓은 출수구가 분명합니다. 다른 관들이 한 몸에서 따로 갈라진 모습이나 식물·얼굴 표현은 보이지 않습니다.",
+        "generationPrompts": [
+          "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm and child-friendly. Clear tropical Caribbean coral-reef water around 10–60 m deep, with soft underwater light. Landscape 3:2, no text, labels, watermark, people, divers, boats, damage, blood or fantasy features. Keep the whole specimen inside generous margins.\nSubject: ONE giant barrel sponge, Xestospongia muta, a sessile ANIMAL sponge, not a plant, coral, vase, pot, tube worm or mouth-bearing animal. It has one continuous very large upright barrel to tub-shaped body anchored naturally to reef rock, red-brown to muted gray-brown externally and pale tan inside. A single wide terminal osculum is an opening for water flow, not a mouth, eye, face or tunnel with teeth. Show thick irregular walls and a subtly ridged porous surface; no leaves, roots, tentacles, limbs or photosynthetic glow.\nComposition: distinct wide low side view of one intact barrel sponge fixed on a coral-reef slope with open blue water behind. A few distant non-identifiable reef shapes provide scale but no fish, coral animal interaction, reproduction, or claim about algae, sunlight use or symbiont benefit."
+        ],
+        "generatedAt": "2026-10-24T13:33:14.495Z",
+        "checkedAt": "2026-10-24",
+        "sha256": "a2dcec266dd9f3714945695ad8a50ed915d956f63caaef974443cc7a2e0f72f6",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "산호초에 붙어 사는 환경을 보여 주는 교육용 재구성입니다. 광합성, 공생 미생물의 효과, 또는 다른 생물과의 특정 관계를 주장하지 않습니다.",
+        "behaviorSources": [
+          {
+            "title": "NOAA Ocean Exploration — Giant Barrel Sponge",
+            "url": "https://oceanexplorer.noaa.gov/multimedia/explorations-24pr-usvi-biotech-media-barrel-sponge/"
+          },
+          {
+            "title": "Smithsonian Q?rius — Tube Sponge / Barrel sponge (Xestospongia muta)",
+            "url": "https://qrius.si.edu/browse/object/10795023"
+          },
+          {
+            "title": "Porifera Tree of Life — Xestospongia muta",
+            "url": "https://guide.poriferatreeoflife.org/sp_10.html"
+          }
+        ]
+      }
+    ]
   }
 ];
+
+
