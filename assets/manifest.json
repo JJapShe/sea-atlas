@@ -1,6 +1,6 @@
 {
   "checkedAt": "2026-10-24",
-  "reviewNote": "86개 생물 항목 각3장 이상, 277개 원본 이미지·281개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "reviewNote": "87개 생물 항목 각3장 이상, 280개 원본 이미지·284개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -8923,6 +8923,104 @@
         {
           "title": "Porifera Tree of Life — Xestospongia muta",
           "url": "https://guide.poriferatreeoflife.org/sp_10.html"
+        }
+      ]
+    },
+    {
+      "id": "christmas-tree-worm",
+      "src": "assets/images/christmas-tree-worm-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "크리스마스트리갯지렁이 · 두 개의 나선 왕관",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "산호 표면의 하나의 관 입구에서 주황·흰색의 나선형 왕관 두 개가 나란히 이어집니다. 세 번째 왕관이나 분리된 관은 보이지 않으며, 어린이가 보기에도 상처나 위협 표현이 없습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm tropical coral-reef water in daylight. Landscape 3:2, no text, labels, watermark, divers, boats, blood, injury, fantasy features or anthropomorphic face. Keep all visible structures inside wide margins.\nSubject: ONE Christmas tree worm, Spirobranchus giganteus, a small annelid polychaete, not a flower, plant, coral polyp, sea anemone, shellfish or two separate animals. The body stays mostly inside ONE continuous pale calcareous tube embedded naturally in coral. Above the opening are exactly TWO colorful tightly spiral branchial crowns, joined at the same tube opening. The crowns are fine radioles used for breathing and collecting small suspended particles. Include a small operculum only where stated; it is a tube lid, not a mouth or eye. No leaves, roots, petals, large tentacles or free-floating crown.\nComposition: close eye-level side three-quarter portrait of a single worm extended from a small coral opening. Show both complete contrasting spiral crowns and the shared tube base; quiet reef background, no fish or other worms."
+      ],
+      "generatedAt": "2026-10-24T13:44:04.757Z",
+      "checkedAt": "2026-10-24",
+      "sha256": "e89f2f4c24d3130da0916f926003b3e267cea19d86f58f20cfe3591673296b62",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "christmas-tree-worm",
+      "src": "assets/images/christmas-tree-worm-chatgpt-feeding-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "크리스마스트리갯지렁이 · 물속 작은 입자 거르기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "한 개의 관에서 보라·흰색 나선형 왕관 두 개가 이어지고, 주변의 작은 입자는 왕관 가까이 떠 있습니다. 왕관 수는 정확히 두 개이며, 추가 동물이나 다수의 관으로 보이는 요소는 없습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm tropical coral-reef water in daylight. Landscape 3:2, no text, labels, watermark, divers, boats, blood, injury, fantasy features or anthropomorphic face. Keep all visible structures inside wide margins.\nSubject: ONE Christmas tree worm, Spirobranchus giganteus, a small annelid polychaete, not a flower, plant, coral polyp, sea anemone, shellfish or two separate animals. The body stays mostly inside ONE continuous pale calcareous tube embedded naturally in coral. Above the opening are exactly TWO colorful tightly spiral branchial crowns, joined at the same tube opening. The crowns are fine radioles used for breathing and collecting small suspended particles. Include a small operculum only where stated; it is a tube lid, not a mouth or eye. No leaves, roots, petals, large tentacles or free-floating crown.\nComposition: distinct elevated oblique view of the extended twin crowns in gently moving water. Only a few tiny unidentifiable particles drift near, clearly outside the radioles. This is an educational filtering reconstruction: no arrows, diagram, mouth, captured prey or evidence that a particular particle was eaten."
+      ],
+      "generatedAt": "2026-10-24T13:44:31.163Z",
+      "checkedAt": "2026-10-24",
+      "sha256": "f7625a8d1b1a1737fa2dcb039f90573fa2aba0184861cce4ccaf49febac1d645",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "작은 떠다니는 입자를 거르는 방식을 설명한 교육용 장면입니다. 특정 먹이의 포획·섭취 성공을 뜻하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Service — What are Christmas tree worms?",
+          "url": "https://oceanservice.noaa.gov/facts/xmas-tree.html"
+        },
+        {
+          "title": "Naturalis — De kerstboomworm",
+          "url": "https://natuurwijzer.naturalis.nl/leerobjecten/de-kerstboomworm"
+        },
+        {
+          "title": "Naturalis Institutional Repository — The genus Spirobranchus",
+          "url": "https://repository.naturalis.nl/pub/506140/"
+        }
+      ]
+    },
+    {
+      "id": "christmas-tree-worm",
+      "src": "assets/images/christmas-tree-worm-chatgpt-defense-operculum-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "크리스마스트리갯지렁이 · 관 입구를 닫는 뚜껑",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "산호 속의 한 관 입구에 나선형 왕관은 보이지 않고, 둥근 한 개의 뚜껑에 두 개의 짧은 뿔만 보입니다. 여러 뚜껑·여분의 왕관·상처 표현은 없습니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nStyle: refined realistic painterly natural-history illustration, calm tropical coral-reef water in daylight. Landscape 3:2, no text, labels, watermark, divers, boats, blood, injury, fantasy features or anthropomorphic face. Keep all visible structures inside wide margins.\nSubject: ONE Christmas tree worm, Spirobranchus giganteus, a small annelid polychaete, not a flower, plant, coral polyp, sea anemone, shellfish or two separate animals. The body stays mostly inside ONE continuous pale calcareous tube embedded naturally in coral. Above the opening are exactly TWO colorful tightly spiral branchial crowns, joined at the same tube opening. The crowns are fine radioles used for breathing and collecting small suspended particles. Include a small operculum only where stated; it is a tube lid, not a mouth or eye. No leaves, roots, petals, large tentacles or free-floating crown.\nComposition: distinct low side view of the same one worm safely withdrawn so only the small operculum closes the round tube entrance, with no crown outside. The calcareous tube remains visibly embedded in healthy-looking coral. No predator is shown; do not claim the closure prevents all harm or changes the coral long-term."
+      ],
+      "generatedAt": "2026-10-24T13:44:48.496Z",
+      "checkedAt": "2026-10-24",
+      "sha256": "cd4c899e97ac7b932624e8023bc0527eddd8fb102a28c3a90cb6449429d61e7a",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "관 입구를 닫는 뚜껑 구조를 설명한 장면입니다. 특정 포식자 회피 성공이나 산호와의 장기적 이로움·해로움을 확정하지 않습니다.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Service — What are Christmas tree worms?",
+          "url": "https://oceanservice.noaa.gov/facts/xmas-tree.html"
+        },
+        {
+          "title": "Naturalis — De kerstboomworm",
+          "url": "https://natuurwijzer.naturalis.nl/leerobjecten/de-kerstboomworm"
+        },
+        {
+          "title": "Naturalis Institutional Repository — The genus Spirobranchus",
+          "url": "https://repository.naturalis.nl/pub/506140/"
         }
       ]
     }
