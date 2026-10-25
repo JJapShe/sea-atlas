@@ -13971,7 +13971,7 @@ export const animals = [
         "url": "https://ns-polychaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=78061"
       },
       {
-        "title": "Journal of Zoology — Iridescence in Aphrodita aculeata",
+        "title": "Acta Zoologica — Hairy and iridescent chaetae of the sea mouse Aphrodita",
         "url": "https://doi.org/10.1111/azo.12395"
       }
     ],
@@ -14034,7 +14034,7 @@ export const animals = [
             "url": "https://ns-polychaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=78061"
           },
           {
-            "title": "Journal of Zoology — Iridescence in Aphrodita aculeata",
+            "title": "Acta Zoologica — Hairy and iridescent chaetae of the sea mouse Aphrodita",
             "url": "https://doi.org/10.1111/azo.12395"
           }
         ]
@@ -14072,7 +14072,7 @@ export const animals = [
             "url": "https://ns-polychaeta.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=78061"
           },
           {
-            "title": "Journal of Zoology — Iridescence in Aphrodita aculeata",
+            "title": "Acta Zoologica — Hairy and iridescent chaetae of the sea mouse Aphrodita",
             "url": "https://doi.org/10.1111/azo.12395"
           }
         ]
