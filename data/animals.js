@@ -14209,5 +14209,143 @@ export const animals = [
         ]
       }
     ]
+  },
+  {
+    "id": "dugong",
+    "name": "듀공",
+    "scientificName": "Dugong dugon",
+    "group": "포유류",
+    "habitatIds": [
+      "coast"
+    ],
+    "depthZoneIds": [
+      "sunlight"
+    ],
+    "summary": "따뜻하고 얕은 바다에서 해초를 먹는 바다 포유류예요.",
+    "identity": [
+      "둥근 머리에 작은 눈과 아래로 향한 넓은 주둥이가 있어요.",
+      "입 주변에는 뻣뻣한 수염이 있고, 넓은 꼬리는 두 갈래로 갈라져 있어요.",
+      "꼬리를 위아래로 움직이고 앞지느러미 두 개를 이용해 헤엄쳐요."
+    ],
+    "ecology": "숨을 쉬려고 물 위로 올라와요. 새끼는 어미 곁을 따라다니며 젖을 먹고 자라요.",
+    "diet": "바닷속 모래 바닥에서 자라는 해초를 뜯어 먹어요.",
+    "range": "인도양과 태평양의 따뜻한 얕은 바다에 살며, 호주 북부 연안에서도 만날 수 있어요.",
+    "size": "호주 정부의 안내에 따르면 몸길이는 최대 약 3m예요.",
+    "depth": "해초가 자라는 얕고 따뜻한 연안에서 주로 살지만 더 깊은 바다로도 나갈 수 있어요.",
+    "aliases": [
+      "바다소",
+      "Dugong",
+      "Dugong dugon"
+    ],
+    "sources": [
+      {
+        "title": "호주 정부 DCCEEW — Dugongs",
+        "url": "https://www.dcceew.gov.au/environment/marine/marine-species/dugongs"
+      },
+      {
+        "title": "호주 정부 — Marine Species Identification Guide, Dugong",
+        "url": "https://www.dcceew.gov.au/sites/default/files/documents/protected-marine-species-identification-guide.pdf"
+      },
+      {
+        "title": "호주 정부 — Dugong and seagrass habitat in Shark Bay",
+        "url": "https://www.dcceew.gov.au/sites/default/files/env/pages/7f7c2bb2-0531-4637-ae66-6a34016f0904/files/dugong-seagrass-report-2019.pdf"
+      }
+    ],
+    "checkedAt": "2026-10-25",
+    "reviewStatus": "source-checked-expert-review-pending",
+    "featured": false,
+    "gallery": [
+      {
+        "id": "dugong",
+        "src": "assets/images/dugong-chatgpt-portrait-v2.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "듀공 · 해초밭 위를 헤엄치는 모습",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "몸과 수평 꼬리가 이어져 보이나 꼬리엽 원근과 콧구멍 위치는 명확하지 않아요.",
+        "generationPrompts": [
+          "Scientific natural-history illustration for a Korean children's marine encyclopedia, landscape 3:2. ONE living adult dugong Dugong dugon, entire body clearly visible in a true left-facing side profile, calmly swimming just above a tropical seagrass meadow in shallow clear sea. Recognizable accurate dugong: robust gray spindle-shaped body, gently downturned broad bristled snout with small mouth underneath, tiny lateral eye, no dorsal fin, two short paddlelike foreflippers, and a broad horizontal whale-like tail with a clear central notch, physically connected to the tapered caudal peduncle. Entire tail and both sides of flukes inside frame. Natural subdued grey-brown skin, no tusks prominently protruding, no fish gills, no human face, no mermaid, no extra limbs, no animals or text. Soft underwater natural light, realistic painterly educational style.",
+          "Correct the anatomy of this dugong illustration. The tail currently resembles a VERTICAL fish tail: replace it with one HORIZONTAL whale-like forked tail fluke, left and right lobes extending sideways in the same horizontal plane as the water surface. Use a slightly elevated three-quarter side viewpoint so the broad flat upper surface of both lobes is visible; a small central notch at the back and a single continuous connection from body to tail. No vertical tail fin. Keep dugong's rounded body, downturned bristled snout, small eye, two paddle foreflippers, no dorsal fin, shallow seagrass environment, naturalistic educational style and whole animal framed."
+        ],
+        "generatedAt": "2026-10-25T13:45:56.672Z",
+        "checkedAt": "2026-10-25",
+        "sha256": "7a582a085306a7076f34ba0118121cc65f81c05da280e659b26b96b799485967",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      },
+      {
+        "id": "dugong",
+        "src": "assets/images/dugong-chatgpt-feeding-v3.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "듀공 · 해초를 뜯어 먹는 모습",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "위에서 본 꼬리 두 엽은 몸에 이어져 있어요. 화면 위쪽 여백이 좁고 실제 먹이 동작은 재구성이에요.",
+        "generationPrompts": [
+          "One realistic natural-history illustration for a Korean children's atlas, 3:2 landscape. Directly overhead view looking down at a single dugong (Dugong dugon) grazing on seagrass in shallow water, head directed toward bottom of frame, tail toward top. Full animal with generous margins. The most important diagnostic feature: the tail is a SINGLE CONTINUOUS horizontal crescent-shaped fluke, broad left and right lobes spread symmetrically LEFT and RIGHT from a single central base at the narrow tailstock, with a modest notch in the trailing edge. It lies flat, parallel to the seagrass, physically fused to the body with no gaps; no separate fins, seams, vertical fin or disconnected tips. Dugong has a gray rounded body, two front paddle flippers on opposite sides near the head, a short downturned blunt bristled muzzle touching seagrass, tiny eyes and no dorsal fin. A little disturbed sand near the muzzle, realistic quiet blue-green water and soft daylight. No labels, other animals, cartoon face, fish anatomy, extra appendages or watermark."
+        ],
+        "generatedAt": "2026-10-25T13:53:50.381Z",
+        "checkedAt": "2026-10-25",
+        "sha256": "89a31324b068d9d8c52c6c54fef776618ff47e95b4f2aa1a1ed2efcdffd7c3e2",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "feeding",
+        "behaviorCheck": "해초를 먹는 모습은 실제 촬영이 아닌 교육용 재구성이에요.",
+        "behaviorSources": [
+          {
+            "title": "호주 정부 DCCEEW — Dugongs",
+            "url": "https://www.dcceew.gov.au/environment/marine/marine-species/dugongs"
+          },
+          {
+            "title": "호주 정부 — Marine Species Identification Guide",
+            "url": "https://www.dcceew.gov.au/sites/default/files/documents/protected-marine-species-identification-guide.pdf"
+          }
+        ]
+      },
+      {
+        "id": "dugong",
+        "src": "assets/images/dugong-chatgpt-ecology-v1.png",
+        "role": "illustration",
+        "reviewStatus": "visual-checked",
+        "caption": "듀공 · 어미와 새끼가 함께 헤엄치는 모습",
+        "credit": "Sea Atlas · ChatGPT로 제작",
+        "generator": "ChatGPT image_gen",
+        "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+        "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+        "expertReviewed": false,
+        "identityCheck": "두 개체의 꼬리와 앞지느러미가 보이지만 꼬리엽 비율은 확정할 수 없어요. 어미와 새끼의 동행을 나타낸 재구성이에요.",
+        "generationPrompts": [
+          "Create one original educational natural history illustration for a children's marine encyclopedia, landscape 3:2. Wide slightly elevated view in a shallow tropical seagrass meadow: an adult female dugong Dugong dugon swims calmly alongside a much smaller dugong calf, each entirely visible and clearly separate. Both have robust grey bodies, downturned bristly muzzles, small lateral eyes, no dorsal fin, two short front flippers and broad horizontally oriented whale-like notched tail flukes clearly and continuously attached to tapered tail stocks; see upper surfaces of the two horizontal lobes from the elevated view, no vertical fish tails. Calf is near mother's side, no nursing, no touching or forced behavior. Show underwater vegetation and soft natural daylight, gentle realistic painterly style, distinct asymmetrical swimming poses, generous margins. No text, labels, extra animals, humans, gills, rear legs, spikes, disconnected fins, cartoon expressions."
+        ],
+        "generatedAt": "2026-10-25T13:50:33.251Z",
+        "checkedAt": "2026-10-25",
+        "sha256": "72e512a57c71e77f0116bf90b3e36dfc78192af9b4434283ee69776b1fb000c6",
+        "width": 1536,
+        "height": 1024,
+        "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+        "sceneType": "ecology",
+        "behaviorCheck": "어미와 새끼의 동행을 나타낸 그림이며 자세와 거리는 교육용 재구성이에요.",
+        "behaviorSources": [
+          {
+            "title": "호주 정부 DCCEEW — Dugongs",
+            "url": "https://www.dcceew.gov.au/environment/marine/marine-species/dugongs"
+          },
+          {
+            "title": "호주 정부 — Marine Species Identification Guide",
+            "url": "https://www.dcceew.gov.au/sites/default/files/documents/protected-marine-species-identification-guide.pdf"
+          }
+        ]
+      }
+    ]
   }
 ];
