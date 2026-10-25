@@ -7768,25 +7768,26 @@
     },
     {
       "id": "dofleins-jewel-squid",
-      "src": "assets/images/dofleins-jewel-squid-chatgpt-portrait-left-front-v2.png",
+      "src": "assets/images/dofleins-jewel-squid-chatgpt-portrait-side-v3.png",
       "role": "illustration",
       "reviewStatus": "visual-checked",
-      "caption": "도플라인보석오징어 · 크기가 다른 두 눈",
+      "caption": "도플라인보석오징어 · 큰 눈이 보이는 옆모습",
       "credit": "Sea Atlas · ChatGPT로 제작",
       "generator": "ChatGPT image_gen",
       "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
       "provenanceUrl": "https://openai.com/policies/terms-of-use/",
       "expertReviewed": false,
-      "identityCheck": "원본을 직접 대조해 짧고 두꺼운 원뿔형 외투막, 뒤쪽 둥근 지느러미 두 개, 팔과 두 긴 촉수의 연속, 몸 표면의 점状 발광점이 보입니다. 왼쪽 눈이 오른쪽 눈보다 매우 크게 그려져 있어 비대칭 눈 특징을 읽을 수 있습니다.",
+      "identityCheck": "큰 눈 한쪽과 외투막, 뒤쪽 지느러미 및 긴 촉수 두 개가 보입니다. 반대쪽 눈은 가려져 있고 팔이 겹쳐 정확한 개수는 확인하기 어렵습니다. 전문가 검토는 받지 않았습니다.",
       "generationPrompts": [
-        "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. One Stigmatoteuthis dofleini (Doflein's jewel squid), a deep-sea cockeyed jewel squid, close left-front three-quarter portrait in dark midwater. Accurate body: short stout cone-shaped mantle with low tiny papillae, two broad rounded fins at the rear, eight arms plus two longer feeding tentacles all connected naturally, mantle and arms dotted with small subtle blue photophores. The left eye must be clearly much larger than the right eye, with the larger left eye facing upward. Entire animal visible, no prey, no other animals, calm readable natural-history digital painting, wide landscape composition."
+        "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. One Stigmatoteuthis dofleini (Doflein's jewel squid), a deep-sea cockeyed jewel squid, close left-front three-quarter portrait in dark midwater. Accurate body: short stout cone-shaped mantle with low tiny papillae, two broad rounded fins at the rear, eight arms plus two longer feeding tentacles all connected naturally, mantle and arms dotted with small subtle blue photophores. The left eye must be clearly much larger than the right eye, with the larger left eye facing upward. Entire animal visible, no prey, no other animals, calm readable natural-history digital painting, wide landscape composition.",
+        "Edit this scientific educational illustration of Doflein's jewel squid, Stigmatoteuthis dofleini. Fix the misleading fish-like face: render the head in an anatomically plausible lateral side view with ONE large lateral eye visible on the near side, naturally embedded in the head rather than protruding upward. The smaller opposite eye lies on the far side and is hidden by the head in this view; do not draw a second eye on the near side. Head is between the mantle and the crown of arms, with no fish mouth or fish face. Keep the squid's elongated mantle, paired posterior fins, eight arms and two longer feeding tentacles, deep blue background, existing painterly natural-history style and overall framing. No text, labels, extra eyes or extra appendages."
       ],
-      "generatedAt": "2026-10-22T12:35:29.720Z",
-      "checkedAt": "2026-10-22",
-      "sha256": "7c357c74aa9f75d922f2eb30305f5e8fd296b2eda8dd34b8bfa1c0b63c7c24b2",
+      "generatedAt": "2026-10-25T13:29:00Z",
+      "checkedAt": "2026-10-25",
+      "sha256": "4d7bfa6f4b99026534e7a74370dac01bdba4b1db4b705cd7eb12c02aa5c5c50c",
       "width": 1536,
       "height": 1024,
-      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+      "changes": "기존 이미지를 ChatGPT로 수정하고 원본 PNG를 그대로 보존. 부모 및 독립 시각 검토를 거쳤으며 팔의 정확한 개수는 확인하기 어려움."
     },
     {
       "id": "dofleins-jewel-squid",
