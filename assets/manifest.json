@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-24",
-  "reviewNote": "92개 생물 항목 각3장 이상, 295개 원본 이미지·299개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
+  "checkedAt": "2026-10-25",
+  "reviewNote": "93개 생물 항목 각3장 이상, 298개 원본 이미지·302개 갤러리 항목. 부모 및 독립 육안 검토, 전문가 감수 전. 먹이 미확인 항목은 근거와 관찰 대체 구도를 표시.",
   "images": [
     {
       "id": "horseshoe-crab",
@@ -9520,6 +9520,90 @@
         {
           "title": "Acta Zoologica — Hairy and iridescent chaetae of the sea mouse Aphrodita",
           "url": "https://doi.org/10.1111/azo.12395"
+        }
+      ]
+    },
+    {
+      "id": "venus-flytrap-sea-anemone",
+      "src": "assets/images/venus-flytrap-sea-anemone-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "파리지옥말미잘 · 넓게 펼친 입원반",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "중앙 입과 하나로 이어진 입원반은 보인다. 촉수 수·비율·색과 종 동정은 그림만으로 확인할 수 없고 전문가 검토도 아니다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: a Venus flytrap sea anemone, Actinoscyphia aurelia, accurate representative portrait.\nScene/backdrop: dim deep sea muddy continental-slope floor, no sunlight, no coral reef.\nSubject: ONE stationary deep-sea anemone planted in soft mud. A short sturdy cylindrical stalk supports a wide bowl-like oral disc folded into two soft opposing lobes. Around the rim are two neat rows of short fine tentacles. Natural cream, pale apricot and muted brown colors. It is an animal, not a plant.\nStyle/medium: refined realistic painterly natural-history illustration.\nComposition/framing: landscape 3:2, slightly high frontal three-quarter full-body view.\nConstraints: one complete animal, no text or watermark.\nAvoid: Venus flytrap plant leaves or teeth, eyes, face, mouth, fish, jellyfish bell, floating animal, neon colors, extra animals.",
+        "Edit this natural-history illustration of deep-sea anemone Actinoscyphia aurelia. Keep the single attached soft pale anemone, dark muddy seafloor and subdued lighting, realistic underwater educational illustration. Correct its oral disc: make ONE continuous softly undulating oral disc with a subtly two-lobed outline, less perfectly symmetrical and less like a hinged Venus flytrap or two separate leaves. Show a small natural slit-like mouth in the center of the disc, continuous with the soft tissue, not a fish face or human mouth. Small slender tentacles arise along the disc margin; retain the softly tapering single column anchored in mud. Do not add teeth, jaws, eyes, plants, labels, prey or additional animals. Landscape."
+      ],
+      "generatedAt": "2026-10-25T13:34:47.764Z",
+      "checkedAt": "2026-10-25",
+      "sha256": "a9799a93bdec233163fdc30a403cd4cd3b5d4ad1fb2968b19bf0403469b5db86",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존."
+    },
+    {
+      "id": "venus-flytrap-sea-anemone",
+      "src": "assets/images/venus-flytrap-sea-anemone-chatgpt-feeding-v4.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "파리지옥말미잘 · 유기물 부스러기가 흘러오는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "입원반과 가늘고 많은 촉수, 구도 차이는 확인된다. 두 갈래 윤곽과 촉수 수·비율·몸 높이·종 동정은 확인되지 않는다. 유기물 이동·포획은 재구성이다.",
+      "generationPrompts": [
+        "Create a realistic natural-history educational illustration for a children's marine encyclopedia, landscape 3:2. A deep sea anemone Actinoscyphia aurelia as an interpretive reconstruction, on soft dark mud in deep Atlantic water. CAMERA: low side profile, animal positioned in right third facing left, disc nearly edge-on, unlike a frontal portrait; show its single pale tapered column standing upright, basal end just under sediment, a single broad gently bilobed concave oral disc and short tentacles ringing its rim. Small slit mouth at disc center if visible. A gentle current carries small irregular particles of organic detritus from left toward the disc: sparse muted brown fragments, clearly not tiny animals. This is an inferred feeding reconstruction based on gut contents, not a witnessed event. Quiet deep navy water, dark sediment, diffuse neutral lighting; no glowing, labels, arrows, letters, prey animals, stalk attachment to rock, jaws or split body. Fully visible animal.",
+        "Edit this educational deep-sea anemone illustration, preserving its low side view, position on the right, detritus drifting from the left, dark muddy habitat and palette. Make the anemone more recognizably Actinoscyphia aurelia: enlarge and broaden its single concave oral disc, subtly two-lobed along the rim, and replace the few thick rounded tentacles with MANY shorter, thin, gently tapered tentacles densely arranged around the rim. Keep one soft continuous disc with a small central mouth, and a single broad soft column base partly under the mud. Do not add animals, text, glowing effects, teeth, or separate leaf-like structures. Treat this as an interpretive reconstruction of feeding, not an observed capture."
+      ],
+      "generatedAt": "2026-10-25T13:40:02.044Z",
+      "checkedAt": "2026-10-25",
+      "sha256": "0cb906d387e1cd462f918ff5e4452238200c8fe82faff0e4d119b86d52936ec6",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "feeding",
+      "behaviorCheck": "연구에서 발견된 유기물과 해류 가설을 바탕으로 만든 상상도예요. 실제 포획이나 입자 이동을 촬영한 장면이 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Aldred et al. (1979) — Ecological observations on the deep-sea anemone Actinoscyphia aurelia",
+          "url": "https://archimer.ifremer.fr/doc/00122/23354/21181.pdf"
+        }
+      ]
+    },
+    {
+      "id": "venus-flytrap-sea-anemone",
+      "src": "assets/images/venus-flytrap-sea-anemone-chatgpt-ecology-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "파리지옥말미잘 · 심해 진흙 바닥에 서 있는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "세 개체와 진흙 바닥은 종별 조사와 부합할 수 있으나 두 잎의 대칭성과 개체 정체성은 불확실하며 특정 현장 사진이 아닌 재구성이다.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas gallery illustration for Korean children ages 5–12\nPrimary request: Venus flytrap sea anemones, Actinoscyphia aurelia, in deep-sea habitat.\nScene/backdrop: wide dim muddy continental-slope floor with a gentle sediment slope, black-blue water overhead, no sunlight, no coral reef.\nSubject: exactly THREE small widely separated Venus flytrap sea anemones standing upright in mud. Each has a simple stout stalk and a wide soft two-lobed oral disc with short rim tentacles, all cream to muted apricot. A few fine particles drift near the bottom.\nStyle/medium: refined realistic painterly natural-history illustration.\nComposition/framing: landscape 3:2 wide ecological view, animals small but identifiable and clearly anchored.\nConstraints: no text or watermark.\nAvoid: plant stems or leaves, teeth, faces, eyes, fish, jellyfish, floating organisms, fluorescent colors, dense colony."
+      ],
+      "generatedAt": "2026-10-24T15:08:10.748Z",
+      "checkedAt": "2026-10-25",
+      "sha256": "761e1f3c9d8a1c42d3526aaae491d69028c70b2570e453d1faec110c734e7bb1",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "sceneType": "ecology",
+      "behaviorCheck": "진흙 바닥에 선 여러 개체를 그린 교육용 재구성이며 정확한 개체 수와 배치는 관찰 장면이 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Aldred et al. (1979) — Ecological observations on the deep-sea anemone Actinoscyphia aurelia",
+          "url": "https://archimer.ifremer.fr/doc/00122/23354/21181.pdf"
         }
       ]
     }
