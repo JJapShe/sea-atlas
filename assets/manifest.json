@@ -9799,6 +9799,97 @@
           "url": "https://museumsvictoria.com.au/media/1812/marine-life-exhibition-notes.pdf"
         }
       ]
+    },
+    {
+      "id": "japanese-spider-crab",
+      "src": "assets/images/japanese-spider-crab-chatgpt-portrait-v3.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "키다리게 · 위에서 살펴본 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "양쪽 걷는다리 네 개씩과 집게 두 개가 보여요. 양쪽 발끝의 여백이 좁고 무늬와 가시는 재구성이에요.",
+      "generationPrompts": [
+        "One original natural history illustration, 3:2 landscape, Japanese spider crab Macrocheira kaempferi on sand, near-vertical TOP DOWN DORSAL VIEW, almost like a specimen field guide but alive in habitat. Fully visible small pear-shaped orange white speckled spiny carapace in center, exactly FIVE jointed legs on LEFT and FIVE on RIGHT, independently radiating outward from body without crossing or overlapping. First pair short pincers near front, other FOUR pairs long slender segmented walking legs, every one ends in a single pointed tip. Each of TEN roots directly connects to carapace; distinct water or sand gaps between each leg, no additional legs, no branches, no detached pieces. Complete animal and all tips with generous margins. Quiet naturalistic scientific painterly style, dark sea floor, no labels or text."
+      ],
+      "generatedAt": "2026-10-26T10:55:35+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "03645cf2dcca45be4963998e23d3197bbedf84ab27f4b215ad610dfffc7b8171",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 원본 PNG를 복사하고 부모와 독립 검토자가 육안 대조했어요. 전문가 감수 전이에요."
+    },
+    {
+      "id": "japanese-spider-crab",
+      "src": "assets/images/japanese-spider-crab-chatgpt-feeding-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "키다리게 · 먹이에 다가가는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "집게 앞의 작은 물고기는 떨어져 있어요. 먼 쪽 다리 시작점이 가려져 정확한 연결과 먹이 상태는 확인하기 어려워요.",
+      "generationPrompts": [
+        "Create one original 3:2 landscape scientific wildlife painting for children: Japanese spider crab Macrocheira kaempferi approaching a small intact dead fish on a dim sandy deep seafloor. LOW side view at seafloor level, animal facing right, legs bent at staggered jointed angles rather than symmetrical fan. Orange-brown pear-shaped spiny carapace with a pair of modest claw-bearing limbs and four pairs of jointed walking legs naturally attached; far side may be occluded, no branches, no extra appendages. One claw extends toward the small fish but does not touch it, no gore, no claim of feeding success. Full crab including leg tips and prey inside frame, wide margins. Naturalistic calm educational painterly style, no text.",
+        "Correct this existing scientific illustration of a Japanese spider crab. Simplify and anatomically clarify its legs. Exactly TEN appendages emerge individually from the crab body: ONE claw-bearing foreleg and FOUR walking legs on each side. Each walking leg is a single unbranched sequence of jointed segments ending in ONE pointed tip, never a second leg sprouting from another leg or joint. Separate visible limbs so their connections and tips can be traced; far-side legs may overlap naturally, but avoid extra dangling leg-like lines. Two claws total. Preserve the original animal, scene, composition, any egg mass or fish, natural style and full-frame margins. No text."
+      ],
+      "generatedAt": "2026-10-26T10:53:18+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "71bb2f0b7ca68c0c38dc6495b4702d851a6f4a7df80d29735cfa562cacc19d95",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 원본 PNG를 복사하고 부모와 독립 검토자가 육안 대조했어요. 전문가 감수 전이에요.",
+      "sceneType": "feeding",
+      "behaviorCheck": "먹이 가까이 다가가는 교육용 재구성이며 포획이나 섭식 성공과 물고기의 상태는 확인할 수 없어요.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Japanese spider crab",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/japanese-spider-crab"
+        },
+        {
+          "title": "Aquarium of the Pacific — Giant Spider Crab",
+          "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/giant_spider_crab"
+        }
+      ]
+    },
+    {
+      "id": "japanese-spider-crab",
+      "src": "assets/images/japanese-spider-crab-chatgpt-eggs-v5.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "키다리게 · 몸 아래에 알을 품은 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "몸 아래 알을 표현했어요. 뒤쪽 다리의 시작점과 알이 붙은 부위는 가려져 있으며 알의 수는 확인할 수 없어요.",
+      "generationPrompts": [
+        "Create one original scientific illustration for a children's marine atlas: an adult female Japanese spider crab Macrocheira kaempferi holding orange egg mass beneath the folded abdomen, seen from a low FRONT view tilted enough to clearly show the abdomen edge and its attachment to the egg mass. Show a small rough orange-white pear-shaped crab body in center. Precisely FOUR pairs of long, articulated walking legs radiate individually left and right from body with distinct separations and visible pointed tips, plus ONE pair of smaller claws in front: exactly ten leg-like appendages total. No legs sprout from each other, no disconnected or stump-like limb, no extra legs. All visible from base to tip, complete animal with generous margins against clean deep-water sandy seafloor. Calm realistic natural-history painting, no lettering, no other animals."
+      ],
+      "generatedAt": "2026-10-26T10:59:58+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "d217946b49343722c0130b8d261b4f9daba227d9c692ead8fa13ec6ab8ea958f",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 원본 PNG를 복사하고 부모와 독립 검토자가 육안 대조했어요. 전문가 감수 전이에요.",
+      "sceneType": "ecology",
+      "behaviorCheck": "암컷이 알을 몸 아래에 품는 생태의 교육용 재구성이며 알 부착과 발달 상태는 확인할 수 없어요.",
+      "behaviorSources": [
+        {
+          "title": "Monterey Bay Aquarium — Japanese spider crab",
+          "url": "https://www.montereybayaquarium.org/animals-the-ocean/animals-a-to-z/japanese-spider-crab"
+        },
+        {
+          "title": "Aquarium of the Pacific — Giant Spider Crab",
+          "url": "https://www.aquariumofpacific.org/onlinelearningcenter/species/giant_spider_crab"
+        }
+      ]
     }
   ]
 }
