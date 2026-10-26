@@ -14631,5 +14631,139 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "hawksbill-turtle",
+  "name": "매부리바다거북",
+  "scientificName": "Eretmochelys imbricata",
+  "group": "파충류",
+  "habitatIds": [
+    "reef",
+    "coast",
+    "pelagic"
+  ],
+  "summary": "뾰족하게 굽은 부리로 산호초의 틈을 살피는 바다거북이에요.",
+  "identity": [
+    "좁고 구부러진 부리가 매의 부리를 닮았어요.",
+    "갈색과 호박색이 섞인 등갑의 판이 겹쳐지고 뒤쪽 가장자리에 톱니 모양이 있어요."
+  ],
+  "ecology": "열대 산호초에서 주로 살며, 어린 시기에는 떠다니는 해조류 주변 외해에서 지내기도 해요. 공기로 숨 쉬고 모래 해변에 알을 낳아요.",
+  "diet": "주로 해면동물을 먹고 다른 무척추동물도 먹어요.",
+  "range": "대서양·태평양·인도양의 열대 바다.",
+  "size": "성체 등갑 길이는 보통 약 0.6–0.9 m예요.",
+  "depth": "얕은 산호초와 연안에 주로 살며 성장 단계에 따라 외해에서도 지내요.",
+  "sources": [
+    {
+      "title": "NOAA Fisheries — Hawksbill Turtle",
+      "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle"
+    },
+    {
+      "title": "NOAA Fisheries — Sea Turtle Handling and Release Guidelines",
+      "url": "https://media.fisheries.noaa.gov/2020-10/handling-release-all-fnl-508.pdf"
+    }
+  ],
+  "depthZoneIds": [
+    "sunlight"
+  ],
+  "aliases": [
+    "Hawksbill sea turtle",
+    "Hawksbill turtle"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-26",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "hawksbill-turtle",
+      "src": "assets/images/hawksbill-turtle-chatgpt-portrait-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "매부리바다거북 · 산호초 위를 헤엄치는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "앞지느러미 둘과 뒷지느러미 하나가 보이고 반대쪽 뒷지느러미는 가려져 있어요. 등갑 가장자리는 실제보다 뾰족하게 그려졌을 수 있어요.",
+      "generationPrompts": [
+        "Original landscape 3:2 scientific natural-history illustration for children: adult hawksbill sea turtle Eretmochelys imbricata swimming above tropical coral reef, full body viewed obliquely from above and left, clearly hooked narrow beak, mottled amber and brown overlapping carapace scutes and serrated rear shell edge, four flippers naturally connected, small tail, no teeth, no extra limbs. Complete animal with ample margin. Calm realistic painterly educational illustration, no text."
+      ],
+      "generatedAt": "2026-10-26T11:06:33+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "234247a391cbb0b3c2e16da04ee97d848ca31d0cd53db30646eae450be8daaff",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 원본을 그대로 복사하고 부모와 독립 검토자가 육안 대조했어요. 전문가 감수 전이에요."
+    },
+    {
+      "id": "hawksbill-turtle",
+      "src": "assets/images/hawksbill-turtle-chatgpt-feeding-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "매부리바다거북 · 해면에 다가가는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "앞지느러미 하나와 뒷지느러미 둘이 보이고 반대쪽 앞지느러미는 가려져 있어요. 등갑 가장자리는 과장됐을 수 있어요.",
+      "generationPrompts": [
+        "Original landscape 3:2 scientific educational illustration: adult hawksbill turtle Eretmochelys imbricata in low SIDE view approaching a small sponge on a coral reef, its narrow hooked beak near the sponge without claiming actual feeding. Four natural flippers, overlapping amber brown shell scutes, serrated posterior shell edge. Body angled down toward sponge unlike a flat portrait. No broken shell, no wounds, no text, full animal with margin, realistic marine natural history painting.",
+        "Edit this existing hawksbill turtle illustration. Remove ONLY the extra fifth flipper-like appendage visible below the middle of the shell, between the rear flippers and the large foreground front flipper. Replace it with matching undisturbed blue water and natural shell underside. The animal should have four flippers total: two front and two rear, not five. Preserve all other flippers and body connections, the hooked beak, sponge, coral, lighting and composition. No text."
+      ],
+      "generatedAt": "2026-10-26T11:12:19+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "aa302a248a959601fc42ccdab604d1c008a5991bdf360779cf4f98967d5a3d67",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 원본을 그대로 복사하고 부모와 독립 검토자가 육안 대조했어요. 전문가 감수 전이에요.",
+      "sceneType": "feeding",
+      "behaviorCheck": "해면 가까이 다가가는 교육용 재구성이며 실제 먹었는지는 알 수 없어요.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Fisheries — Hawksbill Turtle",
+          "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle"
+        },
+        {
+          "title": "NOAA Fisheries — Sea Turtle Handling and Release Guidelines",
+          "url": "https://media.fisheries.noaa.gov/2020-10/handling-release-all-fnl-508.pdf"
+        }
+      ]
+    },
+    {
+      "id": "hawksbill-turtle",
+      "src": "assets/images/hawksbill-turtle-chatgpt-juvenile-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "매부리바다거북 · 떠다니는 해조류 사이에서",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "네 지느러미가 보여요. 등갑 가장자리는 과장됐을 수 있으며 크기 기준이 없어 어린 개체인지 확인할 수 없어요.",
+      "generationPrompts": [
+        "Original 3:2 landscape natural-history illustration for children: one juvenile hawksbill sea turtle Eretmochelys imbricata swimming among patches of floating Sargassum in open tropical sea, diagonal top-down view, four connected flippers in distinct swimming motion, small narrow hooked beak, amber brown overlapping scutes and serrated posterior shell edge, natural juvenile proportions. Whole animal clearly visible, no animal trapped in vegetation, no text. Quiet scientifically cautious realistic painterly style."
+      ],
+      "generatedAt": "2026-10-26T11:07:47+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "df421eea6743f7f3e4f77b00ee414dbe6011642cd0c562b510ad9384ee4647ec",
+      "width": 1536,
+      "height": 1024,
+      "changes": "생성 원본을 그대로 복사하고 부모와 독립 검토자가 육안 대조했어요. 전문가 감수 전이에요.",
+      "sceneType": "ecology",
+      "behaviorCheck": "어린 거북이 떠다니는 해조류 주변에서 지내는 생태를 재구성했지만 그림 속 개체의 나이는 확인할 수 없어요.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Fisheries — Hawksbill Turtle",
+          "url": "https://www.fisheries.noaa.gov/species/hawksbill-turtle"
+        },
+        {
+          "title": "NOAA Fisheries — Sea Turtle Handling and Release Guidelines",
+          "url": "https://media.fisheries.noaa.gov/2020-10/handling-release-all-fnl-508.pdf"
+        }
+      ]
+    }
+  ]
 }
 ];
