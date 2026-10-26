@@ -7829,7 +7829,7 @@
     },
     {
       "id": "dofleins-jewel-squid",
-      "src": "assets/images/dofleins-jewel-squid-chatgpt-ecology-upward-swim-v3.png",
+      "src": "assets/images/dofleins-jewel-squid-chatgpt-ecology-upward-swim-v4.png",
       "role": "illustration",
       "reviewStatus": "visual-checked",
       "caption": "도플라인보석오징어 · 위쪽 빛을 향해 헤엄치기",
@@ -7838,16 +7838,17 @@
       "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
       "provenanceUrl": "https://openai.com/policies/terms-of-use/",
       "expertReviewed": false,
-      "identityCheck": "원본을 직접 대조해 머리 앞에서 여덟 팔과 두 긴 촉수가 한 몸으로 이어지고, 큰 왼쪽 눈은 위쪽 빛을 향합니다. 짧고 넓은 외투막의 뒤끝에는 중앙 홈을 둔 둥근 두 지느러미가 있어 물고기 꼬리나 옆지느러미로 읽히지 않습니다.",
+      "identityCheck": "옆에서 보이는 큰 눈 아래의 눈처럼 보이던 구조를 제거했습니다. 팔 일부가 겹쳐 전체 개수는 그림에서 확인하기 어렵고, 실제 모습과 다를 수 있는 생성 삽화입니다.",
       "generationPrompts": [
-        "Create ONE original 3:2 landscape scientific-natural-history illustration for a Korean children's sea-life atlas, ages 5–12: Doflein's jewel squid, Stigmatoteuthis dofleini, swimming tail-up obliquely in deep twilight water. Make it unmistakably a SQUID, never a fish: the clearly defined HEAD is at the upper-front end, a single very large LEFT eye points upward toward faint distant surface light; the much smaller right eye is partly visible below it. From the front of the head, show exactly EIGHT thick, flexible ARMS in a gentle loose umbrella, plus TWO longer slender feeding tentacles with small clubs, all clearly attached. Behind the head is a short broad dark purplish-brown CONICAL MANTLE with scattered small blue-white photophore dots and low texture. At the far posterior end of the mantle, place TWO small rounded terminal fins joined only at their rear edge with a clear central notch; fins must look like squid fins, not a vertical fish tail or side pectoral fins. The animal rises diagonally from lower right toward upper left through dark blue midwater. Realistic painterly educational style, whole animal visible, generous margins. No fish-like face, no gills, no mouth with teeth, no fish tail, no dorsal fin, no scales, no arms emerging from the rear, no detached tentacles, no duplicate animals, text, labels, logos, boat, or human."
+        "Create ONE original 3:2 landscape scientific-natural-history illustration for a Korean children's sea-life atlas, ages 5–12: Doflein's jewel squid, Stigmatoteuthis dofleini, swimming tail-up obliquely in deep twilight water. Make it unmistakably a SQUID, never a fish: the clearly defined HEAD is at the upper-front end, a single very large LEFT eye points upward toward faint distant surface light; the much smaller right eye is partly visible below it. From the front of the head, show exactly EIGHT thick, flexible ARMS in a gentle loose umbrella, plus TWO longer slender feeding tentacles with small clubs, all clearly attached. Behind the head is a short broad dark purplish-brown CONICAL MANTLE with scattered small blue-white photophore dots and low texture. At the far posterior end of the mantle, place TWO small rounded terminal fins joined only at their rear edge with a clear central notch; fins must look like squid fins, not a vertical fish tail or side pectoral fins. The animal rises diagonally from lower right toward upper left through dark blue midwater. Realistic painterly educational style, whole animal visible, generous margins. No fish-like face, no gills, no mouth with teeth, no fish tail, no dorsal fin, no scales, no arms emerging from the rear, no detached tentacles, no duplicate animals, text, labels, logos, boat, or human.",
+        "Edit the existing illustration: remove the dark eye-like oval below the large eye, replace it with continuous squid head skin, show one near-side eye, preserve the pose, appendages, fins, lighting, and background."
       ],
-      "generatedAt": "2026-10-23T12:48:00+09:00",
-      "checkedAt": "2026-10-23",
-      "sha256": "295de6f304892792b00c36f34fe9eb42fe39afaa70b0f492b110fb4ac8709036",
+      "generatedAt": "2026-10-26T10:35:22+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "97f2a05b0633d847068de72a461536894683fb0c493373729bc829a6d2033970",
       "width": 1536,
       "height": 1024,
-      "changes": "생성 도구 원본 PNG를 그대로 복사. 참조·교정 프롬프트와 부모·독립 판정을 제작 기록에 보존.",
+      "changes": "기존 그림의 눈 아래 둥근 구조를 제거하도록 ChatGPT로 수정한 원본 PNG. 나머지 구도와 자세 유지; 전문가 검토는 받지 않음.",
       "sceneType": "ecology",
       "behaviorCheck": "기관 자료에 근거한 교육 재구성입니다. 실제 관찰 사진, 정확한 수심·속도, 섭식 성공을 뜻하지 않습니다.",
       "behaviorSources": [
