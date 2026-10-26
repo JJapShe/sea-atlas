@@ -14348,5 +14348,151 @@ export const animals = [
         ]
       }
     ]
-  }
+  },
+{
+  "id": "weedy-seadragon",
+  "name": "위디해룡",
+  "scientificName": "Phyllopteryx taeniolatus",
+  "group": "어류",
+  "habitatIds": [
+    "coast"
+  ],
+  "summary": "해초처럼 생긴 돌기로 몸을 숨기는 호주 바다의 물고기예요.",
+  "identity": [
+    "가느다란 관 모양 주둥이와 붉은 주황색 몸, 몸과 꼬리에 난 잎 모양 돌기가 특징이에요. 해마와 달리 몸을 가로로 두고 헤엄쳐요."
+  ],
+  "ecology": "잘피밭이나 해조류가 자라는 바위 주변에 살아요. 수컷은 알을 꼬리 아랫면에 붙여 부화할 때까지 돌봐요.",
+  "diet": "곤쟁이 같은 작은 갑각류를 긴 주둥이로 빨아들여요.",
+  "range": "호주 남부의 온대 바다.",
+  "size": "흔히 약 30–35 cm이며 최대 약 45 cm까지 자라요.",
+  "depth": "대체로 얕은 바다에서 수심 약 50 m까지 살아요.",
+  "sources": [
+    {
+      "title": "Australian Museum — Common Seadragon",
+      "url": "https://australian.museum/learn/animals/fishes/weedy-seadragon-phyllopteryx-taeniolatus/"
+    },
+    {
+      "title": "Museums Victoria — Common Seadragon",
+      "url": "https://collections.museumsvictoria.com.au/species/8331"
+    },
+    {
+      "title": "Museums Victoria — Marine Life exhibition notes",
+      "url": "https://museumsvictoria.com.au/media/1812/marine-life-exhibition-notes.pdf"
+    }
+  ],
+  "depthZoneIds": [
+    "sunlight"
+  ],
+  "aliases": [
+    "위디 해룡",
+    "Common seadragon",
+    "Weedy seadragon"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-26",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "weedy-seadragon",
+      "src": "assets/images/weedy-seadragon-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "위디해룡 · 잘피밭에서 본 옆모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "긴 주둥이, 잎 모양 돌기와 한 줄기로 이어진 꼬리가 보여요. 꼬리 끝 여백이 좁고 무늬와 꼬리 끝 형태는 재구성이에요.",
+      "generationPrompts": [
+        "Create one original landscape 3:2 realistic natural-history illustration for a children's marine atlas: adult weedy seadragon Phyllopteryx taeniolatus, strict left-facing lateral full-body portrait in southern Australian temperate coastal seagrass. Long narrow reddish-orange body with blue fine stripes and pale spots, long tubular snout, small leaflike appendages SPARSELY along body and tail, small transparent dorsal and pectoral fins. Long straight non-prehensile tail fully within frame. Natural seadragon anatomy, not the lavish leafy seadragon. Clear simple blue water and habitat, no text or labels, generous margin.",
+        "Edit this existing scientific illustration of a weedy seadragon. Correct ONLY the tail tip: it currently looks branched or forked. Show a single continuous slender tapering tail ending in one blunt rounded tip, with no split, no branches and no leaf-shaped appendages at the last tip. Leaflike appendages on the rest of the body may remain. Preserve all other anatomy, body pose, any eggs, prey, habitat, framing, colors and light. No text."
+      ],
+      "generatedAt": "2026-10-26T10:41:03+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "180846a643c0dde8181fb0ef7f193c407669c7b4e35493009916b219d75ffbf5",
+      "width": 1536,
+      "height": 1024,
+      "changes": "ChatGPT 생성 원본을 꼬리 끝 교정 후 그대로 복사; 부모와 독립 검토자가 원본 확인, 전문가 감수 전."
+    },
+    {
+      "id": "weedy-seadragon",
+      "src": "assets/images/weedy-seadragon-chatgpt-feeding-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "위디해룡 · 작은 갑각류에 다가가는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "입 앞에 작은 갑각류가 떨어져 있고 꼬리는 하나로 이어져요. 먹이를 잡았는지는 알 수 없고 무늬와 꼬리 끝 형태는 재구성이에요.",
+      "generationPrompts": [
+        "Create one original 3:2 landscape natural-history illustration for a children's marine atlas, adult weedy seadragon Phyllopteryx taeniolatus approaching a tiny mysid shrimp near its long tubular snout, in temperate southern Australian kelp. Three-quarter close oblique view with body diagonally oriented, distinctly unlike a flat side portrait. Long slender red-orange body with blue lines and pale spots, sparse leaf-like appendages, transparent small fins and long non-grasping tail. The mysid is intact and separate; no claim of successful capture. Complete animal visible with margins. Naturalistic painterly realism, no text, labels, or other seadragons.",
+        "Edit this existing scientific illustration of a weedy seadragon. Correct ONLY the tail tip: it currently looks branched or forked. Show a single continuous slender tapering tail ending in one blunt rounded tip, with no split, no branches and no leaf-shaped appendages at the last tip. Leaflike appendages on the rest of the body may remain. Preserve all other anatomy, body pose, any eggs, prey, habitat, framing, colors and light. No text."
+      ],
+      "generatedAt": "2026-10-26T10:41:42+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "4a037aff25ab826957749cad97f7fa223f6249f8d3476bf8680bbd47b8ac31ce",
+      "width": 1536,
+      "height": 1024,
+      "changes": "ChatGPT 생성 원본을 꼬리 끝 교정 후 그대로 복사; 부모와 독립 검토자가 원본 확인, 전문가 감수 전.",
+      "sceneType": "feeding",
+      "behaviorCheck": "작은 갑각류에 접근하는 교육용 재구성으로 먹이를 잡거나 삼켰다는 뜻은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Australian Museum — Common Seadragon",
+          "url": "https://australian.museum/learn/animals/fishes/weedy-seadragon-phyllopteryx-taeniolatus/"
+        },
+        {
+          "title": "Museums Victoria — Common Seadragon",
+          "url": "https://collections.museumsvictoria.com.au/species/8331"
+        },
+        {
+          "title": "Museums Victoria — Marine Life exhibition notes",
+          "url": "https://museumsvictoria.com.au/media/1812/marine-life-exhibition-notes.pdf"
+        }
+      ]
+    },
+    {
+      "id": "weedy-seadragon",
+      "src": "assets/images/weedy-seadragon-chatgpt-ecology-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "위디해룡 · 꼬리 아래에 알을 품은 수컷",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "identityCheck": "알은 주머니가 아닌 꼬리 아랫면에 붙어 있어요. 알의 수와 발달 상태는 확인할 수 없고 등지느러미 속 선은 부정확할 수 있어요.",
+      "generationPrompts": [
+        "Create one original landscape 3:2 natural-history illustration for a children's marine atlas: male weedy seadragon Phyllopteryx taeniolatus swimming slowly over a southern Australian seagrass bed, viewed from slightly below and behind, body curving gently, showing a patch of small pink eggs attached ONLY to the UNDERSIDE of his long tail. No brood pouch, no eggs on belly or leaves. Long tube snout, narrow red-orange body with blue lines, pale spots, sparse small leaflike appendages rather than abundant leafy seadragon foliage, tiny transparent dorsal and pectoral fins; tail not curling around plants. Whole fish including snout and tail in frame. Quiet realistic educational painting, no text or labels.",
+        "Edit this existing scientific illustration of a weedy seadragon. Correct ONLY the tail tip: it currently looks branched or forked. Show a single continuous slender tapering tail ending in one blunt rounded tip, with no split, no branches and no leaf-shaped appendages at the last tip. Leaflike appendages on the rest of the body may remain. Preserve all other anatomy, body pose, any eggs, prey, habitat, framing, colors and light. No text."
+      ],
+      "generatedAt": "2026-10-26T10:42:18+09:00",
+      "checkedAt": "2026-10-26",
+      "sha256": "b4518b4e92d594838c7015cd30854a958b9a07ca2985605441d81f979722f2b2",
+      "width": 1536,
+      "height": 1024,
+      "changes": "ChatGPT 생성 원본을 꼬리 끝 교정 후 그대로 복사; 부모와 독립 검토자가 원본 확인, 전문가 감수 전.",
+      "sceneType": "ecology",
+      "behaviorCheck": "수컷이 꼬리 아래 알을 돌보는 모습을 표현한 교육용 재구성이에요.",
+      "behaviorSources": [
+        {
+          "title": "Australian Museum — Common Seadragon",
+          "url": "https://australian.museum/learn/animals/fishes/weedy-seadragon-phyllopteryx-taeniolatus/"
+        },
+        {
+          "title": "Museums Victoria — Common Seadragon",
+          "url": "https://collections.museumsvictoria.com.au/species/8331"
+        },
+        {
+          "title": "Museums Victoria — Marine Life exhibition notes",
+          "url": "https://museumsvictoria.com.au/media/1812/marine-life-exhibition-notes.pdf"
+        }
+      ]
+    }
+  ]
+}
 ];
