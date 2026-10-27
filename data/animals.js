@@ -15525,5 +15525,151 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "shining-bomber-worm",
+  "name": "빛나는폭탄갯지렁이",
+  "scientificName": "Swima fulgida",
+  "group": "환형동물",
+  "habitatIds": [
+    "deep",
+    "pelagic"
+  ],
+  "summary": "작은 주머니를 떼어 내 초록빛을 내는 깊은 바다의 갯지렁이예요.",
+  "identity": [
+    "눈이 없고, 부드러운 몸 양옆에 가는 강모가 부채처럼 나 있어요. 긴 두 팔프는 감각을 살피는 머리 부속기관이에요.",
+    "한국어 이름은 특징을 설명하는 이름이에요. 그림만으로 작은 아가미·주머니·강모의 정확한 수를 확인할 수는 없어요."
+  ],
+  "ecology": "깊은 물속에 수평으로 떠 있기도 하고, 몸을 좌우로 굽히며 강모 부채를 펼쳤다 오므려 헤엄치기도 해요. 위협받으면 떨어져 나온 작은 주머니가 초록빛을 낼 수 있어요.",
+  "diet": "확인한 기관·종별 연구만으로 먹이를 확정하지 않았어요.",
+  "feedingUnconfirmed": true,
+  "feedingUnconfirmedReason": "MBARI의 Swima 소개는 먹이를 미확인으로 표시해요. 종별 원기재와 2025년 연구도 여기서 쓸 직접 먹이 근거를 제시하지 않아요. 먹이 장면 대신 정지 부유와 방어 행동의 생태 장면 두 장을 그렸어요.",
+  "range": "캘리포니아 중부 앞바다에서 기술됐고, 2025년 연구는 캘리포니아만과 동태평양 NORI-D의 기록을 확인했어요. 비슷한 벌레의 미확정 관찰은 구별해요.",
+  "size": "2025년 연구의 NORI-D 개체는 채집 뒤 살아 있을 때 몸길이 약 2.5 cm였어요. 종의 최대 크기나 모든 개체의 크기는 아니에요.",
+  "depth": "원기재 채집 기록은 약 3,267–3,625 m예요. 2025년 연구의 NORI-D 현장 관찰은 3,443 m이며 종 전체의 최소·최대 수심은 아니에요.",
+  "sources": [
+    {
+      "title": "Osborn et al. (2011) — Swima, original description",
+      "url": "https://doi.org/10.1111/j.1096-3642.2011.00727.x"
+    },
+    {
+      "title": "Seid et al. (2025) — Deep midwater Annelida, Swima fulgida",
+      "url": "https://online.ucpress.edu/elementa/article/13/1/00087/212190/Deep-midwater-Annelida-from-the-NORI-D-exploration"
+    },
+    {
+      "title": "MBARI — Bomber worm (Swima spp.)",
+      "url": "https://www.mbari.org/animal/bomber-worm/"
+    },
+    {
+      "title": "MBARI — Oceans of biodiversity, Swima fulgida slide",
+      "url": "https://www.mbari.org/news/oceans-of-biodiversity/"
+    }
+  ],
+  "depthZoneIds": [
+    "midnight"
+  ],
+  "aliases": [
+    "Shining bomber worm",
+    "Bomber worm",
+    "Swima fulgida",
+    "발광폭탄벌레",
+    "빛나는 폭탄벌레"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "shining-bomber-worm",
+      "src": "assets/images/shining-bomber-worm-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "빛나는폭탄갯지렁이 · 옆사선에서 본 강모 부채",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1672,
+      "height": 941,
+      "sha256": "7c54272d607fc80b7b3feb378d219fdcd880eedac44d50c74e3061ac467f3dc4",
+      "identityCheck": "두 팔프·강모 부채·앞쪽의 짙은 소화관·투명한 몸 연결을 대조했어요. 정확한 마디·강모 수, 아가미 주머니 네 쌍의 연결과 미세기관은 확인할 수 없어요.",
+      "changes": "갑옷처럼 보이던 마디 경계를 부드럽게 교정한 v2를 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas natural-history painting1536x1024. Input MBARI photograph is anatomy reference only for Swima fulgida, not photo copying or a watermark to reproduce. Show ONE whole shining bomber worm in a left-facing side-three-quarter portrait suspended in dark deep open water. Soft elongated segmented transparent gelatinous annelid body, roughly thirty chaetigers, not rigid plates. Paired dense FANS OF MANY very fine straight white swimming chaetae project from each parapodium down both sides; each bristle individually thin, longer than body width, no jointed arthropod legs or fish fins. Head eyeless, with TWO long slender flexible grooved palps curving forward/down, and ONE small median tapered branchia just behind palps. Four pairs of very small oval detachable branchial sacs close behind the head, pale translucent and NOT glowing in this ordinary portrait; far sacs may be naturally obscured, do not put balloons down entire body. Subtle dark anterior gut visible through front one-third, orange-tan coiled midgut farther back, tiny scattered surface papillae. Thin continuously attached tapering rear, no fish tail. Gentle shallow Scurve, chaetal fans spread laterally, whole worm/palp/bristle tips within generous margins. Restrained realistic painterly science illustration ages5–12, soft ROV observation light, no prey or other animals. No eyes, face, armored centipede appearance, mammalian whiskers, extra giant antennae, neon body, glowing external beads, text, arrows, labels, scale bars, border or watermark.",
+        "Use case: precise-object-edit, scientific-educational. Edit ONLY BODY SKIN texture of this Swima fulgida natural-history illustration. Preserve all composition, camera, body curvature, head,2palps, tiny branchiae/sacs, internal dark foregut/orange midgut, every chaetal fan/ray, tail, background, lighting and original dimensions. Replace repetitive thick white segment rims and hard overlapping armor-like annular plates with a SINGLE continuous soft transparent gelatinous sheath with only very faint shallow transverse segment creases. No separate shell plates, joints, ridges or new scales. Outer body contour soft and slightly irregular, not beaded or scalloped. Internal orange gut and fan bases remain visible through jelly. No text, no new anatomy, do not alter fan placement."
+      ]
+    },
+    {
+      "id": "shining-bomber-worm",
+      "src": "assets/images/shining-bomber-worm-chatgpt-hover-v3.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "빛나는폭탄갯지렁이 · 수평으로 떠 있는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1672,
+      "height": 941,
+      "sha256": "157da7e903d934a046908fbe0ae4122fbe191b02608895f3dc489f85736c0423",
+      "identityCheck": "두 팔프·강모 부채·앞쪽의 짙은 소화관·투명한 몸 연결을 대조했어요. 정확한 마디·강모 수, 아가미 주머니 네 쌍의 연결과 미세기관은 확인할 수 없어요. 이 시점에서는 작은 중앙 아가미도 가려져 있어요.",
+      "changes": "과한 꼬리 돌기와 단단한 몸 경계를 교정한 v3를 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas landscape1536x1024 natural-history painting. Reference is MBARI anatomy only, Swima fulgida. Show one complete soft transparent segmented shining bomber worm HANGING nearly straight HORIZONTALLY in deep open water, neutral buoyancy, viewed from ABOVE and a little in front so both lateral chaetal fan arrays and broad dorsal side are visible. Head at lower right and slightly near camera, tail at upper left and receding; NOT side profile. Paired long thin flexible palps point forward and DOWN, two only, no eyes. Dense fans of many thin white straight chaetae on each parapodium rest in a partly DRAWN BACK narrow posture, contrasted with broad fanned swimming portrait; no rigid fins or jointed legs. Body skin is a continuous soft transparent gelatinous sheath with gentle annulations, not separate hard armor plates. Small pale oval branchial sacs close behind head, no glow. Single median subulate branchia, tiny papillae, subtle dark foregut in anterior third and orange-tan coiled midgut. Thin attached tapered rear, no fork. Barely visible distant deep seafloor far below, dark water, restrained external observation light. Full palps, fans and tail within margins. No prey/extra animals, green glowing body, eyes, face, text, labels, scale, watermark, arthropod armor or segmented mechanical legs. Educational reconstruction of reported horizontal suspension, not measured exact altitude.",
+        "undefined\nAlso correct ONLY the posterior tail tip at upperleft: remove the extremely long needle-like single projection. End the segmented soft body in a short bluntly tapering pygidium with its normal final chaetal fans, no additional long whip or spear. Keep all other body, camera, fans, palps and internal gut unchanged.",
+        "Use case: precise-object-edit, scientific-educational. Edit ONLY BODY SKIN texture of this Swima fulgida natural-history illustration. Preserve all composition, camera, body curvature, head,2palps, tiny branchiae/sacs, internal dark foregut/orange midgut, every chaetal fan/ray, tail, background, lighting and original dimensions. Replace repetitive thick white segment rims and hard overlapping armor-like annular plates with a SINGLE continuous soft transparent gelatinous sheath with only very faint shallow transverse segment creases. No separate shell plates, joints, ridges or new scales. Outer body contour soft and slightly irregular, not beaded or scalloped. Internal orange gut and fan bases remain visible through jelly. No text, no new anatomy, do not alter fan placement."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "종별 원기재에 기록된 수평 부유를 교육용으로 재구성했어요. 정확한 자세·속도·바닥 위 높이를 실측한 그림은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Osborn et al. (2011) — Swima, original description",
+          "url": "https://doi.org/10.1111/j.1096-3642.2011.00727.x"
+        }
+      ]
+    },
+    {
+      "id": "shining-bomber-worm",
+      "src": "assets/images/shining-bomber-worm-chatgpt-defense-v3.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "빛나는폭탄갯지렁이 · 떨어져 나온 초록 발광 주머니",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1672,
+      "height": 941,
+      "sha256": "d0893ff1c8d2582dbccd929bf1d417ca8819bb99dc2fcc1a2055ef371adb02fc",
+      "identityCheck": "두 팔프·강모 부채·앞쪽의 짙은 소화관·투명한 몸 연결을 대조했어요. 정확한 마디·강모 수, 아가미 주머니 네 쌍의 연결과 미세기관은 확인할 수 없어요.",
+      "changes": "몸의 경계와 발광낭 연결선을 교정하고 낭을 분리한 v3를 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas natural-history painting1536x1024. MBARI photograph reference for Swima fulgida anatomy; new scene is defense reconstruction described by research, no predator. One complete soft translucent segmented shining bomber worm in an elevated REAR THREE-QUARTER view, tail nearest lower left and head receding upper right, body bent into a broad Ccurve during swimming. Chaetal fans asymmetrical: fans on outside curve broadly expanded power-stroke-like, inside fans more drawn back. MANY fine thin straight white bristles, not jointed legs, no hard armor. Head has2long slender flexible palps curling forward/down and1small median branchia, small oval sacs tucked close behind head. Subtle dark anterior gut and orange-tan coiled midgut through soft gelatinous continuous sheath. ONE small oval branchial sac has detached and floats a SHORT distance beside/behind the head, a gentle concentrated GREEN bioluminescent glow from that sac ONLY. No explosion, sparks, smoke, weapon, or long green trail; the living worm is not glowing neon. Remaining sacs pale/unlit and attached; far ones partly hidden naturally. Whole animal, both palps, every bristle tip and detached small sac fit with generous margins in dark open water, external soft observation light. Restrained painterly science realism ages5–12. No prey or predator, eyes, face, giant balloons, multiple detached glowing balls, text, labels, arrows, watermark, plated centipede, detached body or forked fish tail. This is explanatory defense behavior, not documented escape success or measured moment.",
+        "Use case: precise-object-edit, scientific-educational. Edit ONLY BODY SKIN texture of this Swima fulgida natural-history illustration. Preserve all composition, camera, body curvature, head,2palps, tiny branchiae/sacs, internal dark foregut/orange midgut, every chaetal fan/ray, tail, background, lighting and original dimensions. Replace repetitive thick white segment rims and hard overlapping armor-like annular plates with a SINGLE continuous soft transparent gelatinous sheath with only very faint shallow transverse segment creases. No separate shell plates, joints, ridges or new scales. Outer body contour soft and slightly irregular, not beaded or scalloped. Internal orange gut and fan bases remain visible through jelly. No text, no new anatomy, do not alter fan placement.\nAlso remove the thin line connecting the small green glowing oval sac to the head. That sac must be completely DETACHED, separated by clean dark water on every side. Preserve exactly one green sac and do not add flares or more glowing sacs. Keep the remaining pale oval sacs attached and unlit. Make the single small median tapered branchia immediately behind palps visible as one slim tapered structure, not a bristle fan. Do not alter both long palps, body curve, camera, internal gut, or chaetae.",
+        "Use case: precise-object-edit, scientific-educational. Edit ONLY the detached green glowing sac and its immediate background in this Swima fulgida illustration. MOVE the single green sac from its present position near x1130,y330 to the clean open water centered around x1320,y530, preserving its small oval size and gentle local green glow. Completely erase the old sac AND EVERY thin string, line, stalk or light streak between its old position and the worm; replace that region with continuous dark blue water. At the new position the detached sac must be surrounded by a wide clean dark-water gap on all sides with NO connection, tether, trail or line to any body part. It is freely floating after detachment, not dangling. Do not alter worm body, existing pale attached sacs, palps, branchia, chaetal fans, internal gut, camera, background elsewhere or original1672x941 dimensions. Exactly ONE detached glowing oval, no explosion, no new animal, text or watermark."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "분리된 작은 아가미 주머니가 초록빛을 내는 방어 행동의 교육용 재구성이에요. 실제 폭발이나 특정 포식자를 따돌린 성공 장면이 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Osborn et al. (2011) — Swima, original description",
+          "url": "https://doi.org/10.1111/j.1096-3642.2011.00727.x"
+        },
+        {
+          "title": "MBARI — Oceans of biodiversity, Swima fulgida slide",
+          "url": "https://www.mbari.org/news/oceans-of-biodiversity/"
+        }
+      ]
+    }
+  ]
 }
 ];
