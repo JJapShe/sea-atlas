@@ -14766,5 +14766,54 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "peacock-squid",
+  "name": "공작오징어",
+  "scientificName": "Taonius sp.",
+  "group": "연체동물",
+  "habitatIds": ["deep", "pelagic"],
+  "summary": "큰 눈과 눈 아래 작은 빛기관을 가진 깊은 바다의 유리오징어예요.",
+  "identity": [
+    "머리에서 불룩한 큰 눈과 그 아래의 작은 빛기관을 볼 수 있어요.",
+    "몸이 반투명하고 팔을 몸 위쪽으로 든 채 가만히 떠 있기도 해요."
+  ],
+  "ecology": "깊은 바다 물기둥에서 살며, MBARI는 수심 300 m 아래에서 팔을 위로 향한 정지 자세를 기록했어요.",
+  "diet": "이 도감이 확인한 기관 자료에는 이 속의 직접 먹이활동을 단정할 근거가 충분하지 않아요.",
+  "feedingUnconfirmed": true,
+  "feedingUnconfirmedReason": "MBARI의 공작오징어 자료는 눈·빛기관·정지 자세와 내부 먹물 위장을 설명하지만, 이 속의 먹이 장면을 확인하지 않아요.",
+  "range": "영상에서 확인한 속 단위 기록은 몬터레이 협곡의 깊은 바다예요. 종을 특정하지 않아 전체 분포는 넓게 단정하지 않아요.",
+  "size": "영상에 나온 속 단위 개체의 정확한 크기는 이 도감에서 확인하지 못했어요.",
+  "depth": "MBARI는 수심 300 m 아래에서 관찰했다고 알려요.",
+  "sources": [
+    {"title": "MBARI — Peacock squid", "url": "https://www.mbari.org/gallery/deep-sea-wallpapers/peacock-squid/"},
+    {"title": "MBARI — Deep-sea squid ink camouflage", "url": "https://annualreport.mbari.org/2022/story/out-of-the-darkness-of-the-deep-inky-clouds-take-shape"},
+    {"title": "WoRMS — Taonius pavo", "url": "https://www.marinespecies.org/aphia.php?id=139428&p=taxdetails"}
+  ],
+  "depthZoneIds": ["twilight", "midnight"],
+  "aliases": ["Peacock squid", "Taonius", "유리오징어"],
+  "featured": false,
+  "checkedAt": "2026-10-27",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "peacock-squid", "src": "assets/images/peacock-squid-chatgpt-portrait-v1.png", "role": "illustration", "reviewStatus": "visual-checked", "caption": "공작오징어 · 팔을 위로 든 정지 자세", "credit": "Sea Atlas · ChatGPT로 제작", "generator": "ChatGPT image_gen", "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음", "provenanceUrl": "https://openai.com/policies/terms-of-use/", "expertReviewed": false,
+      "identityCheck": "큰 옆눈과 그 아래 작은 빛기관, 반투명 외투막, 뒤쪽 지느러미, 머리에서 이어지는 팔·긴 촉수를 확인했어요. 팔은 겹쳐 정확한 개수는 확인하기 어렵고 뒤쪽 지느러미의 분리는 약해요.",
+      "generationPrompts": ["One adult peacock squid, Taonius species, in deep midwater below 300 m. Show a clear side-three-quarter whole-body portrait with a translucent elongated glass-squid mantle, one very large round eye naturally embedded on the near side of the head, a small distinct light organ just beneath that eye, paired posterior fins, exactly eight short arms and two longer tentacles emerging naturally from the front of the head. It hangs nearly vertical with arms raised above its body. Landscape 3:2 realistic painterly natural-history illustration, no fish anatomy, text, labels or other animals."],
+      "generatedAt": "2026-10-27T00:00:00+09:00", "checkedAt": "2026-10-27", "sha256": "486e1da487c9fe54eae55bf7814dbc0ebab602733e4780d6ac1d05a396da70fb", "width": 1536, "height": 1024, "changes": "ChatGPT 원본 PNG를 보존하고 부모와 독립 시각 검토자가 눈·빛기관·외투막·부속지 연결을 대조했어요."
+    },
+    {
+      "id": "peacock-squid", "src": "assets/images/peacock-squid-chatgpt-internal-ink-v1.png", "role": "illustration", "reviewStatus": "visual-checked", "caption": "공작오징어 · 몸속 먹물로 어두워진 모습", "credit": "Sea Atlas · ChatGPT로 제작", "generator": "ChatGPT image_gen", "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음", "provenanceUrl": "https://openai.com/policies/terms-of-use/", "expertReviewed": false,
+      "identityCheck": "외투막 안쪽에만 어두운 먹물 표현이 있고, 두 뒤지느러미와 머리 앞의 팔·긴 촉수 연결이 보입니다. 큰 눈은 과장됐을 수 있어요.",
+      "generationPrompts": ["One adult peacock squid, Taonius species, deep in open midwater, shown in a distinct oblique view while its translucent mantle is filled with a dark internal ink cloud for camouflage. The inky darkening remains contained inside the mantle cavity, not released as an external cloud. Show one large natural side eye with a small photophore below it, paired posterior fins, eight arms and two longer tentacles connected at the head. Landscape 3:2 realistic painterly natural-history illustration, no prey, no text or other animals."],
+      "generatedAt": "2026-10-27T00:00:00+09:00", "checkedAt": "2026-10-27", "sha256": "6fb99ad3ac7bbfc61a8eabff1b3264be046c1d57de85401ba10884c2cbe3cbb4", "width": 1536, "height": 1024, "changes": "MBARI가 설명한 외투막 내부 먹물 위장을 교육용으로 재구성했으며, 실제 위협 상황을 뜻하지 않아요.", "sceneType": "ecology", "behaviorCheck": "외투막 안쪽을 먹물로 채워 몸을 어둡게 보이게 하는 방식의 교육용 재구성이며, 실제 상황을 촬영한 사진이 아니에요.", "behaviorSources": [{"title": "MBARI — Deep-sea squid ink camouflage", "url": "https://annualreport.mbari.org/2022/story/out-of-the-darkness-of-the-deep-inky-clouds-take-shape"}]
+    },
+    {
+      "id": "peacock-squid", "src": "assets/images/peacock-squid-chatgpt-glide-v2.png", "role": "illustration", "reviewStatus": "visual-checked", "caption": "공작오징어 · 깊은 물속을 미끄러져 가는 모습", "credit": "Sea Atlas · ChatGPT로 제작", "generator": "ChatGPT image_gen", "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음", "provenanceUrl": "https://openai.com/policies/terms-of-use/", "expertReviewed": false,
+      "identityCheck": "두 뒤지느러미와 머리에서 이어지는 팔·긴 촉수가 보입니다. 눈 아래 기관은 실제 밝기를 뜻하지 않는 삽화 표현이에요.",
+      "generationPrompts": ["One adult peacock squid, Taonius species, in a gentle diagonal glide through deep midwater, three-quarter rear-side view. The rounded transparent mantle recedes away from the viewer. Its paired terminal fins are modest, oval, and attached to the rear of the mantle with a natural central notch; they never resemble a fish tail. The head is smaller than the mantle and has one large but not cartoonish lateral eye, plus a small dim photophore below the eye. Eight short arms and exactly two longer feeding tentacles attach at the head. Landscape 3:2 restrained realistic painterly natural-history illustration, no prey, text or other animals."],
+      "generatedAt": "2026-10-27T00:00:00+09:00", "checkedAt": "2026-10-27", "sha256": "b349ff7852c15f938910e8e580d768c2639ebeacb442f39b9e9f63caff8a07c9", "width": 1536, "height": 1024, "changes": "정지 자세와 다른 전진 구도로 만든 교육용 재구성이에요.", "sceneType": "ecology", "behaviorCheck": "눈 아래 기관을 읽기 쉽게 밝게 그렸지만 실제 발광 강도나 관찰된 행동을 뜻하지 않아요.", "behaviorSources": [{"title": "MBARI — Peacock squid", "url": "https://www.mbari.org/gallery/deep-sea-wallpapers/peacock-squid/"}]
+    }
+  ]
 }
 ];
