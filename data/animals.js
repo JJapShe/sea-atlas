@@ -15123,5 +15123,133 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "threadfin-snailfish",
+  "name": "실지느러미달팽이고기",
+  "scientificName": "Careproctus longifilis",
+  "group": "어류",
+  "habitatIds": [
+    "deep",
+    "pelagic"
+  ],
+  "summary": "가슴지느러미의 맨 위 줄기가 실처럼 길게 뻗는 깊은 바다 물고기예요.",
+  "identity": [
+    "긴 줄기가 입이 아니라 가슴지느러미에서 이어져요.",
+    "한국어 이름은 특징을 설명하는 이름이에요. 작은 눈과 부드러운 몸을 학명과 함께 살펴보세요."
+  ],
+  "ecology": "연구에서는 바닥에서 몇 m 위를 천천히 헤엄쳤어요. 가슴지느러미를 옆으로 펴고 몸을 물결치듯 움직이는 모습이 기록됐어요.",
+  "diet": "이 도감이 확인한 자료만으로 이 종의 먹이를 확정하지 않았어요.",
+  "feedingUnconfirmed": true,
+  "feedingUnconfirmedReason": "MBARI의 종별 현장 연구는 수영·지느러미 자세를 설명하지만 직접 식단을 확정하지 않아요. ITIS는 학명을 대조하는 자료이며 먹이 근거는 아니에요. 먹이 대신 서로 다른 생태 장면 두 장을 그렸어요.",
+  "range": "인용한 연구는 몬터레이 협곡과 후안데푸카·프레지던트잭슨 해산에서 관찰했어요. 종 전체의 분포와는 구별해요.",
+  "size": "논문의 가장 큰 수집 개체는 전체 길이 19.9 cm, 꼬리지느러미를 뺀 표준체장 17.6 cm였어요.",
+  "depth": "인용한 연구의 9개 관찰은 약 2,289–3,499 m예요. 종 전체의 최소·최대 수심을 뜻하지 않아요.",
+  "sources": [
+    {
+      "title": "Stein et al. (2006) — Snailfishes of the central California coast",
+      "url": "https://www.mbari.org/wp-content/uploads/2016/01/Stein-et-al-2006-liparid-paper.pdf"
+    },
+    {
+      "title": "ITIS — Careproctus longifilis",
+      "url": "https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=167524"
+    }
+  ],
+  "depthZoneIds": [
+    "midnight"
+  ],
+  "aliases": [
+    "Threadfin snailfish",
+    "Careproctus longifilis"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "threadfin-snailfish",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/threadfin-snailfish-chatgpt-portrait-v2.png",
+      "caption": "실지느러미달팽이고기 · 양쪽으로 펼친 긴 줄기",
+      "identityCheck": "양쪽 가슴지느러미 위 가장자리에서 긴 줄기가 이어져요. 입 주변 주름과 감각공·색은 강조됐을 수 있고 정확한 줄기 수·비율은 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nCreate an original Sea Atlas natural-history painting, 1536x1024 landscape. Input image is solely a published anatomical reference photograph of Careproctus longifilis, threadfin snailfish. Use the form and pectoral-fin connections, not its annotations, grainy blue photography, or exact pose.\nOne whole Careproctus longifilis seen from FRONT-LEFT OBLIQUE at about 30 degrees, floating horizontally in deep dark open water, body and tail curving gently away to the right behind its broad rounded head. Natural small lateral eyes, closed simple fish mouth, soft pale gray-pink scaleless wrinkled skin. Two pectoral fins join behind the head and open laterally like modest translucent fans. The uppermost ray of EACH pectoral fin extends into a thin filament about twice head length; show both projecting sideways, not upward like antennae, and visibly continuous with the upper fin edge. Lower pectoral rays spread down naturally. A long low dorsal/anal fin membrane outlines the tapering rear body and joins the tail without gaps; no forked tail or spines. Body/head proportions follow the reference, no human expression or cute oversized eyes.\nWhole animal and complete filaments fit with ample margin. Restrained realistic painterly educational illustration ages5–12, dim artificial observation light, no prey or other animals, no bottom in this midwater view. No text, scale bars, labels, border, watermark or photographic frame. No chin whiskers, extra fins, detached tail or duplicated fin rays.",
+        "Precise-object-edit for scientific-educational Sea Atlas illustration. Edit the supplied original front-oblique Careproctus longifilis painting only in the mouth/chin and lower pectoral-fin regions. Keep framing, body, small eyes, lateral pores, tail, background and long sideways upper pectoral rays unchanged.\nReduce the thick lips to a thin simple closed natural fish mouth line. Remove the multiple rounded bulging chin folds so the underside of the head is a softly smooth fish contour with only slight skin wrinkles, no human expression. At each pectoral fin, make the lower lobe a modest web with a few slender lower rays extending downward from the SAME fin base, clearly attached to that fin and not separate triangular pelvic fins. Keep upper filaments extending sideways and connected. No new organs, eyes, antennae, whiskers, glow, text, labels or other animals. Whole animal, realistic restrained natural-history illustration,1536x1024."
+      ],
+      "sha256": "83328ccd18437086822109dd7cbd955cc44fce4aa63c8c6be8ac7b300adac2b4",
+      "changes": "논문 도판 4d를 형태 참고로 자체 생성한 앞사선 v2예요. 입술·턱과 아래 엽을 교정하고 부모·독립 검토자가 원본과 전체 갤러리를 대조했어요."
+    },
+    {
+      "id": "threadfin-snailfish",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/threadfin-snailfish-chatgpt-swim-v1.png",
+      "caption": "실지느러미달팽이고기 · 바닥 위를 천천히 헤엄치기",
+      "identityCheck": "위사선에서 양쪽 가슴지느러미 연결과 굽힌 몸·꼬리가 보여요. 아래쪽 줄기들의 정확한 수와 배치는 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Sea Atlas natural-history painting, landscape1536x1024. Input photograph is an anatomical reference of Careproctus longifilis only; do not reproduce its labels, scale bar or exact image.\nOne whole Careproctus longifilis swimming slowly a few metres over a dim soft deep seafloor. Camera from ABOVE and behind the left shoulder looking obliquely down onto back, with head angled lower left and tail gently bent toward upper right. Show soft elongated tapered snailfish body, modest low continuous dorsal and anal membranes merging with the tail, no spines, fork or detached tail. Natural pale gray-pink scaleless skin with slight lateral wrinkles, small normal side eyes, simple closed mouth without fat lips or multiple chin folds.\nTwo pectoral fins attach at the shoulders behind the head and open to the SIDES at right angles to the body. Each uppermost ray continues as a THIN filament only about TWO head-lengths long, approximately one third of body length, gently curved laterally, not rising up or trailing like a whip. The lower fin lobe and downward rays connect at the SAME pectoral base; no separate triangular pelvic fins. Both pectoral attachments and filament tips visible with margins. Whole-body slow undulation, tail moderately bent, clearly different top-oblique view from a frontal portrait.\nRestrained realistic painterly illustration for ages5–12, artificial observation light, dark water, no prey or other animals. No text, labels, watermark, antennae, chin barbels, extra fins, cartoon face or huge eyes."
+      ],
+      "sha256": "179b0c5505a3eec4fa32906e41993feeee8a04a6ffb671aa1d9bc62677cf8ba7",
+      "changes": "논문 도판을 형태 참고로 자체 생성했어요. 대표와 다른 위사선 시점·굽힘 상태를 부모·독립 검토했어요.",
+      "sceneType": "ecology",
+      "behaviorCheck": "바닥에서 몇 m 위를 천천히 헤엄친 관찰을 교육용으로 재구성했어요. 정확한 고도·속도·색을 보여주는 실측 그림은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Stein et al. (2006) — Snailfishes of the central California coast",
+          "url": "https://www.mbari.org/wp-content/uploads/2016/01/Stein-et-al-2006-liparid-paper.pdf"
+        }
+      ]
+    },
+    {
+      "id": "threadfin-snailfish",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/threadfin-snailfish-chatgpt-turn-v2.png",
+      "caption": "실지느러미달팽이고기 · 몸을 굽혀 방향을 바꾸는 모습",
+      "identityCheck": "긴 줄기가 가까운 가슴지느러미의 맨 위 가장자리에서 이어지고 아래 부채막도 같은 기부에 붙어 있어요. 반대편 가슴지느러미는 가려 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Sea Atlas wildlife illustration1536x1024 landscape. Input photograph is an anatomy reference of Careproctus longifilis, not a composition to copy.\nOne whole threadfin snailfish Careproctus longifilis in a RIGHT-FACING LATERAL view, slowly turning in deep water. Soft tapered scaleless pale gray-pink body gently forms a broad S bend, tail tip curved downward. Low dorsal and anal fin membranes are continuous with the rounded connected tail. Small natural lateral eye, simple thin closed fish mouth, slight natural body wrinkles, no fat human lips or layered chin folds.\nPectoral fins are PARTLY lowered rather than spread horizontally in a T: the near fin, attached immediately behind the head, has an upper lobe and a downward lower lobe from the same base. The thin uppermost fin ray remains visible and curves diagonally toward the viewer, roughly TWO head lengths long at most, not a huge upward whip. Far pectoral fin is mostly obscured, do not duplicate filaments on one side. No separate triangular pelvic fin. Entire body and filament tips visible with generous margin.\nRestrained realistic natural-history painting for ages5–12. Dark blue-black open water, no seafloor or prey, soft artificial observation light. No text, labels, watermark, antennae, chin barbels, spines, forked tail, cut appendages, face expression or giant cute eyes. Educational reconstruction of a slow turn, not a documented feeding or escape event.",
+        "Precise-object-edit for scientific-educational Sea Atlas image. Edit ONLY the near pectoral fin of this Careproctus longifilis painting. Preserve head, eye, mouth, body curve, dorsal/anal membranes, tail, background, framing and lighting exactly.\nThe long filament must be the TOPMOST RAY of the near pectoral fin. Remove the small separate fan-shaped lobe presently ABOVE the long filament. Merge that upper material naturally into the lower pectoral fan so the pectoral fin is a SINGLE attached fan extending DOWNWARD from the long filament. The filament forms its upper boundary, emerging from the same shoulder base just behind the head. It may still curve diagonally down-left toward the viewer, but there is NO fin membrane or separate lobe above its upper edge. No new fins, no pelvic triangles, no barbels or antennae. Preserve full filament tip and the lower fin attachment. Realistic restrained natural-history painting,1536x1024, no text or watermark."
+      ],
+      "sha256": "e0a7f3aba1c8794176313b47423844ff42ca4750720cb008451da955a7c07457",
+      "changes": "긴 줄기가 중간에서 나온 듯 보이던 위 엽을 교정한 v2를 선정했어요. 부모·독립 검토자가 원본 연결과 세 컷의 시점·자세 차이를 확인했어요.",
+      "sceneType": "ecology",
+      "behaviorCheck": "몸을 물결치며 수영하는 기록에 따른 교육용 방향 전환 장면이에요. 이 지느러미 자세의 기능이나 특정 관찰 순간을 단정하지 않아요.",
+      "behaviorSources": [
+        {
+          "title": "Stein et al. (2006) — Snailfishes of the central California coast",
+          "url": "https://www.mbari.org/wp-content/uploads/2016/01/Stein-et-al-2006-liparid-paper.pdf"
+        }
+      ]
+    }
+  ]
 }
 ];
