@@ -15385,5 +15385,145 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "rabbit-eared-comb-jelly",
+  "name": "토끼귀빗해파리",
+  "scientificName": "Kiyohimea usagi",
+  "group": "빗해파리류",
+  "habitatIds": [
+    "deep",
+    "pelagic"
+  ],
+  "summary": "토끼 귀처럼 뻗은 두 돌기와 투명하고 납작한 몸을 가진 빗해파리예요.",
+  "identity": [
+    "해파리와는 다른 빗해파리 무리예요. 넓은 막인 로브 두 장과 반대쪽의 귀 같은 돌기를 구별해 보세요.",
+    "한국어 이름은 특징을 설명하는 이름이에요. 그림의 무지개색과 내부 선은 관찰하기 쉽게 강조됐어요."
+  ],
+  "ecology": "물의 흐름을 따라 천천히 떠다녀요. 연구진은 먹잇감이 넓은 로브에 닿기를 기다리는 방식으로 해석했어요.",
+  "diet": "크릴류가 로브 안쪽 점액에 붙는 모습이 관찰됐어요. 그림은 먹이 포획 과정을 재구성했으며 삼키는 데 성공한 순간을 뜻하지 않아요.",
+  "range": "몬터레이 협곡에서 처음 기술됐고 일본 해역에서도 관찰 기록이 있어요. 각 관찰 장소와 종 전체의 분포를 구별해요.",
+  "size": "일본 연구의 한 개체는 귀 같은 돌기와 로브를 포함한 전체 길이 약 33 cm, 몸통 높이 약 19 cm였어요. 최대 크기는 아니에요.",
+  "depth": "원기재 연구는 200–310 m, 일본 논문은 406 m 관찰을 소개해요. JAMSTEC의 별도 일본 기록은 약 573–800 m예요. 종 전체의 최소·최대 수심은 아니에요.",
+  "sources": [
+    {
+      "title": "Matsumoto & Robison (1992) — Kiyohimea usagi original description",
+      "url": "https://www.researchgate.net/publication/233517164_Kiyohimea_Usagi_a_New_Species_of_Lobate_Ctenophore_from_the_Monterey_Submarine_Canyon"
+    },
+    {
+      "title": "Toyokawa et al. (1998) — Midwater cnidarians and ctenophores, Figs 3J/4J",
+      "url": "https://www.plankton.jp/PBE/issue/vol45_1/vol45_1_061.pdf"
+    },
+    {
+      "title": "JAMSTEC BISMaL — Kiyohimea usagi occurrence records",
+      "url": "https://www.godac.jamstec.go.jp/bismal/e/view/9000306"
+    },
+    {
+      "title": "WoRMS — Kiyohimea usagi",
+      "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=265954"
+    }
+  ],
+  "depthZoneIds": [
+    "twilight"
+  ],
+  "aliases": [
+    "Rabbit-eared comb jelly",
+    "Kiyohimea usagi",
+    "우사기빗해파리"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "rabbit-eared-comb-jelly",
+      "src": "assets/images/rabbit-eared-comb-jelly-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "토끼귀빗해파리 · 두 돌기와 넓게 펼친 로브",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f35e251d449b46006ea9d1757cf41333bf707cb51c16a9b27ed19919d41ffa2b",
+      "identityCheck": "두 돌기·두 로브의 외곽과 투명한 몸 연결을 대조했어요. 가는 부속기관 각각의 연결·전체 빗살열 수·관의 정확한 경로는 확인할 수 없어요. 무지개 반사와 내부 선은 강조될 수 있어요.",
+      "changes": "추가 로브처럼 보이던 막과 과한 그물 관을 교정한 v2를 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create an ORIGINAL Sea Atlas natural-history illustration1536x1024 landscape. Two supplied published photographs are anatomy references only, Kiyohimea usagi rabbit-eared lobate ctenophore. Do not reproduce their crops or labels. Show ONE whole colorless transparent gelatinous ctenophore suspended in dark blue-black open midwater, oblique BROAD SIDE view. Flattened V-shaped body; TWO long triangular aboral processes like soft tapered rabbit ears at one end, continuous with the body, not antennas or mammal ears. At the opposite oral end are two broad flexible translucent feeding lobes with delicate meandering internal canals, one modestly smaller than other; four fine short auricles between lobes may be partly obscured. Fine short oral tentacular filaments close to mouth region, NOT jellyfish long hanging stingers. Small comb plates along the body rows and aboral processes catch restrained rainbow reflections from observation light, not giant glowing colored stripes. Narrow transparent central pharyngeal region, no eyes/face, no fish skeleton. Arrange body on a gentle diagonal ear tips upperleft and feeding lobes lower right, all tips inside with generous margins. Natural thin jelly membranes, restrained painterly science illustration ages5–12. No prey, no extra animals, seafloor, labels, text, scale bars, border, watermarks, opaque pink tissue, bell-shaped jellyfish body or wings.",
+        "Use case: precise-object-edit/scientific-educational. Edit supplied Kiyohimea usagi portrait only in oral-lobe membranes. Preserve TWO long triangular aboral processes at upperleft, central flattened transparent body, short narrow auricles, whole animal composition/background, no face,1536x1024. There must be exactly TWO broad oral feeding lobes: keep the large rounded membrane on right and the large rounded membrane at bottom. REMOVE the extra central-back rounded membrane outline around x700–1060,y350–600 that resembles a third inflated balloon/lobe. Leave clear water in its place, only existing thin auricles may cross. Simplify the dense lace-like branching mesh inside the two remaining lobes to a few subtle long meandering wavy unbranched canal paths following scientific reference, not leaf veins. Clear colorless thin jelly, no new organ, no text, no neon glow, no extra lobe."
+      ]
+    },
+    {
+      "id": "rabbit-eared-comb-jelly",
+      "src": "assets/images/rabbit-eared-comb-jelly-chatgpt-feeding-v3.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "토끼귀빗해파리 · 점액에 붙은 크릴류 · 로브 접사",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "33491ce49dc1e0eb71f2d3a255a2284ac88b380447d7f639c257389bd403d2a4",
+      "identityCheck": "두 로브와 점액실·크릴류를 보여주는 의도된 접사예요. 귀 같은 돌기 끝과 일부 기관은 화면 밖이에요. 정확한 점액 부착점·미세기관·내부 관 경로는 확인할 수 없어요.",
+      "changes": "대표 v2를 형태 참고로 새 접사를 제작하고 더듬이와 혼동된 점액실을 교정한 v3를 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas painting1536x1024 landscape, Kiyohimea usagi feeding-capture educational reconstruction. Reference photographs for anatomy only. One whole transparent colorless rabbit-eared ctenophore viewed OBLIQUELY FROM ORAL END looking between TWO broad soft lobes, strongly foreshortened compressed V body receding upward. Two tapered aboral ear-like processes continue from far upper end and remain visible. Near oral lobe gently curls inward, far oral lobe remains open, distinctly different membrane state from spread broadside portrait. Delicate meandering canals inside thin clear lobes, short fine auricles/oral filaments near central mouth, no face. A SINGLE very small realistic translucent reddish euphausiid krill, less than one tenth body length, is visibly attached to ONE fine short elastic mucus strand ON INNER LOBE surface. No swallowing, blood, bite or prey in stomach. This depicts reported prey adherence, not confirmed feeding success. Sparse subtle comb plates catch faint prismatic reflection, no neon stripes. Entire ctenophore and krill fit with ample margins; dark blue-black open midwater, restrained painterly realism for ages5–12. No jellyfish bell, mammal ears, eyes, arms, wings, oversized shrimp, long trailing stingers, extra lobes, text, labels or watermark.",
+        "Use case: scientific-educational. Original Sea Atlas Kiyohimea usagi educational FEEDING DETAIL painting1536x1024. Supplied illustration is identity reference; retain its anatomy, NOT identical camera. CLOSE OBLIQUE VIEW from the oral end showing ONLY the two broad feeding lobes, their connected central oral region and short auricles. Aboral ear-process tips intentionally outside frame beyond upper edge; this is a labeled-in-app detail crop, not a complete animal. Near lobe curls softly toward viewer exposing INNER surface; far lobe extends behind slightly edge-on. Exactly TWO broad lobes, not three balloons or additional triangular wings. Colorless thin jelly membranes with a FEW delicate meandering canal paths, no dense leaf veins. A SINGLE TINY realistic reddish transparent euphausiid krill about one fifteenth of whole animal body length touches the near inner-lobe surface. One extremely fine but visible short elastic mucus strand clearly connects this inner surface to the krill's thorax; krill outside tissue, no swallowing or internal stomach image. Short fine auricles at oral region, not thick arms or mass of jellyfish stingers. Sparse comb reflections at edges only, restrained light not neon. Dark open-water background, soft external observation light, educational painterly realism ages5–12, no text, arrows, labels, eyes, face, extra prey, blood or other animals. This is reconstruction of observed mucus attachment only.",
+        "Use case: precise-object-edit/scientific-educational. Edit only the attachment strand in this Kiyohimea usagi feeding-detail illustration. Keep the two transparent feeding lobes, camera crop, canal paths, auricles, krill body size/position and all background exactly. The current long bright line emerges from the KRILL HEAD and can be mistaken for an antenna. REMOVE only that bright diagonal head-origin line. Keep the natural krill antennae short and faint. Add ONE separate very thin gently curved whitish mucus strand from the inner lobe surface immediately above the krill to the DORSAL THORAX of the krill (the middle top of its carapace behind its dark eye). The mucus must visibly adhere to shell surface, not emerge as an anatomical appendage. Short distance, clear attachment, no oversized web, no swallowing, no additional animals, no text. Preserve1536x1024 and colorless subtle jelly."
+      ],
+      "sceneType": "feeding",
+      "behaviorCheck": "크릴류가 로브 안쪽 점액에 붙은 관찰을 교육용으로 재구성했어요. 실제 섭식 완료·특정 부착점·영상 개체의 행동을 확정하지 않아요.",
+      "behaviorSources": [
+        {
+          "title": "Matsumoto & Robison (1992) — Kiyohimea usagi original description",
+          "url": "https://www.researchgate.net/publication/233517164_Kiyohimea_Usagi_a_New_Species_of_Lobate_Ctenophore_from_the_Monterey_Submarine_Canyon"
+        }
+      ]
+    },
+    {
+      "id": "rabbit-eared-comb-jelly",
+      "src": "assets/images/rabbit-eared-comb-jelly-chatgpt-drift-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "토끼귀빗해파리 · 좁은면에서 본 천천히 떠다니는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "22877a06ade24a97856c113573b3eb3956dd3bb304b26c19e66fb6537537455e",
+      "identityCheck": "두 돌기·두 로브의 외곽과 투명한 몸 연결을 대조했어요. 가는 부속기관 각각의 연결·전체 빗살열 수·관의 정확한 경로는 확인할 수 없어요. 무지개 반사와 내부 선은 강조될 수 있어요.",
+      "changes": "논문 다른 시점 사진을 형태 참고로 새로 제작한 v1을 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Create original Sea Atlas natural-history painting1536x1024 landscape. Supplied published photo is sole ANATOMICAL reference for Kiyohimea usagi, not a composition to trace. Show one whole extremely thin transparent colorless rabbit-eared ctenophore from an EDGE-ON stomodaeal-oblique perspective as in reference, drifting diagonally in dark open water. Overall V-shaped compressed gelatinous body, two connected tapered aboral processes at upper right with slightly unequal lengths; TWO and only TWO oral lobes at lower left, one folded slightly toward camera and the other extended away, so narrow body thickness is evident. Thin auricles around oral region, subtle fine oral filaments, not thick arms. Transparent central body and subtle few meandering canal paths, very fine comb rows catch faint iridescent reflections under soft external observation light; NOT light-emitting glowing outlines. Soft broad folds and lobes are continuous with body, not separate wings. Different side and narrow edge view from broadside representative, lobes asymmetrically cupped in a gentle drift, no fast swimming or dramatic flapping. Entire body and tips fit with generous dark-water margins. Restrained painterly scientific realism for children5–12. No prey, eyes, face, opaque organs, additional round lobes, long trailing jellyfish stingers, text, labels, scale bars, border, watermarks or neon network."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "물의 흐름에 따라 느리게 떠다닌 관찰을 교육용으로 재구성했어요. 로브의 굽힘과 시점은 실제 특정 순간의 측정이 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Matsumoto & Robison (1992) — Kiyohimea usagi original description",
+          "url": "https://www.researchgate.net/publication/233517164_Kiyohimea_Usagi_a_New_Species_of_Lobate_Ctenophore_from_the_Monterey_Submarine_Canyon"
+        },
+        {
+          "title": "Toyokawa et al. (1998) — Midwater cnidarians and ctenophores, Figs 3J/4J",
+          "url": "https://www.plankton.jp/PBE/issue/vol45_1/vol45_1_061.pdf"
+        }
+      ]
+    }
+  ]
 }
 ];
