@@ -15251,5 +15251,139 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "blue-chimaera",
+  "name": "뾰족주둥이푸른은상어류",
+  "scientificName": "Hydrolagus cf. trolli",
+  "group": "어류",
+  "habitatIds": [
+    "deep"
+  ],
+  "summary": "짧고 뾰족한 주둥이와 날개처럼 넓은 가슴지느러미를 가진 은상어류예요.",
+  "identity": [
+    "청회색 몸은 꼬리 쪽으로 가늘어져요. 기존 긴코은상어처럼 주둥이가 길게 뻗지는 않아요.",
+    "한국어 이름은 특징을 설명하는 이름이에요. 학명의 cf.는 닮았지만 종이 확정되지 않았다는 뜻이에요."
+  ],
+  "ecology": "북태평양 연구에서는 암반이나 바위가 섞인 바닥 가까이에서 관찰됐어요. 넓은 가슴지느러미와 가늘어지는 몸을 여러 방향에서 살펴보세요.",
+  "diet": "확인한 자료만으로 이 잠정 동정 생물의 먹이를 확정하지 않았어요.",
+  "feedingUnconfirmed": true,
+  "feedingUnconfirmedReason": "북태평양 원문은 형태·서식 바닥을 다루며 종 확정도 유보해요. 호주 H. trolli 보고서도 생태 정보가 매우 부족하다고 해요. 관련 은상어의 식단을 옮겨 쓰지 않고 서로 다른 이동 장면으로 대체했어요.",
+  "range": "인용한 북태평양 연구는 캘리포니아와 하와이 서쪽의 관찰이에요. 확정된 남서태평양 H. trolli의 분포와 구별해요.",
+  "size": "MBARI 연보의 관찰 개체는 약 1 m를 조금 넘는 것으로 소개돼요. 정밀 실측이나 이 생물의 최대 크기를 뜻하지 않아요.",
+  "depth": "인용한 북태평양 연구의 여섯 관찰은 약 1,629–2,064 m예요. 종 전체의 수심 범위가 아니에요.",
+  "sources": [
+    {
+      "title": "Reichert et al. (2016) — First North Pacific records of Hydrolagus cf. trolli",
+      "url": "https://link.springer.com/article/10.1186/s41200-016-0095-5"
+    },
+    {
+      "title": "MBARI 2016 Annual Report — Figure 49",
+      "url": "https://www.mbari.org/wp-content/uploads/2017/04/MBARI_2016_Annual_Report.pdf"
+    },
+    {
+      "title": "Australian Government — Hydrolagus trolli report card",
+      "url": "https://fish.gov.au/docs/SharkReport/2023_FRDC_Hydrolagus_trolli_Final.pdf"
+    }
+  ],
+  "depthZoneIds": [
+    "midnight"
+  ],
+  "aliases": [
+    "Pointy-nosed blue chimaera",
+    "Blue chimaera",
+    "Hydrolagus cf. trolli",
+    "푸른은상어"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "blue-chimaera",
+      "src": "assets/images/blue-chimaera-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "뾰족주둥이푸른은상어류 · 옆사선에서 본 짧은 주둥이",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1c0015de3b50d77a63fc913bc17b76595da2dc447f58c342658b10cb4ced46ca",
+      "identityCheck": "짧은 뾰족 주둥이·삼각 가슴지느러미·낮은 둘째등지느러미·짧은 꼬리 끝과 연결을 대조했어요. 보이는 배지느러미 끝을 교정했어요. 가려진 반대편·배면과 등가시의 미세 휨·톱니는 확인할 수 없어요. 잠정 동정이며 전문가 감수 전이에요.",
+      "changes": "기관 사진을 형태 참고로 자체 제작한 v1에서 배지느러미 끝을 교정한 v2예요. 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Sea Atlas original natural-history painting,1536x1024 landscape. Supplied photo is anatomy reference only for Hydrolagus cf. trolli, pointy-nosed blue chimaera; identification is tentative.\nOne whole blue-gray slender Hydrolagus cf.trolli in a left-facing side-three-quarter portrait in dark deep water above a subtle rocky seabed. Narrow head with a short pointed snout, NOT a long spear snout; natural modest eye with dark orbital rim and subtle dark lateral-line grooves. Large attached triangular pointed pectoral fins; broad pelvic fins with squared outer edges. One triangular first dorsal fin and its SINGLE slightly forward-curved leading spine near the head. A long LOW second dorsal fin follows the tapering back. Slender body tapers evenly into whip-like rear tail; terminal caudal filament is SHORT AND BLUNT, not an enormously long string. All fins and tail continuously attached and visible with margins. Smooth scaleless skin, no teeth displayed. Soft artificial observation light, restrained realistic painterly educational style ages5–12. No text, labels, scales, watermark, prey or extra animals. No shark gill slits, multiple spikes, separate tail, human expression or oversized eyes. Do not copy exact photo pose or texture.",
+        "Use case: precise-object-edit, scientific-educational. Edit this Sea Atlas chimaera illustration. Change ONLY the visible pelvic fin near the rear underside: replace its rounded paddle outline with a broad pelvic fin with an almost straight, squared-off distal edge, as described for Hydrolagus cf.trolli. Natural flexible fin, not a geometric rectangle; keep fin attachment, rays and realistic taper at base. Keep animal identity, body, snout, eye, all other fins, tail, scene, camera, composition, colors and 1536x1024 dimensions unchanged. No text or additional elements."
+      ]
+    },
+    {
+      "id": "blue-chimaera",
+      "src": "assets/images/blue-chimaera-chatgpt-swim-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "뾰족주둥이푸른은상어류 · 앞위에서 본 펼친 가슴지느러미",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f74a107a91baa4ea5fea0ad22ab5a55ad98739a1f24d140df6351fc1b12aa3e3",
+      "identityCheck": "짧은 뾰족 주둥이·삼각 가슴지느러미·낮은 둘째등지느러미·짧은 꼬리 끝과 연결을 대조했어요. 보이는 배지느러미 끝을 교정했어요. 가려진 반대편·배면과 등가시의 미세 휨·톱니는 확인할 수 없어요. 잠정 동정이며 전문가 감수 전이에요.",
+      "changes": "기관 사진을 형태 참고로 자체 제작한 v1에서 배지느러미 끝을 교정한 v2예요. 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas natural-history illustration,1536x1024 landscape. Reference image1 is anatomy only, image2 is style/identity consistency only. Make a genuinely different view of one Hydrolagus cf. trolli (tentative pointy-nosed blue chimaera). Elevated front-three-quarter view looking diagonally DOWN toward the animal swimming toward the lower right, short pointed snout nearest viewer, foreshortened tapered body and short blunt tail endpoint behind it. Both large triangular pectoral fins spread laterally and angled down in a swimming stroke, broad squarish pelvic fins behind. Smooth blue-gray scaleless skin, subtle dark lateral-line grooves, natural eyes with dark orbital rims. One triangular first dorsal with a single slightly forward-curved leading spine, long LOW second dorsal, continuous tail. Deep dark water over distant rocky slope, soft ROV-like light. Show complete animal with space around every fin. No prey, extra animals, text, watermark, shark gill slits, long spear nose, giant tail filament, duplicate spines or human expression. Distinct camera and fin position from side portrait; do not simply rotate or mirror it. This is an educational reconstruction of locomotion, not a documented exact instant.",
+        "Use case: precise-object-edit, scientific-educational. Edit this Sea Atlas chimaera illustration. Change ONLY the visible pelvic fin near the rear underside: replace its rounded paddle outline with a broad pelvic fin with an almost straight, squared-off distal edge, as described for Hydrolagus cf.trolli. Natural flexible fin, not a geometric rectangle; keep fin attachment, rays and realistic taper at base. Keep animal identity, body, snout, eye, all other fins, tail, scene, camera, composition, colors and 1536x1024 dimensions unchanged. No text or additional elements."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "암반·혼합 바닥 근처에서 관찰된 자료에 따른 이동 자세의 교육용 재구성이에요. 특정 관찰 순간이나 수영 속도·지느러미 운동을 실측한 그림은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Reichert et al. (2016) — First North Pacific records of Hydrolagus cf. trolli",
+          "url": "https://link.springer.com/article/10.1186/s41200-016-0095-5"
+        }
+      ]
+    },
+    {
+      "id": "blue-chimaera",
+      "src": "assets/images/blue-chimaera-chatgpt-turn-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "뾰족주둥이푸른은상어류 · 뒤위에서 본 방향 전환",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "902453ab87e59d146c98f21b8baa250d2b0e8f599bd55d85343aedcdf5b0df8a",
+      "identityCheck": "짧은 뾰족 주둥이·삼각 가슴지느러미·낮은 둘째등지느러미·짧은 꼬리 끝과 연결을 대조했어요. 보이는 배지느러미 끝을 교정했어요. 가려진 반대편·배면과 등가시의 미세 휨·톱니는 확인할 수 없어요. 잠정 동정이며 전문가 감수 전이에요.",
+      "changes": "기관 사진을 형태 참고로 자체 제작한 v1에서 배지느러미 끝을 교정한 v2예요. 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas landscape natural-history painting 1536x1024. Image1 is scientific anatomy reference, image2 identity/style reference. Show one tentative Hydrolagus cf.trolli in a REAR three-quarter view, swimming away toward upper left over deep rocky seabed. Camera behind and slightly above tail, see back and BOTH pectoral fins, tiny glimpse of short pointed snout at far left. Animal turns gently, trunk bends in shallow C-curve, tail sweeps to lower right; near pectoral tilted up and far pectoral angled down, clearly different pose from straight side portrait and front swimming view. Blue-gray scaleless skin and dark lateral-line grooves. Triangular pectorals and broad pelvic fins with noticeably straight almost squared distal edges, not rounded paddles. Single triangular first dorsal with one spine, long LOW second dorsal, tapering tail with SHORT BLUNT terminal filament, all continuously attached. Keep full animal inside frame with margins. Restrained realistic painterly educational style. No prey or interaction, no labels/text/watermark, no giant tail string, no long spear snout, no shark gill slits, no extra spikes or fins. Reconstruction of movement near rocky habitat, not a photographed event.",
+        "Use case: precise-object-edit, scientific-educational. Edit this Sea Atlas chimaera illustration. Change ONLY the visible pelvic fin near the rear underside: replace its rounded paddle outline with a broad pelvic fin with an almost straight, squared-off distal edge, as described for Hydrolagus cf.trolli. Natural flexible fin, not a geometric rectangle; keep fin attachment, rays and realistic taper at base. Keep animal identity, body, snout, eye, all other fins, tail, scene, camera, composition, colors and 1536x1024 dimensions unchanged. No text or additional elements."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "암반·혼합 바닥 근처에서 관찰된 자료에 따른 이동 자세의 교육용 재구성이에요. 특정 관찰 순간이나 수영 속도·지느러미 운동을 실측한 그림은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Reichert et al. (2016) — First North Pacific records of Hydrolagus cf. trolli",
+          "url": "https://link.springer.com/article/10.1186/s41200-016-0095-5"
+        }
+      ]
+    }
+  ]
 }
 ];
