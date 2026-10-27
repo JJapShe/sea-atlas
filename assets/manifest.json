@@ -7768,7 +7768,7 @@
     },
     {
       "id": "dofleins-jewel-squid",
-      "src": "assets/images/dofleins-jewel-squid-chatgpt-portrait-side-v3.png",
+      "src": "assets/images/dofleins-jewel-squid-chatgpt-portrait-side-v4.png",
       "role": "illustration",
       "reviewStatus": "visual-checked",
       "caption": "도플라인보석오징어 · 큰 눈이 보이는 옆모습",
@@ -7777,17 +7777,18 @@
       "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
       "provenanceUrl": "https://openai.com/policies/terms-of-use/",
       "expertReviewed": false,
-      "identityCheck": "큰 눈 한쪽과 외투막, 뒤쪽 지느러미 및 긴 촉수 두 개가 보입니다. 반대쪽 눈은 가려져 있고 팔이 겹쳐 정확한 개수는 확인하기 어렵습니다. 전문가 검토는 받지 않았습니다.",
+      "identityCheck": "큰 눈 한쪽이 머리 옆 피부에 자연스럽게 놓이고, 외투막·뒤쪽 지느러미·긴 촉수 두 개가 보입니다. 물고기 같은 얼굴선은 제거했고, 팔이 겹쳐 정확한 개수는 그림에서 확인하기 어렵습니다. 전문가 검토는 받지 않았습니다.",
       "generationPrompts": [
         "Scientific wildlife illustration for a Korean children's deep-sea atlas, no words and no labels. One Stigmatoteuthis dofleini (Doflein's jewel squid), a deep-sea cockeyed jewel squid, close left-front three-quarter portrait in dark midwater. Accurate body: short stout cone-shaped mantle with low tiny papillae, two broad rounded fins at the rear, eight arms plus two longer feeding tentacles all connected naturally, mantle and arms dotted with small subtle blue photophores. The left eye must be clearly much larger than the right eye, with the larger left eye facing upward. Entire animal visible, no prey, no other animals, calm readable natural-history digital painting, wide landscape composition.",
-        "Edit this scientific educational illustration of Doflein's jewel squid, Stigmatoteuthis dofleini. Fix the misleading fish-like face: render the head in an anatomically plausible lateral side view with ONE large lateral eye visible on the near side, naturally embedded in the head rather than protruding upward. The smaller opposite eye lies on the far side and is hidden by the head in this view; do not draw a second eye on the near side. Head is between the mantle and the crown of arms, with no fish mouth or fish face. Keep the squid's elongated mantle, paired posterior fins, eight arms and two longer feeding tentacles, deep blue background, existing painterly natural-history style and overall framing. No text, labels, extra eyes or extra appendages."
+        "Edit this scientific educational illustration of Doflein's jewel squid, Stigmatoteuthis dofleini. Fix the misleading fish-like face: render the head in an anatomically plausible lateral side view with ONE large lateral eye visible on the near side, naturally embedded in the head rather than protruding upward. The smaller opposite eye lies on the far side and is hidden by the head in this view; do not draw a second eye on the near side. Head is between the mantle and the crown of arms, with no fish mouth or fish face. Keep the squid's elongated mantle, paired posterior fins, eight arms and two longer feeding tentacles, deep blue background, existing painterly natural-history style and overall framing. No text, labels, extra eyes or extra appendages.",
+        "Correct the near head only so the animal reads unmistakably as a squid in a natural lateral three-quarter view, not as a fish. Make the front of the head softly rounded and continuous with the arm crown; relocate the near large eye higher and slightly back on the side of the head, naturally embedded in the tissue. The eye must be smaller and less circularly protruding, with no bright ring that reads as a fish eye. Remove any fish-mouth silhouette, gill-like line, or face-like snout. Preserve a subtle mantle-to-head neck, paired rear fins, eight arms plus two long feeding tentacles, blue photophores, deep blue water, all appendages, and the same general left-facing pose and natural-history painterly style. No second visible eye, fish scales, fish tail, text, watermark, or extra appendages."
       ],
-      "generatedAt": "2026-10-25T13:29:00Z",
-      "checkedAt": "2026-10-25",
-      "sha256": "4d7bfa6f4b99026534e7a74370dac01bdba4b1db4b705cd7eb12c02aa5c5c50c",
+      "generatedAt": "2026-10-27T00:00:00+09:00",
+      "checkedAt": "2026-10-27",
+      "sha256": "4962c245b3f9b2661c20a1525351d4c090bc8d369c2fd1f61cef7a7a8acd24bb",
       "width": 1536,
       "height": 1024,
-      "changes": "기존 이미지를 ChatGPT로 수정하고 원본 PNG를 그대로 보존. 부모 및 독립 시각 검토를 거쳤으며 팔의 정확한 개수는 확인하기 어려움."
+      "changes": "기존 이미지를 ChatGPT로 다시 수정해 과도하게 둥글고 돌출된 눈, 물고기 얼굴선처럼 읽히던 머리 앞부분을 완화했습니다. 원본 PNG를 그대로 보존했으며, 부모와 독립 시각 검토에서 물고기 같은 주둥이·분리된 부속지는 보이지 않았습니다. 팔의 정확한 개수는 확인하기 어렵습니다."
     },
     {
       "id": "dofleins-jewel-squid",
