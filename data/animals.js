@@ -14995,5 +14995,133 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "flota-worm",
+  "name": "플로타갯지렁이류",
+  "scientificName": "Flota sp.",
+  "group": "환형동물",
+  "habitatIds": [
+    "deep",
+    "pelagic"
+  ],
+  "summary": "반투명한 젤리 같은 몸으로 깊은 물속에 떠 있는 갯지렁이류예요.",
+  "identity": [
+    "몸 옆에 가는 강모가 나 있고 눈은 없어요.",
+    "이름은 설명용이며 종은 확정하지 않았어요. 그림은 연구에서 Flota sp. KJO-2008로 부르는 형태를 참고했어요."
+  ],
+  "ecology": "연구에서는 머리를 아래로 향해 가만히 뜨거나 느리게 헤엄치는 모습을 기록했어요.",
+  "diet": "무엇을 어떻게 먹는지는 아직 확실히 알려지지 않았어요.",
+  "feedingUnconfirmed": true,
+  "feedingUnconfirmedReason": "2025년 현장 연구는 먹이 방식을 미확정으로 설명해요. 다른 계통·형태 연구도 함께 대조했지만 먹이활동을 확정할 근거가 없어 서로 다른 생태 두 장면으로 구성했어요.",
+  "range": "참고한 KJO-2008형은 북동태평양 몬터레이만과 클라리온–클리퍼턴 해역에서 기록됐어요. Flota류 전체의 분포를 뜻하지 않아요.",
+  "size": "현장에서 잰 두 참고 개체는 몸길이 약 43 mm와 60 mm였어요. 이 무리 전체의 크기 범위는 아니에요.",
+  "depth": "참고한 KJO-2008형의 보고 범위는 약 2,816–4,063 m예요. 모든 Flota류에 적용되지는 않아요.",
+  "sources": [
+    {
+      "title": "Seid et al. (2025) — Deep midwater Annelida",
+      "url": "https://doi.org/10.1525/elementa.2024.00087"
+    },
+    {
+      "title": "Osborn & Rouse — Phylogenetics of Acrocirridae and Flabelligeridae",
+      "url": "https://repository.si.edu/bitstream/handle/10088/34432/OsbornRouse2010supp.pdf"
+    }
+  ],
+  "depthZoneIds": [
+    "midnight"
+  ],
+  "aliases": [
+    "Flota",
+    "중층갯지렁이류"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "flota-worm",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/flota-worm-chatgpt-portrait-v2.png",
+      "caption": "플로타갯지렁이류 · 반투명한 몸의 옆모습",
+      "identityCheck": "매끈한 젤라틴 외피와 낮은 강모 기부, 가는 강모가 보여요. 강모·체절 수와 내부기관의 정확한 모양은 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: Sea Atlas whole-animal natural-history illustration, landscape 1536x1024.\nCreate a scientifically restrained Flota sp. KJO-2008, an eyeless gelatinous deep-midwater flabelligerid annelid. Base the visual on its in-situ habitus: one soft translucent slightly curved sac-like cylindrical body, head retracted at the right broader end, subtly tapered blunt posterior at left. Smooth continuous irregular jelly sheath; segmentation is very faint and must NOT look like overlapping plates, rings, armor, or a caterpillar. Low, tiny inconspicuous lateral bumps, not tall cones or stalks. Sparse groups of very fine straight pale chaetae extend sideways: only a few discernible bristles per visible group, and some groups obscured by the sheath. Interior mostly transparent with one faint beige shadow of a gut; no series of large opaque nodules or repeated internal balls. No eyes, face, antennae, exoskeleton, jointed legs, paddle fins, fish tail, tentacle crown or luminous organs.\nSide-dorsal oblique portrait, gentle shallow S-curve, whole animal and bristles fully visible with generous margins. Dark blue-black deep open water, subtle particles, soft artificial observation light. Restrained realistic painterly educational illustration for ages 5–12, no text, scale bars, labels or watermark. Do not over-detail uncertain anatomy."
+      ],
+      "sha256": "4930da3e5eab15a6b47005198e33955a34ddc54e55e397704ed14602ca023972",
+      "changes": "과장된 돌기와 내부 덩어리가 있던 v1을 제외하고 v2를 선정했어요. 부모·독립 검토자가 현장 사진과 전체 갤러리를 대조했으며 특정 종 동정은 아니에요."
+    },
+    {
+      "id": "flota-worm",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/flota-worm-chatgpt-hover-v3.png",
+      "caption": "플로타갯지렁이류 · 앞끝을 아래로 향해 떠 있는 모습",
+      "identityCheck": "양쪽 강모 열과 뒤로 작아지는 몸이 보여요. 가까운 앞끝과 내부 윤곽은 강조됐을 수 있고 정확한 기관 형태는 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: Sea Atlas whole-animal natural-history illustration, landscape 1536x1024.\nCreate a scientifically restrained Flota sp. KJO-2008, an eyeless gelatinous deep-midwater flabelligerid annelid. Base the visual on its in-situ habitus: one soft translucent slightly curved sac-like cylindrical body, head retracted at the right broader end, subtly tapered blunt posterior at left. Smooth continuous irregular jelly sheath; segmentation is very faint and must NOT look like overlapping plates, rings, armor, or a caterpillar. Low, tiny inconspicuous lateral bumps, not tall cones or stalks. Sparse groups of very fine straight pale chaetae extend sideways: only a few discernible bristles per visible group, and some groups obscured by the sheath. Interior mostly transparent with one faint beige shadow of a gut; no series of large opaque nodules or repeated internal balls. No eyes, face, antennae, exoskeleton, jointed legs, paddle fins, fish tail, tentacle crown or luminous organs.\nSide-dorsal oblique portrait, gentle shallow S-curve, whole animal and bristles fully visible with generous margins. Dark blue-black deep open water, subtle particles, soft artificial observation light. Restrained realistic painterly educational illustration for ages 5–12, no text, scale bars, labels or watermark. Do not over-detail uncertain anatomy.",
+        "Use case: scientific-educational. Sea Atlas illustration 1536x1024 landscape. Use supplied Flota sp KJO-2008 as a restrained anatomical reference but create a new camera angle, NOT a rotated side silhouette.\nCamera is below and in front of the retracted anterior, looking upward along the animal's VENTRAL surface. The broad eyeless retracted head is closest to the viewer at lower center; the nearly straight soft body recedes steeply upward and away so it looks FORESHORTENED, only about three times as long as the near end is wide. Both LEFT AND RIGHT rows of sparse thin pale lateral bristle bundles must be visible simultaneously, like two gentle converging rows along the sides. The far blunt rear is narrower and smaller from perspective. Head-down stationary buoyancy, no feeding or extended mouth. Smooth transparent continuous jelly sheath, faint chaetiger boundaries, very low bristle bases. One faint inner gut shadow, no repeated opaque organ balls. Preserve soft gelatinous worm, no armor rings, caterpillar plates, conical protrusions, eyes, face, antennae, legs, paddle fins, fish tail or glow. Deep blue-black open water and sparse particles, soft observation illumination, no seafloor. Full body and bristle tips with generous margin, natural-history painting for children, no text, labels or watermark."
+      ],
+      "sha256": "8d8bef599b77c9859ffcd4a1c056517841e00838e7478aaac8f3b0a218e37552",
+      "changes": "같은 옆모습처럼 보인 v2 대신 정면 사선의 v3를 선정했어요. 대표 v2를 형태 참고로 사용하고 부모·독립 검토했어요.",
+      "sceneType": "ecology",
+      "behaviorCheck": "논문의 Flota sp. KJO-2008에서 기록한 머리 아래 정지 부유를 교육용으로 재구성했어요. 그림 속 개체를 그 종으로 동정한 것은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Seid et al. (2025) — Deep midwater Annelida",
+          "url": "https://doi.org/10.1525/elementa.2024.00087"
+        }
+      ]
+    },
+    {
+      "id": "flota-worm",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/flota-worm-chatgpt-swim-v1.png",
+      "caption": "플로타갯지렁이류 · 몸을 굽혀 천천히 이동하는 모습",
+      "identityCheck": "부드럽게 크게 굽은 몸과 연결된 가는 강모가 보여요. 대표와 옆면 시점은 비슷하며 정확한 강모 수와 내부기관은 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset: Sea Atlas whole-animal natural-history illustration, landscape 1536x1024.\nCreate a scientifically restrained Flota sp. KJO-2008, an eyeless gelatinous deep-midwater flabelligerid annelid. Base the visual on its in-situ habitus: one soft translucent slightly curved sac-like cylindrical body, head retracted at the right broader end, subtly tapered blunt posterior at left. Smooth continuous irregular jelly sheath; segmentation is very faint and must NOT look like overlapping plates, rings, armor, or a caterpillar. Low, tiny inconspicuous lateral bumps, not tall cones or stalks. Sparse groups of very fine straight pale chaetae extend sideways: only a few discernible bristles per visible group, and some groups obscured by the sheath. Interior mostly transparent with one faint beige shadow of a gut; no series of large opaque nodules or repeated internal balls. No eyes, face, antennae, exoskeleton, jointed legs, paddle fins, fish tail, tentacle crown or luminous organs.\nSide-dorsal oblique portrait, gentle shallow S-curve, whole animal and bristles fully visible with generous margins. Dark blue-black deep open water, subtle particles, soft artificial observation light. Restrained realistic painterly educational illustration for ages 5–12, no text, scale bars, labels or watermark. Do not over-detail uncertain anatomy.",
+        "Use case: scientific-educational. Sea Atlas whole-animal illustration, landscape 1536x1024. Anatomical reference: the supplied Flota sp KJO-2008 image, preserve the smooth gelatinous sheath and subdued internal anatomy but create a genuinely different pose and camera view, not a rotation.\nOne eyeless Flota midwater worm seen obliquely from the other side and slightly from underneath, body bent into a strong shallow C curve during a slow swimming movement. Broader retracted anterior at lower left, rear at upper right; no extended head or mouth. Both nearer and farther lateral bristle groups become visible around the curved body from this perspective. Very small low bases and sparse thin straight whitish bristles, never fins or legs. Body remains continuous and soft, with faint chaetiger boundaries; pale gut only a subdued internal line. No repeated opaque nodules, no protruding cylinders, no sharp armored segments, eyes, face, antennae, glow, fish tail, or tentacle crown. Entire animal and bristles fit with wide margins. Dark deep midwater, gentle artificial light, no seafloor or prey. Realistic restrained natural-history painting for ages 5–12; no text, labels or watermark. Educational reconstruction of slow movement, do not draw motion arrows."
+      ],
+      "sha256": "986726ef590f5c4e70a2a61eca08cb3a6dc43b8e84c3dd238e524e6e3d69c6ab",
+      "changes": "대표 v2를 형태 참고로 사용했어요. 부모·독립 검토자가 큰 굽힘 상태와 전체 세 컷의 시점·자세 차이를 확인했어요.",
+      "sceneType": "ecology",
+      "behaviorCheck": "느린 수영 기록을 바탕으로 한 교육용 재구성이에요. 이 굽힘이 실제 수영의 정확한 한 순간이나 속도를 뜻하지 않아요.",
+      "behaviorSources": [
+        {
+          "title": "Seid et al. (2025) — Deep midwater Annelida",
+          "url": "https://doi.org/10.1525/elementa.2024.00087"
+        }
+      ]
+    }
+  ]
 }
 ];
