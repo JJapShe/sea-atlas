@@ -15671,5 +15671,151 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "reticulate-deepstaria",
+  "name": "그물심해해파리",
+  "scientificName": "Deepstaria reticulum",
+  "group": "자포동물",
+  "habitatIds": [
+    "deep",
+    "pelagic"
+  ],
+  "summary": "적갈색의 얇은 주머니 같은 몸에 그물처럼 가는 관이 이어지는 해파리예요.",
+  "identity": [
+    "몸 가장자리에 긴 촉수가 없고, 얇은 막 안에 가는 관이 그물처럼 이어져요.",
+    "기존 주름해파리(Deepstaria enigmatica)와는 다른 종이에요. 한국어 이름은 설명용이며 색만으로 종을 확정하지는 않아요."
+  ],
+  "ecology": "몸이 얇아 접힌 모양이 크게 달라질 수 있어요. 자료는 몸벽이 수축하며 움직일 가능성을 소개하지만, 생활사와 번식은 잘 알려져 있지 않아요.",
+  "diet": "확인한 자료만으로 이 종이 먹는 먹이를 확정하지 않았어요.",
+  "feedingUnconfirmed": true,
+  "feedingUnconfirmedReason": "FAO 가이드의 먹이를 감싸는 설명은 Deepstaria 속에 대한 것이에요. WHOI 사진과 MBARI 관찰 기록도 여기서 쓸 종별 식단이나 섭식 성공을 확정하지 않아요. 먹이 대신 모양·시점이 다른 생태 장면 두 장을 그렸어요.",
+  "range": "FAO 가이드는 북대서양 기록을 소개하고, WHOI 보고서는 몬터레이만의 사진을 이 학명으로 소개해요. 자료별 기록을 구별하며 전체 분포를 단정하지 않아요.",
+  "size": "FAO 가이드는 우산 지름, 즉 갓의 가로폭이 최대 75 cm까지라고 소개해요. 늘어지거나 접힌 몸의 세로 길이와는 다른 기준이에요.",
+  "depth": "FAO 가이드는 745–1,498 m를 소개하고, WHOI 보고서 사진은 몬터레이만 1,855 m로 설명해요. 서로 다른 자료의 기록이며 종 전체의 최소·최대 수심은 아니에요.",
+  "sources": [
+    {
+      "title": "Gibbons et al. (2022), FAO — Identification guide to macro jellyfishes, pp. 113–117",
+      "url": "https://doi.org/10.4060/cb8584en"
+    },
+    {
+      "title": "WHOI Ocean Twilight Zone — 2019 Q4 Report, p. 5",
+      "url": "https://twilightzone.whoi.edu/wp-content/uploads/2020/07/2019-Q4-OTZ-Report_Final.pdf"
+    },
+    {
+      "title": "WoRMS — Deepstaria reticulum, accepted species",
+      "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=287215"
+    },
+    {
+      "title": "Larson et al. (1988) — Original description, publisher abstract",
+      "url": "https://doi.org/10.1017/S0025315400028800"
+    }
+  ],
+  "depthZoneIds": [
+    "twilight",
+    "midnight"
+  ],
+  "aliases": [
+    "Deepstaria reticulum",
+    "적갈색주름해파리",
+    "그물주름해파리"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "reticulate-deepstaria",
+      "src": "assets/images/reticulate-deepstaria-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "그물심해해파리 · 적갈색 갓과 가는 그물 관",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "14498ad161a2a3d81a1aeaab088eec903a12870662d8fb38e58c425162123774",
+      "identityCheck": "적갈색의 얇은 갓·그물 관과 긴 가장자리 촉수가 없는 모습을 대조했어요. 미세 위사·감각기관·관의 정확한 연결과 기관 비율은 확인할 수 없어요. 색과 주름은 교육적으로 재구성했으며 전문가 감수 전이에요.",
+      "changes": "참고 사진과 같은 실루엣을 피하도록 시점·갓 접힘·중앙기관 각도를 바꾼 v2를 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas natural-history painting1536x1024 landscape. Supplied WHOI/MBARI photograph is ANATOMY reference of Deepstaria reticulum, not a photo to reproduce. Make one whole reddish-brown translucent Deepstaria reticulum viewed from above-oblique, softly inflated relaxed bag-like umbrella, asymmetrical rounded broad outline with a shallow rippled inward-folded margin. Very thin flexible jelly wall with a DELICATE extremely fine reticulate gastrovascular canal mesh; a few thicker radial canals, not white leaf veins, not a neon web. Central small stomach region warm lightbrown/orange, four SHORT V-shaped folded oral-arm structures near its base visible through thin bell only modestly, not long hanging tentacles. NO marginal tentacles. No eyes, mouth-face, lips, fish fins or long frilled arms. Body color deep reddishbrown translucent, unlike white Deepstaria enigmatica. Gentle natural uneven sag/one side tucked inward, all bell margins inside frame with generous dark-water space. Soft external ROV-like light, dark open midwater, restrained painterly science realism for ages5–12. No prey, isopod or extra animal, no text, labels, logo, letter, watermark or border. Do not invent a species diagnostic rhopalia count that cannot be seen. This is a reference-based educational reconstruction, not species certification.",
+        "Use case: precise-object-edit/scientific-educational. Make a genuinely different ORIGINAL view of the same Deepstaria reticulum illustration. Preserve reddish-brown translucent identity, thin bell tissue, fine reticulate canals, small lightbrown central stomach/short folds, no long tentacles and dark water style. CHANGE the whole relaxed-bag silhouette and viewing angle away from the reference photograph: make the dome apex near upper CENTER, central stomach seen near center rather than upper right; bell hangs diagonally toward lower left, with its RIGHT margin softly tucked inward and LEFT margin smoothly billowing outward. Remove the old left-hand notch/fold and right-lower inflated lobe arrangement. Camera a little more side-oblique so the near open rim is visible along bottom and far wall seen through upper body. Soft asymmetry, no rigid geometric circular jellyfish. All animal margins inside frame with generous water. Do not simply flip or rotate the existing pixels, and do not reproduce exact source photo outline. No extra arms, eyes, face, prey, tentacles, text, logo, letters, watermark or neon web. Original1536x1024 painterly natural-history image."
+      ]
+    },
+    {
+      "id": "reticulate-deepstaria",
+      "src": "assets/images/reticulate-deepstaria-chatgpt-pouch-v1.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "그물심해해파리 · 옆에서 본 접힌 주머니 모양",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "914cff21d3c9c49bdd291217cddd8b3f20ef8d0e086697569132f0ffbb0143a1",
+      "identityCheck": "적갈색의 얇은 갓·그물 관과 긴 가장자리 촉수가 없는 모습을 대조했어요. 미세 위사·감각기관·관의 정확한 연결과 기관 비율은 확인할 수 없어요. 색과 주름은 교육적으로 재구성했으며 전문가 감수 전이에요.",
+      "changes": "좁아진 갓과 측면을 새로 제작한 v1을 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas natural-history painting1536x1024 landscape. Reference photograph is anatomy only for reddishbrown Deepstaria reticulum. Show ONE whole delicate thin-walled baglike medusa in a TRUE SIDE view, hanging vertically with small dome at top and large open margin below; the flexible bell is PARTLY PURSED into an elongated sagging pouch with one wall folded inward, NOT the rounded overhead view of reference. Deep translucent reddish-brown tissue, fine subtle reticulate canal network and a few thicker radial channels, soft margins. Four small short V-like oral folds near stomach at inner top, partly obscured, not long tentacles. No marginal tentacles, no long trailing frills, no eyes or face. Full bell with margins intact and generous dark-water space; mouth-opening of umbrella faces diagonally downward, bell thinness apparent at inward-folded rim. Dark open midwater, gentle ROV-style external light, restrained realistic painterly science illustration ages5–12. No prey, isopod or extra creature, text, labels, scale bar, logo, letters, neon web, opaque leathery skin or white Deepstaria enigmatica coloration. Pose illustrates a possible contraction state discussed in literature, not confirmed exact feeding or measured swimming performance."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "얇은 갓이 접힌 모양을 문헌에 따른 가능한 수축 상태로 재구성했어요. 빠른 유영·먹이 포획 성공·특정 관찰 순간을 확정하지 않아요.",
+      "behaviorSources": [
+        {
+          "title": "Gibbons et al. (2022), FAO — Identification guide to macro jellyfishes, pp. 113–117",
+          "url": "https://doi.org/10.4060/cb8584en"
+        },
+        {
+          "title": "WHOI Ocean Twilight Zone — 2019 Q4 Report, p. 5",
+          "url": "https://twilightzone.whoi.edu/wp-content/uploads/2020/07/2019-Q4-OTZ-Report_Final.pdf"
+        }
+      ]
+    },
+    {
+      "id": "reticulate-deepstaria",
+      "src": "assets/images/reticulate-deepstaria-chatgpt-open-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "그물심해해파리 · 아래에서 본 열린 갓과 짧은 입팔",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f0a4dc9e16e0a8c4a4386ba10859134d978cd7af06cfe0ff90ee07d329dcaeb1",
+      "identityCheck": "적갈색의 얇은 갓·그물 관과 긴 가장자리 촉수가 없는 모습을 대조했어요. 미세 위사·감각기관·관의 정확한 연결과 기관 비율은 확인할 수 없어요. 색과 주름은 교육적으로 재구성했으며 전문가 감수 전이에요.",
+      "changes": "세 꽃잎처럼 보이던 기관을 네 짧은 V형 접힘으로 교정한 v2를 부모·독립 검토 후 수동 선정했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original Sea Atlas scientific natural-history painting1536x1024 landscape. Use supplied WHOI/MBARI photograph only for Deepstaria reticulum anatomical identity. Show one complete Deepstaria reticulum from BELOW and obliquely looking INSIDE its broadly OPEN thin reddish-brown baglike umbrella. One margin curls outward toward viewer and opposite side folds gently inward, broad opening visible, clearly different from inflated top-oblique portrait and narrowed side pouch. Four SHORT folded V-shaped oral arms grouped near the SMALL central stomach at inner apex; each remains a little connected tissue fold, not long separate ribbons, octopus arms or starfish. Pale cream gastric threads only as subtle texture at stomach base, do not draw detailed species diagnostic pattern. Fine delicate reticulate canals in thin translucent bell wall, few thicker channels extending toward margin, not giant glowing spiderweb or leafveins. NO marginal tentacles. Smooth thin jelly, muted deep redbrown bell and lighter brown central folds, only soft external observation light. Full animal and curled rim inside generous margins against dark open midwater. Restrained painterly realism for children5–12, no prey, isopod, extra animal, text, labels, scale, watermark, letter, face, eyes, neon glow, opaque leather or white enigmatica coloration. Educational observation view with relaxed open rim, no feeding success or fast propulsion claim.",
+        "Use case: precise-object-edit/scientific-educational. Correct ONLY the small central oral organ group in this below-oblique Deepstaria reticulum illustration. Preserve the ENTIRE bell shape, open rim, folds, canal network, redbrown translucency, camera, framing, water and lighting. The current center looks like THREE thick flower petals or starfish arms: replace that group with exactly FOUR short THIN V-shaped tissue folds attached around a small central manubrium/stomach base, arranged loosely around the center. Each V has two sides of ONE folded oral arm, not eight separate arms. Make the entire oral group about TWO THIRDS its present size, smaller and less bulky, softly wrinkled lightbrown/orange tissue, not bright opaque fleshy fingers or a starfish. No long hanging arms, no additional lobes, no detailed microscopic filaments or gonads. Keep whole animal and original1536x1024 dimensions unchanged. No text, labels, eyes, face, mouth expression, prey or glowing organ."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "물속에서 갓이 펼쳐진 모습을 아래 사선에서 보는 교육용 장면이에요. 기관 비율을 실측하거나 특정 먹이 포획 순간을 그린 장면은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "Gibbons et al. (2022), FAO — Identification guide to macro jellyfishes, pp. 113–117",
+          "url": "https://doi.org/10.4060/cb8584en"
+        },
+        {
+          "title": "WHOI Ocean Twilight Zone — 2019 Q4 Report, p. 5",
+          "url": "https://twilightzone.whoi.edu/wp-content/uploads/2020/07/2019-Q4-OTZ-Report_Final.pdf"
+        }
+      ]
+    }
+  ]
 }
 ];
