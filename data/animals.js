@@ -14860,5 +14860,140 @@ export const animals = [
 {"id":"deepstaria","src":"assets/images/deepstaria-chatgpt-portrait-v1.png","role":"illustration","reviewStatus":"visual-checked","caption":"주름해파리 · 넓게 펼친 얇은 종","credit":"Sea Atlas · ChatGPT로 제작","generator":"ChatGPT image_gen","modelDisclosure":"서비스가 세부 모델명을 제공하지 않음","provenanceUrl":"https://openai.com/policies/terms-of-use/","expertReviewed":false,"identityCheck":"얇고 넓은 주머니형 종, 물결 모양 가장자리, 중앙 아래 입팔을 확인했어요. 긴 촉수는 없어요.","generationPrompts":["Deepstaria enigmatica broad thin ruffled bell portrait."],"generatedAt":"2026-10-27T00:00:00+09:00","checkedAt":"2026-10-27","sha256":"424836db7ac2c555f7442413835d3c10ca1828b0020c382fc007fbe0d7d71678","width":1536,"height":1024,"changes":"부모와 독립 시각 검토 완료."},
 {"id":"deepstaria","src":"assets/images/deepstaria-chatgpt-feeding-v1.png","role":"illustration","reviewStatus":"visual-checked","caption":"주름해파리 · 종으로 작은 먹이를 감싸는 모습","credit":"Sea Atlas · ChatGPT로 제작","generator":"ChatGPT image_gen","modelDisclosure":"서비스가 세부 모델명을 제공하지 않음","provenanceUrl":"https://openai.com/policies/terms-of-use/","expertReviewed":false,"identityCheck":"넓은 종이 컵처럼 모이고 중앙 아래 입팔이 붙어 보여요. 작은 먹이는 종 조직과 분리돼 있어요.","generationPrompts":["Deepstaria gently cupping small planktonic prey in its elastic bell."],"generatedAt":"2026-10-27T00:00:00+09:00","checkedAt":"2026-10-27","sha256":"3b4f76554ff6218b54f94eaf880dacd1168c276cc964a5fba580c84fc7aed412","width":1536,"height":1024,"changes":"먹이 포획 방식을 교육용으로 재구성했어요.","sceneType":"feeding","behaviorCheck":"먹이의 정확한 종·수와 실제 포식 순간을 뜻하지 않는 교육용 재구성이에요.","behaviorSources":[{"title":"MBARI — Gulf of California 2015, Leg 2","url":"https://www.mbari.org/news/gulf-of-california-2015-leg-2-midwater-ecology-log-6/"}]},
 {"id":"deepstaria","src":"assets/images/deepstaria-chatgpt-isopod-v1.png","role":"illustration","reviewStatus":"visual-checked","caption":"주름해파리 · 종 안의 작은 등각류","credit":"Sea Atlas · ChatGPT로 제작","generator":"ChatGPT image_gen","modelDisclosure":"서비스가 세부 모델명을 제공하지 않음","provenanceUrl":"https://openai.com/policies/terms-of-use/","expertReviewed":false,"identityCheck":"종 안에 작은 등각류 한 마리가 해파리 조직과 분리돼 있고, 중앙 입팔과도 구별돼요.","generationPrompts":["Deepstaria with one separate Anuropus isopod inside transparent bell."],"generatedAt":"2026-10-27T00:00:00+09:00","checkedAt":"2026-10-27","sha256":"6502d32629d48b5a6dfd076bb5ad9ddc96fb5c675bb586f7aab52dbb7e07183d","width":1536,"height":1024,"changes":"추정되는 공생성 관계를 교육용으로 재구성했어요.","sceneType":"ecology","behaviorCheck":"관계는 공생성으로 추정될 뿐 확정된 역할·먹이 관계를 뜻하지 않아요.","behaviorSources":[{"title":"MBARI — Midwater Ecology Expedition Fall 2019","url":"https://www.mbari.org/news/midwater-ecology-expedition-fall-2019-log-5/"}]}
-]}
+]},
+{
+  "id": "feather-star",
+  "name": "깃별류",
+  "scientificName": "Comatulida",
+  "group": "극피동물",
+  "habitatIds": [
+    "reef",
+    "deep"
+  ],
+  "summary": "깃털 같은 팔을 펼쳐 물속의 작은 먹이를 거르는 동물 무리예요.",
+  "identity": [
+    "팔에 작은 잔가지가 촘촘히 나 있어 깃털처럼 보여요.",
+    "아래쪽의 작은 부속지로 바위 등을 붙잡아요. 어른은 긴 줄기가 없어요."
+  ],
+  "ecology": "바닥에 붙어 지내며 물살이 먹이를 가져다줘요. 일부는 팔을 움직여 짧게 헤엄치며 자리를 바꿀 수 있어요.",
+  "diet": "물속을 떠다니는 작은 플랑크톤과 유기물 조각을 걸러 먹어요.",
+  "range": "이 항목은 한 종이 아닌 무리예요. 기관 자료에는 산호초와 푸에르토리코 인근 깊은 바다의 서로 다른 깃별 기록이 있어요.",
+  "size": "종마다 크기와 팔 수가 달라요. 그림은 특정 종의 크기나 팔 수를 뜻하지 않아요.",
+  "depth": "얕은 산호초와 깊은 바다의 깃별류를 함께 소개해요. 무리 전체의 정확한 수심 범위는 여기서 단정하지 않아요.",
+  "sources": [
+    {
+      "title": "NOAA Ocean Exploration — Crinoid",
+      "url": "https://oceanexplorer.noaa.gov/multimedia/daily-image-media-20211006/"
+    },
+    {
+      "title": "Smithsonian Ocean — Feather Star",
+      "url": "https://ocean.si.edu/ocean-life/invertebrates/feather-star"
+    },
+    {
+      "title": "University of Hawaiʻi — Phylum Echinodermata",
+      "url": "https://manoa.hawaii.edu/exploringourfluidearth/biological/invertebrates/phylum-echinodermata"
+    }
+  ],
+  "depthZoneIds": [
+    "sunlight",
+    "midnight"
+  ],
+  "aliases": [
+    "Feather star",
+    "깃해백합류",
+    "깃별"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "feather-star",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/feather-star-chatgpt-portrait-v1.png",
+      "caption": "깃별류 · 바위를 붙잡고 펼친 깃털팔",
+      "identityCheck": "줄기 없이 바위를 붙잡는 작은 부속지와 연결된 깃털팔이 보여요. 뒤쪽 팔과 중앙 일부는 가려져 정확한 팔 수를 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas child-friendly natural-history illustration, 3:2 landscape\nPrimary request: a feather star, Comatulida, representative portrait on a deep rocky reef\nScene/backdrop: dim deep rocky seafloor, gentle current\nSubject: one stemless feather star attached to rock by small cirri at its center, with a compact central disc and many separate feather-like arms radiating upward. Every arm carries fine paired pinnules like a feather. It is an echinoderm, not a plant or flower.\nStyle/medium: restrained realistic painterly illustration for ages 5–12\nComposition/framing: whole animal clear, side three-quarter view, no other animals\nConstraints: no text, no labels, no face, no eyes, no watermark; anatomy clearly connected at center; natural muted red-orange or cream colors\nAvoid: flower petals, coral branches, detached arms, tentacles, anthropomorphic expression"
+      ],
+      "generatedAt": "2026-10-27T00:00:00+09:00",
+      "sha256": "b0cbb33acd75f3db4231f0cd4b9753d1b2fc0fe06e6cc93506a465b67cc51f5c",
+      "changes": "대표 원본을 보존하고 부모·독립 검토자가 전체 갤러리와 대조했어요. 무리 단위 삽화로 특정 종의 색과 팔 수를 뜻하지 않아요."
+    },
+    {
+      "id": "feather-star",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/feather-star-chatgpt-feeding-v1.png",
+      "caption": "깃별류 · 물살 속 작은 먹이를 거르는 모습",
+      "identityCheck": "위쪽에서 보이는 중앙 원반과 그릇처럼 굽은 팔, 팔의 잔가지가 연결돼 있어요. 겹친 팔의 정확한 수는 확인할 수 없어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas natural-history illustration, 1536x1024 landscape\nPrimary request: one stemless feather star (Comatulida) filtering suspended food, seen from above and slightly to the side, looking into its feeding crown.\nSubject: a compact central oral disc with radial feathery arms forming a shallow bowl facing the current. Arms have connected fine paired pinnules. Some arm tips curl backwards into the current. Small hooked cirri beneath the center grasp a rock; no long stalk. A few subtle fine suspended particles illustrate food arriving in the water, with no oversized prey.\nStyle: restrained realistic painterly illustration for children ages 5–12, natural cream and muted red-orange colors, dim blue deep water.\nComposition: whole animal visible, clearly top-oblique oral view and cupped arm posture; ample margins. No text, arrows, faces, eyes, watermark, plant leaves, flower petals, or detached arms."
+      ],
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "sha256": "668fc5edcf62a4908e6ef0ca952fad69e46a1d12d35ce39cd86b05329bf5082b",
+      "changes": "대표와 다른 위쪽 시점과 굽힌 팔 상태를 독립·부모 검토했어요.",
+      "sceneType": "feeding",
+      "behaviorCheck": "물속의 작은 먹이를 거르는 방식을 교육용으로 재구성했어요. 밝은 입자는 설명용 표현이며 발광이나 섭식 성공을 뜻하지 않아요.",
+      "behaviorSources": [
+        {
+          "title": "Smithsonian Ocean — Feather Star",
+          "url": "https://ocean.si.edu/ocean-life/invertebrates/feather-star"
+        },
+        {
+          "title": "University of Hawaiʻi — Phylum Echinodermata",
+          "url": "https://manoa.hawaii.edu/exploringourfluidearth/biological/invertebrates/phylum-echinodermata"
+        }
+      ]
+    },
+    {
+      "id": "feather-star",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "src": "assets/images/feather-star-chatgpt-swimming-v2.png",
+      "caption": "깃별류 · 팔을 움직여 짧게 헤엄치는 모습",
+      "identityCheck": "아래쪽 면과 모인 작은 부속지가 보이며 몸이 바닥에서 떨어져 있어요. 팔이 서로 다른 높이로 굽고 중앙에 이어져 있어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational\nAsset type: Sea Atlas natural-history illustration, 1536x1024 landscape\nPrimary request: one stemless feather star (Comatulida) swimming a short distance above the deep rocky seafloor, viewed low from underneath and from the side.\nSubject: compact central disc with many feather-like arms clearly joined to it; each arm has paired fine pinnules. Arms sweep in alternating curved waves: some lifted, some curling downward, not a standing upright fan. A small tuft of short hooked cirri is tucked beneath the center, free of the rock. No stalk. Whole animal floating visibly separated above the rock.\nStyle: restrained realistic painterly illustration for ages 5–12, natural cream and muted red-orange, dim blue water with soft observation light.\nComposition: low aboral three-quarter view, full arm tips visible with margins, undulating spread with clear open water under the animal. No text, arrows, face, eyes, flowers, plant leaves, detached arms or watermark. Educational reconstruction of swimming possible in some feather stars, not identification of one exact species.",
+        "Precise lighting/background edit for scientific-educational Sea Atlas illustration. Keep the single feather star and all its connected arms, pinnules, central disc and cirri exactly unchanged. Preserve the floating swimming pose, view from below, and rock seafloor. Change only the bright water surface-like ripples and light patch at the top: replace with uniform dark blue-black deep midwater and faint suspended particles. Soft artificial observation light illuminates the animal from the viewer direction. No visible sun, water surface, sunbeams, text or added animals. Landscape 1536x1024."
+      ],
+      "generatedAt": "2026-10-28T00:00:00+09:00",
+      "sha256": "4e1b4b4ef53006b78accb125489446339989da663973dffd41050bcfd47f1ef3",
+      "changes": "수면처럼 보인 배경 빛을 교정한 v2를 선정했어요. 부모·독립 검토자가 연결 형태와 전체 갤러리 변화를 대조했어요.",
+      "sceneType": "ecology",
+      "behaviorCheck": "일부 깃별류에서 관찰된 짧은 헤엄을 재구성했어요. 모든 깃별류가 같은 방식으로 헤엄친다는 뜻은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "NOAA Ocean Exploration — Crinoid",
+          "url": "https://oceanexplorer.noaa.gov/multimedia/daily-image-media-20211006/"
+        }
+      ]
+    }
+  ]
+}
 ];
