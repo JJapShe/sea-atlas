@@ -15817,5 +15817,178 @@ export const animals = [
       ]
     }
   ]
+},
+{
+  "id": "midwater-octopus",
+  "name": "야페텔라문어",
+  "scientificName": "Japetella diaphana",
+  "group": "연체동물",
+  "habitatIds": [
+    "deep",
+    "pelagic"
+  ],
+  "summary": "해저에 앉지 않고 물속에 떠서 사는 작고 말랑한 문어예요.",
+  "identity": [
+    "거의 투명한 몸에 작은 주황색 색소 점이 흩어져 있어요. 몸빛을 바꾸어 불투명한 주황색이 될 수도 있어요.",
+    "팔은 여덟 개이며 팔 기부 사이에 얇은 막이 있고, 팔 안쪽에는 빨판이 한 줄로 이어져요. 한국어 이름은 학명을 읽기 쉽게 만든 설명용 이름이에요."
+  ],
+  "ecology": "젤리처럼 말랑한 몸으로 물속을 떠다니며 에너지를 아껴요. 어미는 알을 바닥에 붙이지 않고 팔 사이에 품으며 더 깊은 물로 내려가요.",
+  "diet": "작은 갑각류와 관해파리류를 포함한 동물플랑크톤을 먹는다고 MBARI가 소개해요.",
+  "range": "MBARI는 세계의 열대·아열대 바다와 북태평양의 차가운 온대 바다를 소개해요.",
+  "size": "MBARI 소개의 전체 길이는 최대 약 16 cm예요. 팔을 제외한 몸통 길이로 잰 연구 수치와는 기준이 달라요.",
+  "depth": "MBARI는 200–1,200 m를 소개해요. 별도 연구에서는 1,352 m에서 알을 품은 암컷을 채집했어요. 자료별 기록이며 종 전체의 수심 한계는 아니에요.",
+  "sources": [
+    {
+      "title": "MBARI — Midwater octopus, Japetella diaphana",
+      "url": "https://www.mbari.org/animal/midwater-octopus/"
+    },
+    {
+      "title": "Schwarz et al. (2020) — Life history traits, publisher abstract",
+      "url": "https://doi.org/10.1016/j.dsr.2020.103365"
+    },
+    {
+      "title": "Birk et al. (2019) — Oxygen minimum zone adaptations, USF author-repository abstract",
+      "url": "https://digitalcommons.usf.edu/msc_facpub/2407/"
+    },
+    {
+      "title": "WoRMS — Japetella diaphana, accepted species",
+      "url": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=138849"
+    }
+  ],
+  "depthZoneIds": [
+    "twilight",
+    "midnight"
+  ],
+  "aliases": [
+    "Japetella diaphana",
+    "중층문어",
+    "Midwater octopus"
+  ],
+  "featured": false,
+  "checkedAt": "2026-10-28",
+  "reviewStatus": "source-checked-expert-review-pending",
+  "gallery": [
+    {
+      "id": "midwater-octopus",
+      "src": "assets/images/midwater-octopus-chatgpt-portrait-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "야페텔라문어 · 반투명한 몸과 주황색 점무늬",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:48:49.665Z",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "5eece01178097cc02df935bf32583d2338cf50ecfeedf415ad5b5d8521c53829",
+      "identityCheck": "기관 원본의 둥근 말랑한 몸·작은 옆눈·점상 색소·팔 사이의 얇은 막과 팔 안쪽 한 줄 빨판을 대조했어요. 겹쳐 가려진 모든 팔·빨판의 개수와 미세기관, 정확한 내장·알 비율은 확인하지 못했어요. 한국어 이름은 설명용이며 전문가 감수 전이에요.",
+      "changes": "눈·내장 그림자·먹이 크기·빨판 또는 알 크기와 구도를 교정한 후보를 원본 및 전체 갤러리와 대조했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original naturalistic marine-life illustration for a Korean children's Sea Atlas ages 5–12. One Japetella diaphana, a small gelatinous pelagic octopus, in open dark deep-sea water, not sitting on the seafloor. Anatomical constraints: rounded oval soft mantle directly continuous with a short head bearing two small lateral eyes; eight flexible arms joined by a broad thin interbrachial web near their bases; tapered free arm tips with a single row of small suckers on visible oral faces. Natural overlap allowed, never add disconnected arm fragments. NO fins, ear flaps, fish mouth, fish scales, squid feeding tentacles, claws, shell, or glowing eyes. Chromatophores are scattered fine orange-brown pigment dots, not jewels or luminous beads. Only faint sparse particles, no ornamental marine snow clouds. Detailed scientific painterly realism consistent with a marine field guide, not cartoon, not a photograph; no text, labels, frame, watermark, borders or split panels. Landscape1536x1024, entire subject and every extended tip comfortably inside frame with generous clear margins. Do not replicate any source photograph's pose or crop. Scene: lateral three-quarter view from slightly above, mantle on upper right and head angled toward lower left. The almost transparent round mantle occupies about one quarter of body silhouette and reveals a muted internal visceral shadow, not a fish face. Eight relaxed arms form a natural uneven radial sweep toward lower left, broad delicate web visible between the proximal arms; some far arms naturally overlap. Most arm tips gently extended, one or two softly curled. Medium-wide full-body portrait with visible near-side eye and transparent patterned skin. Soft neutral ROV-style reflected light, deep navy background. No prey, eggs or second animal. Put suckers only on the oral faces of arms, never on the interbrachial web. Eight arms total; far-side arms may naturally be hidden, do not add extra tips.",
+        "Use case: precise-object-edit, scientific-educational. Correct ONLY the eye and internal visceral shadow in this translucent Japetella diaphana illustration. Shrink the visible eye to about60% of its current diameter, make it sit flush within the soft lateral head instead of protruding as a round character eyeball; retain a small dark pupil and subdued reflection. Replace the large sharp dark ball inside the mantle with a smaller, faint elongated brown-orange visceral shadow with softly blurred edges, no black sphere. Preserve full mantle outline, all arms and thin web, exact arm poses, single sucker rows, chromatophore dots, camera, generous framing and1536x1024 dimensions. No new anatomy, fins, facial expression, text or prey."
+      ]
+    },
+    {
+      "id": "midwater-octopus",
+      "src": "assets/images/midwater-octopus-chatgpt-feeding-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "야페텔라문어 · 작은 갑각류에 접근하는 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:49:26.957Z",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d196dc3bc3a229a1b5450f9567290bf526e374be24929b7a14319c18ac763fe3",
+      "identityCheck": "기관 원본의 둥근 말랑한 몸·작은 옆눈·점상 색소·팔 사이의 얇은 막과 팔 안쪽 한 줄 빨판을 대조했어요. 겹쳐 가려진 모든 팔·빨판의 개수와 미세기관, 정확한 내장·알 비율은 확인하지 못했어요. 한국어 이름은 설명용이며 전문가 감수 전이에요.",
+      "changes": "눈·내장 그림자·먹이 크기·빨판 또는 알 크기와 구도를 교정한 후보를 원본 및 전체 갤러리와 대조했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original naturalistic marine-life illustration for a Korean children's Sea Atlas ages 5–12. One Japetella diaphana, a small gelatinous pelagic octopus, in open dark deep-sea water, not sitting on the seafloor. Anatomical constraints: rounded oval soft mantle directly continuous with a short head bearing two small lateral eyes; eight flexible arms joined by a broad thin interbrachial web near their bases; tapered free arm tips with a single row of small suckers on visible oral faces. Natural overlap allowed, never add disconnected arm fragments. NO fins, ear flaps, fish mouth, fish scales, squid feeding tentacles, claws, shell, or glowing eyes. Chromatophores are scattered fine orange-brown pigment dots, not jewels or luminous beads. Only faint sparse particles, no ornamental marine snow clouds. Detailed scientific painterly realism consistent with a marine field guide, not cartoon, not a photograph; no text, labels, frame, watermark, borders or split panels. Landscape1536x1024, entire subject and every extended tip comfortably inside frame with generous clear margins. Do not replicate any source photograph's pose or crop. Scene: a closer ventral-oblique view, body tilted diagonally away from viewer and head toward camera, pale translucent mantle in upper left. The octopus's broad arm web is cupped downward with the arms forming an asymmetric loose bowl. One small generic shrimp-like zooplankton crustacean drifts just below the arm crown in lower center, separated from all arms by a clear water gap; the octopus is approaching, with no physical contact. Show narrow single sucker rows on the oral sides of visible arms. This is a plausible dietary reconstruction, not an exact swallowing event: crustacean remains entirely outside and separate from the octopus, no blood, no swallowed prey, no dramatic attack, no claims of successful ingestion. The shrimp is tiny relative to octopus, no precise prey species. Distinct viewpoint and compact cupped arm configuration from the open representative portrait. No eggs. Put suckers only on the oral faces of arms, never on the interbrachial web. Eight arms total; far-side arms may naturally be hidden, do not add extra tips.",
+        "Use case: precise-object-edit, scientific-educational. Correct ONLY eye prominence and prey scale in this Japetella diaphana approach-to-food illustration. Reduce BOTH visible eyes to about60% of current diameter and sink them naturally flush into lateral head, no protruding cartoon eyeballs. Keep small pupils and subdued reflected highlights. Reduce the whole small shrimp, including antennae, to65% of current linear dimensions, centered at its present location, still entirely separate from all octopus arms by clear dark water; fill removed outline with matching water. Preserve octopus body, pale translucent mantle, every arm/web/tip, single sucker rows, camera, light and1536x1024 dimensions. No physical contact, wound, swallowing, added prey or new organs, text or labels."
+      ],
+      "sceneType": "feeding",
+      "behaviorCheck": "기관이 소개한 갑각류 식성을 바탕으로 먹이에 접근하는 모습을 재구성했어요. 먹이와 팔은 떨어져 있으며 포획·섭식 성공이나 정확한 먹이 종을 나타내지 않아요.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Midwater octopus, Japetella diaphana",
+          "url": "https://www.mbari.org/animal/midwater-octopus/"
+        }
+      ]
+    },
+    {
+      "id": "midwater-octopus",
+      "src": "assets/images/midwater-octopus-chatgpt-color-change-v2.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "야페텔라문어 · 몸을 접고 주황색으로 바뀐 모습",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:50:17.494Z",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "97da57f587b1ae537ebf29d3c7004f4e4aa4517b7f07c12237496bfb07d0c7f6",
+      "identityCheck": "기관 원본의 둥근 말랑한 몸·작은 옆눈·점상 색소·팔 사이의 얇은 막과 팔 안쪽 한 줄 빨판을 대조했어요. 겹쳐 가려진 모든 팔·빨판의 개수와 미세기관, 정확한 내장·알 비율은 확인하지 못했어요. 한국어 이름은 설명용이며 전문가 감수 전이에요.",
+      "changes": "눈·내장 그림자·먹이 크기·빨판 또는 알 크기와 구도를 교정한 후보를 원본 및 전체 갤러리와 대조했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original naturalistic marine-life illustration for a Korean children's Sea Atlas ages 5–12. One Japetella diaphana, a small gelatinous pelagic octopus, in open dark deep-sea water, not sitting on the seafloor. Anatomical constraints: rounded oval soft mantle directly continuous with a short head bearing two small lateral eyes; eight flexible arms joined by a broad thin interbrachial web near their bases; tapered free arm tips with a single row of small suckers on visible oral faces. Natural overlap allowed, never add disconnected arm fragments. NO fins, ear flaps, fish mouth, fish scales, squid feeding tentacles, claws, shell, or glowing eyes. Chromatophores are scattered fine orange-brown pigment dots, not jewels or luminous beads. Only faint sparse particles, no ornamental marine snow clouds. Detailed scientific painterly realism consistent with a marine field guide, not cartoon, not a photograph; no text, labels, frame, watermark, borders or split panels. Landscape1536x1024, entire subject and every extended tip comfortably inside frame with generous clear margins. Do not replicate any source photograph's pose or crop. Scene: dorsal-oblique view during a gentle turning motion, mantle to lower left and short head upper right. The animal has expanded its chromatophores so mantle and arms are opaque warm rusty orange with a finely dotted texture, no emitted light. Compact folded body state: arm web gathered against head, most arms curled close and two longer tips trailing to right in soft curved arcs. Entire mantle and all visible arm tips in frame. The turning angle shows the back and upper surface with a partly hidden far eye; underside suckers only where a tip naturally turns. No prey, eggs, flashes, danger animal, floor or visible light beams. Distinct actual viewpoint and arm state from the other gallery scenes. Put suckers only on the oral faces of arms, never on the interbrachial web. Eight arms total; far-side arms may naturally be hidden, do not add extra tips.",
+        "Use case: precise-object-edit, scientific-educational. Edit ONLY the SUCKER ARRANGEMENT on visible curled arms of this Japetella diaphana illustration. Each arm has ONE single longitudinal row of small suckers down its ORAL face. In particular, the lowermost tight curled arm around x780,y690 currently appears to carry TWO adjacent rows; replace these with just ONE continuous centered row of small circular suckers following its curved oral surface. Correct any other visibly doubled parallel rows to a SINGLE row, remove sucker discs that appear on aboral upper skin or the thin web between arms. On fully dorsal/aboral skin show just fine orange chromatophore dots, no pale discs. Preserve every arm's exact silhouette, tip, overlap and attachment, the eight-arm total, orange opaque skin, mantle, head, eyes, camera, turning pose, water, light and original1536x1024 dimensions. Do not delete an arm or add a new arm, fins, text or other organs. Also shrink both visible eyes to60% of present diameters and set them flush within lateral head, not protruding eyeballs. Smooth the strongly bumpy muscular skin to soft gelatinous evenly dotted rusty-orange skin, retaining opaque chromatophore expansion. Do not change silhouette."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "색소 세포가 펼쳐져 몸이 불투명한 주황색으로 바뀌는 특징을 재구성했어요. 스스로 빛나는 모습이나 특정 위협에서 탈출한 순간은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Midwater octopus, Japetella diaphana",
+          "url": "https://www.mbari.org/animal/midwater-octopus/"
+        }
+      ]
+    },
+    {
+      "id": "midwater-octopus",
+      "src": "assets/images/midwater-octopus-chatgpt-brooding-v3.png",
+      "role": "illustration",
+      "reviewStatus": "visual-checked",
+      "caption": "야페텔라문어 · 팔 사이에서 작은 알무더리 돌보기",
+      "credit": "Sea Atlas · ChatGPT로 제작",
+      "generator": "ChatGPT image_gen",
+      "modelDisclosure": "서비스가 세부 모델명을 제공하지 않음",
+      "provenanceUrl": "https://openai.com/policies/terms-of-use/",
+      "expertReviewed": false,
+      "generatedAt": "2026-10-28T00:51:09.612Z",
+      "checkedAt": "2026-10-28",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "51b18f4f7eecc2e725bd966d10d1b70637029d197a133f6a95686cf9d3dde4d0",
+      "identityCheck": "기관 원본의 둥근 말랑한 몸·작은 옆눈·점상 색소·팔 사이의 얇은 막과 팔 안쪽 한 줄 빨판을 대조했어요. 겹쳐 가려진 모든 팔·빨판의 개수와 미세기관, 정확한 내장·알 비율은 확인하지 못했어요. 한국어 이름은 설명용이며 전문가 감수 전이에요.",
+      "changes": "눈·내장 그림자·먹이 크기·빨판 또는 알 크기와 구도를 교정한 후보를 원본 및 전체 갤러리와 대조했어요.",
+      "generationPrompts": [
+        "Use case: scientific-educational. Original naturalistic marine-life illustration for a Korean children's Sea Atlas ages 5–12. One Japetella diaphana, a small gelatinous pelagic octopus, in open dark deep-sea water, not sitting on the seafloor. Anatomical constraints: rounded oval soft mantle directly continuous with a short head bearing two small lateral eyes; eight flexible arms joined by a broad thin interbrachial web near their bases; tapered free arm tips with a single row of small suckers on visible oral faces. Natural overlap allowed, never add disconnected arm fragments. NO fins, ear flaps, fish mouth, fish scales, squid feeding tentacles, claws, shell, or glowing eyes. Chromatophores are scattered fine orange-brown pigment dots, not jewels or luminous beads. Only faint sparse particles, no ornamental marine snow clouds. Detailed scientific painterly realism consistent with a marine field guide, not cartoon, not a photograph; no text, labels, frame, watermark, borders or split panels. Landscape1536x1024, entire subject and every extended tip comfortably inside frame with generous clear margins. Do not replicate any source photograph's pose or crop. Scene: full-body maternal care viewed from below and slightly to the side, mantle upright and head below center. Opaque pale peach-orange mother holds a small compact pale egg cluster within the oral arm crown. Broad web spreads like a shallow flexible apron behind the arms, with several slender free tips extending downward and gently curling to support the cluster. Show the egg mass nestled between the arms close to the center, not glued to mantle, dangling from a stalk, or attached to seafloor. Visible arms show a single neat row of small suckers, with natural overlap obscuring some far arms. The tiny eggs are visually smaller than the suckers' spacing and the cluster fits within the arm crown; do not depict hundreds of giant pearls, hatchlings, or a precise clutch count. Whole mantle and free arm tips comfortably inside frame, unlike cropped research footage. Wide composition, deep blue-black water, soft reflected research light. No prey, no fins, no glowing rings. Put suckers only on the oral faces of arms, never on the interbrachial web. Eight arms total; far-side arms may naturally be hidden, do not add extra tips.",
+        "Use case: precise-object-edit, scientific-educational. Edit ONLY the egg cluster in this Japetella diaphana maternal-care illustration. Preserve mother anatomy, eight arms and their positions, web, mantle, eyes, colors, camera, framing, water, and original1536x1024 dimensions. The present eggs look like large pearl-sized grapes and fill too much of the oral crown. Replace the entire existing cluster with ONE compact cluster of many MUCH SMALLER pale grey-white eggs, each egg about ONE THIRD the current diameter, with many tiny eggs clustered tightly. The whole cluster should be approximately HALF the present width and HALF its height, nestled at the same central position between supporting arms. Fill the rest of the previous oversized-cluster area naturally with dark water seen through the web and behind arms. Do not alter or move arms, do not create suckers on web. No separate egg sacs, long egg strings, glitter, hatched babies, extra animal or text. Do not represent an exact egg count or measured egg diameter.",
+        "Use case: precise-object-edit, scientific-educational. Improve this Japetella diaphana brooding illustration, keeping whole mother and ONE compact tiny egg cluster safely in frame. Change the viewpoint and arm posture to a genuinely OBLIQUE VENTRAL view rather than symmetrical frontal view: rotate body axis to slant from mantle upper-left to head lower-right, near-side pair of supporting arms curve inward underneath and TOUCH the small egg cluster; far-side arms and web overlap naturally behind, creating an asymmetrical cup. Keep all eight arms connected, never extra loose tips; proximal web thin and irregular rather than symmetrical winglike umbrella. Cluster stays small and compact, made of tiny pale whitish eggs, many much smaller than sucker spacing, not large glossy yellow pearls. Arms visibly support the egg cluster near oral crown, no free-floating cluster separated from every arm. Reduce visible eye diameters to60% of current sizes, set flush into lateral head, far eye partly naturally obscured. Preserve pale-orange chromatophores, gelatinous smooth mantle, no fins or mouth face, dark water, full-body generous margins and original1536x1024 dimensions. Single row of suckers on oral face of each visible arm only, none on web. No fish, floor, long eggstrings, glowing organs, exact count, labels, letters or watermark."
+      ],
+      "sceneType": "ecology",
+      "behaviorCheck": "알을 바닥에 붙이지 않고 팔로 지키는 모습을 재구성했어요. 알의 정확한 수·크기·발달 단계와 돌봄 기간을 확정한 장면은 아니에요.",
+      "behaviorSources": [
+        {
+          "title": "MBARI — Midwater octopus, Japetella diaphana",
+          "url": "https://www.mbari.org/animal/midwater-octopus/"
+        },
+        {
+          "title": "Schwarz et al. (2020) — Life history traits, publisher abstract",
+          "url": "https://doi.org/10.1016/j.dsr.2020.103365"
+        }
+      ]
+    }
+  ]
 }
 ];
